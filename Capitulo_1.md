@@ -41,6 +41,15 @@ descripcion de la startup
 - La notificaciones en tiempo real agilizan la interacción entre ambas partes, lo que acorta el tiempo transcurrido entre la solicitud y la confirmación del viaje.
 - El historial de viajes permite a los usuarios consultar precios y rutas anteriores, lo que facilita una toma de decisiones más informada en futuras solicitudes.
 - El sistema de calificaciones mutuas incentiva un comportamiento adecuado de ambas partes, lo que contribuye a elevar progresivamente la calidad del servicio.
+
+#### D. Business Outcome Assumptions
+- Se espera alcanzar 500 usuarios activos entre pasajeros y conductores durante los primeros tres meses de operación en la zona piloto.
+- Al menos el 60% de los viajes solicitados deberá concretarse mediante negociación dentro de la plataforma, lo que validaría la aceptación del modelo de tarifas dinámicas por parte de ambos segmentos.
+- Se proyecta una reducción del 30% en la tasa de abandono de la aplicación durante los dos primeros meses, lo cual indica que el diseño ligero responde adecuadamente a las condiciones de conectividad en provincias.
+- Las valoraciones positivas deberán superar el 80% y el tiempo promedio de aceptación de viajes ser inferior a 30 segundos, lo cual refleja que el perfil visible del conductor y las notificaciones en tiempo real impactan favorablemente en la confianza y la rapidez de interacción.
+- Se considerará exitosa la funcionalidad de historial cuando al menos el 50% de los usuarios activos la consulte de forma recurrente durante el primer mes de uso.
+- Se buscará establecer alianzas formales con al menos dos asociaciones de mototaxistas locales durante el primer año, con el objetivo de acelerar la incorporación de conductores a la plataforma.
+
 #### 1.2.2.3 Lean UX Hypothesis Statements
 #### 1.2.2.4 Lean UX Canvas
 ## 1.3 Segmentos Objetivo
