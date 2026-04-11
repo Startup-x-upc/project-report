@@ -3,7 +3,7 @@
 ### 1.1.1 Descripción de la Startup
 ### 1.1.2 Perfiles de integrantes del equipo
 ## James Caleb Delgado Pérez - U2021125277
-![Foto de perfil](./assets/foto.jpeg)
+<img src="./assets/foto.jpeg" width="160">
 
 Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS, 
 además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
