@@ -8,7 +8,7 @@ descripcion de la startup
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
 #### 1.2.2.2 Lean UX Assumptions
-#### A. Bussines Assumptions
+#### A. Business Assumptions
 1. Creemos que pasajeros en zonas periféricas y rurales requieren una forma accesible y confiable de solicitar mototaxis sin depender de la disponibilidad física en la calle.
 2. Esta necesidad puede atenderse mediante una PWA ligera que conecte en tiempo real a pasajeros y conductores, lo cual permita negociar tarifas antes de confirmar el viaje.
 3. Nuestros primeros usuarios serán residentes de zonas periféricas con smartphones básicos y mototaxistas independientes que operan sin afiliación a ninguna empresa.
