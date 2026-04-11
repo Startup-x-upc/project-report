@@ -44,7 +44,7 @@
 6. ¿Qué funcionalidades te ayudarían a mejorar tus ingresos?
 7. ¿Qué te motivaría a usar una aplicación como InMoto?
 #### Consideraciones éticas:
-- Se le solicitará añ entrevistado el consentimiento de la grabación
+- Se le solicitará al entrevistado el consentimiento de la grabación
   de las entrevistas asi como el trato de su información
 - Se garantizará confidencialidad de información proporcionada
 - Los datos solo serán utilizados con fines académicos
