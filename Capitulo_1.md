@@ -126,15 +126,16 @@ Las siguientes hipótesis están orientadas a validar una aplicación de transpo
 #### 1.2.2.4 Lean UX Canvas
 ## 1.3 Segmentos Objetivo
 
-Segmento Objetivo 1: Pasajeros en ciudades intermedias
-Perfil: Personas de entre 15 y 60 años residentes en ciudades intermedias del Perú (como Talara, Huarmey, Casma, Coishco, Santa y Carhuaz).
-Comportamiento: Utilizan el mototaxi como su principal medio de transporte cotidiano para desplazarse entre zonas urbanas y periurbanas.
-Problemática: Enfrentan dificultades frecuentes para encontrar una moto disponible, especialmente en horarios de baja afluencia o en zonas alejadas de las avenidas principales. Actualmente recurren a contactos informales por WhatsApp o a la espera en paraderos sin garantía de atención.
-Expectativas: Valoran la seguridad, la disponibilidad y la confianza en el conductor. La verificación de documentos del conductor y el sistema de calificaciones son factores decisivos para adoptar una solución digital.
-Oportunidad de mercado: Según el INEI, al 2024 el Perú cuenta con 34 millones 39 mil habitantes, de los cuales aproximadamente el 60% reside en ciudades con más de 100 mil habitantes, lo que evidencia que una porción significativa de la población urbana habita en ciudades intermedias donde el mototaxi es el medio de movilidad cotidiana por excelencia.
-Segmento Objetivo 2: Mototaxistas formales
-Perfil: Conductores de mototaxi con edades entre 20 y 50 años que operan en ciudades intermedias del Perú, cuentan con licencia clase B categoría II-c y SOAT vigente, conforme a lo establecido por la Ley N.° 31917.
-Objetivo: Buscan incrementar su cantidad de carreras diarias sin depender de paraderos fijos ni recorridos en vacío.
-Problemática: Enfrentan baja demanda en ciertos horarios, competencia de conductores informales y ausencia de herramientas digitales adaptadas a su realidad.
-Solución (ChapaTuRuta): Les ofrece una plataforma que los conecta directamente con pasajeros cercanos, optimizando su tiempo activo y aumentando sus ingresos.
-Oportunidad de mercado: Según datos del MTC, al año 2021 existían más de 1 millón 653 mil mototaxis registrados a nivel nacional, y la Federación Nacional de Mototaxistas del Perú estima que más de 3 millones de conductores operan en el país, reflejando la magnitud del sector y el impacto potencial de una plataforma de digitalización como ChapaTuRuta.
+### Segmento Objetivo 1: Pasajeros en ciudades intermedias
+- **Perfil:** Personas de entre 15 y 60 años residentes en ciudades intermedias del Perú (como Talara, Huarmey, Casma, Coishco, Santa, Carhuaz, etc).
+- **Comportamiento:** Utilizan el mototaxi como su principal medio de transporte cotidiano para desplazarse entre zonas urbanas y periurbanas.
+- **Problemática:** Enfrentan dificultades frecuentes para encontrar una moto disponible, especialmente en horarios de baja afluencia o en zonas alejadas de las avenidas principales. Actualmente recurren a contactos informales por llamada o a la espera en paraderos sin garantía de atención.
+- **Expectativas:** Valoran la seguridad, la disponibilidad y la confianza en el conductor. La verificación de documentos del conductor y el sistema de calificaciones son factores decisivos para adoptar una solución digital.
+- **Oportunidad de mercado:** Según el INEI, al 2024 el Perú cuenta con 34 millones 39 mil habitantes, de los cuales aproximadamente el 60% reside en ciudades con más de 100 mil habitantes, lo que evidencia que una porción significativa de la población urbana habita en ciudades intermedias donde el mototaxi es el medio de movilidad cotidiana por excelencia.
+
+### Segmento Objetivo 2: Mototaxistas formales
+- **Perfil:** Conductores de mototaxi con edades entre 20 y 50 años que operan en ciudades intermedias del Perú, cuentan con licencia clase B categoría II-c y SOAT vigente, conforme a lo establecido por la Ley N.° 31917.
+- **Objetivo:** Buscan incrementar su cantidad de carreras diarias sin depender de paraderos fijos ni recorridos en vacío.
+- **Problemática:** Enfrentan baja demanda en ciertos horarios, competencia de conductores informales y ausencia de herramientas digitales adaptadas a su realidad.
+- **Solución (ChapaTuRuta):** Les ofrece una plataforma que los conecta directamente con pasajeros cercanos, optimizando su tiempo activo y aumentando sus ingresos.
+- **Oportunidad de mercado:** Según datos del MTC, al año 2021 existían más de 1 millón 653 mil mototaxis registrados a nivel nacional, y la Federación Nacional de Mototaxistas del Perú estima que más de 3 millones de conductores operan en el país, reflejando la magnitud del sector y el impacto potencial de una plataforma de digitalización como ChapaTuRuta.
