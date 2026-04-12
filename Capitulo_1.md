@@ -1,7 +1,17 @@
 # Capítulo I: Introducción
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
-descripcion de la startup
+CTR Technologies nace con el propósito de digitalizar y optimizar el transporte en mototaxi en ciudades intermedias del Perú, respondiendo a una necesidad real y cotidiana que las grandes plataformas de movilidad han ignorado históricamente. En localidades como Talara, Huarmey, Casma, Coishco, Santa y Carhuaz, el mototaxi es el principal medio de transporte urbano; sin embargo, su informalidad y falta de organización generan inseguridad, tiempos de espera prolongados e incertidumbre tanto para pasajeros como para conductores.
+
+Nuestra solución, ChapaTuRuta, es una plataforma web que conecta en tiempo real a pasajeros con mototaxistas verificados de su zona, permitiendo solicitar un viaje de forma rápida, segura y trazable desde cualquier dispositivo con acceso a internet. A diferencia de las alternativas informales como el contacto por WhatsApp, ChapaTuRuta ofrece un sistema de calificaciones bidireccional, verificación de documentos del conductor como brevete y SOAT, y disponibilidad permanente de conductores activos en la plataforma, garantizando que siempre haya una moto disponible cuando el pasajero la necesita.
+
+CTR Technologies apunta a empoderar a los mototaxistas formales brindándoles una herramienta que optimiza su tiempo y reduce los recorridos en vacío, al mismo tiempo que ofrece a los pasajeros una experiencia de transporte más confiable, ordenada y segura. La plataforma opera bajo un modelo de comisión por viaje, sostenible tanto para el negocio como accesible para los conductores.
+
+Creemos que la digitalización del transporte en ciudades intermedias es un paso necesario hacia la formalización y el desarrollo tecnológico local, y que ChapaTuRuta puede ser el punto de partida de una transformación real en la movilidad de estas comunidades.
+
+Misión: Conectar a pasajeros y mototaxistas en ciudades intermedias del Perú mediante una plataforma web accesible, segura y eficiente, que digitalice y formalice el transporte en mototaxi mejorando la experiencia de ambos lados del viaje.
+
+Visión: Convertirnos en la plataforma de referencia para el transporte en mototaxi en ciudades intermedias de Latinoamérica, liderando la transformación digital de un sector históricamente informal y contribuyendo al desarrollo tecnológico de las comunidades donde operamos.
 ### 1.1.2 Perfiles de integrantes del equipo
 ## James Caleb Delgado Pérez - U2021125277
 <img src="./assets/foto.jpeg" width="160">
@@ -16,6 +26,21 @@ comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que
 enfoque en mis objetivos.
 
 Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
+
+## Jesús Iván Castillo Vidal - U202322952
+<img src="./assets/foto.jpeg" width="160">
+
+Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS, 
+además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
+Me interesa especialmente el desarrollo frontend, así como el manejo de bases de datos y la construcción de aplicaciones web completas. 
+Disfruto crear interfaces funcionales y accesibles que mejoren la experiencia del usuario. Actualmente participo en el desarrollo de un proyecto
+orientado al transporte en provincias, el cual representa una oportunidad clave para fortalecer mis habilidades y prepararme para el entorno laboral, 
+aportando soluciones prácticas a problemas reales. Me considero una persona organizada, con alta capacidad de aprendizaje y 
+comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que me ha permitido desarrollar disciplina, constancia y
+enfoque en mis objetivos.
+
+Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process
@@ -103,3 +128,17 @@ Las siguientes hipótesis están orientadas a validar una aplicación de transpo
 
 #### 1.2.2.4 Lean UX Canvas
 ## 1.3 Segmentos Objetivo
+
+### Segmento Objetivo 1: Pasajeros en ciudades intermedias
+- **Perfil:** Personas de entre 15 y 60 años residentes en ciudades intermedias del Perú (como Talara, Huarmey, Casma, Coishco, Santa, Carhuaz, etc).
+- **Comportamiento:** Utilizan el mototaxi como su principal medio de transporte cotidiano para desplazarse entre zonas urbanas y periurbanas.
+- **Problemática:** Enfrentan dificultades frecuentes para encontrar una moto disponible, especialmente en horarios de baja afluencia o en zonas alejadas de las avenidas principales. Actualmente recurren a contactos informales por llamada o a la espera en paraderos sin garantía de atención.
+- **Expectativas:** Valoran la seguridad, la disponibilidad y la confianza en el conductor. La verificación de documentos del conductor y el sistema de calificaciones son factores decisivos para adoptar una solución digital.
+- **Oportunidad de mercado:** Según el INEI, al 2024 el Perú cuenta con 34 millones 39 mil habitantes, de los cuales aproximadamente el 60% reside en ciudades con más de 100 mil habitantes, lo que evidencia que una porción significativa de la población urbana habita en ciudades intermedias donde el mototaxi es el medio de movilidad cotidiana por excelencia.
+
+### Segmento Objetivo 2: Mototaxistas formales
+- **Perfil:** Conductores de mototaxi con edades entre 20 y 50 años que operan en ciudades intermedias del Perú, cuentan con licencia clase B categoría II-c y SOAT vigente, conforme a lo establecido por la Ley N.° 31917.
+- **Objetivo:** Buscan incrementar su cantidad de carreras diarias sin depender de paraderos fijos ni recorridos en vacío.
+- **Problemática:** Enfrentan baja demanda en ciertos horarios, competencia de conductores informales y ausencia de herramientas digitales adaptadas a su realidad.
+- **Solución (ChapaTuRuta):** Les ofrece una plataforma que los conecta directamente con pasajeros cercanos, optimizando su tiempo activo y aumentando sus ingresos.
+- **Oportunidad de mercado:** Según datos del MTC, al año 2021 existían más de 1 millón 653 mil mototaxis registrados a nivel nacional, y la Federación Nacional de Mototaxistas del Perú estima que más de 3 millones de conductores operan en el país, reflejando la magnitud del sector y el impacto potencial de una plataforma de digitalización como ChapaTuRuta.
