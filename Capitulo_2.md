@@ -53,7 +53,45 @@
 
 ## 2.3 Need finding
 ### 2.3.1. User Personas 
-### 2.3.2. User Task Matrix 
+### 2.3.2. User Task Matrix
+
+La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios realizan al utilizar la solución propuesta. Estas tareas, al clasificarse por su frecuencia e importancia, nos ayudan a priorizar qué funcionalidades de ChapaTuRuta deben desarrollarse con mayor énfasis para optimizar la experiencia de cada segmento.
+
+Los segmentos considerados para este análisis son:
+
+- **Pasajero (Ana Flores)**
+- **Mototaxista (Luis Gutiérrez)**
+
+---
+
+### Task Matrix
+
+| **Tarea**                                                  | **Ana Flores (Pasajero)** |                 | **Luis Gutiérrez (Mototaxista)** |                 |
+| ---------------------------------------------------------- | ------------------------- | --------------- | -------------------------------- | --------------- |
+|                                                            | **Frecuencia**            | **Importancia** | **Frecuencia**                   | **Importancia** |
+| Solicitar un viaje                                         | Always                    | High            | Never                            | —               |
+| Aceptar o rechazar solicitudes de viaje                    | Never                     | —               | Always                           | High            |
+| Consultar disponibilidad de mototaxistas cercanos          | Always                    | High            | Rarely                           | Low             |
+| Activar/desactivar disponibilidad para recibir carreras    | Never                     | —               | Always                           | High            |
+| Revisar el perfil y calificación del conductor             | Often                     | High            | Rarely                           | Low             |
+| Calificar al conductor al finalizar el viaje               | Often                     | High            | Often                            | High            |
+| Calificar al pasajero al finalizar el viaje                | Never                     | —               | Often                            | Medium          |
+| Consultar historial de viajes realizados                   | Sometimes                 | Medium          | Sometimes                        | Medium          |
+| Verificar el precio referencial del viaje                  | Always                    | High            | Sometimes                        | Medium          |
+| Gestionar datos del perfil personal                        | Sometimes                 | Medium          | Sometimes                        | Medium          |
+| Verificar documentos del conductor (brevete, SOAT)         | Sometimes                 | High            | Rarely                           | Low             |
+| Reportar incidencias o problemas en el viaje               | Rarely                    | High            | Rarely                           | High            |
+
+---
+
+### Análisis
+
+El **pasajero** concentra sus acciones en encontrar transporte de forma rápida y confiable. Sus tareas de mayor frecuencia e importancia giran en torno a solicitar el viaje, verificar el precio referencial y revisar el perfil del conductor antes de aceptar. La calificación post-viaje también es relevante porque alimenta el sistema de confianza de la plataforma, que es precisamente el diferenciador de ChapaTuRuta frente al contacto informal por WhatsApp.
+
+El **mototaxista** orienta su actividad a la gestión de su disponibilidad y la atención de carreras. Activarse en la plataforma y aceptar solicitudes son sus tareas más frecuentes e importantes, siendo estas el núcleo de su experiencia. La calificación que recibe de los pasajeros impacta directamente en su visibilidad dentro de la app, por lo que también tiene un peso significativo en su rutina.
+
+Ambos perfiles coinciden en la importancia de **calificar al finalizar el viaje** y **reportar incidencias**, ya que estas acciones sostienen la confianza y seguridad del ecosistema. Cualquier problema no reportado deteriora la experiencia de ambos lados de la plataforma.
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
