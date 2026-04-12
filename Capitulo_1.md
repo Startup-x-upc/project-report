@@ -14,7 +14,7 @@ Misión: Conectar a pasajeros y mototaxistas en ciudades intermedias del Perú m
 Visión: Convertirnos en la plataforma de referencia para el transporte en mototaxi en ciudades intermedias de Latinoamérica, liderando la transformación digital de un sector históricamente informal y contribuyendo al desarrollo tecnológico de las comunidades donde operamos.
 ### 1.1.2 Perfiles de integrantes del equipo
 ## James Caleb Delgado Pérez - U2021125277
-<img src="./assets/foto.jpeg" width="160">
+<img src="./Resources/capitulo_1/foto_james.jpeg" width="160">
 
 Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS, 
 además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
@@ -28,18 +28,15 @@ enfoque en mis objetivos.
 Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
 
 ## Jesús Iván Castillo Vidal - U202322952
-<img src="./assets/foto.jpeg" width="160">
+<img src="./Resources/capitulo_1/foto_jesus.jpg" width="160">
 
-Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS, 
-además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
-Me interesa especialmente el desarrollo frontend, así como el manejo de bases de datos y la construcción de aplicaciones web completas. 
-Disfruto crear interfaces funcionales y accesibles que mejoren la experiencia del usuario. Actualmente participo en el desarrollo de un proyecto
-orientado al transporte en provincias, el cual representa una oportunidad clave para fortalecer mis habilidades y prepararme para el entorno laboral, 
-aportando soluciones prácticas a problemas reales. Me considero una persona organizada, con alta capacidad de aprendizaje y 
-comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que me ha permitido desarrollar disciplina, constancia y
-enfoque en mis objetivos.
+Soy estudiante de Ingeniería de Software y desarrollador independiente, con un fuerte interés en la creación de aplicaciones web Full-Stack y soluciones SaaS que generen un impacto real en los negocios. Me encuentro en constante aprendizaje y cuento con experiencia sólida en tecnologías modernas como Next.js, React, Node.js, Python y FastAPI, además de manejar bases de datos como MongoDB, MySQL y Firebase.
 
-Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
+Me apasiona especialmente el diseño UI/UX de alta calidad y la estética minimalista. Disfruto construyendo interfaces limpias, modernas y accesibles que eleven la experiencia del usuario. Actualmente lidero el desarrollo de Tindivo, una plataforma orientada a la gestión y menús digitales para restaurantes locales, así como otras herramientas web. Estos proyectos representan oportunidades clave donde integro mi visión de negocio con mis habilidades técnicas, aportando soluciones escalables a problemas reales del mercado.
+
+Me considero una persona organizada, que valora el trabajo profundo (deep work) y la lectura constante, lo que me otorga una alta capacidad de análisis y aprendizaje. Además, soy músico y disfruto tocar el violín y la guitarra, pasatiempos que me han permitido cultivar la disciplina, la creatividad y la constancia necesarias para alcanzar mis metas.
+
+Estoy enfocado en seguir creciendo profesionalmente, fusionando el emprendimiento con el desarrollo de software para construir proyectos verdaderamente innovadores.
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática

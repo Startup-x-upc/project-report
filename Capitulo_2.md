@@ -12,7 +12,7 @@
 #### Publico Objetivo
 ##### Se entrevistarán dos tipos de usuarios:
 - Pasajeros frecuentes de mototaxis en provincias
-- Conductores de motos lineales y mototaxis
+- Mototaxistas (y conductores de motos lineales)
 ##### Características:
 - Edad: 18 a 60 años
 - Uso frecuente de transporte informal 
@@ -30,13 +30,13 @@
 1. ¿Con qué frecuencia utilizas mototaxis o motos lineales?
 2. ¿Qué problemas has experimentado al usar estos servicios?
 3. ¿Cómo sueles acordar el precio de un viaje?
-4. ¿Qué factores consideras importantes al elegir un conductor?
+4. ¿Qué factores consideras importantes al elegir un mototaxista?
 5. ¿Te has sentido inseguro en algún viaje? ¿Por qué?
 6. ¿Qué te haría confiar en una aplicación de transporte?
 7. ¿Has utilizado aplicaciones como InDrive? ¿Cómo fue tu experiencia?
 8. ¿Qué funcionalidades te gustaría que tenga una app de transporte?
-#### Preguntas para conductores:
-1. ¿Cuánto tiempo llevas trabajando como conductor?
+#### Preguntas para mototaxistas:
+1. ¿Cuánto tiempo llevas trabajando como mototaxista?
 2. ¿Cuáles son las principales dificultades que enfrentas en tu trabajo?
 3. ¿Cómo consigues pasajeros actualmente?
 4. ¿Qué opinas sobre el uso de aplicaciones para conseguir clientes?
@@ -73,20 +73,20 @@ Los segmentos considerados para este análisis son:
 | Aceptar o rechazar solicitudes de viaje                    | Never                     | —               | Always                           | High            |
 | Consultar disponibilidad de mototaxistas cercanos          | Always                    | High            | Rarely                           | Low             |
 | Activar/desactivar disponibilidad para recibir carreras    | Never                     | —               | Always                           | High            |
-| Revisar el perfil y calificación del conductor             | Often                     | High            | Rarely                           | Low             |
-| Calificar al conductor al finalizar el viaje               | Often                     | High            | Often                            | High            |
+| Revisar el perfil y calificación del mototaxista           | Often                     | High            | Rarely                           | Low             |
+| Calificar al mototaxista al finalizar el viaje             | Often                     | High            | Often                            | High            |
 | Calificar al pasajero al finalizar el viaje                | Never                     | —               | Often                            | Medium          |
 | Consultar historial de viajes realizados                   | Sometimes                 | Medium          | Sometimes                        | Medium          |
 | Verificar el precio referencial del viaje                  | Always                    | High            | Sometimes                        | Medium          |
 | Gestionar datos del perfil personal                        | Sometimes                 | Medium          | Sometimes                        | Medium          |
-| Verificar documentos del conductor (brevete, SOAT)         | Sometimes                 | High            | Rarely                           | Low             |
+| Verificar documentos del mototaxista (brevete, SOAT)       | Sometimes                 | High            | Rarely                           | Low             |
 | Reportar incidencias o problemas en el viaje               | Rarely                    | High            | Rarely                           | High            |
 
 ---
 
 ### Análisis
 
-El **pasajero** concentra sus acciones en encontrar transporte de forma rápida y confiable. Sus tareas de mayor frecuencia e importancia giran en torno a solicitar el viaje, verificar el precio referencial y revisar el perfil del conductor antes de aceptar. La calificación post-viaje también es relevante porque alimenta el sistema de confianza de la plataforma, que es precisamente el diferenciador de ChapaTuRuta frente al contacto informal por WhatsApp.
+El **pasajero** concentra sus acciones en encontrar transporte de forma rápida y confiable. Sus tareas de mayor frecuencia e importancia giran en torno a solicitar el viaje, verificar el precio referencial y revisar el perfil del mototaxista antes de aceptar. La calificación post-viaje también es relevante porque alimenta el sistema de confianza de la plataforma, que es precisamente el diferenciador de ChapaTuRuta frente al contacto informal por WhatsApp.
 
 El **mototaxista** orienta su actividad a la gestión de su disponibilidad y la atención de carreras. Activarse en la plataforma y aceptar solicitudes son sus tareas más frecuentes e importantes, siendo estas el núcleo de su experiencia. La calificación que recibe de los pasajeros impacta directamente en su visibilidad dentro de la app, por lo que también tiene un peso significativo en su rutina.
 
