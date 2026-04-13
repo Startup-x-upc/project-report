@@ -24,7 +24,19 @@ En el Perú, el transporte en mototaxi es uno de los medios más utilizados en z
 
 Sin embargo, este servicio opera mayoritariamente de manera informal, sin rutas fijas ni tarifas reguladas. Esto genera una desconexión crónica entre oferta y demanda: los pasajeros no saben cuándo pasa un mototaxi, y los conductores recorren largas distancias sin encontrar pasajeros, desperdiciando combustible y tiempo.
 
+#### Problemática
 
+| Dimensión del problema | Descripción |
+|------------------------|-------------|
+| **Who** | - Pasajeros locales de zonas rurales o periurbanas (campesinos, comerciantes, estudiantes, adultos mayores)<br>- Mototaxistas independientes que dependen del transporte diario para vivir. |
+| **What** | - Los pasajeros no encuentran unidades disponibles fácilmente.<br>- Los conductores gastan tiempo y combustible buscando pasajeros sin rumbo fijo.<br>- Las tarifas son arbitrarias, no hay transparencia ni estandarización. |
+| **Where** | - Distritos alejados de ciudades capitales.<br>- Centros poblados sin cobertura de transporte público formal.<br>- Rutas entre caseríos y mercados locales. |
+| **When** | - Ocurre a diario, con mayor incidencia en horas de la mañana (5 a 8 a.m.) y tarde (4 a 7 p.m.), cuando hay mayor movilidad por trabajo y estudios.<br>- En temporadas de lluvias, donde los pasajeros no pueden esperar en la vía. |
+| **Why** | - Falta de información en tiempo real sobre oferta y demanda.<br>- Escasez de mecanismos de negociación previa de precios para el sector de mototaxis. |
+| **How** | - Pasajeros: Esperan en esquinas fijas o caminan largos tramos buscando un mototaxi.<br>- Conductores: Hacen vueltas en vacío, preguntan en paraderos informales o compiten verbalmente por pasajeros. |
+| **How Much** | - Los mototaxistas recorren diariamente una distancia considerable sin pasajeros, lo que representa la mayor parte de su gasto en combustible.<br>- Los pasajeros en zonas rurales enfrentan tiempos de espera prolongados para encontrar una unidad disponible.<br>- Los pasajeros pagan un monto significativamente superior a una tarifa justa debido a la falta de competencia en el momento del viaje. |
+
+De lo anterior podemos concluir que en zonas rurales del Perú, el servicio de mototaxi es ineficiente porque no existe una herramienta digital accesible que conecte oferta y demanda en tiempo real. Los pasajeros (principalmente residentes de zonas alejadas) pierden tiempo esperando o caminando sin certeza de encontrar una unidad, mientras los conductores gastan recursos en recorridos improductivos. Esto genera precios arbitrarios y una desconexión estructural entre necesidad de transporte y disponibilidad real. La magnitud del problema afecta la economía de los conductores y la calidad de vida de los pasajeros.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
