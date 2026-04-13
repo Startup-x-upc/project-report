@@ -48,6 +48,12 @@ enfoque en mis objetivos.
 
 Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
 
+## Andy Saúl Pillaca Gonzales - U202418823
+
+<img src="./assets/andy.png" width="160">
+
+Soy Andy Saúl Pillaca Gonzales, estudiante de la carrera de ingeniería de software. Poseo sólidos conocimientos en lenguajes de programación como C + + y python, además de experiencia en SQL, excel, mecanografía y Power BI. Mis habilidades incluyen trabajo en equipo, escucha activa y responsabilidad.
+
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
