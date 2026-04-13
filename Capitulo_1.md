@@ -17,6 +17,15 @@ enfoque en mis objetivos.
 Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
+#### Antecedentes
+
+En el Perú, el transporte en mototaxi es uno de los medios más utilizados en zonas urbanas marginales, centros poblados rurales y ciudades intermedias como Huancayo, Cusco, Iquitos, Pucallpa y muchas zonas de la sierra y selva. Según el Ministerio de Transportes y Comunicaciones (MTC), más del 30% del transporte informal en regiones corresponde a mototaxis, debido a su bajo costo de adquisición, facilidad de maniobra en calles angostas y capacidad para llegar a zonas de difícil acceso.
+
+Sin embargo, este servicio opera mayoritariamente de manera informal, sin rutas fijas ni tarifas reguladas. Esto genera una desconexión crónica entre oferta y demanda: los pasajeros no saben cuándo pasa un mototaxi, y los conductores recorren largas distancias sin encontrar pasajeros, desperdiciando combustible y tiempo.
+
+
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
 #### 1.2.2.2 Lean UX Assumptions
