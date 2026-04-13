@@ -120,6 +120,12 @@ Ambos perfiles coinciden en la importancia de **calificar al finalizar el viaje*
 
 ### 2.3.4. Empathy Mapping
 
+**Ana Flores**
+![empathy map ana flores](Resources/empathymapping/Ana%20Flores.png)
+
+**Luis Gutiérrez**
+![empathy map luis gutierrez](Resources/empathymapping/Luis%20Gutiérrez.png)
+
 ## 2.4 Big Picture Even Storming
 
 ### Registro
