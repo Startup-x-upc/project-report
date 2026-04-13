@@ -118,6 +118,14 @@ Esto ocurre porque los servicios de transporte disponibles, como motos y mototax
 - Se considerará exitosa la funcionalidad de historial cuando al menos el 50% de los usuarios activos la consulte de forma recurrente durante el primer mes de uso.
 - Se buscará establecer alianzas formales con al menos dos asociaciones de mototaxistas locales durante el primer año, con el objetivo de acelerar la incorporación de conductores a la plataforma.
 
+#### E. Feature Assumptions
+
+- Se asume que permitir al pasajero proponer la tarifa del viaje incrementará la tasa de viajes completados por encima del 60% de las solicitudes iniciadas, al reducir la fricción generada por precios impuestos unilateralmente.
+- Una interfaz de carga rápida y bajo consumo de datos contribuirá a reducir la tasa de abandono en un 30%, lo cual elimina las barreras de acceso propios de zonas con conectividad básica.
+- Mostrar el perfil del conductor con foto, nombre y calificación, acompañado de notificaciones en tiempo real, permitirá superar el 80% de valoraciones positivas y reducir el tiempo de aceptación de viajes a menos de 30 segundos.
+- El historial de viajes con detalle de precios y rutas se considerará una funcionalidad de impacto positivo cuando al menos el 50% de usuarios lo consulte de manera recurrente.
+- Un panel de actividad para el conductor con datos de viajes realizados, ingresos estimados y solicitudes cercanas incrementará el tiempo de disponibilidad en línea y reducirá los periodos de inactividad durante la jornada.
+
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
 Las siguientes hipótesis están orientadas a validar una aplicación de transporte tipo InDrive enfocada en mototaxis y motos lineales en provincias.
