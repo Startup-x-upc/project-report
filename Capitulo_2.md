@@ -55,6 +55,10 @@
 ### 2.3.1. User Personas 
 ### 2.3.2. User Task Matrix 
 ### 2.3.3. User Journey Mapping
+<img src="../project-report/Resources/User Journey Mapping/User Journey Mapping 1.png" alt="descripción" width="500" height="300">
+<br><br>
+<img src="../project-report/Resources/User Journey Mapping/User Journey Mapping 2.png" alt="descripción" width="500" height="300">
+
 ### 2.3.4. Empathy Mapping
 
 ## 2.4 Big Picture Even Storming
