@@ -37,16 +37,12 @@ Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos 
 
 <img src="./assets/foto.jpeg" width="160">
 
-Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS,
-además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
-Me interesa especialmente el desarrollo frontend, así como el manejo de bases de datos y la construcción de aplicaciones web completas.
-Disfruto crear interfaces funcionales y accesibles que mejoren la experiencia del usuario. Actualmente participo en el desarrollo de un proyecto
-orientado al transporte en provincias, el cual representa una oportunidad clave para fortalecer mis habilidades y prepararme para el entorno laboral,
-aportando soluciones prácticas a problemas reales. Me considero una persona organizada, con alta capacidad de aprendizaje y
-comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que me ha permitido desarrollar disciplina, constancia y
-enfoque en mis objetivos.
+Soy Andy Saúl Pillaca Gonzales, estudiante de la carrera de Ingeniería de Software, con gran interés en el desarrollo de soluciones tecnológicas innovadoras que contribuyan a resolver problemas reales. Me encuentro en constante proceso de aprendizaje y fortalecimiento de mis conocimientos en el área de programación y desarrollo de software.
+Poseo sólidos conocimientos en lenguajes de programación como C++ y Python, además de experiencia en el manejo de SQL, Excel, Power BI y mecanografía, herramientas que me permiten desarrollar soluciones eficientes, analizar información y optimizar procesos mediante el uso de datos.
+Me interesa especialmente seguir ampliando mis habilidades en el desarrollo de software, bases de datos y análisis de información, así como participar en proyectos que me permitan aplicar mis conocimientos en entornos prácticos y retadores. Considero importante la creación de soluciones funcionales que aporten valor y mejoren la experiencia de los usuarios.
+Entre mis principales habilidades destacan el trabajo en equipo, la escucha activa, la responsabilidad y la capacidad de adaptación al aprendizaje continuo. Me considero una persona comprometida, organizada y con gran disposición para asumir nuevos retos que impulsen mi crecimiento profesional y personal.
+Actualmente, estoy enfocado en seguir fortaleciendo mis competencias técnicas y humanas para desenvolverme de manera exitosa en el entorno laboral, aportando con dedicación, disciplina e innovación en cada proyecto en el que participe.
 
-Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
 
 ## Andy Saúl Pillaca Gonzales - U202418823
 
