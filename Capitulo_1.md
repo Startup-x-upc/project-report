@@ -100,6 +100,14 @@ Esto ocurre porque los servicios de transporte disponibles, como motos y mototax
 - **Características importantes:** solicitud con propuesta de tarifa del pasajero, geolocalización en tiempo real, sistema de negociación directa, historial de viajes y calificación mutua.
 - **Look & Feel:** interfaz minimalista, de carga rápida y operativa en pantallas pequeñas, mapa con ubicación del conductor, estado del viaje y chat de negociación accesible desde la pantalla principal.
 
+#### C. User Outcome & Benefit Assumptions
+
+- Los pasajeros acceden a transporte desde cualquier punto sin necesidad de buscar una unidad disponible en la vía pública, lo cual reduce tiempos de espera y elimina la arbitrariedad en la fijación de precios.
+- Los conductores disminuyen los desplazamientos en vacío al recibir solicitudes geolocalizadas con tarifa previamente acordada, lo que se traduce en mayor eficiencia y rentabilidad por jornada.
+- La visibilidad del perfil del conductor genera en el pasajero una mayor percepción de seguridad, lo cual reduce la desconfianza asociada al transporte informal.
+- La notificaciones en tiempo real agilizan la interacción entre ambas partes, lo que acorta el tiempo transcurrido entre la solicitud y la confirmación del viaje.
+- El historial de viajes permite a los usuarios consultar precios y rutas anteriores, lo que facilita una toma de decisiones más informada en futuras solicitudes.
+- El sistema de calificaciones mutuas incentiva un comportamiento adecuado de ambas partes, lo que contribuye a elevar progresivamente la calidad del servicio.
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
 Las siguientes hipótesis están orientadas a validar una aplicación de transporte tipo InDrive enfocada en mototaxis y motos lineales en provincias.
