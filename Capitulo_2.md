@@ -180,3 +180,16 @@
 ## 2.4 Big Picture Even Storming
 
 ## 2.5 Ubiquitous Language
+| Term (EN)                                         | Definición (ES)                                                                                                                                                            |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Passenger | Persona que solicita un servicio de transporte mediante la plataforma. |
+| Driver                                      | Mototaxista o persona que ofrece el servicio de transporte.                                                            |
+| Ride                                | Trayecto solicitado por el pasajero desde un punto de origen a un destino.                                                                      |
+| Fare                                     | Monto acordado entre pasajero y conductor antes de iniciar el viaje.                                                                               |
+| Negotiation                               | Proceso mediante el cual pasajero y conductor acuerdan la tarifa del viaje.                                                           |
+| Ride Request                                  | Solicitud inicial del pasajero para encontrar un conductor disponible.                                                            |
+| Acceptance                              | Acción del conductor al aceptar una solicitud de viaje.                                                                               |
+| Counteroffer                   | Propuesta alternativa de tarifa realizada por el conductor.
+| Peripheral Area                  | Zona geográfica con baja cobertura de transporte formal.
+| Ride History                   | Registro de viajes realizados por el usuario dentro de la plataforma.
+| Rating                   | Evaluación que realiza el pasajero o conductor después de un viaje.
