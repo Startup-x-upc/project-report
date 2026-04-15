@@ -10,7 +10,7 @@
   <tr>
     <td rowspan="2" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
     <td colspan="5" align="center">
-      Identificar fortalezas, debilidades y estrategias de los principales competidores directos (Uber,inDrive,transportes Informales) para posicionar nuestra aplicación web.
+      Identificar fortalezas, debilidades y estrategias de los principales competidores directos (Uber, inDrive y transportes Informales) para posicionar nuestra aplicación web.
     </td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@
       <img src="./Resources/UberLogo.jpg" alt="Uber" width="100" height="50">
     </th>   
     <th style="width:20%">
-      <img src="./Resources/motoTaxi.jpg" alt="Transporte Informal" width="100" height="70">
+      <img src="./Resources/motoTaxi.jpg" alt="Transportista Informal" width="100" height="70">
     </th>
   </tr>
   <!-- PERFIL -->
@@ -39,15 +39,15 @@
     <td rowspan="2" align="center"><b>Perfil</b></td>
     <td><b>Overview</b></td>
     <td>Plataforma que conecta pasajeros con mototaxistas en zonas periféricas, permitiendo negociación previa de tarifas.  </td>
-    <td>Plataforma de intermediación en servicios de movilidad que implementa un modelo de pricing descentralizado, en el cual la tarifa es definida mediante negociación directa entre pasajero y conductor  </td>
-    <td>Plataforma global con tarifas dinámicas automatizadas</td>
+    <td>Plataforma de intermediación en servicios de movilidad que implementa un modelo de pricing descentralizado, en el cual la tarifa es definida mediante negociación directa entre pasajero y conductor.  </td>
+    <td>Plataforma global con tarifas dinámicas automatizadas.</td>
     <td>Sistema tradicional informal basado en contacto directo en la vía pública.</td>
   </tr>
   <tr>
     <td><b>Ventaja competitiva:<br>¿Qué valor ofrece a los clientes?</b></td>
-    <td> Enfoque en zonas rurales con la implementacion de transporte tradicional </td>
-    <td> Plataforma de transporte que ofrece una flexibilidad en los precios </td>
-    <td> Alta disponibilidad con demasiada tecnología avanzada ademas de seguridad en viajes. </td>
+    <td> Adaptación del transporte informal mediante digitalización ligera, permitiendo negociación previa en entornos de baja conectividad. </td>
+    <td> Plataforma que ofrece flexibilidad en la definición de precios mediante negociación directa entre usuario y conductor.</td>
+    <td> Alta disponibilidad respaldada por infraestructura tecnológica avanzada y sistemas de seguridad en los viajes.</td>
     <td> Alta presencia local y rapidez en zonas de difícil acceso. </td>
   </tr>
   <!-- PERFIL DE MARKETING -->
@@ -61,63 +61,66 @@
   </tr>
   <tr>
     <td><b>Estrategias de marketing</b></td>
-    <td> Alianzas con asociaciones de mototaxistas, boca a boca, campañas locales ademas de promocionarse por redes sociales</td>
+    <td> Alianzas con asociaciones de mototaxistas, boca a boca, campañas locales además de promocionarse por redes sociales</td>
     <td> Uso de marketing digital con la premisa de “precio justo”. </td>
     <td> Promociones, descuentos, posicionamiento global. </td>
-    <td> Paaderos fisicos o recomendaciones locales </td>
+    <td> Paraderos físicos o recomendaciones locales </td>
   </tr>
   <!-- PERFIL DE PRODUCTO -->
   <tr>
     <td rowspan="3" align="center"><b>Perfil de Producto</b></td>
     <td><b>Productos & Servicios</b></td>
-    <td> </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td>Facilidad de transporte mediante mototaxi y motos lineales.</td>
+    <td>Transporte en vehículos particulares y servicios de entrega.</td>
+    <td>Transporte urbano (UberX, Uber Moto), delivery (Uber Eats).</td>
+    <td>Transporte en mototaxis y motos lineales mediante contacto directo.</td>
   </tr>
   <tr>
     <td><b>Precios & Costos</b></td>
-    <td> </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td>Precio basado en negociación previa entre pasajero y conductor.</td>
+    <td>Modelo de negociación directa donde el usuario propone la tarifa, complementado con comisión por viaje aplicado por la plataforma.</td>
+    <td>Modelo de negociación basado en oferta y demanda, con comisión por transacción.</td>
+    <td>Negociación presencial sin estandarización de tarifas o formalidad de costos.</td>
   </tr>
   <tr>
     <td><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td>Aplicación web progresiva (PWA) accesible desde navegador móvil, complementada con difusión mediante redes sociales y alianzas con asociaciones locales </td>
+    <td>Aplicación móvil (Android / iOS) distribuida mediante tiendas digitales y campañas de marketing digital </td>
+    <td>Aplicación móvil (Android / iOS) distribuida globalmente a través de tiendas digitales y ecosistema digital integrado</td>
+    <td>Canal presencial basado en paraderos informales, contacto directo en vía pública</td>
   </tr>
   <!-- SWOT -->
   <tr>
     <td rowspan="4" align="center"><b>Análisis SWOT</b></td>
     <td><b>Fortalezas</b></td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td>Modelo híbrido que combina la flexibilidad del transporte informal con la coordinación digital.</td>
+    <td>Implementación de un modelo donde se prioriza el control sobre los costos a los usuarios.</td>
+    <td>Fuerte posicionamiento de la marca y gran percepción de seguridad.</td>
+    <td>Costos operatvos bajos, además de una alta adaptabilidad en diferentes zonas.</td>
   </tr>
   <tr>
     <td><b>Debilidades</b></td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td>Dependencia de adopción inicial en un entorno con baja confianza digital y limitada experiencia tecnológica de los conductores</td>
+    <td>Variabilidad de costos entre el conductor y pasajero, generando inconsistencia en la experiencia.</td>
+    <td>Baja eficiencia en zonas rurales o de baja densidad de usuarios.</td>
+    <td>Ausencia de sistemas de información y coordinación.</td>
   </tr>
   <tr>
     <td><b>Oportunidades</b></td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td>Alta demanda insatisfecha en zonas rurales y posibilidad de digitalizar un sistema de transporte ya existente.</td>
+    <td>Usuarios con preferencias a precios accesibles.</td>
+    <td>Expansión y adopción de nuevos servicios.</td>
+    <td>Posibilidad de integración a plataformas digitales que mejoren la coordinación y seguridad.</td>
   </tr>
   <tr>
     <td><b>Amenazas</b></td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td>Resistencia al cambio por parte de conductores informales.</td>
+    <td>Regulaciones locales sobre transporte informal.</td>
+    <td>Competidores locales adoptados culturalmente.</td>
+    <td>Regulación por parte de las instituciones del estado.</td>
   </tr>
 </table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores 
 
 ## 2.2 Entrevistas
