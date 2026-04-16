@@ -52,7 +52,11 @@ Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos 
 
 <img src="./assets/andy.png" width="160">
 
-Soy Andy Saúl Pillaca Gonzales, estudiante de la carrera de ingeniería de software. Poseo sólidos conocimientos en lenguajes de programación como C + + y python, además de experiencia en SQL, excel, mecanografía y Power BI. Mis habilidades incluyen trabajo en equipo, escucha activa y responsabilidad.
+Soy Andy Saúl Pillaca Gonzales, estudiante de la carrera de Ingeniería de Software, con gran interés en el desarrollo de soluciones tecnológicas innovadoras que contribuyan a resolver problemas reales. Me encuentro en constante proceso de aprendizaje y fortalecimiento de mis conocimientos en el área de programación y desarrollo de software.
+Poseo sólidos conocimientos en lenguajes de programación como C++ y Python, además de experiencia en el manejo de SQL, Excel, Power BI y mecanografía, herramientas que me permiten desarrollar soluciones eficientes, analizar información y optimizar procesos mediante el uso de datos.
+Me interesa especialmente seguir ampliando mis habilidades en el desarrollo de software, bases de datos y análisis de información, así como participar en proyectos que me permitan aplicar mis conocimientos en entornos prácticos y retadores. Considero importante la creación de soluciones funcionales que aporten valor y mejoren la experiencia de los usuarios.
+Entre mis principales habilidades destacan el trabajo en equipo, la escucha activa, la responsabilidad y la capacidad de adaptación al aprendizaje continuo. Me considero una persona comprometida, organizada y con gran disposición para asumir nuevos retos que impulsen mi crecimiento profesional y personal.
+Actualmente, estoy enfocado en seguir fortaleciendo mis competencias técnicas y humanas para desenvolverme de manera exitosa en el entorno laboral, aportando con dedicación, disciplina e innovación en cada proyecto en el que participe.
 
 ## 1.2 Solution Profile
 
