@@ -258,10 +258,10 @@ Ambos perfiles coinciden en la importancia de **calificar al finalizar el viaje*
 ### 2.3.4. Empathy Mapping
 
 **Ana Flores**
-![empathy map ana flores](Resources/empathymapping/Ana%20Flores.png)
+![empathy map ana flores](Resources/empathymapping/AnaFlores_EmpathyMapping.png)
 
 **Luis Gutiérrez**
-![empathy map luis gutierrez](Resources/empathymapping/Luis%20Gutiérrez.png)
+![empathy map luis gutierrez](Resources/empathymapping/LuisGutiérrez_UserMapping.png)
 
 ## 2.4 Big Picture Event Storming
 
