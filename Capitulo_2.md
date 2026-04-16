@@ -208,10 +208,10 @@ Para comprender mejor las necesidades y comportamientos de los usuarios de Chapa
 
 Ana Flores representa a los pasajeros que utilizan el mototaxi como su principal medio de transporte diario. Reside en Huarmey y enfrenta de manera recurrente la incertidumbre sobre la disponibilidad del servicio, la variación de tarifas y la imposibilidad de verificar la identidad del conductor antes del abordaje.
 
-<img src="Resources/userPersona/AnaFlores_UserPersona.png" alt="Ana Flores">
-<br>
-Luis Gutierrez representa a los conductores formales de mototaxi. Opera en Casma con licencia y SOAT vigentes, y su principal problemática es la falta de información sobre la demanda, lo que genera desplazamientos sin pasajero y una reducción en sus ingresos diarios.
-<br>
+<img src="Resources/userPersona/AnaFlores_UserPersona.png" alt="Ana Flores"><br>
+<p>Luis Gutierrez representa a los conductores formales de mototaxi. Opera en Casma con licencia y SOAT vigentes, y su principal problemática es la falta de información sobre la demanda, lo que genera desplazamientos sin pasajero y una reducción en sus ingresos diarios.
+</p>
+
 <img src="Resources/userPersona/LuisGutiérrez_UserPersona.png" alt="Luis Gutierrez">
 
 ### 2.3.2. User Task Matrix
