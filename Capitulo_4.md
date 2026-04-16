@@ -18,6 +18,104 @@
   </p>
 
   ### 4.2.2 Labeling Systems
+  <p align="justify">
+    El sistema de etiquetado de ChapaTuRuta se fundamenta en el principio de mínima carga cognitiva: cada etiqueta debe comunicar con precisión qué encontrará el usuario al interactuar con ese elemento, al emplear el menor número de palabras posible y un vocubalario coherente con el contexto del transporte informal en ciudades intermedias del Perú. Se evita deliberadamente el uso de anglicismos, tecnicismos propios de plataformas urbanas o términos abstractos que puedan generar confusión en usuarios con baja experiencia digital.
+    Las etiquetas cumplen además una función asociativa: orientan al usuario hacia dónde encontrará información relacionada sin necesidad de que todo el contenido esté concentrado en un mismo lugar. Por ejemplo, la etiqueta "Mis documentos" en el perfil del conductor no solo indice que allí se visualizan el brevete y el SOAT registrados, sino que también asocia en el usuario que en esa sección encontrará alertas de vencimiento y opciones de actualización, lo que consolida toda la gestión documental en un únicio punto de acceso.
+    A continuación se detallan las etiquetas definidas para cada sección de la plataforma:<br>
+  </p>
+    <span style="font-weight: bold;">Landing Page</span>
+    <table>
+      <thead>
+        <tr>
+          <th>Etiqueta</td>
+          <th>Contenido asociado</td>
+        </tr>
+      <thead>
+      <tbody>
+        <tr>
+          <td>Inicio</td>
+          <td>Presentación del servicio, propuesta de valor y acceso a la plataforma</td>
+        </tr>
+        <tr>
+          <td>¿Cómo funciona?</td>
+          <td>Proceso paso a paso para pasajeros y conductores, desde el registro hasta la finalización del viaje</td>
+        </tr>
+        <tr>
+          <td>Seguridad</td>
+          <td>Mecanismos de verificación de documentos del conductor y sistema de calificaciones mutuas</td>  
+        </tr>
+        <tr>
+          <td>Soy conductor</td>
+          <td>Beneficios para mototaxistas, requisitos de registro y llamado a la acción</td>  
+        </tr>
+        <tr>
+          <td>Testimonios</td>
+          <td>Comentarios reales de pasajeros y conductores sobre cómo la plataforma ha transformado su experiencia en el servicio de mototaxis</td>  
+        </tr>
+        <tr>
+          <td>Contáctanos</td>
+          <td>Formulario de contacto, canal de soporte y redes sociales de la plataforma</td>  
+        </tr>
+      </tbody>
+    </table><br>
+    <span style="font-weight: bold;">Aplicación Web - Perfil Pasajero</span>
+        <table>
+      <thead>
+        <tr>
+          <th>Etiqueta</td>
+          <th>Contenido asociado</td>
+        </tr>
+      <thead>
+      <tbody>
+        <tr>
+          <td>Pedir moto</td>
+          <td>Mapa principal con conductores disponibles y flujo de solicitud de viaje</td>
+        </tr>
+        <tr>
+          <td>Mis viajes</td>
+          <td>Historial cronológico de trayectos con detalle de ruta, tarifa y calificación otorgada</td>
+        </tr>
+        <tr>
+          <td>Calificaciones</td>
+          <td>Valoraciones recibidas de conductores tras cada viaje completado</td>  
+        </tr>
+        <tr>
+          <td>Mi Perfil</td>
+          <td>Gestión de datos personales, foto y contraseña de acceso</td>  
+        </tr>
+      </tbody>
+    </table><br>
+    <span style="font-weight: bold;">Aplicación Web - Perfil Conductor</span>
+        <table>
+      <thead>
+        <tr>
+          <th>Etiqueta</td>
+          <th>Contenido asociado</td>
+        </tr>
+      <thead>
+      <tbody>
+        <tr>
+          <td>Solicitudes</td>
+          <td>Carreras disponibles geolocalizadas cercanas en tiempo real</td>
+        </tr>
+        <tr>
+          <td>Mis carreras</td>
+          <td>Registro de viajes completados, cancelados e ingresos estimados por jornada</td>
+        </tr>
+        <tr>
+          <td>Mis documentos</td>
+          <td>Brevete y SOAT registrados con estado de vigencia y alertas de vencimiento próximo</td>  
+        </tr>
+        <tr>
+          <td>Calificaciones</td>
+          <td>Valoraciones reibidas de pasajeros y promedio acumulado visible en el perfil público</td>  
+        </tr>
+        <tr>
+          <td>Mi perfil</td>
+          <td>Datos personales, foto de perfil y vehículo registrado en la plataforma</td>  
+        </tr>
+      </tbody>
+    </table>
 
   ### 4.2.3 SEO Tags and Meta Tags
 
