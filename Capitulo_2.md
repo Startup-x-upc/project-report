@@ -204,15 +204,14 @@
 ## 2.3 Need finding
 
 ### 2.3.1. User Personas
-Para comprender mejor las necesidades y comportamientos de los usuarios de ChapatTuRuta, se elaboraron dos User Personas basados en los segmentos objetivo identificados en el proyecto: pasajeros y conductores de mototaxi en ciudades intermedias del Perú.
+Para comprender mejor las necesidades y comportamientos de los usuarios de ChapaTuRuta, se elaboraron dos User Personas basados en los segmentos objetivo identificados en el proyecto: pasajeros y conductores de mototaxi en ciudades intermedias del Perú.
 
 Ana Flores representa a los pasajeros que utilizan el mototaxi como su principal medio de trasnporte diario. Reside en Huarmey y enfrenta de manera recurrente la incertidumbre sobre la disponibilidad del servicio, la variación de tarifas y la imposibilidad de verificar la identidad del conductor antes del abordaje.
 
 <img src="Resources/userPersona/AnaFlores_UserPersona.png" alt="Ana Flores">
-<br><br>
+<br>
 Luis Gutierrez representa a los conductores formales de mototaxi. Opera en Casma con licencia y SOAT vigentes, y su principal problemática es la falta de información sobre la demanda, lo que genera desplazamientos sin pasajero y una reducción en sus ingresos diarios.
-<br><br>
-
+<br>
 <img src="Resources/userPersona/LuisGutiérrez_UserPersona.png" alt="Luis Gutierrez">
 
 ### 2.3.2. User Task Matrix
