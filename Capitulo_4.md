@@ -118,6 +118,80 @@
     </table>
 
   ### 4.2.3 SEO Tags and Meta Tags
+  La definición de SEO Tags y Meta Tags para ChapaTuRuta responde a dos objetivos simultáneos: mejorar el posicionamiento orgánico en motores de búsqueda para consultas relacionadas con el transporte en mototaxi en provincias del Perú, y garantizar que la información que se muestra al compartir los enlaces de la plataforma represente con precisión la propuesta de valor del servicio. A continuación se detallan las etiquetas definidad para el Landing Page y la Aplicación Web.
+
+  **1. Landing Page**
+
+  ```HTML
+  <meta charset = "utf-8">
+  ```
+  Define la codificación de caracteres como UTF-8, lo cual garantiza la correcta visualización de tildes, la letra ñ y caracteres especiales propios del español en cualquier navegador o dispositivo.
+
+  ```HTML
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  ```
+  Establece que la landing page debe adaptarse de forma responsiva al ancho del dispositivo desde el que se accede. Resulta especialmente relevante para ChapaTuRuta dado que la mayoría de sus usuarios accede desde smartphones de gama media con pantallas de tamaño variable.
+
+  ```HTML
+  <title>ChapaTuRuta | Mototaxi Seguro y Verificado en provincias del Perú</title>
+  ```
+
+  Define el título que aparece en la pestaña del navegador y en los resultados de búsqueda. Incorpora las palabras clave de mayor relevancia para el mercado objetivo:mototaci, seguro, verificado y provincias del Perú, orientando el posicionamiento hacia búsquedas locales.
+ 
+  ```HTML
+  <meta name="description" content="ChapaTuRuta conecta con pasajeros con mototaxistas verificados en ciudades intermedias del Perú. Solicita tu viaje, conoce la tarifa antes de salir y viaja con seguridad desde cualquier dispositivo con internet.">
+  ```
+  Proporciona el texto descriptivo que aparece como fragmento en los resultados de Google. Está redactado para comunicar los tres diferenciadores principales del servicio: verificación del conductor, tarifa previa y accesibilidad desde cualquier dispositivo.
+
+  ```HTML
+  <meta name="keywords" content="mototaxi provincias Peru, transporte mototaxi ciudades intermedias, app mototaxi verificado, mototaxi Casma, mototaxi Huarmey, mototaxi Talara, transporte seguro provincias">
+  ```  
+  Especifíca las palabras clave asociadas al contenido de la página, que incluye nombres de ciudades objetivo para reforzar el posicionamiento de búsquedas geográficamente específicas.
+
+  ```HTML
+  <meta name="author" content="CTR Technologies">
+  ```  
+  Identifica a CTR Technologies como la organización responsable del contenido de la plataforma.
+
+  ```HTML
+  <meta name="language" content="es">
+  ```  
+  Declara el español como idioma principal del contenido, orientando correctamente a los motores de búsqueda sobre el público al que se dirige la plataforma.
+
+  <meta name="copyright" content="CTR Technologies 2026">
+  Establece la titularidad de los derechos de autor del contenido publicado en la landing page.
+
+  <br>**2. Aplicación Web**
+  ```HTML
+  <meta charset="utf-8">
+  ```
+  Garantiza la correcta reprentación de caracteres especiales del espa{ol en toda la interfaz de la aplicación.
+  ``` HTML
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  ```
+  Asegura que la interfaz de la aplicación web se adapte correctamente a dispositivos móviles, tabletas y computadoras de escritorio, lo cual mantiene la usabilidad en todos los tamaños de pantalla.
+
+  ```HTML
+  <title>ChapaTuRuta | Solicita tu mototaxi en provincias</title>
+  ```
+  Define el titulo de la aplicación web orientado a la acción principal que el usuario realiza dentro de la plataforma.
+
+  ```HTML
+  <meta name="description" content="ChapaTuRuta conecta con pasajeros con mototaxistas verificados en ciudades intermedias del Perú. Solicita tu viaje, conoce la tarifa antes de salir y viaja con seguridad desde cualquier dispositivo con internet.">
+  ```
+  Describe el contenido de la aplicación enfocándose en las funcionalidades principales disponibles para ambos perfiles de usuario, optimizado para aparecer cuando se comparte el enlace de la app
+
+  ```HTML
+  <meta name="keywords" content="solicitar mototaxi app, historial viajes mototaxi, conductor mototaxi verificado, panel conductor, ChapaTuRuta aplicacion web">
+  ```
+
+  Palabras clave orientadas a las funcionalidades específicas de la aplicación y al perfil de usuario que la utiliza activamente.
+
+  ```HTML
+  <meta name="author" content="CTR Technologies">
+  <meta name="language" content="es">
+  <meta name="copyright" content="CTR Technologies 2026">
+  ```
 
   ### 4.2.4 Searching Systems
 
