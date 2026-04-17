@@ -1,243 +1,27 @@
-# Capitulo III: Requirements Specification
+## Capítulo III: Requirements Specification
 
-## 3.1 User Stories
-<table border="1" style="border-collapse:collapse; width:100%; table-layout:fixed;">
-  <tr>
-    <th style="width:15%;">Epic /<br> Story/<br>ID</th>
-    <th style="width:15%;">Título</th>
-    <th style="width:35%;">Descripción</th>
-    <th style="width:25%;">Criterios de Aceptación</th>
-    <th style="width:10%;">Relacionado con<br>(Epic ID)</th>
-  </tr>
-  <tr>
-  <!--USER STORIE 1 -->
-    <td>US01</td>
-    <td>Registro de pasajero</td>
-    <td>
-      <p><b>Como visitante</b>, quiero registrarme como pasajero para poder solicitar viajes.</p>
-    </td>
-    <td>
-      <b>Scenario : Registro exitoso</b><br>
-      <b>Given</b> el usuario está en la página de registro<br>  
-      <b>When</b> ingresa datos válidos como pasajero<br>  
-      <b>Then</b> la cuenta es creada correctamente<br>  
-      <b>And</b> puede acceder a la plataforma <br><br>
-      <b>Scenario 2 : Registro fallido</b><br>
-      <b>Given</b> el usuario está en la página de registro  
-      <b>When</b> ingresa datos incompletos o inválidos  
-      <b>Then</b> visualiza mensajes de error en los campos
-    </td>
-    <td>EP01</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 2 -->
-  <td>US02</td>
-  <td>Registro de conductor</td>
-  <td>
-  <b>Como visitante</b>, quiero registrarme como conductor para ofrecer mis servicios de transporte.
-  </td>
-  <td>
-  <b>Scenario: Registro exitoso</b><br>
-  <b>Given</b> el usuario está en la página de registro<br>  
-  <b>When</b> ingresa datos válidos como conductor<br>  
-  <b>Then</b> la cuenta es creada correctamente<br>  
-  <b>And</b> queda habilitado para operar en la plataforma<br><br>
-  <b>Scenario: Validación de datos</b><br>
-  <b>Given</b> el usuario completa el registro<br>  
-  <b>When</b> envía su información<br>  
-  <b>Then</b> el sistema valida los datos ingresados
-  </td>
-  <td>EP01</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 3 -->
-  <td>US03</td>
-  <td>Inicio de sesión</td>
-  <td>
-    <b>Como usuario registrado</b>, quiero iniciar sesión para acceder a mi cuenta
-  </td>
-  <td>
-  <b>Scenario: Inicio de sesión exitoso</b><br>
-  <b>Given</b> el usuario tiene una cuenta registrada<br>  
-  <b>When</b> ingresa credenciales válidas<br>  
-  <b>Then</b> accede a la plataforma<br><br> 
-  <b>Scenario: Credenciales incorrectas</b><br>
-  <b>Given</b> el usuario intenta iniciar sesión<br>
-  <b>When</b> ingresa credenciales inválidas<br>
-  <b>Then</b> visualiza un mensaje de error<br>
-  </td>
-  <td>EP01</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 4 -->
-  <td>US04</td>
-  <td>Gestión de perfil</td>
-  <td>
-  <b>Como usuario</b>, quiero visualizar y editar mi perfil para mantener mis datos actualizados.
-  </td>
-  <td>
-  <b>Scenario: Visualización de perfil</b><br>
-  <b>Given</b> el usuario ha iniciado sesión<br>  
-  <b>When</b> accede a su perfil<br>  
-  <b>Then</b> visualiza su información personal<br><br>
-  <b>Scenario: Edición de perfil</b><br>
-  <b>Given</b> el usuario está en su perfil<br>
-  <b>When</b> modifica sus datos,<br>
-  <b>Then</b> la información se actualiza correctamente
-  </td>
-  <td>EP01</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 5 -->
-  <td>US05</td>
-  <td>Cierre de sesión</td>
-  <td>
-  <b>Como usuario</b>, quiero cerrar sesión para proteger mi cuenta<br>
-  <td>
-  <b>Scenario: Cierre de sesión</b><br>
-  <b>Given</b> el usuario ha iniciado sesión<br>
-  <b>When</b> selecciona cerrar sesión,<br>
-  <b>Then</b> su sesión finaliza correctamente<br>
-  <b>And</b> es redirigido a la página principal<br><br>
-  </td>
-  <td>EP01</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 6 -->
-  <td>US06</td>
-  <td>Recuperación de cuenta</td>
-  <td>
-  <b>Como usuario</b>, quiero recuperar mi cuenta en caso de olvidar mi contraseña para volver a acceder<br>
-  </td>
-  <td>
-  <b>Scenario: Solicitud de recuperación</b><br>
-  <b>Given</b> el usuario está en la página de login<br>
-  <b>When</b> selecciona recuperar contraseña<br>
-  <b>Then</b> puede ingresar su correo<br><br>
-  <b>Scenario: Restablecimiento exitoso</b><br>
-  <b>Given</b> el usuario solicita recuperación<br>
-  <b>When</b> sigue el proceso de cambio de contraseña<br>
-  <b>Then</b> puede acceder nuevamente con la nueva contraseña
-  </td>
-  <td>EP01</td>
-  </tr>
-  <!--USER STORIE 7 -->
-  <tr>
-  <td>US07</td>
-  <td>Detección automática de ubicación del pasajero</td>
-  <td>
-  <b>Como pasajero</b>, quiero que el sistema detecte automáticamente mi ubicación al ingresar a la aplicación, para poder solicitar un viaje sin tener que ingresarla manualmente.<br>
-  </td>
-  <td>
-  <b>Scenario: Detección automática exitosa</b><br>
-  <b>Given</b> el pasajero accede a la aplicación por primera vez<br>
-  <b>When</b> acepta los permisos de ubicación en su dispositivo<br>
-  <b>Then</b> el sistema detecta su ubicación actual y la muestra en el mapa como punto de origen del viaje.<br><br>
-  <b>Scenario: Permiso de ubicación denegado</b><br>
-  <b>Given</b> el pasajero no concede permisos de ubicación<br>
-  <b>When</b> intenta solicitar su viaje<br>
-  <b>Then</b> el sistema solicita ingresar manualmente el punto de origen antes de continuar.
-  </td>
-  <td>EP03</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 8 -->
-  <td>US08</td>
-  <td>Envío de ubicación en la solicitud de viaje</td>
-  <td>
-  <b>Como pasajero</b>, quiero que mi ubicación actual se envíe automáticamente al generar una solicitud de viaje, para que el conductor conozca el punto exacto de recojo.<br>
-  </td>
-  <td>
-  <b>Scenario: Envío correcto de la ubicación del pasajero</b><br>
-  <b>Given</b> el pasajero ha definido origen y destino<br>
-  <b>When</b> confirma la solicitud de viaje<br>
-  <b>Then</b> el sistema envía la ubicación exacta del punto de recojo al conductor disponible.<br><br>
-  <b>Scenario: Ubicación no válida o no definida correctamente</b><br>
-  <b>Given</b>la ubicación del pasajero no es precisa o no está definida<br>
-  <b>When</b> intenta confirmar la solicitud<br>
-  <b>Then</b> el sistema solicita ajustar manualmente el punto en el mapa antes de enviarla.
-  </td>
-  <td>EP03</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 9-->
-  <td>US09</td>
-  <td>Visualización de conductores cercanos en el mapa</td>
-  <td>
-  <b>Como pasajero</b>, quiero visualizar en el mapa los conductores disponibles cerca de mi ubicación, para identificar rápidamente opciones de transporte.<br>
-  </td>
-  <td>
-  <b>Scenario: Visualización de conductores disponibles en el mapa</b><br>
-  <b>Given</b> el pasajero ha ingresado a la vista principal del mapa<br>
-  <b>When</b> existen conductores activos en su zona<br>
-  <b>Then</b> el sistema muestra los íconos de los conductores en el mapa según su ubicación actual.<br><br>
-  <b>Scenario: Ausencia de conductores disponibles en la zona</b><br>
-  <b>Given</b> el pasajero se encuentra en una zona sin conductores disponibles<br>
-  <b>When</b> el mapa carga la información<br>
-  <b>Then</b> el sistema muestra un mensaje indicando que no hay conductores cercanos y sugiere reintentar más tarde
-  </td>
-  <td>EP03</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 10 -->
-  <td>US10</td>
-  <td>Notificación de aceptación de viaje al pasajero</td>
-  <td>
-  <b>Como pasajero</b>, quiero recibir una notificación cuando un conductor acepte mi solicitud, para saber que mi viaje ha sido confirmado.<br>
-  </td>
-  <td>
-  <b>Scenario: Aceptación de viaje exitosa</b><br>
-  <b>Given</b> un conductor acepta la solicitud de viaje<br>
-  <b>When</b>la acción se registra en el sistema<br>
-  <b>Then</b> el pasajero recibe una notificación con los datos del conductor asignado<br><br>
-  <b>Scenario: Expiración de la solicitud</b><br>
-  <b>Given</b> que ningún conductor acepta la solicitud dentro del tiempo establecido<br>
-  <b>When</b> la solicitud expira<br>
-  <b>Then</b> el sistema notifica al pasajero que debe realizar una nueva solicitud.
-  </td>
-  <td>EP03</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 11 -->
-  <td>US11</td>
-  <td>Notificación de rechazo de solicitud</td>
-  <td>
-  <b>Como pasajero</b>, quiero ser notificado cuando un conductor rechaza mi solicitud, para tomar acciones alternativas.<br>
-  </td>
-  <td>
-  <b>Scenario: Rechazo de solicitud por conductor</b><br>
-  <b>Given</b> un conductor rechaza solicitud<br>
-  <b>When</b> la acción se procesa<br>
-  <b>Then</b> el pasajero recibe una notificación de rechazo.<br><br>
-  <b>Scenario: Múliples rechazos acumulados</b><br>
-  <b>Given</b> múltiples conductores rechazan la solicitud<br>
-  <b>When</b> se alcanza un límite de rechazo<br>
-  <b>Then</b> el sistema sugiere al pasajero modificar la tarifa o reintentar.
-  </td>
-  <td>EP03</td>
-  </tr>
-  <tr>
-  <!--USER STORIE 12 -->
-  <td>US12</td>
-  <td>Visualización de ubicación del pasajero</td>
-  <td>
-  <b>Como conductor</b>, quiero visualizar en el mapa la ubicación del pasajero que solicita el viaje, para poder dirigirme correctamente al punto de recojo.<br>
-  </td>
-  <td>
-  <b>Scenario: Visualización de ubicación del pasajero</b><br>
-  <b>Given</b> el conductor ha aceptado una solicitud de viaje<br>
-  <b>When</b> accede a la vista del mapa<br>
-  <b>Then</b> el sistema muestra la ubicación del pasajero como punto de recojo.<br><br>
-  <b>Scenario: Ubicación del pasajero no disponible</b><br>
-  <b>Given</b> el conductor ha aceptado la solicitud<br>
-  <b>When</b> el sistema no puede obtener la ubicación del pasajero<br>
-  <b>Then</b> el sistema muestra un mensaje indicando que la ubicación no está disponible temporalmente.
-  </td>
-  <td>EP03</td>
-  </tr>
-</table>
+### 3.1. User Stories
+
+| Epic ID | Título                                | Descripción                                                                                                                                                            |
+| ------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP-01   | Gestión de Identidad y Acceso         | Como equipo, necesitamos gestionar el registro, inicio de sesión y perfiles de pasajeros, conductores y administradores para garantizar acceso seguro a la plataforma. |
+| EP-02   | Gestión de Viajes                     | Como equipo, necesitamos gestionar la solicitud, aceptación, rechazo, inicio, finalización y cancelación de viajes para soportar el flujo principal del servicio.      |
+| EP-03   | Geolocalización y Notificaciones      | Como equipo, necesitamos proveer un mapa en tiempo real, proximidad de conductores y notificaciones push para mantener informados a los usuarios durante el servicio.  |
+| EP-04   | Tarifas y Calificaciones              | Como equipo, necesitamos gestionar las tarifas y el sistema de calificaciones para garantizar transparencia y confianza en la plataforma.                              |
+| EP-05   | Historial, Analítica y Administración | Como equipo, necesitamos registrar viajes, resumir ganancias, generar reportes y gestionar cuentas para soportar la operación y administración de la plataforma.       |
+| EP-06   | Experiencia en Landing Page           | Como equipo, necesitamos un Landing Page informativo y persuasivo que comunique la propuesta de valor de Chapa Tu Ruta a los segmentos objetivo.                       |
+
+| Epic / Story ID | Título                                          | Descripción                                                                                                                                                                           | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Relacionado con (Epic ID) |
+| --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| US-19           | Estimación de tarifa antes del viaje            | Como pasajero, quiero ver una estimación de tarifa antes de confirmar mi solicitud de viaje, para decidir si el precio se ajusta a mi presupuesto.                                    | **Escenario 1:** Dado que el pasajero ha ingresado su origen y destino, cuando el sistema calcula la distancia aproximada entre ambos puntos, entonces el sistema muestra una tarifa estimada en soles antes de que el pasajero confirme el viaje. **Escenario 2:** Dado que existen dos rutas con distancias distintas, cuando el pasajero consulta las estimaciones de ambas rutas, entonces el sistema muestra una tarifa mayor para la ruta de mayor distancia.                                                     | EP-04                     |
+| US-20           | Propuesta y negociación de tarifa               | Como pasajero, quiero proponer una tarifa personalizada al solicitar un viaje, para negociar el precio con el conductor disponible.                                                   | **Escenario 1:** Dado que el pasajero ha ingresado origen, destino y una tarifa propuesta dentro del rango permitido, cuando el pasajero confirma la solicitud, entonces el sistema registra la propuesta y la hace visible para los conductores cercanos disponibles. **Escenario 2:** Dado que el pasajero ha ingresado una tarifa inferior al mínimo permitido, cuando el pasajero intenta confirmar la solicitud, entonces el sistema rechaza la solicitud y notifica al pasajero sobre la tarifa mínima aceptable. | EP-04                     |
+| US-21           | Aceptación de tarifa por parte del conductor    | Como conductor, quiero ver la tarifa propuesta por el pasajero antes de aceptar el viaje, para decidir si me resulta conveniente tomarlo.                                             | **Escenario 1:** Dado que el conductor ha recibido una solicitud de viaje con tarifa visible, cuando el conductor acepta la tarifa propuesta, entonces el sistema asigna el viaje al conductor y notifica al pasajero la confirmación. **Escenario 2:** Dado que el conductor ha recibido una solicitud de viaje con tarifa propuesta, cuando el tiempo límite de respuesta expira sin que el conductor acepte, entonces el sistema mantiene la solicitud activa y la hace visible para otros conductores disponibles.  | EP-04                     |
+| US-22           | Calificación post-viaje al conductor            | Como pasajero, quiero calificar al conductor al finalizar el viaje, para contribuir a la reputación de los conductores en la plataforma.                                              | **Escenario 1:** Dado que el viaje ha sido marcado como finalizado, cuando el pasajero asigna una puntuación del 1 al 5 y confirma la calificación, entonces el sistema registra la calificación y actualiza el puntaje promedio del conductor. **Escenario 2:** Dado que el viaje ha finalizado y el pasajero no ha realizado la calificación, cuando transcurren 24 horas sin que el pasajero califique, entonces el sistema omite la calificación sin afectar el historial del conductor.                            | EP-04                     |
+| US-23           | Calificación post-viaje al pasajero             | Como conductor, quiero calificar al pasajero al terminar el viaje, para reportar comportamientos que afecten la seguridad o el servicio.                                              | **Escenario 1:** Dado que el viaje ha sido marcado como finalizado, cuando el conductor asigna una puntuación del 1 al 5 y confirma la calificación, entonces el sistema registra la calificación y actualiza el puntaje promedio del pasajero. **Escenario 2:** Dado que el conductor ha asignado una puntuación de 1 o 2 estrellas al pasajero, cuando el conductor confirma la calificación, entonces el sistema habilita un campo adicional opcional para que el conductor describa el motivo del reporte.          | EP-04                     |
+| US-24           | Visualización del puntaje de reputación         | Como usuario (pasajero o conductor), quiero ver mi puntaje de reputación acumulado en mi perfil, para conocer cómo me perciben otros usuarios en la plataforma.                       | **Escenario 1:** Dado que el usuario ha completado al menos un viaje calificado, cuando el usuario accede a su perfil, entonces el sistema muestra el puntaje promedio con su representación en estrellas y el número total de calificaciones recibidas. **Escenario 2:** Dado que el usuario no ha recibido ninguna calificación, cuando el usuario accede a su perfil, entonces el sistema muestra un mensaje indicando que aún no cuenta con calificaciones registradas.                                             | EP-04                     |
+| US-25           | Información sobre tarifas en el Landing Page    | Como visitante, quiero ver información sobre cómo se estiman las tarifas en Chapa Tu Ruta, para evaluar si el servicio se ajusta a mi presupuesto antes de registrarme.               | **Escenario 1:** Dado que el visitante se encuentra en el Landing Page, cuando navega hacia la sección de información sobre tarifas, entonces el sistema muestra una explicación del modelo de estimación de tarifas y ejemplos de precios por zona. **Escenario 2:** Dado que el visitante ha revisado la información sobre tarifas, cuando selecciona el llamado a la acción de la sección, entonces el sistema redirige al visitante a la vista de registro en la aplicación web.                                    | EP-06                     |
+| US-26           | Testimonios y calificaciones en el Landing Page | Como visitante del segmento conductor, quiero ver testimonios y calificaciones de conductores activos en la plataforma, para evaluar la reputación del servicio antes de registrarme. | **Escenario 1:** Dado que el visitante se encuentra en la sección de testimonios del Landing Page, cuando la sección carga correctamente, entonces el sistema muestra al menos tres testimonios de conductores activos con su nombre, zona y puntuación. **Escenario 2:** Dado que la sección de testimonios no cuenta con registros cargados, cuando el visitante accede a la sección, entonces el sistema muestra un mensaje indicando que los testimonios estarán disponibles próximamente.                          | EP-06                     |
 
 ## 3.2 Impact Mapping
 
 ## 3.3 Product Backlog
-
