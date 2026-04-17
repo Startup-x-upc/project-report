@@ -254,6 +254,9 @@ El **mototaxista** orienta su actividad a la gestión de su disponibilidad y la 
 Ambos perfiles coinciden en la importancia de **calificar al finalizar el viaje** y **reportar incidencias**, ya que estas acciones sostienen la confianza y seguridad del ecosistema. Cualquier problema no reportado deteriora la experiencia de ambos lados de la plataforma.
 
 ### 2.3.3. User Journey Mapping
+<img src="Resources/User Journey Mapping/User Journey Mapping 1.png">
+<br><br>
+<img src="Resources/User Journey Mapping/User Journey Mapping 2.png">
 
 ### 2.3.4. Empathy Mapping
 
