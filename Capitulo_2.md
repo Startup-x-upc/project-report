@@ -24,7 +24,7 @@
   <tr>
     <th colspan="2" style="width:20%">(En la cabecera colocar por cada competidor nombre y logo)</th>
     <th style="width:20%">
-      <img src="./Resources/inDriveogo.jpg" alt="ChapaTuRuta" width="100" height="50">
+      <img src="./Resources/chapaTuRuta.jpg" alt="ChapaTuRuta" width="100" height="50">
     </th>
     <th style="width:20%">
       <img src="./Resources/inDriveLogo.jpg" alt="inDrive" width="100" height="50">
