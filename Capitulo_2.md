@@ -24,7 +24,7 @@
   <tr>
     <th colspan="2" style="width:20%">(En la cabecera colocar por cada competidor nombre y logo)</th>
     <th style="width:20%">
-      <img src="./Resources/inDriveogo.jpg" alt="ChapaTuRuta" width="100" height="50">
+      <img src="./Resources/chapaTuRuta.jpg" alt="ChapaTuRuta" width="100" height="50">
     </th>
     <th style="width:20%">
       <img src="./Resources/inDriveLogo.jpg" alt="inDrive" width="100" height="50">
@@ -204,6 +204,15 @@
 ## 2.3 Need finding
 
 ### 2.3.1. User Personas
+Para comprender mejor las necesidades y comportamientos de los usuarios de ChapaTuRuta, se elaboraron dos User Personas basados en los segmentos objetivo identificados en el proyecto: pasajeros y conductores de mototaxi en ciudades intermedias del Perú.
+
+Ana Flores representa a los pasajeros que utilizan el mototaxi como su principal medio de transporte diario. Reside en Huarmey y enfrenta de manera recurrente la incertidumbre sobre la disponibilidad del servicio, la variación de tarifas y la imposibilidad de verificar la identidad del conductor antes del abordaje.
+
+<img src="Resources/userPersona/AnaFlores_UserPersona.png" alt="Ana Flores"><br>
+<p>Luis Gutierrez representa a los conductores formales de mototaxi. Opera en Casma con licencia y SOAT vigentes, y su principal problemática es la falta de información sobre la demanda, lo que genera desplazamientos sin pasajero y una reducción en sus ingresos diarios.
+</p>
+
+<img src="Resources/userPersona/LuisGutiérrez_UserPersona.png" alt="Luis Gutierrez">
 
 ### 2.3.2. User Task Matrix
 
@@ -245,8 +254,17 @@ El **mototaxista** orienta su actividad a la gestión de su disponibilidad y la 
 Ambos perfiles coinciden en la importancia de **calificar al finalizar el viaje** y **reportar incidencias**, ya que estas acciones sostienen la confianza y seguridad del ecosistema. Cualquier problema no reportado deteriora la experiencia de ambos lados de la plataforma.
 
 ### 2.3.3. User Journey Mapping
+<img src="Resources/User Journey Mapping/User Journey Mapping 1.png">
+<br><br>
+<img src="Resources/User Journey Mapping/User Journey Mapping 2.png">
 
 ### 2.3.4. Empathy Mapping
+
+**Ana Flores**
+![empathy map ana flores](Resources/empathymapping/AnaFlores_EmpathyMapping.png)
+
+**Luis Gutiérrez**
+![empathy map luis gutierrez](Resources/empathymapping/LuisGutiérrez_UserMapping.png)
 
 ## 2.4 Big Picture Event Storming
 
