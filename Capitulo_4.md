@@ -158,9 +158,11 @@
   ```  
   Declara el español como idioma principal del contenido, orientando correctamente a los motores de búsqueda sobre el público al que se dirige la plataforma.
 
+  ``` HTML
   <meta name="copyright" content="CTR Technologies 2026">
+  ```  
   Establece la titularidad de los derechos de autor del contenido publicado en la landing page.
-
+  
   <br>**2. Aplicación Web**
   ```HTML
   <meta charset="utf-8">
