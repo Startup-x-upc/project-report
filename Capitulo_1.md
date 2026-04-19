@@ -34,6 +34,14 @@ Me interesa especialmente seguir ampliando mis habilidades en el desarrollo de s
 Entre mis principales habilidades destacan el trabajo en equipo, la escucha activa, la responsabilidad y la capacidad de adaptación al aprendizaje continuo. Me considero una persona comprometida, organizada y con gran disposición para asumir nuevos retos que impulsen mi crecimiento profesional y personal.
 Actualmente, estoy enfocado en seguir fortaleciendo mis competencias técnicas y humanas para desenvolverme de manera exitosa en el entorno laboral, aportando con dedicación, disciplina e innovación en cada proyecto en el que participe.
 
+## Eduardo Manuel Aguirre Ramos - U20241A911
+
+<img src="./Resources/capitulo_1/foto_eduardo.jpeg" width="160">
+
+Soy estudiante de la carrera de ingenieria de software de 5to ciclo en la Universidad Peruana de Ciencias Aplicadas, tengo conocimientos en como C++, Python, CSS, JavaScript.Manejo he implemento directamente con Git y utilizo metodologias Agiles como Scrum.En si me interesa mucho trabajar en equipo en diferentes proyectos debido a las diferentes experiencias que trae elo tanto así como el resolver problemas conjuntos y diseñar soluciones innovadoras ademas de tener una mejor experiencia en el ambito de frontend y disfruto tener retos dificiles cada dia para poder progresar. Mi meta es nutrirme de experiencias para así poder en un futuro diseñar mi propia web y estar preparado para experiencias laborales.
+
+
+
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
