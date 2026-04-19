@@ -58,6 +58,21 @@ Me interesa especialmente seguir ampliando mis habilidades en el desarrollo de s
 Entre mis principales habilidades destacan el trabajo en equipo, la escucha activa, la responsabilidad y la capacidad de adaptación al aprendizaje continuo. Me considero una persona comprometida, organizada y con gran disposición para asumir nuevos retos que impulsen mi crecimiento profesional y personal.
 Actualmente, estoy enfocado en seguir fortaleciendo mis competencias técnicas y humanas para desenvolverme de manera exitosa en el entorno laboral, aportando con dedicación, disciplina e innovación en cada proyecto en el que participe.
 
+
+## Dalila Victoria Torres Sanchez - U20221F734
+
+<img src="./assets/Dalila.png" width="160">
+
+Soy estudiante de Ingeniería de Software, he programado en C#, C++, PHP, Java y Python, además manejo de bases de datos relacionales. También he trabajado con Git y metodologías ágiles como Scrum, lo cual me ha ayudado a organizarme mejor y a trabajar en equipo con más fluidez.
+Me interesa mucho el desarrollo backend, porque me gusta entender la lógica detrás de las cosas, cómo se procesan los datos y cómo se asegura que todo funcione correctamente. También me gusta colaborar en el frontend, porque entiendo que un buen producto requiere que ambas partes trabajen en armonía. Disfruto ver cómo una idea se vuelve algo real, desde los primeros bocetos hasta la parte funcional donde las personas terminan usando.
+Actualmente, mi objetivo es seguir consolidando mis habilidades técnicas y blandas para desempeñarme con confianza en el entorno laboral. Me interesa participar en proyectos donde pueda aplicar lo que sé y aportar soluciones prácticas a problemas reales.
+
+
+
+
+
+
+
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
