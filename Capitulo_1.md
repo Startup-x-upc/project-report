@@ -18,39 +18,15 @@ Visión: Convertirnos en la plataforma de referencia para el transporte en motot
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-## James Caleb Delgado Pérez - U2021125277
-
-<img src="./assets/foto.jpeg" width="160">
-
-Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS,
-además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
-Me interesa especialmente el desarrollo frontend, así como el manejo de bases de datos y la construcción de aplicaciones web completas.
-Disfruto crear interfaces funcionales y accesibles que mejoren la experiencia del usuario. Actualmente participo en el desarrollo de un proyecto
-orientado al transporte en provincias, el cual representa una oportunidad clave para fortalecer mis habilidades y prepararme para el entorno laboral,
-aportando soluciones prácticas a problemas reales. Me considero una persona organizada, con alta capacidad de aprendizaje y
-comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que me ha permitido desarrollar disciplina, constancia y
-enfoque en mis objetivos.
-
-Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
-
 ## Jesús Iván Castillo Vidal - U202322952
 
-<img src="./assets/foto.jpeg" width="160">
+<img src="./Resources/capitulo_1/foto_jesus.jpg" width="160">
 
-Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS,
-además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
-Me interesa especialmente el desarrollo frontend, así como el manejo de bases de datos y la construcción de aplicaciones web completas.
-Disfruto crear interfaces funcionales y accesibles que mejoren la experiencia del usuario. Actualmente participo en el desarrollo de un proyecto
-orientado al transporte en provincias, el cual representa una oportunidad clave para fortalecer mis habilidades y prepararme para el entorno laboral,
-aportando soluciones prácticas a problemas reales. Me considero una persona organizada, con alta capacidad de aprendizaje y
-comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que me ha permitido desarrollar disciplina, constancia y
-enfoque en mis objetivos.
-
-Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
+Soy estudiante de Ingeniería de Software y desarrollador full-stack orientado al emprendimiento. Tengo experiencia práctica liderando la creación de plataformas SaaS y sistemas de gestión enfocados en la transformación digital de negocios locales. Me especializo en llevar proyectos desde la arquitectura y el prototipado hasta el lanzamiento, utilizando tecnologías como Next.js, FastAPI y Tailwind CSS, etc. Siempre buscando crear soluciones tecnológicas escalables y centradas en el usuario.
 
 ## Andy Saúl Pillaca Gonzales - U202418823
 
-<img src="./assets/andy.png" width="160">
+<img src="./Resources/capitulo_1/foto_andy.png" width="160">
 
 Soy Andy Saúl Pillaca Gonzales, estudiante de la carrera de Ingeniería de Software, con gran interés en el desarrollo de soluciones tecnológicas innovadoras que contribuyan a resolver problemas reales. Me encuentro en constante proceso de aprendizaje y fortalecimiento de mis conocimientos en el área de programación y desarrollo de software.
 Poseo sólidos conocimientos en lenguajes de programación como C++ y Python, además de experiencia en el manejo de SQL, Excel, Power BI y mecanografía, herramientas que me permiten desarrollar soluciones eficientes, analizar información y optimizar procesos mediante el uso de datos.
