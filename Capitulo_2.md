@@ -199,6 +199,126 @@
 
 ### 2.2.2. Registro de entrevistas
 
+#### 1. Primer Segmento Objetivo: Pasajeros
+
+<table style="width: 100%" align='center'>
+  <tr>
+    <th>Entrevistado 1</th>
+    <th>Entrevistado 2</th>
+    <th>Entrevistado 3</th>
+  </tr>
+  <tr>
+    <td align='center'>
+      <a href="[LINK_ENTREVISTA_1]" target="_blank">
+        <img src="Resources/[IMAGEN_ENTREVISTA_1].png" alt="Primera entrevista del primer segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="[LINK_ENTREVISTA_2]" target="_blank">
+        <img src="Resources/[IMAGEN_ENTREVISTA_2].png" alt="Segunda entrevista del primer segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="[LINK_ENTREVISTA_3]" target="_blank">
+        <img src="Resources/[IMAGEN_ENTREVISTA_3].png" alt="Tercera entrevista del primer segmento" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
+      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
+      <b>Edad:</b> [Edad] años <br>
+      <b>Distrito:</b> [Distrito] <br>
+      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
+      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
+      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
+      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
+      <b>Edad:</b> [Edad] años <br>
+      <b>Distrito:</b> [Distrito] <br>
+      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
+      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
+      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
+      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
+      <b>Edad:</b> [Edad] años <br>
+      <b>Distrito:</b> [Distrito] <br>
+      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
+      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
+      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+    </td>
+  </tr>
+</table>
+
+Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmento 01- Pasajeros</a>
+
+#### 2. Segundo Segmento Objetivo: Conductores
+
+<table style="width: 100%" align='center'>
+  <tr>
+    <th>Entrevistado 1</th>
+    <th>Entrevistado 2</th>
+    <th>Entrevistado 3</th>
+  </tr>
+  <tr>
+    <td align='center'>
+      <a href="[LINK_ENTREVISTA_1]" target="_blank">
+        <img src="Resources/[IMAGEN_ENTREVISTA_1].png" alt="Primera entrevista del segundo segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="[LINK_ENTREVISTA_2]" target="_blank">
+        <img src="Resources/[IMAGEN_ENTREVISTA_2].png" alt="Segunda entrevista del segundo segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="[LINK_ENTREVISTA_3]" target="_blank">
+        <img src="Resources/[IMAGEN_ENTREVISTA_3].png" alt="Tercera entrevista del segundo segmento" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
+      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
+      <b>Edad:</b> [Edad] años <br>
+      <b>Distrito:</b> [Distrito] <br>
+      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
+      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
+      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
+      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
+      <b>Edad:</b> [Edad] años <br>
+      <b>Distrito:</b> [Distrito] <br>
+      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
+      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
+      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
+      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
+      <b>Edad:</b> [Edad] años <br>
+      <b>Distrito:</b> [Distrito] <br>
+      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
+      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
+      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+    </td>
+  </tr>
+</table>
+
+Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmento 02- Conductores</a>
+
+Más informacion en Anexo A.
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3 Need finding
