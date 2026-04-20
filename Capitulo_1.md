@@ -44,11 +44,20 @@ Soy estudiante de la carrera de ingenieria de software de 5to ciclo en la Univer
 
 <img src="./Resources/capitulo_1/foto_sebastian.png" width="160">
 
+
 Soy estudiante de Ingeniería de Software y desarrollador full-stack. Tengo experiencia construyendo plataformas
 web completas — desde la arquitectura hasta el despliegue — utilizando tecnologías
 como React, Node.js, Express y PostgreSQL. Me apasiona entender el código en
 profundidad, no solo hacerlo funcionar, y busco siempre crear soluciones escalables
 que resuelvan problemas reales de negocio.
+Soy estudiante de Ingeniería de Software, he programado en C#, C++, PHP, Java y Python, además manejo de bases de datos relacionales. También he trabajado con Git y metodologías ágiles como Scrum, lo cual me ha ayudado a organizarme mejor y a trabajar en equipo con más fluidez. Me interesa mucho el desarrollo backend, porque me gusta entender la lógica detrás de las cosas, cómo se procesan los datos y cómo se asegura que todo funcione correctamente. También me gusta colaborar en el frontend, porque entiendo que un buen producto requiere que ambas partes trabajen en armonía. Disfruto ver cómo una idea se vuelve algo real, desde los primeros bocetos hasta la parte funcional donde las personas terminan usando. Actualmente, mi objetivo es seguir consolidando mis habilidades técnicas y blandas para desempeñarme con confianza en el entorno laboral. Me interesa participar en proyectos donde pueda aplicar lo que sé y aportar soluciones prácticas a problemas reales.
+
+## Dalila Victoria Torres Sanchez - U20221F734
+
+<img src="./Resources/capitulo_1/foto_dalila.jpg" width="160">
+Soy estudiante de Ingeniería de Software, he programado en C#, C++, PHP, Java y Python, además manejo de bases de datos relacionales. También he trabajado con Git y metodologías ágiles como Scrum, lo cual me ha ayudado a organizarme mejor y a trabajar en equipo con más fluidez. Me interesa mucho el desarrollo backend, porque me gusta entender la lógica detrás de las cosas, cómo se procesan los datos y cómo se asegura que todo funcione correctamente. También me gusta colaborar en el frontend, porque entiendo que un buen producto requiere que ambas partes trabajen en armonía. Disfruto ver cómo una idea se vuelve algo real, desde los primeros bocetos hasta la parte funcional donde las personas terminan usando. Actualmente, mi objetivo es seguir consolidando mis habilidades técnicas y blandas para desempeñarme con confianza en el entorno laboral. Me interesa participar en proyectos donde pueda aplicar lo que sé y aportar soluciones prácticas a problemas reales.
+
+
 
 ## 1.2 Solution Profile
 
