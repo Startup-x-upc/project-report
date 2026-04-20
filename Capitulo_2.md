@@ -2,7 +2,8 @@
 
 ## 2.1 Competidores
 
-### 2.1.1. Análisis competitivo 
+### 2.1.1. Análisis competitivo
+
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
   <!-- Título principal -->
   <tr>
@@ -132,7 +133,6 @@
   Finalmente, para enfrentar amenazas como el posicionamiento de marca de competidores consolidados y la preferencia habitual por el transporte informal, la plataforma incorporará funcionalidades orientadas a generar una experiencia de uso más segura, confiable y adaptada al contexto local. Entre ellas destacan la verificación de documentos del conductor, que incluyen licencia y SOAT vigente, lo cual permitirá brindar mayor respaldo al pasajero antes de confirmar el servicio. Del mismo modo, se implementará un sistema de calificaciones y comentarios mutuos entre pasajero y conductor, con el objetivo de fortalecer la confianza dentro del ecosistema y promover estándares de calidad en cada viaje.
   Adicionalmente, la geolocalización en tiempo real permitirá al usuario visualizar la ubicación del conductor cercano, estimar su tiempo de llegada y realizar un seguimiento básico del recorrido, lo cual reduce la incertidumbre propia del transporte informal. A ello se suma la visualización previa de la tarifa estimada o negociada antes de iniciar el viaje, funcionalidad clave para disminuir conflictos por cobros arbitrarios y mejorar la transparencia del servicio. Estas características no solo representan una ventaja competitiva frente a las alternativas actuales, sino que también contribuyen a formalizar progresivamente la experiencia de movilidad en mototaxi dentro de las ciudades objetivo.
 </p>
-
 
 ## 2.2 Entrevistas
 
@@ -278,7 +278,7 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
     </td>
     <td align='center'>
       <a href="[LINK_ENTREVISTA_3]" target="_blank">
-        <img src="Resources/[IMAGEN_ENTREVISTA_3].png" alt="Tercera entrevista del segundo segmento" width="150">
+        <img src="Resources/entrevistas/u201916755_Mototaxi_Carlos.png" alt="Tercera entrevista del segundo segmento" width="150">
       </a>
     </td>
   </tr>
@@ -302,13 +302,14 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
       <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
     </td>
     <td valign="top">
-      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
-      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
-      <b>Edad:</b> [Edad] años <br>
-      <b>Distrito:</b> [Distrito] <br>
-      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
-      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
-      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+      <b>Entrevistador:</b> Sebastian Aiquipa Poma <br>
+      <b>Entrevistado:</b> Carlos <br>
+      <b>Edad:</b> 48 años <br>
+      <b>Distrito:</b> Villa el Salvador <br>
+      <b>Inicio de la entrevista:</b> 0:14 <br><br>
+      <b>Resumen:</b>
+El entrevistado, conductor de mototaxi con 8 años de experiencia en Villa El Salvador, compartió las principales dificultades de su trabajo como la inseguridad y la competencia excesiva en los paraderos. Explicó que actualmente consigue pasajeros de forma pasiva y mediante WhatsApp, y expresó interés en una aplicación que le permita negociar tarifas, visualizar zonas de demanda y construir reputación a través de calificaciones. Indicó que adoptaría una app como Chapa Tu Ruta si es fácil de usar, tiene comisiones bajas y le ofrece mayor seguridad al identificar a los pasajeros.<br><br>
+      <b>Perfil del entrevistado:</b> Hombre de 48 años, residente de Villa El Salvador, conductor de mototaxi a tiempo completo desde hace 8 años. Cuenta con vehículo propio y un smartphone con manejo básico. Representa al segmento de conductores informales que buscan mejorar sus ingresos y seguridad laboral mediante herramientas digitales accesibles.
     </td>
   </tr>
 </table>
@@ -317,18 +318,18 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
 
 Más informacion en Anexo A.
 
-
-
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3 Need finding
 
 ### 2.3.1. User Personas
+
 Para comprender mejor las necesidades y comportamientos de los usuarios de ChapaTuRuta, se elaboraron dos User Personas basados en los segmentos objetivo identificados en el proyecto: pasajeros y conductores de mototaxi en ciudades intermedias del Perú.
 
 Ana Flores representa a los pasajeros que utilizan el mototaxi como su principal medio de transporte diario. Reside en Huarmey y enfrenta de manera recurrente la incertidumbre sobre la disponibilidad del servicio, la variación de tarifas y la imposibilidad de verificar la identidad del conductor antes del abordaje.
 
 <img src="Resources/userPersona/AnaFlores_UserPersona.png" alt="Ana Flores"><br>
+
 <p>Luis Gutierrez representa a los conductores formales de mototaxi. Opera en Casma con licencia y SOAT vigentes, y su principal problemática es la falta de información sobre la demanda, lo que genera desplazamientos sin pasajero y una reducción en sus ingresos diarios.
 </p>
 
@@ -374,6 +375,7 @@ El **mototaxista** orienta su actividad a la gestión de su disponibilidad y la 
 Ambos perfiles coinciden en la importancia de **calificar al finalizar el viaje** y **reportar incidencias**, ya que estas acciones sostienen la confianza y seguridad del ecosistema. Cualquier problema no reportado deteriora la experiencia de ambos lados de la plataforma.
 
 ### 2.3.3. User Journey Mapping
+
 <img src="Resources/User Journey Mapping/User Journey Mapping 1.png">
 <br><br>
 <img src="Resources/User Journey Mapping/User Journey Mapping 2.png">
@@ -419,16 +421,17 @@ Al completarse el viaje, el sistema registra el cobro de la tarifa y solicita la
 ![Post-viaje](Resources/eventStorming/post-trip.jpg)
 
 ## 2.5 Ubiquitous Language
-| Term (EN)                                         | Definición (ES)                                                                                                                                                            |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Passenger | Persona que solicita un servicio de transporte mediante la plataforma. |
-| Driver                                      | Mototaxista o persona que ofrece el servicio de transporte.                                                            |
-| Ride                                | Trayecto solicitado por el pasajero desde un punto de origen a un destino.                                                                      |
-| Fare                                     | Monto acordado entre pasajero y conductor antes de iniciar el viaje.                                                                               |
-| Negotiation                               | Proceso mediante el cual pasajero y conductor acuerdan la tarifa del viaje.                                                           |
-| Ride Request                                  | Solicitud inicial del pasajero para encontrar un conductor disponible.                                                            |
-| Acceptance                              | Acción del conductor al aceptar una solicitud de viaje.                                                                               |
-| Counteroffer                   | Propuesta alternativa de tarifa realizada por el conductor.
-| Peripheral Area                  | Zona geográfica con baja cobertura de transporte formal.
-| Ride History                   | Registro de viajes realizados por el usuario dentro de la plataforma.
-| Rating                   | Evaluación que realiza el pasajero o conductor después de un viaje.
+
+| Term (EN)       | Definición (ES)                                                             |
+| --------------- | --------------------------------------------------------------------------- |
+| Passenger       | Persona que solicita un servicio de transporte mediante la plataforma.      |
+| Driver          | Mototaxista o persona que ofrece el servicio de transporte.                 |
+| Ride            | Trayecto solicitado por el pasajero desde un punto de origen a un destino.  |
+| Fare            | Monto acordado entre pasajero y conductor antes de iniciar el viaje.        |
+| Negotiation     | Proceso mediante el cual pasajero y conductor acuerdan la tarifa del viaje. |
+| Ride Request    | Solicitud inicial del pasajero para encontrar un conductor disponible.      |
+| Acceptance      | Acción del conductor al aceptar una solicitud de viaje.                     |
+| Counteroffer    | Propuesta alternativa de tarifa realizada por el conductor.                 |
+| Peripheral Area | Zona geográfica con baja cobertura de transporte formal.                    |
+| Ride History    | Registro de viajes realizados por el usuario dentro de la plataforma.       |
+| Rating          | Evaluación que realiza el pasajero o conductor después de un viaje.         |
