@@ -267,8 +267,8 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
   </tr>
   <tr>
     <td align='center'>
-      <a href="[LINK_ENTREVISTA_1]" target="_blank">
-        <img src="Resources/[IMAGEN_ENTREVISTA_1].png" alt="Primera entrevista del segundo segmento" width="150">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQBKFPAfIzczTo3_8oPqYhwCAUel6q27FjKYxx35O2p8ug8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=H4pljz" target="_blank">
+        <img src="Resources/entrevistas/u20241a911_Mototaxista_Jhonny.png" alt="Primera entrevista del segundo segmento" width="150">
       </a>
     </td>
     <td align='center'>
@@ -284,13 +284,13 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
   </tr>
   <tr>
     <td valign="top">
-      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
-      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
-      <b>Edad:</b> [Edad] años <br>
-      <b>Distrito:</b> [Distrito] <br>
-      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
-      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
-      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+      <b>Entrevistador:</b> Eduardo Manuel Aguirre Ramos <br>
+      <b>Entrevistado:</b> Jhonny Jesus Ramos Sandoval <br>
+      <b>Edad:</b> 43 años <br>
+      <b>Distrito:</b> Villa María del Triunfo<br>
+      <b>Inicio de la entrevista:</b> 0:16 <br><br>
+      <b>Resumen:</b> En la entrevista se presenta a un adulto de 43 años que tiene aproximadamente 20 años de experiencia en ese sector, menciono que tiene dificultades <br><br>
+      <b>Perfil del entrevistado:</b> Hombre de 43 años que reside en Lima por Villa Maria del Triunfo y cuenta con 20 años de experiencia en ese sector por 20 años
     </td>
     <td valign="top">
       <b>Entrevistador:</b> Andy Saúl Pillaca Gonzalles <br>
