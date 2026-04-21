@@ -272,12 +272,12 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
       </a>
     </td>
     <td align='center'>
-      <a href="[LINK_ENTREVISTA_2]" target="_blank">
-        <img src="Resources/[IMAGEN_ENTREVISTA_2].png" alt="Segunda entrevista del segundo segmento" width="150">
+      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FU202418823%5FMototaxista%5FArturo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea22c3202%2Db3fd%2D4b03%2D8315%2De50cb9756816" target="_blank">
+        <img src="Resources/entrevistas/u202418823_Mototaxista_Arturo.png" alt="Segunda entrevista del segundo segmento" width="150">
       </a>
     </td>
     <td align='center'>
-      <a href="[LINK_ENTREVISTA_3]" target="_blank">
+      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2Fu201916755%5FMototaxi%5FCarlos%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E999c3f21%2Df161%2D4548%2D9b24%2Ddd7866993c05" target="_blank">
         <img src="Resources/entrevistas/u201916755_Mototaxi_Carlos.png" alt="Tercera entrevista del segundo segmento" width="150">
       </a>
     </td>
@@ -293,13 +293,13 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
       <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
     </td>
     <td valign="top">
-      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
-      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
-      <b>Edad:</b> [Edad] años <br>
-      <b>Distrito:</b> [Distrito] <br>
-      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
-      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
-      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+      <b>Entrevistador:</b> Andy Saúl Pillaca Gonzalles <br>
+      <b>Entrevistado:</b> Arturo Nuñez <br>
+      <b>Edad:</b> 23 años <br>
+      <b>Distrito:</b> Lima <br>
+      <b>Inicio de la entrevista:</b> 00:00 <br><br>
+      <b>Resumen:</b> El entrevistado, joven de 23 años con experiencia de aproximadamente un año y medio como conductor de mototaxi en chincha, describió su trabajo como una actividad común entre personas de sus edad y una fuente importante de independiencia económica. Señaló que las principales dificultades incluye la alta compentencia entre conductores, la irregularidad de los ingresos, el mal estado de las vías y la inseguridad, especialmente en horarios nocturnos. Explicó que conseguía pasajeros principalmente en zonas de alta afluencia como mercados, colegios y avenidas, además de contar con algunos clientes recurrentes. Respecto al uso de aplicaciones, mostró una actitud positiva, destacando beneficios como la optimización del tiempo, mayor seguridad y posibilidad de recibir solicitudes directamente. También manifestó interés en funciones como negociación de tarifas dentro de la app, visualización de zonas de alta demanda en tiempo resal, integración de pagos digitales y sistemas de calificación. Finalmente, indicó que usaría una aplicación como Chapa Tu Ruta siempre que sea fácil de usar, tenga suficiente demanda, garantice seguridad y mantenga comisiones accesibles.<br><br>
+      <b>Perfil del entrevistado:</b> Hombre joven de 23 años, actualmente residente en Lima y originario de Chincha. Cuenta con experiencia previa como conductor de mototaxi durante aproximadamente un año y medio, actividad que desempeñó como principal fuente de ingresos. Vive con su padre y posee conocimientos básicos en el uso de tecnología móvil. Representa a un segmento de conductores que buscan independencia económica y están abiertos a adoptar soluciones digitales que optimicen su tiempo, mejoren su seguridad y aumenten sus oportunidades de ingreso.
     </td>
     <td valign="top">
       <b>Entrevistador:</b> Sebastian Aiquipa Poma <br>
@@ -314,7 +314,7 @@ El entrevistado, conductor de mototaxi con 8 años de experiencia en Villa El Sa
   </tr>
 </table>
 
-Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmento 02- Conductores</a>
+Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta&ga=1" target="_blank">Segmento 02- Conductores</a>
 
 Más informacion en Anexo A.
 
