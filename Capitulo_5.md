@@ -63,5 +63,72 @@
 </table>
 
 ### 5.1.2 Source Code Management
+Para la gestión del código fuente del proyecto, el equipo utiliza la plataforma GitHub como sistema de control de versiones. A continuación, se detallan los repositorios correspondientes a cada componente del sistema:
+
+Landing Page: [Link Landing Page](https://github.com/tu-org/landing-page)
+Web Services: [Link Web Services](https://github.com/tu-org/backend-services)
+Frontend Web Application: [Link Frontend Web](https://github.com/tu-org/frontend-app)
+
+En el repositorio de Web Services se incluyen tanto el código fuente como las pruebas unitarias y de aprobación y aceptación.
+
+#### GitFlow Workflow
+Nuestro equipo adopta el modelo de ramificación GitFlow, propuesto por Vincent Driessen, para organizar nuestro desarrollo del proyecto.
+
+Las ramas principales son:
+
+**main**: Contiene el código estable listo para producción y establecer como la version final de nuestro informe .
+**develop**: Rama principal de desarrollo donde se integran las funcionalidades antes de su liberación.
+
+Ramas de soporte:
+
+- **feature/**: Para el desarrollo de nuevas funcionalidades.
+Convención: `feature/<nombre-descriptivo>`
+Ejemplo: `feature/Chapter5-SourceCode`
+- **release/**: Para preparar nuevas versiones del sistema.
+Convención: `release/<versión>`
+Ejemplo: `release/1.0.0`
+- **hotfix/**: Para correcciones urgentes en producción.
+Convención: `hotfix/<descripción>`
+Ejemplo: `hotfix/fix-login-error`
+
+Flujo de trabajo:
+
+- Las features se crean desde `develop` y se integran nuevamente en esta rama  mediante Pull Requests.
+- Las ramas `release` se crean desde `develop` y luego se fusionan en `main` y `develop`.
+- Los `hotfix` se crean desde `main` y se integran tanto en `main` como en `develop`.
+
+#### Versionado Semántico
+
+El proyecto utiliza el estándar Semantic Versioning 2.0.0 para el control de versiones:
+
+- **MAJOR**: Cambios incompatibles
+- **MINOR**: Nuevas funcionalidades compatibles
+- **PATCH**: Correcciones menores
+
+Formato: vX.Y.Z
+Ejemplo: v1.2.3
+
+#### Conventional Commits
+
+Se emplea el estándar Conventional Commits para los mensajes de commit, con el fin de mantener un historial claro y facilitar la integración continua.
+
+**Formato**:
+
+`[type]: [description]`
+
+Tipos más utilizados:
+
+- **feat**: Nueva funcionalidad
+- **fix**: Corrección de errores
+- **chore**: Tareas de mantenimiento
+- **docs**: Cambios en documentación
+
+Ejemplos:
+
+- feat: add user authentication
+- fix: resolve API timeout issue
+- chore: update dependencies
+
+
 ### 5.1.3 Source Code Style Guide & Conventions
 ### 5.1.4 Software Deployment Configuration
