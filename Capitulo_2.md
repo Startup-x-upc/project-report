@@ -289,8 +289,8 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
       <b>Edad:</b> 43 años <br>
       <b>Distrito:</b> Villa María del Triunfo<br>
       <b>Inicio de la entrevista:</b> 0:16 <br><br>
-      <b>Resumen:</b> En la entrevista se presenta a un adulto de 43 años que tiene aproximadamente 20 años de experiencia en ese sector, menciono que tiene dificultades <br><br>
-      <b>Perfil del entrevistado:</b> Hombre de 43 años que reside en Lima por Villa Maria del Triunfo y cuenta con 20 años de experiencia en ese sector por 20 años
+      <b>Resumen:</b> En la entrevista se presenta a un adulto de 43 años que tiene aproximadamente 20 años de experiencia en ese sector, menciono que tiene dificultades a encontrar personas, además del tráfico congestionado que se genera en Lima y los posibles peligros que generan otros vehiculos que circulan vayan a grandes velocidades, menciono el deseo de incluir en ChapaTuRuta puntos estratégico donde se concentre un gran número de persona, además refuerza la idea de no estar rondando o dando vueltas a esperar a un pasajero que tenga interes en ir sino ir directamente al punto y recoger al que pidio el servicio.<br><br>
+      <b>Perfil del entrevistado:</b> Hombre de 43 años que reside en Lima por Villa Maria del Triunfo y cuenta con 20 años de experiencia en ese sector, busca la ayuda para facilitar el trabajo que hace dia a dia, cuenta con mototaxi y cuenta con un móbil,además de ello siente temor al hacer su labor diaria y encontrarse con conductores impurendentes y no poder sostener a su familia.
     </td>
     <td valign="top">
       <b>Entrevistador:</b> Andy Saúl Pillaca Gonzalles <br>
