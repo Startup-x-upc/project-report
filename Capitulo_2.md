@@ -209,8 +209,8 @@
   </tr>
   <tr>
     <td align='center'>
-      <a href="[LINK_ENTREVISTA_1]" target="_blank">
-        <img src="Resources/[IMAGEN_ENTREVISTA_1].png" alt="Primera entrevista del primer segmento" width="150">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQCmXEuLne2lTZsZnWYzY_9gAUFseCBoR-M_F5l_kv8R3z0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PqFbEC" target="_blank">
+        <img src="Resources/entrevistas/u20241a911_Pasajero_Antony.png" alt="Primera entrevista del primer segmento" width="150">
       </a>
     </td>
     <td align='center'>
@@ -226,13 +226,14 @@
   </tr>
   <tr>
     <td valign="top">
-      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
-      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
-      <b>Edad:</b> [Edad] años <br>
-      <b>Distrito:</b> [Distrito] <br>
-      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
-      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
-      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+      <b>Entrevistador:</b> Eduardo Manuel Aguirre Ramos <br>
+      <b>Entrevistado:</b> Antony Rodrigo Quito Ancasy<br>
+      <b>Edad:</b> 20 años <br>
+      <b>Distrito:</b> Chorrillos <br>
+      <b>Inicio de la entrevista:</b> 1:18 <br><br>
+      <b>Resumen:</b> El entrevistado, joven de 20 años relató su experiencia sobre las mototaxis en la zona de Chorrillos,en el cual compartio sus dificultades tanto por el lado del precio como tambien el de no saber si el conductor pueda tener precaución al conducir además de ello aclaro que lo que priorizaria en una app de transporte seria ver el perfil del conductor para no tomar riesgos al pedir un viaje.
+      <br><br>
+      <b>Perfil del entrevistado:</b>Hombre de 20 años que reside en Lima por el distrito de Chorrillos, ha vivido toda su vida alli y menciona que mayormente para transportarse a diferentes zonas pide mototaxi regularmente, además menciona problemas que le sucede dia a dia como el tener que "regatear" precios ademas de miedo por tener que subirse a una mototaxi la cual el conductor para ahorrar tiempo se metio en contra de la ruta y puso en peligro al pasajero.
     </td>
     <td valign="top">
       <b>Entrevistador:</b> [Nombre Entrevistador] <br>
@@ -289,7 +290,7 @@ Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmen
       <b>Edad:</b> 43 años <br>
       <b>Distrito:</b> Villa María del Triunfo<br>
       <b>Inicio de la entrevista:</b> 0:16 <br><br>
-      <b>Resumen:</b> En la entrevista se presenta a un adulto de 43 años que tiene aproximadamente 20 años de experiencia en ese sector, menciono que tiene dificultades a encontrar personas, además del tráfico congestionado que se genera en Lima y los posibles peligros que generan otros vehiculos que circulan vayan a grandes velocidades, menciono el deseo de incluir en ChapaTuRuta puntos estratégico donde se concentre un gran número de persona, además refuerza la idea de no estar rondando o dando vueltas a esperar a un pasajero que tenga interes en ir sino ir directamente al punto y recoger al que pidio el servicio.<br><br>
+      <b>Resumen:</b> En la entrevista se presenta a un adulto de 43 años que tiene aproximadamente 20 años de experiencia en ese sector, indicó que tiene dificultades a encontrar personas, además del tráfico congestionado que se genera en Lima y los posibles peligros que generan otros vehiculos que circulan vayan a grandes velocidades, mencionoó el deseo de incluir en ChapaTuRuta puntos estratégico donde se concentre un gran número de persona, además refuerza la idea de no estar rondando o dando vueltas a esperar a un pasajero que tenga interes en ir sino ir directamente al punto y recoger al que pidio el servicio.<br><br>
       <b>Perfil del entrevistado:</b> Hombre de 43 años que reside en Lima por Villa Maria del Triunfo y cuenta con 20 años de experiencia en ese sector, busca la ayuda para facilitar el trabajo que hace dia a dia, cuenta con mototaxi y cuenta con un móbil,además de ello siente temor al hacer su labor diaria y encontrarse con conductores impurendentes y no poder sostener a su familia.
     </td>
     <td valign="top">
