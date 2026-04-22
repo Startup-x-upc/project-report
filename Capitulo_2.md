@@ -214,13 +214,13 @@
       </a>
     </td>
     <td align='center'>
-      <a href="[LINK_ENTREVISTA_2]" target="_blank">
-        <img src="Resources/[IMAGEN_ENTREVISTA_2].png" alt="Segunda entrevista del primer segmento" width="150">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAJRzJWsrYgQqENPUqhEN0RAXHT1EyZJLQRC1_SWpPcmrM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aW3d7L" target="_blank">
+        <img src="Resources/entrevistas/U202322952_Pasajero_Hairo.png" alt="Segunda entrevista del primer segmento" width="150">
       </a>
     </td>
     <td align='center'>
-      <a href="[LINK_ENTREVISTA_3]" target="_blank">
-        <img src="Resources/[IMAGEN_ENTREVISTA_3].png" alt="Tercera entrevista del primer segmento" width="150">
+      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FU20221F734%5FPasajero%5FArio%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8b926e8c%2D061d%2D495c%2Dac2c%2D1fe27cbfc8b2" target="_blank">
+        <img src="Resources/entrevistas/U20221F734_Pasajero_Ario.png" alt="Tercera entrevista del primer segmento" width="150">
       </a>
     </td>
   </tr>
@@ -236,27 +236,29 @@
       <b>Perfil del entrevistado:</b>Hombre de 20 años que reside en Lima por el distrito de Chorrillos, ha vivido toda su vida alli y menciona que mayormente para transportarse a diferentes zonas pide mototaxi regularmente, además menciona problemas que le sucede dia a dia como el tener que "regatear" precios ademas de miedo por tener que subirse a una mototaxi la cual el conductor para ahorrar tiempo se metio en contra de la ruta y puso en peligro al pasajero.
     </td>
     <td valign="top">
-      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
-      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
-      <b>Edad:</b> [Edad] años <br>
-      <b>Distrito:</b> [Distrito] <br>
-      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
-      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
-      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+      <b>Entrevistador:</b> Jesús Iván Castillo Vidal <br>
+      <b>Entrevistado:</b> Hairo Antony Cadillo Leon <br>
+      <b>Edad:</b> 22 años <br>
+      <b>Distrito:</b> Carhuaz <br>
+      <b>Inicio de la entrevista:</b> 00:25 <br><br>
+      <b>Resumen:</b> Hombre de 22 años que reside en el distrito de Carhuaz, donde ha vivido toda su vida. Menciona que utiliza mototaxis con regularidad para desplazarse a diferentes zonas y resalta los problemas diarios a los que se enfrenta, como la necesidad de "regatear" las tarifas. Asimismo, expresa el temor que le genera subir a este tipo de transporte, recordando ocasiones en las que el conductor, por intentar ahorrar tiempo, manejó en sentido contrario a la ruta permitida, poniendo en riesgo su seguridad como pasajero.
+      <br><br>
+      <b>Perfil del entrevistado:</b>Es un hombre de 22 años que reside en el distrito de Carhuaz, donde ha vivido toda su vida. Menciona que utiliza mototaxis con regularidad para desplazarse a diferentes zonas y resalta los problemas diarios a los que se enfrenta, como la necesidad de "regatear" las tarifas. Asimismo, expresa el temor que le genera subir a este tipo de transporte, recordando ocasiones en las que el conductor, por intentar ahorrar tiempo, manejó en sentido contrario a la ruta permitida, poniendo en riesgo su seguridad como pasajero.
     </td>
     <td valign="top">
-      <b>Entrevistador:</b> [Nombre Entrevistador] <br>
-      <b>Entrevistado:</b> [Nombre Entrevistado] <br>
-      <b>Edad:</b> [Edad] años <br>
-      <b>Distrito:</b> [Distrito] <br>
-      <b>Inicio de la entrevista:</b> [Minuto de Inicio] <br><br>
-      <b>Resumen:</b> [Escribe el resumen de la entrevista aquí...]<br><br>
-      <b>Perfil del entrevistado:</b> [Escribe el perfil del entrevistado aquí...]
+      <b>Entrevistador:</b> Dalila Torres <br>
+      <b>Entrevistado:</b> Ario Chavez <br>
+      <b>Edad:</b> 22 años <br>
+      <b>Distrito:</b> Huaraz <br>
+      <b>Inicio de la entrevista:</b> 1:49 <br><br>
+      <b>Resumen:</b> El entrevista Ario indica que en Huaraz si hay muchas mototaxis y que la mayoría de personas las utilizan para transporte público, que existen grupos de WhatsApp donde se coordinan los viajes y que los conductores son independientes. <br>
+      <br>
+      <b>Perfil del entrevistado:</b> Es un hombre de 22 años que reside en el distrito de Huaraz, donde menciona que es una ciudad turística y que hay mucha afluencia de personas, además menciona que las mototaxis son el principal medio de transporte público y que la mayoría de personas las utilizan para desplazarse a diferentes zonas y resalta los problemas diarios a los que se enfrenta, como la necesidad de "regatear" las tarifas. Asimismo, expresa el temor que le genera subir a este tipo de transporte, recordando ocasiones en las que el conductor, por intentar ahorrar tiempo, manejó en sentido contrario a la ruta permitida, poniendo en riesgo su seguridad como pasajero.
     </td>
   </tr>
 </table>
 
-Link de entrevistas: <a href="[LINK_CARPETA_ENTREVISTAS]" target="_blank">Segmento 01- Pasajeros</a>
+Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta&ga=1" target="_blank">Segmento 01- Pasajeros</a>
 
 #### 2. Segundo Segmento Objetivo: Conductores
 
