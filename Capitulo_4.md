@@ -32,6 +32,8 @@ nombre "ChapaTuRuta" en tipografía sans-serif, donde la palabra "Tu"
 resalta en amarillo para generar énfasis en la personalización del servicio.
 El conjunto transmite dinamismo, proximidad y funcionalidad.
 
+![Logo - Branding](Resources/style-guidelines/logo.jpeg)
+
 **Typography**
 
 La tipografía elegida para _Chapa Tu Ruta_ es **Poppins**, disponible a
@@ -58,6 +60,8 @@ la lectura. Para el cuerpo de texto se elige un tamaño que equilibre
 comodidad visual y densidad de información, considerando que la mayoría
 de usuarios accederán desde dispositivos móviles de gama media.
 
+![Tipografía - Poppins](Resources/style-guidelines/typography.png)
+
 **Colors**
 
 La paleta de colores de _Chapa Tu Ruta_ está compuesta por cuatro colores
@@ -81,6 +85,8 @@ Para textos sobre fondos claros se utiliza el gris carbón (`#1C1C1E`),
 garantizando legibilidad sin el contraste agresivo del negro puro. Los
 fondos generales de pantalla emplean el blanco suave (`#F5F5F5`) para
 reducir la fatiga visual en sesiones prolongadas.
+
+![Paleta de colores - Chapa Tu Ruta](Resources/style-guidelines/palet-colors.png)
 
 **Spacing**
 
@@ -194,6 +200,8 @@ WCAG AA. Los componentes son navegables por teclado y los formularios
 incluyen atributos ARIA para garantizar compatibilidad con lectores de
 pantalla. El tamaño mínimo de fuente en web es de 14px para asegurar la
 legibilidad en distintas condiciones de uso.
+
+![Web Style Guidelines](Resources/style-guidelines/web-style.png)
 
 ## 4.2 Information Architecture
 
@@ -452,13 +460,79 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.6.2 Software Architecture Context Diagram
 
-<img src="./Resources/domain-drivenSoftware/ContextDiagram.png">
+![Diagrama de Contexto - Chapa Tu Ruta](Resources/domain-drivenSoftware/DDD-v2/ContextDiagramv2.png)
+
+### Actores
+
+| Actor             | Rol                                                                            | Interacción principal                                                                  |
+| ----------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| **Pasajero**      | Usuario final que solicita servicios de mototaxi en zonas periféricas de Lima. | Solicita viajes desde la aplicación web, realiza pagos y califica al mototaxista.      |
+| **Mototaxista**   | Conductor independiente afiliado a la plataforma.                              | Recibe solicitudes de viaje, navega la ruta, cobra el servicio y califica al pasajero. |
+| **Administrador** | Personal interno del equipo operativo.                                         | Gestiona usuarios, configura tarifas, atiende incidencias y consulta reportes.         |
+
+### Sistemas externos
+
+| Sistema externo                    | Propósito de la integración                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Google Maps Platform**           | Provee mapas, geocodificación (dirección ↔ coordenadas) y cálculo de rutas con tiempos estimados de viaje.          |
+| **Google OAuth 2.0**               | Proveedor de identidad que permite el inicio de sesión federado, reduciendo la fricción en el registro de usuarios. |
+| **Culqi**                          | Pasarela de pagos local que procesa transacciones con tarjeta de crédito y débito dentro del mercado peruano.       |
+| **Twilio**                         | Envío de códigos OTP vía SMS para verificación de números telefónicos durante el registro y autenticación.          |
+| **Firebase Cloud Messaging (FCM)** | Envío de notificaciones push en tiempo real a pasajeros y mototaxistas.                                             |
 
 ### 4.6.3 Software Architecture Container Diagrams
 
-<img src="./Resources/domain-drivenSoftware/containerDiagram.png">
+![Diagrama de Contenedores - Chapa Tu Ruta](Resources/domain-drivenSoftware/DDD-v2/ContainerDiagramv2.png)
+
+### Contenedores del sistema
+
+| Contenedor                           | Tecnología              | Responsabilidad                                                                                                                                  |
+| ------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Landing page**                     | HTML / CSS / JavaScript | Sitio web estático con información del producto y call-to-action por segmento objetivo.                                                          |
+| **Web application**                  | Angular                 | Aplicación web responsiva para pasajeros y mototaxistas. Permite solicitar viajes, visualizar el mapa, gestionar pagos y consultar el historial. |
+| **Panel de administración**          | Angular                 | Interfaz web para el equipo operativo. Permite gestionar usuarios, configurar tarifas y consultar reportes.                                      |
+| **Identidad y Acceso**               | Spring Boot · Java      | Gestiona el registro, autenticación y perfiles de los usuarios de la plataforma.                                                                 |
+| **Gestión de Viajes**                | Spring Boot · Java      | Controla el ciclo de vida completo de un viaje: solicitud, aceptación, inicio y finalización.                                                    |
+| **Geolocalización y Notificaciones** | Spring Boot · Java      | Gestiona la ubicación en tiempo real y el envío de notificaciones push.                                                                          |
+| **Tarifas y Calificaciones**         | Spring Boot · Java      | Calcula tarifas por zona y distancia, y gestiona las calificaciones post-viaje.                                                                  |
+| **Historial y Administración**       | Spring Boot · Java      | Registra eventos de viajes y provee reportería para el equipo operativo.                                                                         |
+| **Base de datos**                    | MySQL                   | Almacena de forma persistente los datos de todos los bounded contexts del sistema.                                                               |
+
+### Flujos de comunicación
+
+Los clientes (Web Application y Panel de administración) se comunican con cada bounded context del backend exclusivamente mediante llamadas HTTPS con intercambio de datos en formato JSON. Cada bounded context del RESTful API accede a la Base de datos a través de Spring Data JPA / Hibernate. Los sistemas externos (Google Maps, Google OAuth, Culqi, Twilio y Firebase Cloud Messaging) son consumidos directamente por los bounded contexts que los necesitan según su responsabilidad funcional.Sonnet 4.6Adaptive
 
 ### 4.6.4 Software Architecture Components Diagrams
+
+### Bounded Context 1: Gestión de Identidad y Acceso
+
+Este bounded context gestiona el registro, autenticación y perfiles de todos los usuarios de la plataforma. `UserController` recibe las solicitudes desde la Web Application y el Panel de Administración, y las delega a `UserService`, que contiene la lógica de negocio. `UserService` se apoya en `JwtUtil` para generar y validar tokens JWT de autenticación stateless, en **Google OAuth 2.0** para validar identidades federadas, y en **Twilio** para el envío de códigos OTP de verificación telefónica. `UserRepository` persiste los datos en la tabla `users` de la base de datos.
+
+![Diagrama de Componentes - BC1: Identidad y Acceso](Resources/domain-drivenSoftware/DDD-v2/ComponentDiagram_BC1.png)
+
+### Bounded Context 2: Gestión de Viajes
+
+Este bounded context controla el ciclo de vida completo de un viaje. `TripController` recibe las solicitudes de la Web Application para crear, aceptar, iniciar, completar o cancelar viajes, y las delega a `TripService`. Este servicio orquesta las transiciones de estado del viaje coordinando con los bounded contexts de Tarifas, Geolocalización y Notificaciones a través de inyección de dependencias. `TripRepository` persiste los datos en las tablas `trips` y `trip_requests` de la base de datos.
+
+![Diagrama de Componentes - BC2: Gestión de Viajes](Resources/domain-drivenSoftware/DDD-v2/ComponentDiagram_BC2.png)
+
+### Bounded Context 3: Geolocalización y Notificaciones
+
+Este bounded context gestiona la ubicación en tiempo real de los usuarios y el despacho de notificaciones push. `LocationController` recibe actualizaciones de posición desde la Web Application y las delega a `LocationService`, que mantiene la posición activa de cada usuario. Cuando ocurre un evento relevante (solicitud de viaje, aceptación, llegada), `LocationService` delega en `NotificationService` el envío de alertas, el cual se comunica con **Firebase Cloud Messaging** para entregar la notificación al dispositivo del usuario. `GoogleMapsAdapter` encapsula las llamadas HTTP a la API de **Google Maps** para el cálculo de rutas y geocodificación. `LocationRepository` persiste los datos en la tabla `locations`.
+
+![Diagrama de Componentes - BC3: Geolocalización y Notificaciones](Resources/domain-drivenSoftware/DDD-v2/ComponentDiagram_BC3.png)
+
+### Bounded Context 4: Tarifas y Calificaciones
+
+Este bounded context es responsable del cálculo de tarifas por zona y distancia, y de la gestión de calificaciones post-viaje entre usuarios. `FareController` expone los endpoints para consultar y configurar tarifas, mientras que `RatingController` expone los endpoints para crear y consultar calificaciones. `FareService` aplica la fórmula `total = baseRate + (ratePerKm × distanceKm)` usando los datos de la zona geográfica e integra con **Culqi** para el procesamiento de pagos. `RatingService` gestiona la creación de calificaciones validando que el puntaje esté entre 1 y 5, y calcula el puntaje promedio por usuario. `FareRepository` y `RatingRepository` persisten los datos en las tablas `fares`, `fare_zones` y `ratings` de la base de datos.
+
+![Diagrama de Componentes - BC4: Tarifas y Calificaciones](Resources/domain-drivenSoftware/DDD-v2/ComponentDiagram_BC4.png)
+
+### Bounded Context 5: Historial y Administración
+
+Este bounded context registra los eventos del ciclo de vida de cada viaje y provee capacidades de reportería para el equipo operativo. `HistoryController` expone los endpoints para consultar el historial de viajes y generar reportes administrativos. `TripHistoryService` persiste cada transición de estado de un viaje como un log inmutable en la tabla `trip_history`. `AdminReportService` genera reportes agregados de viajes diarios, ingresos y actividad de usuarios para el Panel de Administración, almacenándolos en la tabla `admin_reports`.
+
+![Diagrama de Componentes - BC5: Historial y Administración](Resources/domain-drivenSoftware/DDD-v2/ComponentDiagram_BC5.png)
 
 ## 4.7 Software Object-Oriented Design
 
@@ -471,3 +545,11 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ### 4.8.1 Database Diagrams
 
 ![Database Diagram - Chapa Tu Ruta](Resources/database/databaseDiagram.png)
+
+**Descripción por bounded context**
+
+**Identidad y Acceso**. `roles` define los tres tipos de usuario (PASSENGER, DRIVER, ADMIN). `users` almacena los datos de todos los usuarios del sistema y referencia a roles mediante clave foránea.
+**Gestión de Viajes**. `trip_requests` registra las solicitudes de viaje antes de que sean aceptadas por un conductor. `trips` almacena los viajes activos y completados, referenciando al pasajero, conductor y tarifa aplicada.
+**Geolocalización y Notificaciones**. `locations` mantiene una fila por usuario activo con su última posición conocida (relación uno a uno con `users`). `notifications` registra todas las notificaciones enviadas, vinculadas a un usuario y opcionalmente a un viaje.
+**Tarifas y Calificaciones**. `fare_zones` define las zonas geográficas de operación. `fares` almacena la estructura tarifaria por zona (tarifa base + tarifa por kilómetro). `ratings` registra las calificaciones post-viaje con claves foráneas al viaje, al calificador y al calificado.
+**Historial y Administración**. `trip_history` registra cada evento del ciclo de vida de un viaje como un log inmutable. `admin_reports` almacena los reportes generados por el equipo operativo.
