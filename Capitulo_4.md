@@ -493,8 +493,9 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Driver Management Flows](./Resources/design%20level%20event%20storming/01_big_picture/2%20_%20DRIVER%20MANAGEMENT%202.jpg)
 
+##### Ride Dispatch
 
-
+![Ride Dispatch Flows](./Resources/design%20level%20event%20storming/01_big_picture/3%20_%20Ride%20Dispatch%202.jpg)
 
 
 
