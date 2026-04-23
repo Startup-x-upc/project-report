@@ -192,11 +192,12 @@
 
 ## Student Outcome
 
-ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3
 
-| Criterio                                                                                        | Acciones realizadas | Conclusiones |
+| Criterio Específico                                                                                       | Acciones realizadas | Conclusiones |
 | ----------------------------------------------------------------------------------------------- | ------------------- | ------------ |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta.                                |                     |              |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. |                     |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.                                | **Aguirre Ramos, Eduardo Manuel**<br>**AV1:**<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:** <br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** <br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** <br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:**                     |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |  **Aguirre Ramos, Eduardo Manuel**<br>**AV1:**<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:** <br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** <br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** <br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:**                   |              |
 
 </div>
