@@ -131,4 +131,85 @@ Ejemplos:
 
 
 ### 5.1.3 Source Code Style Guide & Conventions
+#### Landing Page Style Guide & Conventions
+
+##### Project Structure
+
+```
+/public        (images, favicon, manifest.json)
+/src
+    /css         (styles.css + partials/modules)
+    /js            (main.js + modules)
+    /components    (HTML fragments if needed)
+    /index.html
+```
+##### General Conventions
+
+- All identifiers (variables, functions, classes, files) must be written in **English**.
+- File naming uses **kebab-case** (e.g., `user-profile.js`).
+- Conventions are based on:
+  - Google HTML/CSS Style Guide
+  - Google JavaScript Style Guide
+- These conventions ensure maintainability, scalability, and team consistency.
+
+###### HTML
+
+- **Semantics first**: use `header`, `nav`, `main`, `section`, `article`, `footer`.
+- **Accessibility (a11y)**:
+  - Add `alt` text to images.
+  - Use `aria-*` attributes for dynamic components.
+  - Maintain logical tab order in the DOM.
+  - Always show a visible focus state.
+- **SEO**:
+  - Include `<title>` and `<meta name="description">`.
+  - Add Open Graph / Twitter meta tags.
+  - Set `lang="en"` (or appropriate language) on `<html>`.
+- **Performance**:
+  - Use `loading="lazy"` on `<img>`.
+  - Minimize inline CSS/JS.
+- **Conventions**:
+  - Use **kebab-case** for class names.
+  - Use `id` only for JS hooks or anchors, not for styling.
+
+###### CSS
+
+- **Naming**: Follow **BEM methodology** → `.block__element--modifier`.
+- **Variables**: Define tokens in `:root`:
+  ```css
+  :root {
+    --color-primary: #0ea5e9;
+    --color-secondary: #64748b;
+    --font-base: 1rem;
+  }
+  ```
+- **Architecture**:
+  - Separate utilities (spacing, grid) and components (buttons, cards).
+- **Responsive**:
+  - Mobile-first approach with `min-width` breakpoints.
+  - Common breakpoints: 480px, 768px, 1024px, 1280px.
+- **Typography & spacing**:
+  - Use `rem` for scalability.
+  - Avoid hard-coded magic numbers.
+- **States**:
+  - Define consistent `:hover`, `:focus-visible`, and `:disabled`.
+- **Property order**:
+  - Group logically: Layout → Box Model → Typography → Visual → Misc.
+
+###### JavaScript
+
+- **Structure**:
+  - Modular design; keep one `main.js` entry point.
+  - Use ES Modules (`import/export`) when possible.
+  - Split reusable logic into separate modules.
+- **Conventions**:
+  - Use **camelCase** for variables/functions.
+  - Use **PascalCase** for classes/constructors.
+  - Constants in `UPPER_CASE`.
+- **Best Practices**:
+  - Prefer `const` and `let` over `var`.
+  - Add comments for non-trivial logic.
+  - Keep DOM selectors cached.
+  - Use `addEventListener` (avoid inline `onclick`).
+  - Wrap code in IIFEs or modules to avoid global leaks.
+  - Handle errors using try/catch when necessary.
 ### 5.1.4 Software Deployment Configuration
