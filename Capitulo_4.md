@@ -494,6 +494,14 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![](./Resources/design%20level%20event%20storming/4%20_%20TRUST%20AND%20REPUTATION%202.jpg)
 
 
+#### MONETIZATION
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/5%20_%20MONETIZATION%201.jpg)
+
+#### Flows
+![](./Resources/design%20level%20event%20storming/5%20_%20MONETIZATION%202.jpg)
+
 
 
 
