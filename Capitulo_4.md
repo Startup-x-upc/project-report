@@ -459,7 +459,7 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.6.1 Design-Level EventStorming
 
-#### Bounded Contexts (Big Picture)
+#### Big Picture
 
 ##### IAM
 
@@ -506,7 +506,7 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/5%20_%20Planning.jpg)
 
 
-#### Business Capabilities
+#### Tactical Design
 
 ##### IAM
 
@@ -528,6 +528,10 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Community & Trust Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/5%20_%20Community%20&%20Trust.jpg)
 
+
+#### DDD Context Map
+
+![IAM Capabilities](./Resources/design%20level%20event%20storming/04_context_map.jpg/ddd-context-map.jpg)
 
 
 ### 4.6.2 Software Architecture Context Diagram
