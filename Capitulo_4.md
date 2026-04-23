@@ -506,6 +506,15 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/5%20_%20Planning.jpg)
 
 
+#### Business Capabilities
+
+##### IAM
+
+![IAM Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/1%20_%20IAM.jpg)
+
+
+
+
 
 
 ### 4.6.2 Software Architecture Context Diagram
