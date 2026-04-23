@@ -473,6 +473,9 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Ride Dispatch Context](./Resources/design%20level%20event%20storming/01_big_picture/3%20_%20Ride%20Dispatch%201.jpg)
 
+##### Trust & Reputation
+
+![Trust & Reputation Context](./Resources/design%20level%20event%20storming/01_big_picture/4%20_%20TRUST%20AND%20REPUTATION%201.jpg)
 
 
 
