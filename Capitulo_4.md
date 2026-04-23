@@ -501,6 +501,11 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Trust & Reputation Flows](./Resources/design%20level%20event%20storming/01_big_picture/4%20_%20TRUST%20AND%20REPUTATION%202.jpg)
 
+##### Monetization
+
+![Monetization Flows](./Resources/design%20level%20event%20storming/01_big_picture/5%20_%20MONETIZATION%202.jpg)
+
+
 
 
 ### 4.6.2 Software Architecture Context Diagram
