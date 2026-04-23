@@ -477,6 +477,9 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Trust & Reputation Context](./Resources/design%20level%20event%20storming/01_big_picture/4%20_%20TRUST%20AND%20REPUTATION%201.jpg)
 
+##### Monetization
+
+![Monetization Context](./Resources/design%20level%20event%20storming/01_big_picture/5%20_%20MONETIZATION%201.jpg)
 
 
 
