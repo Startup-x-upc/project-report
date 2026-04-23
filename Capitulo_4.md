@@ -524,7 +524,9 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Payments Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/4%20_%20Payments.jpg)
 
+##### Community & Trust
 
+![Community & Trust Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/5%20_%20Community%20&%20Trust.jpg)
 
 
 
