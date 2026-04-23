@@ -465,3 +465,5 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ## 4.8 Database Design
 
 ### 4.8.1 Database Diagrams
+
+![Database Diagram - Chapa Tu Ruta](Resources/database/databaseDiagram.png)
