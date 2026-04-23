@@ -213,3 +213,65 @@ Ejemplos:
   - Wrap code in IIFEs or modules to avoid global leaks.
   - Handle errors using try/catch when necessary.
 ### 5.1.4 Software Deployment Configuration
+#### 1. Landing Page – HTML, CSS y JavaScript
+
+**Repositorio de Código Fuente**
+La Landing Page se implementa empleando HTML, CSS y JavaScript. El proyecto se almacena en GitHub, colocando el archivo `index.html` en la raíz del repositorio (/), lo cual permite su reconocimiento automático por GitHub Pages.
+
+**Activación de GitHub Pages**
+1. Acceder al repositorio en GitHub.
+2. Ir a Settings.
+3. Seleccionar Pages.
+4. Configurar:
+   - Rama: main
+   - Carpeta: / (root)
+5. Guardar cambios.
+
+**Publicación**
+GitHub genera automáticamente una URL pública:
+
+`https://<usuario>.github.io/<repositorio>/`
+
+**Actualizaciones**  
+Cada commit en la rama `main` se despliega automáticamente.
+
+---
+
+#### 2. Frontend Web Application – Angular
+
+**Production Build**
+El frontend se construye usando Angular CLI:
+
+`ng build --configuration production`
+
+Esto genera archivos optimizados en la carpeta `/dist`.
+
+**Despliegue**
+- Se utiliza una plataforma como **Netlify** o **Vercel**.
+- Se sube la carpeta /dist.
+- Se configura soporte para SPA (Single Page Application).
+
+---
+
+#### 3. Backend – REST API (Spring Boot)
+
+**Build Process**  
+El backend se empaqueta en un archivo .jar:
+
+`./mvnw clean package`
+
+**Deployment Process**
+- Se utiliza una plataforma cloud (Render, Railway, etc.).
+- Se ejecuta con:
+
+`java -jar app.jar`
+
+- Se configuran variables de entorno (puerto, base de datos, API keys).
+
+---
+
+#### 4. Consideraciones Generales
+
+- Se utilizan variables de entorno para datos sensibles.
+- Cada componente se despliega de forma independiente.
+- El sistema permite actualizaciones continuas mediante commits.
