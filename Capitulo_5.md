@@ -399,7 +399,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 #### 5.2.1.3. Sprint Backlog 1
 
-<img src="./Resources/trello/sprint1_trello.png">
+<img src="./Resources/sprint_1/sprint1_trello.png">
 
 <a href="https://trello.com/b/uGr6OQCE/sprint-1">Sprint 1 Trello</a>
 
@@ -510,10 +510,77 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
+A continuación, se presenta la tabla de evidencia de desarrollo correspondiente al Sprint 1. Este registro detalla el historial de commits en el repositorio de la Landing Page (`Startup-x-upc/landing-page`). A través de estas contribuciones, se observa el progreso secuencial del desarrollo: desde la configuración inicial y estructuración base en HTML/CSS, pasando por la implementación modular de cada sección (Hero, Beneficios, Testimonios, Sobre el Equipo, Tarifas, etc.), hasta la consolidación de estos cambios en la rama `main`.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| --- | --- | --- | --- | --- | --- |
+| Startup-x-upc/landing-page | main | 6c79239 | Merge pull request #4 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #4 from Startup-x-upc/develop | 23/04/2026 |
+| Startup-x-upc/landing-page | main | cbf4003 | refactor: Making adjustment to some code and bad typing | Se refactorizó el código: refactor: Making adjustment to some code and bad typing | 23/04/2026 |
+| Startup-x-upc/landing-page | main | cdb9910 | Merge origin/feature/pricing-LandingPage | Se integraron los cambios de la rama: Merge origin/feature/pricing-LandingPage | 23/04/2026 |
+| Startup-x-upc/landing-page | main | c434cb0 | feat:merge dooter | Se implementó nueva funcionalidad: feat:merge dooter | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 8f4a71e | add testimonials section css | Se implementó nueva funcionalidad: add testimonials section css | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 27adc96 | add third testimonial card | Se implementó nueva funcionalidad: add third testimonial card | 23/04/2026 |
+| Startup-x-upc/landing-page | main | a89967b | add second testimonial card | Se implementó nueva funcionalidad: add second testimonial card | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 9f2ec09 | add first testimonial card | Se implementó nueva funcionalidad: add first testimonial card | 23/04/2026 |
+| Startup-x-upc/landing-page | main | ae13a3a | add testimonials section structure | Se implementó nueva funcionalidad: add testimonials section structure | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 4e70565 | add header css styles | Se implementó nueva funcionalidad: add header css styles | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 83c053a | add cta buttons and register link in nav | Se implementó nueva funcionalidad: add cta buttons and register link in nav | 23/04/2026 |
+| Startup-x-upc/landing-page | main | f5f59c4 | add navigation links list | Se implementó nueva funcionalidad: add navigation links list | 23/04/2026 |
+| Startup-x-upc/landing-page | main | cfce958 | add navigation skeleton with mobile header | Se implementó nueva funcionalidad: add navigation skeleton with mobile header | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 6369b06 | add hamburger menu toggle button | Se implementó nueva funcionalidad: add hamburger menu toggle button | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 10294ce | add header container and logo | Se implementó nueva funcionalidad: add header container and logo | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 88da902 | feat:Added footer to Index and Style | Se implementó nueva funcionalidad: feat:Added footer to Index and Style | 23/04/2026 |
+| Startup-x-upc/landing-page | main | f6a6bb3 | Merge pull request #3 from Startup-x-upc/feature/about-team-section | Se integraron los cambios de la rama: Merge pull request #3 from Startup-x-upc/feature/about-team-section | 23/04/2026 |
+| Startup-x-upc/landing-page | main | df6d57b | feat: add images about the team | Se implementó nueva funcionalidad: feat: add images about the team | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 7486a72 | feat: About team section CSS added | Se implementó nueva funcionalidad: feat: About team section CSS added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 61a97fc | feat: About team section HTML added | Se implementó nueva funcionalidad: feat: About team section HTML added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 198216d | Merge pull request #2 from Startup-x-upc/feature/how-it-works-section | Se integraron los cambios de la rama: Merge pull request #2 from Startup-x-upc/feature/how-it-works-section | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 67a4904 | feat: How it works section CSS added | Se implementó nueva funcionalidad: feat: How it works section CSS added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 17f363b | feat: How it works section HTML added | Se implementó nueva funcionalidad: feat: How it works section HTML added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 4e2cd95 | feat(landing): add benefits section with passenger and driver cards | Se implementó nueva funcionalidad: feat(landing): add benefits section with passenger and driver cards | 23/04/2026 |
+| Startup-x-upc/landing-page | main | feeb217 | feat(landing): add benefits section with passenger and driver cards | Se implementó nueva funcionalidad: feat(landing): add benefits section with passenger and driver cards | 23/04/2026 |
+| Startup-x-upc/landing-page | main | e7f4725 | feat:Added Pricing to index and style | Se implementó nueva funcionalidad: feat:Added Pricing to index and style | 23/04/2026 |
+| Startup-x-upc/landing-page | main | a877a62 | feat: General style guidelines | Se implementó nueva funcionalidad: feat: General style guidelines | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 28faa73 | feat: Responsive General style added | Se implementó nueva funcionalidad: feat: Responsive General style added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 3c63786 | feat: CTA section CSS added | Se implementó nueva funcionalidad: feat: CTA section CSS added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | ce6f48e | feat: CTA section HTML added | Se implementó nueva funcionalidad: feat: CTA section HTML added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | bd1c6b7 | feat: Hero section CSS added | Se implementó nueva funcionalidad: feat: Hero section CSS added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | fea63a5 | feat: Hero section HTML added | Se implementó nueva funcionalidad: feat: Hero section HTML added | 23/04/2026 |
+| Startup-x-upc/landing-page | main | 7f4d8ae | feat: Base html and css structure, planificaton for the whole landing page structure | Se implementó nueva funcionalidad: feat: Base html and css structure, planificaton for the whole landing page structure | 23/04/2026 |
+| Startup-x-upc/landing-page | main | ef29364 | chore: Initial setup | Se realizaron cambios relacionados con: chore: Initial setup | 23/04/2026 |
+El análisis de este historial refleja un flujo de trabajo estructurado y colaborativo. Se destaca la adopción de buenas prácticas, como el uso de ramas para nuevas características (features), la integración mediante Pull Requests y el uso de convenciones en los mensajes de commit (feat, chore, refactor). Esto ha permitido una integración continua eficiente, garantizando que el entregable de la Landing Page cumpla con los objetivos y el alcance definidos en el Sprint Planning 1.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+<img src="./Resources/sprint_1/evidence_1.png">
+<img src="./Resources/sprint_1/evidence_2.png">
+<img src="./Resources/sprint_1/evidence_3.png">
+<img src="./Resources/sprint_1/evidence_4.png">
+<img src="./Resources/sprint_1/evidence_5.png">
+<img src="./Resources/sprint_1/evidence_6.png">
+<img src="./Resources/sprint_1/evidence_7.png">
+<img src="./Resources/sprint_1/evidence_8.png">
+<img src="./Resources/sprint_1/evidence_9.png">
+<img src="./Resources/sprint_1/evidence_10.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint se completó el diseño e implementación de la Landing Page del sistema, el cual forma parte del acceso inicial al sistema. Aunque no se implementaron endpoints tradicionales de tipo REST en este sprint, se documenta a continuación la URL del recurso publicado, junto con evidencia de despliegue, interacción y commits relacionados.
+
+**Descripción del Logro:**
+- Implementación de la Landing Page estática.
+- Deployment de la Landing Page.
+
+**Recursos del Sprint:**
+
+| Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
+| --- | --- | --- | --- | --- |
+| Landing Page | Visualización inicial | GET | [startup-x-upc.github.io/landing-page](https://startup-x-upc.github.io/landing-page/) | [Startup-x-upc/landing-page](https://github.com/Startup-x-upc/landing-page) |
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<img src="./Resources/sprint_1/landing_1.png">
+<img src="./Resources/sprint_1/landing_2.png">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<img src="./Resources/sprint_1/contribuitors.png">
