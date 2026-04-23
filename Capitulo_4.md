@@ -512,7 +512,9 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![IAM Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/1%20_%20IAM.jpg)
 
+##### Vehicle Catalog
 
+![Vehicle Catalog Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/2%20_%20Vehicle%20Catalog.jpg)
 
 
 
