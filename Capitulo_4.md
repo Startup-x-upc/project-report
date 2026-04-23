@@ -483,6 +483,14 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 
 
+#### Process Flows
+
+##### IAM
+
+![IAM Flows](./Resources/design%20level%20event%20storming/01_big_picture/1%20_%20IAM%202.jpg)
+
+
+
 
 
 
