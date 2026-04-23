@@ -459,84 +459,53 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.6.1 Design-Level EventStorming
 
-#### Big Picture
+#### IAM
 
-##### IAM
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/1%20_%20IAM%201.jpg)
+#### Flows
+![](./Resources/design%20level%20event%20storming/1%20_%20IAM%202.jpg)
 
-![IAM Context](./Resources/design%20level%20event%20storming/01_big_picture/1%20_%20IAM%201.jpg)
 
-##### Driver Management
+#### IAM
 
-![Driver Management Context](./Resources/design%20level%20event%20storming/01_big_picture/2%20_%20DRIVER%20MANAGEMENT%201.jpg)
+##### Brainstorming
 
-##### Ride Dispatch
-
-![Ride Dispatch Context](./Resources/design%20level%20event%20storming/01_big_picture/3%20_%20Ride%20Dispatch%201.jpg)
-
-##### Trust & Reputation
-
-![Trust & Reputation Context](./Resources/design%20level%20event%20storming/01_big_picture/4%20_%20TRUST%20AND%20REPUTATION%201.jpg)
-
-##### Monetization
-
-![Monetization Context](./Resources/design%20level%20event%20storming/01_big_picture/5%20_%20MONETIZATION%201.jpg)
+#### Flows
 
 
 
-#### Process Flows
 
-##### IAM
+#### IAM
 
-![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/1%20_%20IAM.jpg)
+##### Brainstorming
 
-##### Subscriptions
-
-![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/2%20_%20Suscriptions.jpg)
-
-##### Fleet
-
-![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/3%20_%20Fleet.jpg)
-
-##### CRM
-
-![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/4%20_%20CMR.jpg)
-
-##### Planning
-
-![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/5%20_%20Planning.jpg)
+#### Flows
 
 
-#### Tactical Design
 
-##### IAM
+#### IAM
 
-![IAM Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/1%20_%20IAM.jpg)
+##### Brainstorming
 
-##### Vehicle Catalog
-
-![Vehicle Catalog Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/2%20_%20Vehicle%20Catalog.jpg)
-
-##### Booking & Reservations
-
-![Booking & Reservations Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/3%20_%20Booking%20&%20Reservations.jpg)
-
-##### Payments
-
-![Payments Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/4%20_%20Payments.jpg)
-
-##### Community & Trust
-
-![Community & Trust Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/5%20_%20Community%20&%20Trust.jpg)
+#### Flows
 
 
-#### DDD Context Map
 
-![IAM Capabilities](./Resources/design%20level%20event%20storming/04_context_map.jpg/ddd-context-map.jpg)
+#### IAM
+
+##### Brainstorming
+
+#### Flows
 
 
-### 4.6.2 Software Architecture Context Diagram
 
-![Diagrama de Contexto - Chapa Tu Ruta](Resources/domain-drivenSoftware/DDD-v2/ContextDiagramv2.png)
+#### IAM
+
+##### Brainstorming
+
+#### Flows
+
 
 ### Actores
 
