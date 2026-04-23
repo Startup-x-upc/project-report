@@ -463,40 +463,11 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ##### IAM
 
-*Actores, agregados, comandos, eventos y consultas del contexto de Identity & Access Management.*
-
 ![IAM Context](./Resources/design%20level%20event%20storming/01_big_picture/1%20_%20IAM%201.jpg)
 
 ##### Driver Management
 
-*Actores, agregados y comandos para la gestión de conductores.*
-
 ![Driver Management Context](./Resources/design%20level%20event%20storming/01_big_picture/2%20_%20DRIVER%20MANAGEMENT%201.jpg)
-
-
-##### Ride Dispatch
-
-*Actores, agregados, comandos, eventos y consultas del contexto de asignación de viajes.*
-
-![Ride Dispatch Context](./Resources/design%20level%20event%20storming/01_big_picture/3%20_%20Ride%20Dispatch%201.jpg)
-
-
-##### Trust & Reputation
-
-*Actores, agregados, comandos, eventos y consultas del contexto de reputación.*
-
-![Trust & Reputation Context](./Resources/design%20level%20event%20storming/01_big_picture/4%20_%20TRUST%20AND%20REPUTATION%201.jpg)
-
-##### Monetization
-
-*Actores, agregados, comandos, eventos y consultas del contexto de monetización.*
-
-![Monetization Context](./Resources/design%20level%20event%20storming/01_big_picture/5%20_%20MONETIZATION%201.jpg)
-
-
-
-
-
 
 
 
