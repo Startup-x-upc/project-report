@@ -487,23 +487,23 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ##### IAM
 
-![IAM Flows](./Resources/design%20level%20event%20storming/01_big_picture/1%20_%20IAM%202.jpg)
+![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/1%20_%20IAM.jpg)
 
-##### Driver Management
+##### Subscriptions
 
-![Driver Management Flows](./Resources/design%20level%20event%20storming/01_big_picture/2%20_%20DRIVER%20MANAGEMENT%202.jpg)
+![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/2%20_%20Suscriptions.jpg)
 
-##### Ride Dispatch
+##### Fleet
 
-![Ride Dispatch Flows](./Resources/design%20level%20event%20storming/01_big_picture/3%20_%20Ride%20Dispatch%202.jpg)
+![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/3%20_%20Fleet.jpg)
 
-##### Trust & Reputation
+##### CRM
 
-![Trust & Reputation Flows](./Resources/design%20level%20event%20storming/01_big_picture/4%20_%20TRUST%20AND%20REPUTATION%202.jpg)
+![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/4%20_%20CMR.jpg)
 
-##### Monetization
+##### Planning
 
-![Monetization Flows](./Resources/design%20level%20event%20storming/01_big_picture/5%20_%20MONETIZATION%202.jpg)
+![Monetization Context](./Resources/design%20level%20event%20storming/02_process_flow/5%20_%20Planning.jpg)
 
 
 
