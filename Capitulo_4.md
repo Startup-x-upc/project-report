@@ -467,44 +467,18 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![](./Resources/design%20level%20event%20storming/1%20_%20IAM%202.jpg)
 
 
-#### IAM
+#### DRIVER MANAGEMENT
 
 ##### Brainstorming
+![](./Resources/design%20level%20event%20storming/2%20_%20DRIVER%20MANAGEMENT%201.jpg)
 
 #### Flows
+![](./Resources/design%20level%20event%20storming/2%20_%20DRIVER%20MANAGEMENT%202.jpg)
 
 
 
 
-#### IAM
 
-##### Brainstorming
-
-#### Flows
-
-
-
-#### IAM
-
-##### Brainstorming
-
-#### Flows
-
-
-
-#### IAM
-
-##### Brainstorming
-
-#### Flows
-
-
-
-#### IAM
-
-##### Brainstorming
-
-#### Flows
 
 
 ### Actores
