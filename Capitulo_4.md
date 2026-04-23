@@ -503,6 +503,10 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![](./Resources/design%20level%20event%20storming/5%20_%20MONETIZATION%202.jpg)
 
 
+### 4.6.2 Software Architecture Context Diagram
+
+![Diagrama de Contexto - Chapa Tu Ruta](Resources/domain-drivenSoftware/DDD-v2/ContextDiagramv2.png)
+
 
 
 ### Actores
