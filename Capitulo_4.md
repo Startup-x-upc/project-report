@@ -476,6 +476,14 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![](./Resources/design%20level%20event%20storming/2%20_%20DRIVER%20MANAGEMENT%202.jpg)
 
 
+#### RIDE DISPATCH
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/3%20_%20Ride%20Dispatch%201.jpg)
+
+#### Flows
+![](./Resources/design%20level%20event%20storming/3%20_%20Ride%20Dispatch%202.jpg)
+
 
 
 
