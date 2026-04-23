@@ -74,8 +74,11 @@
 <div style="page-break-after: always;"></div>
 
 ## Project Report Collaboration Insights
+Para el desarrollo del Project Report, se utilizó un repositorio dentro de la organización del equipo en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente, en coherencia con el Registro de Versiones del Informe.
 
-## TB1
+Repositorio del informe del proyecto: <a href="https://github.com/Startup-x-upc/landing-page">https://github.com/Startup-x-upc/landing-page</a>
+
+## AV1
 
 <div style="page-break-after: always;"></div>
 
