@@ -323,6 +323,12 @@ Más informacion en Anexo A.
 
 ### 2.2.3. Análisis de entrevistas
 
+**Pasajeros**
+Los tres pasajeros entrevistados coinciden en que el uso de mototaxis es habitual en sus zonas de residencia, ya sea en Lima o en ciudades como Carhuaz y Huaraz. Entre las principales problemáticas identificadas destacan la inseguridad durante el viaje, la imprevisibilidad en las tarifas y la falta de información sobre el conductor. Dos de los entrevistados mencionaron experiencias negativas relacionadas con conductores que priorizaban la velocidad sobre la seguridad, lo que generó desconfianza hacia el servicio. En cuanto a las expectativas frente a una aplicación, los pasajeros priorizaron la visibilidad del perfil del conductor como mecanismo para reducir el riesgo percibido. Adicionalmente, se identificó que en algunas zonas como Huaraz ya existen mecanismos informales de coordinación de viajes mediante grupos de WhatsApp, lo que sugiere una disposición latente hacia herramientas digitales de transporte.
+
+**Conductores**
+Los tres conductores entrevistados, con experiencias que van desde un año y medio hasta veinte años en el sector, comparten dificultades estructurales similares: la búsqueda ineficiente de pasajeros, la alta competencia en paraderos, la inseguridad en horarios nocturnos y la irregularidad de los ingresos. Los conductores con más experiencia, tanto en Lima como en Villa El Salvador, destacaron el tiempo perdido circulando sin pasajeros como uno de sus principales problemas operativos, y manifestaron interés en contar con puntos estratégicos de recogida o mapas de demanda en tiempo real. Los tres mostraron una actitud positiva frente al uso de una aplicación, valorando especialmente funciones como la negociación de tarifas dentro de la plataforma, la visualización de zonas de alta demanda, los sistemas de calificación y la identificación de pasajeros como medida de seguridad. Coincidieron en que adoptarían Chapa Tu Ruta siempre que sea intuitiva, tenga comisiones accesibles y cuente con suficiente base de usuarios.
+
 ## 2.3 Need finding
 
 ### 2.3.1. User Personas
