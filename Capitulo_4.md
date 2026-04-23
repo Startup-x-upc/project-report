@@ -439,9 +439,86 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ## 4.3 Landing Page UI Design
 
 ### 4.3.1 Landing Page Wireframe
+**-Landing Page**
+<br>
+**1. Header / Navbar section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/header-landing-wireframe.png)
+
+**2. Hero + CTA section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/hero-cta-landing-wireframe.png)
+
+**3. How it works section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/how-it-works-section-landing-wireframe.png)
+
+**4. Benefits section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/benefits-landing-wireframe.png)
+
+**5. Pricing section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/tarifas-landing-wireframe.png)
+
+**6. Testimonials section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/testimonios-landing-wireframe.png)
+
+**7. About team section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/about-team-landing-wireframe.png)
+
+**8. About product section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/about-product-wireframe.png)
+
+**9. CTA final section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/CTA-final-wireframe.png)
+
+**10. Footer section**
+<br>
+
+![alt text](Resources/landing-page-wireframes/footer-wireframe.png)
+
+
+**-Mobile Web Browser**
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser1.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser2.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser3.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser4.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser5.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser6.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser7.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser8.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser9.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser10.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser11.png)
 
 ### 4.3.2 Landing Page Mock-up
 **-Landing Page**
+<br>
 **1. Header / Navbar section**
 <br>
 
@@ -493,57 +570,30 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![alt text](Resources/landing-page-mockup/footer-landing-mockup1.png)
 
 
-
 **-Mobile Web Browser**
-**1. Header / Navbar section**
-<br>
 
-![alt text](Resources/landing-page-wireframes/header-landing-wireframe.png)
-
-**2. Hero + CTA section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/hero-cta-landing-wireframe.png)
-
-**3. How it works section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/how-it-works-section-landing-wireframe.png)
-
-**4. Benefits section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/benefits-landing-wireframe.png)
-
-**5. Pricing section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/tarifas-landing-wireframe.png)
-
-**6. Testimonials section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/testimonios-landing-wireframe.png)
-
-**7. About team section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/about-team-landing-wireframe.png)
-
-**8. About product section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/about-product-wireframe.png)
-
-**9. CTA final section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/CTA-final-wireframe.png)
-
-**10. Footer section**
-<br>
-
-![alt text](Resources/landing-page-wireframes/footer-wireframe.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser1.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser2.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser3.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser4.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser5.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser6.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser7.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser8.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser9.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser10.png)
+<br><br>
+![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser11.png)
 
 
 ## 4.4 Web Applications UX/UI Design
