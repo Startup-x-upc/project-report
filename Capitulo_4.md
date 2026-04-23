@@ -520,6 +520,12 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Booking & Reservations Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/3%20_%20Booking%20&%20Reservations.jpg)
 
+##### Payments
+
+![Payments Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/4%20_%20Payments.jpg)
+
+
+
 
 
 ### 4.6.2 Software Architecture Context Diagram
