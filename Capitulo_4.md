@@ -510,23 +510,23 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ##### IAM
 
-![IAM Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/1%20_%20IAM.jpg)
+![IAM Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/1%20_%20IAM.jpg)
 
 ##### Vehicle Catalog
 
-![Vehicle Catalog Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/2%20_%20Vehicle%20Catalog.jpg)
+![Vehicle Catalog Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/2%20_%20Vehicle%20Catalog.jpg)
 
 ##### Booking & Reservations
 
-![Booking & Reservations Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/3%20_%20Booking%20&%20Reservations.jpg)
+![Booking & Reservations Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/3%20_%20Booking%20&%20Reservations.jpg)
 
 ##### Payments
 
-![Payments Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/4%20_%20Payments.jpg)
+![Payments Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/4%20_%20Payments.jpg)
 
 ##### Community & Trust
 
-![Community & Trust Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/5%20_%20Community%20&%20Trust.jpg)
+![Community & Trust Capabilities](./Resources/design%20level%20event%20storming/03_tactical_design/5%20_%20Community%20&%20Trust.jpg)
 
 
 #### DDD Context Map
