@@ -516,6 +516,9 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Vehicle Catalog Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/2%20_%20Vehicle%20Catalog.jpg)
 
+##### Booking & Reservations
+
+![Booking & Reservations Capabilities](./Resources/design%20level%20event%20storming/03_business_capabilities/3%20_%20Booking%20&%20Reservations.jpg)
 
 
 
