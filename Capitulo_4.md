@@ -485,6 +485,14 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![](./Resources/design%20level%20event%20storming/3%20_%20Ride%20Dispatch%202.jpg)
 
 
+#### TRUST AND REPUTATION
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/4%20_%20TRUST%20AND%20REPUTATION%201.jpg)
+
+#### Flows
+![](./Resources/design%20level%20event%20storming/4%20_%20TRUST%20AND%20REPUTATION%202.jpg)
+
 
 
 
