@@ -10,11 +10,11 @@
 
 <p align="center"><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
 
- <p align="center"><strong>NRC:</strong>2610</p>
+ <p align="center"><strong>NRC:</strong> 10155</p>
 
- <p align="center"><strong>Profesor:</strong>Hugo Allan Mori Paiva</p>
+ <p align="center"><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
 
-  <p align="center"><strong>StartUp:</strong></p>
+  <p align="center"><strong>StartUp:</strong> CTR Technologies</p>
 
   <p align="center"><strong>Producto:</strong> Chapa Tu Ruta</p><br><br>
 
@@ -44,16 +44,12 @@
 <td>Pillaca Gonzales, Andy Saúl</td>
 </tr>
 <tr>
-<td>U202115277</td>
-<td>Delgado Perez, James Caleb</td>
-</tr>
-<tr>
 <td>u201916755</td>
 <td>Aiquipa Poma, Sebastian Andres</td>
 </tr>
 </table>
 <br><br>
-<div align="center"> Septiembre 2025 </div>
+<div align="center"> Abril 2026 </div>
 </div>
 
 <div style="page-break-after: always;"></div>
