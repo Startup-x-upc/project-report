@@ -2,7 +2,8 @@
 
 ## 2.1 Competidores
 
-### 2.1.1. Análisis competitivo 
+### 2.1.1. Análisis competitivo
+
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
   <!-- Título principal -->
   <tr>
@@ -24,7 +25,7 @@
   <tr>
     <th colspan="2" style="width:20%">(En la cabecera colocar por cada competidor nombre y logo)</th>
     <th style="width:20%">
-      <img src="./Resources/inDriveogo.jpg" alt="ChapaTuRuta" width="100" height="50">
+      <img src="./Resources/chapaTuRuta.jpg" alt="ChapaTuRuta" width="100" height="50">
     </th>
     <th style="width:20%">
       <img src="./Resources/inDriveLogo.jpg" alt="inDrive" width="100" height="50">
@@ -133,7 +134,6 @@
   Adicionalmente, la geolocalización en tiempo real permitirá al usuario visualizar la ubicación del conductor cercano, estimar su tiempo de llegada y realizar un seguimiento básico del recorrido, lo cual reduce la incertidumbre propia del transporte informal. A ello se suma la visualización previa de la tarifa estimada o negociada antes de iniciar el viaje, funcionalidad clave para disminuir conflictos por cobros arbitrarios y mejorar la transparencia del servicio. Estas características no solo representan una ventaja competitiva frente a las alternativas actuales, sino que también contribuyen a formalizar progresivamente la experiencia de movilidad en mototaxi dentro de las ciudades objetivo.
 </p>
 
-
 ## 2.2 Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -174,7 +174,7 @@
 1. ¿Con qué frecuencia utilizas mototaxis o motos lineales?
 2. ¿Qué problemas has experimentado al usar estos servicios?
 3. ¿Cómo sueles acordar el precio de un viaje?
-4. ¿Qué factores consideras importantes al elegir un conductor?
+4. ¿Qué factores consideras importantes al elegir un mototaxista?
 5. ¿Te has sentido inseguro en algún viaje? ¿Por qué?
 6. ¿Qué te haría confiar en una aplicación de transporte?
 7. ¿Has utilizado aplicaciones como InDrive? ¿Cómo fue tu experiencia?
@@ -199,11 +199,144 @@
 
 ### 2.2.2. Registro de entrevistas
 
+#### 1. Primer Segmento Objetivo: Pasajeros
+
+<table style="width: 100%" align='center'>
+  <tr>
+    <th>Entrevistado 1</th>
+    <th>Entrevistado 2</th>
+    <th>Entrevistado 3</th>
+  </tr>
+  <tr>
+    <td align='center'>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQCmXEuLne2lTZsZnWYzY_9gAUFseCBoR-M_F5l_kv8R3z0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PqFbEC" target="_blank">
+        <img src="Resources/entrevistas/u20241a911_Pasajero_Antony.png" alt="Primera entrevista del primer segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAJRzJWsrYgQqENPUqhEN0RAXHT1EyZJLQRC1_SWpPcmrM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aW3d7L" target="_blank">
+        <img src="Resources/entrevistas/U202322952_Pasajero_Hairo.png" alt="Segunda entrevista del primer segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FU20221F734%5FPasajero%5FArio%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8b926e8c%2D061d%2D495c%2Dac2c%2D1fe27cbfc8b2" target="_blank">
+        <img src="Resources/entrevistas/U20221F734_Pasajero_Ario.png" alt="Tercera entrevista del primer segmento" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Entrevistador:</b> Eduardo Manuel Aguirre Ramos <br>
+      <b>Entrevistado:</b> Antony Rodrigo Quito Ancasy<br>
+      <b>Edad:</b> 20 años <br>
+      <b>Distrito:</b> Chorrillos <br>
+      <b>Inicio de la entrevista:</b> 1:18 <br><br>
+      <b>Resumen:</b> El entrevistado, joven de 20 años relató su experiencia sobre las mototaxis en la zona de Chorrillos,en el cual compartio sus dificultades tanto por el lado del precio como tambien el de no saber si el conductor pueda tener precaución al conducir además de ello aclaro que lo que priorizaria en una app de transporte seria ver el perfil del conductor para no tomar riesgos al pedir un viaje.
+      <br><br>
+      <b>Perfil del entrevistado:</b>Hombre de 20 años que reside en Lima por el distrito de Chorrillos, ha vivido toda su vida alli y menciona que mayormente para transportarse a diferentes zonas pide mototaxi regularmente, además menciona problemas que le sucede dia a dia como el tener que "regatear" precios ademas de miedo por tener que subirse a una mototaxi la cual el conductor para ahorrar tiempo se metio en contra de la ruta y puso en peligro al pasajero.
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> Jesús Iván Castillo Vidal <br>
+      <b>Entrevistado:</b> Hairo Antony Cadillo Leon <br>
+      <b>Edad:</b> 22 años <br>
+      <b>Distrito:</b> Carhuaz <br>
+      <b>Inicio de la entrevista:</b> 00:25 <br><br>
+      <b>Resumen:</b> Hombre de 22 años que reside en el distrito de Carhuaz, donde ha vivido toda su vida. Menciona que utiliza mototaxis con regularidad para desplazarse a diferentes zonas y resalta los problemas diarios a los que se enfrenta, como la necesidad de "regatear" las tarifas. Asimismo, expresa el temor que le genera subir a este tipo de transporte, recordando ocasiones en las que el conductor, por intentar ahorrar tiempo, manejó en sentido contrario a la ruta permitida, poniendo en riesgo su seguridad como pasajero.
+      <br><br>
+      <b>Perfil del entrevistado:</b>Es un hombre de 22 años que reside en el distrito de Carhuaz, donde ha vivido toda su vida. Menciona que utiliza mototaxis con regularidad para desplazarse a diferentes zonas y resalta los problemas diarios a los que se enfrenta, como la necesidad de "regatear" las tarifas. Asimismo, expresa el temor que le genera subir a este tipo de transporte, recordando ocasiones en las que el conductor, por intentar ahorrar tiempo, manejó en sentido contrario a la ruta permitida, poniendo en riesgo su seguridad como pasajero.
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> Dalila Torres <br>
+      <b>Entrevistado:</b> Ario Chavez <br>
+      <b>Edad:</b> 22 años <br>
+      <b>Distrito:</b> Huaraz <br>
+      <b>Inicio de la entrevista:</b> 1:49 <br><br>
+      <b>Resumen:</b> El entrevista Ario indica que en Huaraz si hay muchas mototaxis y que la mayoría de personas las utilizan para transporte público, que existen grupos de WhatsApp donde se coordinan los viajes y que los conductores son independientes. <br>
+      <br>
+      <b>Perfil del entrevistado:</b> Es un hombre de 22 años que reside en el distrito de Huaraz, donde menciona que es una ciudad turística y que hay mucha afluencia de personas, además menciona que las mototaxis son el principal medio de transporte público y que la mayoría de personas las utilizan para desplazarse a diferentes zonas y resalta los problemas diarios a los que se enfrenta, como la necesidad de "regatear" las tarifas. Asimismo, expresa el temor que le genera subir a este tipo de transporte, recordando ocasiones en las que el conductor, por intentar ahorrar tiempo, manejó en sentido contrario a la ruta permitida, poniendo en riesgo su seguridad como pasajero.
+    </td>
+  </tr>
+</table>
+
+Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta&ga=1" target="_blank">Segmento 01- Pasajeros</a>
+
+#### 2. Segundo Segmento Objetivo: Conductores
+
+<table style="width: 100%" align='center'>
+  <tr>
+    <th>Entrevistado 1</th>
+    <th>Entrevistado 2</th>
+    <th>Entrevistado 3</th>
+  </tr>
+  <tr>
+    <td align='center'>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQBKFPAfIzczTo3_8oPqYhwCAUel6q27FjKYxx35O2p8ug8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=H4pljz" target="_blank">
+        <img src="Resources/entrevistas/u20241a911_Mototaxista_Jhonny.png" alt="Primera entrevista del segundo segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FU202418823%5FMototaxista%5FArturo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea22c3202%2Db3fd%2D4b03%2D8315%2De50cb9756816" target="_blank">
+        <img src="Resources/entrevistas/u202418823_Mototaxista_Arturo.png" alt="Segunda entrevista del segundo segmento" width="150">
+      </a>
+    </td>
+    <td align='center'>
+      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2Fu201916755%5FMototaxi%5FCarlos%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E999c3f21%2Df161%2D4548%2D9b24%2Ddd7866993c05" target="_blank">
+        <img src="Resources/entrevistas/u201916755_Mototaxi_Carlos.png" alt="Tercera entrevista del segundo segmento" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Entrevistador:</b> Eduardo Manuel Aguirre Ramos <br>
+      <b>Entrevistado:</b> Jhonny Jesus Ramos Sandoval <br>
+      <b>Edad:</b> 43 años <br>
+      <b>Distrito:</b> Villa María del Triunfo<br>
+      <b>Inicio de la entrevista:</b> 0:16 <br><br>
+      <b>Resumen:</b> En la entrevista se presenta a un adulto de 43 años que tiene aproximadamente 20 años de experiencia en ese sector, indicó que tiene dificultades a encontrar personas, además del tráfico congestionado que se genera en Lima y los posibles peligros que generan otros vehiculos que circulan vayan a grandes velocidades, mencionoó el deseo de incluir en ChapaTuRuta puntos estratégico donde se concentre un gran número de persona, además refuerza la idea de no estar rondando o dando vueltas a esperar a un pasajero que tenga interes en ir sino ir directamente al punto y recoger al que pidio el servicio.<br><br>
+      <b>Perfil del entrevistado:</b> Hombre de 43 años que reside en Lima por Villa Maria del Triunfo y cuenta con 20 años de experiencia en ese sector, busca la ayuda para facilitar el trabajo que hace dia a dia, cuenta con mototaxi y cuenta con un móbil,además de ello siente temor al hacer su labor diaria y encontrarse con conductores impurendentes y no poder sostener a su familia.
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> Andy Saúl Pillaca Gonzalles <br>
+      <b>Entrevistado:</b> Arturo Nuñez <br>
+      <b>Edad:</b> 23 años <br>
+      <b>Distrito:</b> Lima <br>
+      <b>Inicio de la entrevista:</b> 00:00 <br><br>
+      <b>Resumen:</b> El entrevistado, joven de 23 años con experiencia de aproximadamente un año y medio como conductor de mototaxi en chincha, describió su trabajo como una actividad común entre personas de sus edad y una fuente importante de independiencia económica. Señaló que las principales dificultades incluye la alta compentencia entre conductores, la irregularidad de los ingresos, el mal estado de las vías y la inseguridad, especialmente en horarios nocturnos. Explicó que conseguía pasajeros principalmente en zonas de alta afluencia como mercados, colegios y avenidas, además de contar con algunos clientes recurrentes. Respecto al uso de aplicaciones, mostró una actitud positiva, destacando beneficios como la optimización del tiempo, mayor seguridad y posibilidad de recibir solicitudes directamente. También manifestó interés en funciones como negociación de tarifas dentro de la app, visualización de zonas de alta demanda en tiempo resal, integración de pagos digitales y sistemas de calificación. Finalmente, indicó que usaría una aplicación como Chapa Tu Ruta siempre que sea fácil de usar, tenga suficiente demanda, garantice seguridad y mantenga comisiones accesibles.<br><br>
+      <b>Perfil del entrevistado:</b> Hombre joven de 23 años, actualmente residente en Lima y originario de Chincha. Cuenta con experiencia previa como conductor de mototaxi durante aproximadamente un año y medio, actividad que desempeñó como principal fuente de ingresos. Vive con su padre y posee conocimientos básicos en el uso de tecnología móvil. Representa a un segmento de conductores que buscan independencia económica y están abiertos a adoptar soluciones digitales que optimicen su tiempo, mejoren su seguridad y aumenten sus oportunidades de ingreso.
+    </td>
+    <td valign="top">
+      <b>Entrevistador:</b> Sebastian Aiquipa Poma <br>
+      <b>Entrevistado:</b> Carlos <br>
+      <b>Edad:</b> 48 años <br>
+      <b>Distrito:</b> Villa el Salvador <br>
+      <b>Inicio de la entrevista:</b> 0:14 <br><br>
+      <b>Resumen:</b>
+El entrevistado, conductor de mototaxi con 8 años de experiencia en Villa El Salvador, compartió las principales dificultades de su trabajo como la inseguridad y la competencia excesiva en los paraderos. Explicó que actualmente consigue pasajeros de forma pasiva y mediante WhatsApp, y expresó interés en una aplicación que le permita negociar tarifas, visualizar zonas de demanda y construir reputación a través de calificaciones. Indicó que adoptaría una app como Chapa Tu Ruta si es fácil de usar, tiene comisiones bajas y le ofrece mayor seguridad al identificar a los pasajeros.<br><br>
+      <b>Perfil del entrevistado:</b> Hombre de 48 años, residente de Villa El Salvador, conductor de mototaxi a tiempo completo desde hace 8 años. Cuenta con vehículo propio y un smartphone con manejo básico. Representa al segmento de conductores informales que buscan mejorar sus ingresos y seguridad laboral mediante herramientas digitales accesibles.
+    </td>
+  </tr>
+</table>
+
+Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta&ga=1" target="_blank">Segmento 02- Conductores</a>
+
+Más informacion en Anexo A.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3 Need finding
 
 ### 2.3.1. User Personas
+
+Para comprender mejor las necesidades y comportamientos de los usuarios de ChapaTuRuta, se elaboraron dos User Personas basados en los segmentos objetivo identificados en el proyecto: pasajeros y conductores de mototaxi en ciudades intermedias del Perú.
+
+Ana Flores representa a los pasajeros que utilizan el mototaxi como su principal medio de transporte diario. Reside en Huarmey y enfrenta de manera recurrente la incertidumbre sobre la disponibilidad del servicio, la variación de tarifas y la imposibilidad de verificar la identidad del conductor antes del abordaje.
+
+<img src="Resources/userPersona/AnaFlores_UserPersona.png" alt="Ana Flores"><br>
+
+<p>Luis Gutierrez representa a los conductores formales de mototaxi. Opera en Casma con licencia y SOAT vigentes, y su principal problemática es la falta de información sobre la demanda, lo que genera desplazamientos sin pasajero y una reducción en sus ingresos diarios.
+</p>
+
+<img src="Resources/userPersona/LuisGutiérrez_UserPersona.png" alt="Luis Gutierrez">
 
 ### 2.3.2. User Task Matrix
 
@@ -238,7 +371,7 @@ Los segmentos considerados para este análisis son:
 
 ### Análisis
 
-El **pasajero** concentra sus acciones en encontrar transporte de forma rápida y confiable. Sus tareas de mayor frecuencia e importancia giran en torno a solicitar el viaje, verificar el precio referencial y revisar el perfil del conductor antes de aceptar. La calificación post-viaje también es relevante porque alimenta el sistema de confianza de la plataforma, que es precisamente el diferenciador de ChapaTuRuta frente al contacto informal por WhatsApp.
+El **pasajero** concentra sus acciones en encontrar transporte de forma rápida y confiable. Sus tareas de mayor frecuencia e importancia giran en torno a solicitar el viaje, verificar el precio referencial y revisar el perfil del mototaxista antes de aceptar. La calificación post-viaje también es relevante porque alimenta el sistema de confianza de la plataforma, que es precisamente el diferenciador de ChapaTuRuta frente al contacto informal por WhatsApp.
 
 El **mototaxista** orienta su actividad a la gestión de su disponibilidad y la atención de carreras. Activarse en la plataforma y aceptar solicitudes son sus tareas más frecuentes e importantes, siendo estas el núcleo de su experiencia. La calificación que recibe de los pasajeros impacta directamente en su visibilidad dentro de la app, por lo que también tiene un peso significativo en su rutina.
 
@@ -246,7 +379,17 @@ Ambos perfiles coinciden en la importancia de **calificar al finalizar el viaje*
 
 ### 2.3.3. User Journey Mapping
 
+<img src="Resources/User Journey Mapping/User Journey Mapping 1.png">
+<br><br>
+<img src="Resources/User Journey Mapping/User Journey Mapping 2.png">
+
 ### 2.3.4. Empathy Mapping
+
+**Ana Flores**
+![empathy map ana flores](Resources/empathymapping/AnaFlores_EmpathyMapping.png)
+
+**Luis Gutiérrez**
+![empathy map luis gutierrez](Resources/empathymapping/LuisGutiérrez_UserMapping.png)
 
 ## 2.4 Big Picture Event Storming
 
@@ -281,16 +424,17 @@ Al completarse el viaje, el sistema registra el cobro de la tarifa y solicita la
 ![Post-viaje](Resources/eventStorming/post-trip.jpg)
 
 ## 2.5 Ubiquitous Language
-| Term (EN)                                         | Definición (ES)                                                                                                                                                            |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Passenger | Persona que solicita un servicio de transporte mediante la plataforma. |
-| Driver                                      | Mototaxista o persona que ofrece el servicio de transporte.                                                            |
-| Ride                                | Trayecto solicitado por el pasajero desde un punto de origen a un destino.                                                                      |
-| Fare                                     | Monto acordado entre pasajero y conductor antes de iniciar el viaje.                                                                               |
-| Negotiation                               | Proceso mediante el cual pasajero y conductor acuerdan la tarifa del viaje.                                                           |
-| Ride Request                                  | Solicitud inicial del pasajero para encontrar un conductor disponible.                                                            |
-| Acceptance                              | Acción del conductor al aceptar una solicitud de viaje.                                                                               |
-| Counteroffer                   | Propuesta alternativa de tarifa realizada por el conductor.
-| Peripheral Area                  | Zona geográfica con baja cobertura de transporte formal.
-| Ride History                   | Registro de viajes realizados por el usuario dentro de la plataforma.
-| Rating                   | Evaluación que realiza el pasajero o conductor después de un viaje.
+
+| Term (EN)       | Definición (ES)                                                             |
+| --------------- | --------------------------------------------------------------------------- |
+| Passenger       | Persona que solicita un servicio de transporte mediante la plataforma.      |
+| Driver          | Mototaxista o persona que ofrece el servicio de transporte.                 |
+| Ride            | Trayecto solicitado por el pasajero desde un punto de origen a un destino.  |
+| Fare            | Monto acordado entre pasajero y conductor antes de iniciar el viaje.        |
+| Negotiation     | Proceso mediante el cual pasajero y conductor acuerdan la tarifa del viaje. |
+| Ride Request    | Solicitud inicial del pasajero para encontrar un conductor disponible.      |
+| Acceptance      | Acción del conductor al aceptar una solicitud de viaje.                     |
+| Counteroffer    | Propuesta alternativa de tarifa realizada por el conductor.                 |
+| Peripheral Area | Zona geográfica con baja cobertura de transporte formal.                    |
+| Ride History    | Registro de viajes realizados por el usuario dentro de la plataforma.       |
+| Rating          | Evaluación que realiza el pasajero o conductor después de un viaje.         |

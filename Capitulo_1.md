@@ -18,39 +18,15 @@ Visión: Convertirnos en la plataforma de referencia para el transporte en motot
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-## James Caleb Delgado Pérez - U2021125277
-
-<img src="./assets/foto.jpeg" width="160">
-
-Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS,
-además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
-Me interesa especialmente el desarrollo frontend, así como el manejo de bases de datos y la construcción de aplicaciones web completas.
-Disfruto crear interfaces funcionales y accesibles que mejoren la experiencia del usuario. Actualmente participo en el desarrollo de un proyecto
-orientado al transporte en provincias, el cual representa una oportunidad clave para fortalecer mis habilidades y prepararme para el entorno laboral,
-aportando soluciones prácticas a problemas reales. Me considero una persona organizada, con alta capacidad de aprendizaje y
-comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que me ha permitido desarrollar disciplina, constancia y
-enfoque en mis objetivos.
-
-Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
-
 ## Jesús Iván Castillo Vidal - U202322952
 
-<img src="./assets/foto.jpeg" width="160">
+<img src="./Resources/capitulo_1/foto_jesus.jpg" width="160">
 
-Soy estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones web y soluciones digitales que generen impacto real. Me encuentro en constante aprendizaje de tecnologías como C#, Java, JavaScript, HTML y CSS,
-además de contar con conocimientos en C++ y fundamentos de diseño y patrones de software.
-Me interesa especialmente el desarrollo frontend, así como el manejo de bases de datos y la construcción de aplicaciones web completas.
-Disfruto crear interfaces funcionales y accesibles que mejoren la experiencia del usuario. Actualmente participo en el desarrollo de un proyecto
-orientado al transporte en provincias, el cual representa una oportunidad clave para fortalecer mis habilidades y prepararme para el entorno laboral,
-aportando soluciones prácticas a problemas reales. Me considero una persona organizada, con alta capacidad de aprendizaje y
-comprometida con el trabajo en equipo. Además, disfruto de los deportes, lo que me ha permitido desarrollar disciplina, constancia y
-enfoque en mis objetivos.
-
-Estoy enfocado en seguir creciendo profesionalmente y aplicar mis conocimientos en proyectos innovadores dentro del desarrollo de software.
+Soy estudiante de Ingeniería de Software y desarrollador full-stack orientado al emprendimiento. Tengo experiencia práctica liderando la creación de plataformas SaaS y sistemas de gestión enfocados en la transformación digital de negocios locales. Me especializo en llevar proyectos desde la arquitectura y el prototipado hasta el lanzamiento, utilizando tecnologías como Next.js, FastAPI y Tailwind CSS, etc. Siempre buscando crear soluciones tecnológicas escalables y centradas en el usuario.
 
 ## Andy Saúl Pillaca Gonzales - U202418823
 
-<img src="./assets/andy.png" width="160">
+<img src="./Resources/capitulo_1/foto_andy.png" width="160">
 
 Soy Andy Saúl Pillaca Gonzales, estudiante de la carrera de Ingeniería de Software, con gran interés en el desarrollo de soluciones tecnológicas innovadoras que contribuyan a resolver problemas reales. Me encuentro en constante proceso de aprendizaje y fortalecimiento de mis conocimientos en el área de programación y desarrollo de software.
 Poseo sólidos conocimientos en lenguajes de programación como C++ y Python, además de experiencia en el manejo de SQL, Excel, Power BI y mecanografía, herramientas que me permiten desarrollar soluciones eficientes, analizar información y optimizar procesos mediante el uso de datos.
@@ -58,9 +34,54 @@ Me interesa especialmente seguir ampliando mis habilidades en el desarrollo de s
 Entre mis principales habilidades destacan el trabajo en equipo, la escucha activa, la responsabilidad y la capacidad de adaptación al aprendizaje continuo. Me considero una persona comprometida, organizada y con gran disposición para asumir nuevos retos que impulsen mi crecimiento profesional y personal.
 Actualmente, estoy enfocado en seguir fortaleciendo mis competencias técnicas y humanas para desenvolverme de manera exitosa en el entorno laboral, aportando con dedicación, disciplina e innovación en cada proyecto en el que participe.
 
+## Eduardo Manuel Aguirre Ramos - U20241A911
+
+<img src="./Resources/capitulo_1/foto_eduardo.jpeg" width="160">
+
+Soy estudiante de la carrera de ingenieria de software de 5to ciclo en la Universidad Peruana de Ciencias Aplicadas, tengo conocimientos en como C++, Python, CSS, JavaScript.Manejo he implemento directamente con Git y utilizo metodologias Agiles como Scrum.En si me interesa mucho trabajar en equipo en diferentes proyectos debido a las diferentes experiencias que trae elo tanto así como el resolver problemas conjuntos y diseñar soluciones innovadoras ademas de tener una mejor experiencia en el ambito de frontend y disfruto tener retos dificiles cada dia para poder progresar. Mi meta es nutrirme de experiencias para así poder en un futuro diseñar mi propia web y estar preparado para experiencias laborales.
+
+## Sebastian Andres Aiquipa Poma - U201916755
+
+<img src="./Resources/capitulo_1/foto_sebastian.png" width="160">
+
+
+Soy estudiante de Ingeniería de Software y desarrollador full-stack. Tengo experiencia construyendo plataformas
+web completas — desde la arquitectura hasta el despliegue — utilizando tecnologías
+como React, Node.js, Express y PostgreSQL. Me apasiona entender el código en
+profundidad, no solo hacerlo funcionar, y busco siempre crear soluciones escalables
+que resuelvan problemas reales de negocio.
+Soy estudiante de Ingeniería de Software, he programado en C#, C++, PHP, Java y Python, además manejo de bases de datos relacionales. También he trabajado con Git y metodologías ágiles como Scrum, lo cual me ha ayudado a organizarme mejor y a trabajar en equipo con más fluidez. Me interesa mucho el desarrollo backend, porque me gusta entender la lógica detrás de las cosas, cómo se procesan los datos y cómo se asegura que todo funcione correctamente. También me gusta colaborar en el frontend, porque entiendo que un buen producto requiere que ambas partes trabajen en armonía. Disfruto ver cómo una idea se vuelve algo real, desde los primeros bocetos hasta la parte funcional donde las personas terminan usando. Actualmente, mi objetivo es seguir consolidando mis habilidades técnicas y blandas para desempeñarme con confianza en el entorno laboral. Me interesa participar en proyectos donde pueda aplicar lo que sé y aportar soluciones prácticas a problemas reales.
+
+## Dalila Victoria Torres Sanchez - U20221F734
+
+<img src="./Resources/capitulo_1/foto_dalila.jpg" width="160">
+Soy estudiante de Ingeniería de Software, he programado en C#, C++, PHP, Java y Python, además manejo de bases de datos relacionales. También he trabajado con Git y metodologías ágiles como Scrum, lo cual me ha ayudado a organizarme mejor y a trabajar en equipo con más fluidez. Me interesa mucho el desarrollo backend, porque me gusta entender la lógica detrás de las cosas, cómo se procesan los datos y cómo se asegura que todo funcione correctamente. También me gusta colaborar en el frontend, porque entiendo que un buen producto requiere que ambas partes trabajen en armonía. Disfruto ver cómo una idea se vuelve algo real, desde los primeros bocetos hasta la parte funcional donde las personas terminan usando. Actualmente, mi objetivo es seguir consolidando mis habilidades técnicas y blandas para desempeñarme con confianza en el entorno laboral. Me interesa participar en proyectos donde pueda aplicar lo que sé y aportar soluciones prácticas a problemas reales.
+
+
+
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+
+#### Antecedentes
+
+En el Perú, el transporte en mototaxi es uno de los medios más utilizados en zonas urbanas marginales, centros poblados rurales y ciudades intermedias como Huancayo, Cusco, Iquitos, Pucallpa y muchas zonas de la sierra y selva. Según el Ministerio de Transportes y Comunicaciones (MTC), más del 30% del transporte informal en regiones corresponde a mototaxis, debido a su bajo costo de adquisición, facilidad de maniobra en calles angostas y capacidad para llegar a zonas de difícil acceso.
+
+Sin embargo, este servicio opera mayoritariamente de manera informal, sin rutas fijas ni tarifas reguladas. Esto genera una desconexión crónica entre oferta y demanda: los pasajeros no saben cuándo pasa un mototaxi, y los conductores recorren largas distancias sin encontrar pasajeros, desperdiciando combustible y tiempo.
+
+#### Problemática
+
+| Dimensión del problema | Descripción                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Who**                | - Pasajeros locales de zonas rurales o periurbanas (campesinos, comerciantes, estudiantes, adultos mayores)<br>- Mototaxistas independientes que dependen del transporte diario para vivir.                                                                                                                                                                                                                 |
+| **What**               | - Los pasajeros no encuentran unidades disponibles fácilmente.<br>- Los conductores gastan tiempo y combustible buscando pasajeros sin rumbo fijo.<br>- Las tarifas son arbitrarias, no hay transparencia ni estandarización.                                                                                                                                                                               |
+| **Where**              | - Distritos alejados de ciudades capitales.<br>- Centros poblados sin cobertura de transporte público formal.<br>- Rutas entre caseríos y mercados locales.                                                                                                                                                                                                                                                 |
+| **When**               | - Ocurre a diario, con mayor incidencia en horas de la mañana (5 a 8 a.m.) y tarde (4 a 7 p.m.), cuando hay mayor movilidad por trabajo y estudios.<br>- En temporadas de lluvias, donde los pasajeros no pueden esperar en la vía.                                                                                                                                                                         |
+| **Why**                | - Falta de información en tiempo real sobre oferta y demanda.<br>- Escasez de mecanismos de negociación previa de precios para el sector de mototaxis.                                                                                                                                                                                                                                                      |
+| **How**                | - Pasajeros: Esperan en esquinas fijas o caminan largos tramos buscando un mototaxi.<br>- Conductores: Hacen vueltas en vacío, preguntan en paraderos informales o compiten verbalmente por pasajeros.                                                                                                                                                                                                      |
+| **How Much**           | - Los mototaxistas recorren diariamente una distancia considerable sin pasajeros, lo que representa la mayor parte de su gasto en combustible.<br>- Los pasajeros en zonas rurales enfrentan tiempos de espera prolongados para encontrar una unidad disponible.<br>- Los pasajeros pagan un monto significativamente superior a una tarifa justa debido a la falta de competencia en el momento del viaje. |
+
+De lo anterior podemos concluir que en zonas rurales del Perú, el servicio de mototaxi es ineficiente porque no existe una herramienta digital accesible que conecte oferta y demanda en tiempo real. Los pasajeros (principalmente residentes de zonas alejadas) pierden tiempo esperando o caminando sin certeza de encontrar una unidad, mientras los conductores gastan recursos en recorridos improductivos. Esto genera precios arbitrarios y una desconexión estructural entre necesidad de transporte y disponibilidad real. La magnitud del problema afecta la economía de los conductores y la calidad de vida de los pasajeros.
 
 ### 1.2.2 Lean UX Process
 
