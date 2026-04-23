@@ -452,7 +452,11 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.6.2 Software Architecture Context Diagram
 
+<img src="./Resources/domain-drivenSoftware/ContextDiagram.png">
+
 ### 4.6.3 Software Architecture Container Diagrams
+
+<img src="./Resources/domain-drivenSoftware/containerDiagram.png">
 
 ### 4.6.4 Software Architecture Components Diagrams
 
