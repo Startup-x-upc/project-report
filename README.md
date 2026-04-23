@@ -16,13 +16,11 @@
 
   <p align="center"><strong>StartUp:</strong></p>
 
-
   <p align="center"><strong>Producto:</strong> Chapa Tu Ruta</p><br><br>
 
 <h2 style="text-align: center; font-size: 24px; margin-top: 30px;">
   <strong>Informe de Trabajo Final</strong>
 </h2>
-
 
 <table style="display: flex; justify-content: center;"> 
 <tr>
@@ -58,9 +56,7 @@
 <div align="center"> Septiembre 2025 </div>
 </div>
 
-
 <div style="page-break-after: always;"></div>
-
 
 ## **Registro de versiones del Informe**
 
@@ -86,7 +82,6 @@
 ## TB1
 
 <div style="page-break-after: always;"></div>
-
 
 # Tabla de contenidos
 
@@ -177,7 +172,6 @@
     - [5.2.1.7 Software Deployment Evidence for Sprint Review](Capitulo_5.md#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8 Team Collaboration Insights during Sprint](Capitulo_5.md#5218-team-collaboration-insights-during-sprint)
 
-
 ## [Conclusiones](Conclusiones_bibliografica.md#conclusiones)
 
 - [Conclusiones y recomendaciones](Conclusiones_bibliografica.md#conclusiones-y-recomendaciones)
@@ -189,15 +183,14 @@
 
 <div style="page-break-after: always;"></div>
 
-
 ## Student Outcome
 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3
 
-| Criterio Específico                                                                                       | Acciones realizadas | Conclusiones |
-| ----------------------------------------------------------------------------------------------- | ------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.                                | **Aguirre Ramos, Eduardo Manuel**<br>**AV1:**<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:** <br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** <br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** <br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:**                     |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |  **Aguirre Ramos, Eduardo Manuel**<br>**AV1:**<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:** <br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** <br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** <br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:**                   |              |
+| Criterio Específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | **Aguirre Ramos, Eduardo Manuel**<br>**AV1:**Lider del grupo. Realizo los Lean Ux Problem Statements y Analisis Competitivo. Desarrollo los web applications wireframes and prototyping. Ademas de colaborar en las user stories.<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:**Definio las estrategias y tacticas frente a competidores. Definio los User persona. Desarrollo los web applications mock-ups <br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** Desarrollo los user stories, impact mapping, product mapping y product backlog. Definio y elaboro el design-level event storming. Finalmente el software object-oriented design<br>**Torres Sanchez, Dalila Victoria** <br>**AV1:**Investigo los antecedentes y problematica. Definio el user journey mapping. Modelo el landing page wireframe y web applications wireframes <br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:** Analisis de entrevistas, style guidelines el Domain-Driven software Arquitecture y el Database Design | Durante la entrega AV1, el equipo expuso el perfil del startup y la problemática identificada en zonas periféricas de Lima ante el docente y compañeros de clase, adaptando el discurso a una audiencia técnica universitaria.<br><br>La presentación de los resultados del proceso Lean UX permitió al equipo ejercitar la comunicación oral de ideas abstractas de diseño de forma estructurada y comprensible.<br><br>El equipo demostró capacidad para comunicar oralmente los hallazgos de entrevistas con usuarios (mototaxistas y pasajeros), sintetizando información cualitativa ante una audiencia no familiarizada con el dominio del problema.                      |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Aguirre Ramos, Eduardo Manuel**<br>**AV1:**Lider del grupo. Realizo los Lean Ux Problem Statements y Analisis Competitivo. Desarrollo los web applications wireframes and prototyping. Ademas de colaborar en las user stories.<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:**Definio las estrategias y tacticas frente a competidores. Definio los User persona. Desarrollo los web applications mock-ups <br>**Castillo Vidal, Jesus Ivan**<br>**AV1:**Desarrollo los user stories, impact mapping, product mapping y product backlog. Definio y elaboro el design-level event storming. Finalmente el software object-oriented design <br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** Investigo los antecedentes y problematica. Definio el user journey mapping. Modelo el landing page wireframe y web applications wireframes<br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:** Analisis de entrevistas, style guidelines el Domain-Driven software Arquitecture y el Database Design | En la entrega AV1, el equipo redactó el Capítulo 1 del informe, documentando antecedentes, problemática y el proceso Lean UX con un lenguaje técnico apropiado para lectores con formación en ingeniería de software.<br><br>La elaboración de User Personas, User Journey Maps y el Impact Map implicó comunicar por escrito necesidades y comportamientos de usuarios reales, dirigiéndose simultáneamente a una audiencia técnica y a partes interesadas no técnicas.<br><br>El uso de GitHub con commits convencionales y pull requests estructurados evidencia la capacidad del equipo de comunicar cambios y decisiones de desarrollo de forma escrita, clara y trazable. |
 
 </div>
