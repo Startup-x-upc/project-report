@@ -275,3 +275,245 @@ El backend se empaqueta en un archivo .jar:
 - Se utilizan variables de entorno para datos sensibles.
 - Cada componente se despliega de forma independiente.
 - El sistema permite actualizaciones continuas mediante commits.
+
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Sprint #</b></td>
+      <td>Sprint 1</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>2026-06-04</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>18:50 PM (GMT-5)</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Modalidad remota mediante la plataforma Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>Castillo Vidal, Jesus Ivan / Torres Sanchez, Dalila Victoria / Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl / Delgado Perez, James Caleb / Aiquipa Poma, Sebastian Andres</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 0 Review Summary</b></td>
+      <td>Dado que este es el sprint inicial, no se presenta un resumen del sprint anterior.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 0 Retrospective Summary</b></td>
+      <td>Dado que este es el sprint inicial, no se presenta una retroalimentación del sprint anterior.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Goal</b></td>
+      <td><b>Nuestro propósito es</b> diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de rutas, basada en entrevistas con administradores y transportistas de una empresa distribuidora. <b>Creemos que esto aportará</b> claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. <b>Esto se confirmará cuando</b> los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Velocity</b></td>
+      <td>15 puntos</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td>15 puntos</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 1. Cada aspecto se relaciona con tareas clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>Mockup (L/C)</th>
+      <th>Entrevistas (L/C)</th>
+      <th>Wireframes (L/C)</th>
+      <th>Landing Page (L/C)</th>
+    </tr>
+    <tr>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Jcdev04</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>DalilaTorres</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>TheEngineEdu</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>apillacag</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>S-aiquipa</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.1.3. Sprint Backlog 1
+
+<img src="./Resources/trello/sprint1_trello.png">
+
+<a href="https://trello.com/b/uGr6OQCE/sprint-1">Sprint 1 Trello</a>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-31</td>
+      <td>Sección Hero con CTA diferenciado</td>
+      <td>US31-T001</td>
+      <td>Maquetación HTML/CSS Sección Hero</td>
+      <td>Implementar la sección Hero utilizando HTML y CSS siguiendo fielmente los mockups de Figma.</td>
+      <td>0.7</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-32</td>
+      <td>Sección ¿Cómo funciona?</td>
+      <td>US32-T001</td>
+      <td>Maquetación HTML/CSS Sección ¿Cómo funciona?</td>
+      <td>Implementar el flujo del servicio en HTML y CSS basado en los diseños de Figma.</td>
+      <td>0.4</td>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-33</td>
+      <td>Sección de beneficios por segmento</td>
+      <td>US33-T001</td>
+      <td>Maquetación HTML/CSS Beneficios</td>
+      <td>Maquetar la sección de beneficios por perfil utilizando HTML y CSS.</td>
+      <td>0.9</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-34</td>
+      <td>Sección de tarifas</td>
+      <td>US34-T001</td>
+      <td>Maquetación HTML/CSS Tarifas</td>
+      <td>Desarrollar la sección informativa de tarifas en HTML y CSS.</td>
+      <td>0.3</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-36</td>
+      <td>Sección About the Product</td>
+      <td>US36-T001</td>
+      <td>Maquetación HTML/CSS About the Product</td>
+      <td>Integrar video publicitario y estructurar la sección en HTML/CSS.</td>
+      <td>0.5</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US-37</td>
+      <td>Sección About the Team</td>
+      <td>US37-T001</td>
+      <td>Maquetación HTML/CSS About the Team</td>
+      <td>Maquetar la presentación de los miembros del equipo en HTML y CSS según Figma.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-35</td>
+      <td>Sección de testimonios</td>
+      <td>US35-T001</td>
+      <td>Maquetación HTML/CSS Testimonios</td>
+      <td>Estructurar la sección de opiniones de usuarios en HTML y CSS.</td>
+      <td>0.5</td>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-38</td>
+      <td>Sección CTA final</td>
+      <td>US38-T001</td>
+      <td>Maquetación HTML/CSS CTA final</td>
+      <td>Crear el llamado a la acción al final de la landing page en HTML y CSS.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
