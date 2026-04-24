@@ -439,6 +439,7 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ## 4.3 Landing Page UI Design
 
 ### 4.3.1 Landing Page Wireframe
+
 **-Landing Page**
 <br>
 **1. Header / Navbar section**
@@ -491,7 +492,6 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![alt text](Resources/landing-page-wireframes/footer-wireframe.png)
 
-
 **-Mobile Web Browser**
 <br><br>
 ![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser1.png)
@@ -517,6 +517,7 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser11.png)
 
 ### 4.3.2 Landing Page Mock-up
+
 **-Landing Page**
 <br>
 **1. Header / Navbar section**
@@ -569,7 +570,6 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![alt text](Resources/landing-page-mockup/footer-landing-mockup1.png)
 
-
 **-Mobile Web Browser**
 
 <br><br>
@@ -595,7 +595,6 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 <br><br>
 ![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser11.png)
 
-
 ## 4.4 Web Applications UX/UI Design
 
 ### 4.4.1 Web Applications Wireframes
@@ -607,6 +606,10 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 ### 4.4.4 Web Applications User Flow Diagrams
 
 ## 4.5 Web Applications Prototyping
+
+![Prototyping - Chapa Tu Ruta](Resources/prototypingWeb.jpeg)
+
+Video de Prototyping: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FPrototyping%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4478439f%2D6b7f%2D42f0%2D9388%2De69468351534)
 
 ## 4.6 Domain-Driven Software Architecture
 

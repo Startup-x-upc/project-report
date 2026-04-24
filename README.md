@@ -56,26 +56,27 @@
 
 ## **Registro de versiones del Informe**
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <th style="width: 25%;">Version</th>
-    <th style="width: 25%;">Fecha</th>
-    <th style="width: 25%;">Autor</th>
-    <th style="width: 25%;">Descripción de modificación </th>
-  </tr>
-   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+| Version | Fecha      | Autor                                                       | Descripción de modificación                                            |
+| ------- | ---------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1.0     | 01/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 1.1 Startup Profile y perfiles del equipo               |
+| 1.1     | 03/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 1.2 Antecedentes y Problemática (5W's y 2H's)           |
+| 1.2     | 05/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 1.3 Lean UX Process (Hypothesis Statements y Canvas)    |
+| 1.3     | 07/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 2.1 Competidores y análisis competitivo                 |
+| 1.4     | 09/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 2.2 Registro de entrevistas por segmento objetivo       |
+| 1.5     | 11/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 2.3 Needfinding: User Personas y User Journey Maps      |
+| 1.6     | 14/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 3.1 To-Be Scenario Map e Impact Map                     |
+| 1.7     | 16/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 3.2 User Stories y Product Backlog                      |
+| 1.8     | 18/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 4.1 Style Guidelines (General y Web)                    |
+| 1.9     | 20/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 4.2 Information Architecture y Navigation Systems       |
+| 1.10    | 21/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 4.6 Domain-Driven Software Architecture (C4 Model)      |
+| 1.11    | 22/04/2026 | Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl | Agregó sección 4.4 Wireframes de aplicación móvil                      |
+| 1.12    | 23/04/2026 | Castillo Vidal, Jesus Ivan / Aguirre Ramos, Eduardo Manuel  | Agregó sección 5.1 Software Configuration Management y Student Outcome |
 
 <div style="page-break-after: always;"></div>
 
 ## Project Report Collaboration Insights
 
-## TB1
+## AV1
 
 <div style="page-break-after: always;"></div>
 
