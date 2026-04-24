@@ -615,8 +615,6 @@ Video de Prototyping: [Ver video](https://upcedupe-my.sharepoint.com/personal/u2
 
 ## 4.6 Domain-Driven Software Architecture
 
-
-
 ### 4.6.1 Design-Level EventStorming
 
 #### IAM
