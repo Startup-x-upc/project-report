@@ -80,6 +80,23 @@ Repositorio del informe del proyecto: <a href="https://github.com/Startup-x-upc/
 
 ## AV1
 
+Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos, marco teórico y todas las secciones correspondientes al primer entregable.
+
+<img src="./Resources/caratula/collaboration_insights.png">
+
+Figura 1: Gráfico de contribuciones del repositorio del informe del proyecto para TB1, mostrando la actividad de colaboración de todos los miembros del equipo durante la elaboración del informe inicial.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **161 commits** para el informe del proyecto en esta etapa. El desglose de los aportes por cada integrante del equipo es el siguiente:
+
+- **Andy Pillaca Gonzales:** 54 commits
+- **Jesús Castillo Vidal:** 30 commits
+- **Dalila Torres Sanchez:** 25 commits
+- **Eduardo Aguirre Ramos:** 24 commits
+- **Sebastian Aiquipa Poma:** 22 commits
+- **James Delgado Perez:** 6 commits
+
+Esta distribución evidencia un esfuerzo colaborativo y la participación activa de todos los integrantes en la elaboración y redacción de la documentación del proyecto.
 <div style="page-break-after: always;"></div>
 
 # Tabla de contenidos
