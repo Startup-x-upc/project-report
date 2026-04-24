@@ -605,7 +605,82 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.4.3 Web Applications Mock-ups
 
-### 4.4.4 Web Applications User Flow Diagrams
+**Autenticación y Registro**<br><br>
+![Login](Resources/ux_ui/mockups/Login.png)
+<br><br>
+![Registro](Resources/ux_ui/mockups/Registro.png)
+<br><br>
+![Registro - pasajero](Resources/ux_ui/mockups/Registro%20-%20pasajero.png)
+<br><br>
+![Registro - conductor](Resources/ux_ui/mockups/Registro%20-%20conductor.png)
+<br><br>
+![Registro - conductor 1](Resources/ux_ui/mockups/Registro%20-%20conductor-1.png)
+<br><br>
+![Registro - conductor 2](Resources/ux_ui/mockups/Registro%20-%20conductor-2.png)
+<br><br>
+![Registro - conductor 3](Resources/ux_ui/mockups/Registro%20-%20conductor-3.png)
+<br><br>
+![Recuperar cuenta](Resources/ux_ui/mockups/Recuperar%20cuenta.png)
+<br><br>
+
+**Vistas Principales (Home)**<br><br>
+![Home pasajero](Resources/ux_ui/mockups/Home%20pasajero.png)
+<br><br>
+![Home conductor](Resources/ux_ui/mockups/Home%20conductor.png)
+<br><br>
+
+**Flujo de Solicitud de Viaje**<br><br>
+![Solicitar viaje](Resources/ux_ui/mockups/Solicitar%20viaje.png)
+<br><br>
+![Solicitud](Resources/ux_ui/mockups/Solicitud.png)
+<br><br>
+![Solicitud rechazada](Resources/ux_ui/mockups/Solicitud%20rechazada.png)
+<br><br>
+![Estado](Resources/ux_ui/mockups/Estado.png)
+<br><br>
+
+**Desarrollo del Viaje**<br><br>
+![En camino](Resources/ux_ui/mockups/En%20camno.png)
+<br><br>
+![En curso](Resources/ux_ui/mockups/En%20curso.png)
+<br><br>
+![Viaje activo](Resources/ux_ui/mockups/Viaje%20activo.png)
+<br><br>
+![Finalizado](Resources/ux_ui/mockups/Finalizado.png)
+<br><br>
+![Calificación viaje - pasajero](Resources/ux_ui/mockups/Calificaci%C3%B3n%20viaje%20-%20pasajero.png)
+<br><br>
+
+**Historial y Finanzas**<br><br>
+![Historial - pasajero](Resources/ux_ui/mockups/Historial%20-%20pasajero.png)
+<br><br>
+![Mis carreras](Resources/ux_ui/mockups/Mis%20carreras.png)
+<br><br>
+![Wallet](Resources/ux_ui/mockups/Wallet.png)
+<br><br>
+![Wallet 1](Resources/ux_ui/mockups/Wallet-1.png)
+<br><br>
+![Wallet 2](Resources/ux_ui/mockups/Wallet-2.png)
+<br><br>
+
+**Perfil de Usuario**<br><br>
+![Perfil](Resources/ux_ui/mockups/Perfil.png)
+<br><br>
+![Mi perfil](Resources/ux_ui/mockups/Mi%20perfil.png)
+<br><br>
+
+**Cierre de Sesión**<br><br>
+![Cerrar sesión](Resources/ux_ui/mockups/Cerrar%20sesi%C3%B3n.png)
+<br><br>
+![Cerrar sesión 1](Resources/ux_ui/mockups/Cerrar%20sesi%C3%B3n-1.png)
+<br><br>
+
+**Otros**<br><br>
+![Captura de pantalla](Resources/ux_ui/mockups/Captura%20de%20pantalla%202026-04-21%20162709%201.png)
+<br><br>
+![Frame 724](Resources/ux_ui/mockups/Frame%20724.png)
+
+<!-- ### 4.4.4 Web Applications User Flow Diagrams -->
 
 ## 4.5 Web Applications Prototyping
 
