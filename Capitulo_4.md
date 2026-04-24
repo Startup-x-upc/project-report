@@ -440,6 +440,7 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.3.1 Landing Page Wireframe
 
+
 **-Landing Page**
 <br>
 **1. Header / Navbar section**
@@ -595,6 +596,7 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 <br><br>
 ![alt text](Resources/mobile-web-browser-wireframes/mobile-web-browser11.png)
 
+
 ## 4.4 Web Applications UX/UI Design
 
 ### 4.4.1 Web Applications Wireframes
@@ -613,11 +615,60 @@ Video de Prototyping: [Ver video](https://upcedupe-my.sharepoint.com/personal/u2
 
 ## 4.6 Domain-Driven Software Architecture
 
+
+
 ### 4.6.1 Design-Level EventStorming
+
+#### IAM
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/1%20_%20IAM%201.jpg)
+#### Flows
+![](./Resources/design%20level%20event%20storming/1%20_%20IAM%202.jpg)
+
+
+#### DRIVER MANAGEMENT
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/2%20_%20DRIVER%20MANAGEMENT%201.jpg)
+
+#### Flows
+![](./Resources/design%20level%20event%20storming/2%20_%20DRIVER%20MANAGEMENT%202.jpg)
+
+
+#### RIDE DISPATCH
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/3%20_%20Ride%20Dispatch%201.jpg)
+
+#### Flows
+![](./Resources/design%20level%20event%20storming/3%20_%20Ride%20Dispatch%202.jpg)
+
+
+#### TRUST AND REPUTATION
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/4%20_%20TRUST%20AND%20REPUTATION%201.jpg)
+
+#### Flows
+![](./Resources/design%20level%20event%20storming/4%20_%20TRUST%20AND%20REPUTATION%202.jpg)
+
+
+#### MONETIZATION
+
+##### Brainstorming
+![](./Resources/design%20level%20event%20storming/5%20_%20MONETIZATION%201.jpg)
+
+#### Flows
+![](./Resources/design%20level%20event%20storming/5%20_%20MONETIZATION%202.jpg)
+
 
 ### 4.6.2 Software Architecture Context Diagram
 
 ![Diagrama de Contexto - Chapa Tu Ruta](Resources/domain-drivenSoftware/DDD-v2/ContextDiagramv2.png)
+
+
+
 
 ### Actores
 
@@ -694,6 +745,7 @@ Este bounded context registra los eventos del ciclo de vida de cada viaje y prov
 ## 4.7 Software Object-Oriented Design
 
 ### 4.7.1 Class Diagrams
+
 
 ### 4.7.2 Class Dictionary
 
