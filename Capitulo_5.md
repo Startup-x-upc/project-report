@@ -65,9 +65,9 @@
 ### 5.1.2 Source Code Management
 Para la gestión del código fuente del proyecto, el equipo utiliza la plataforma GitHub como sistema de control de versiones. A continuación, se detallan los repositorios correspondientes a cada componente del sistema:
 
-Landing Page: [Link Landing Page](https://github.com/tu-org/landing-page)
-Web Services: [Link Web Services](https://github.com/tu-org/backend-services)
-Frontend Web Application: [Link Frontend Web](https://github.com/tu-org/frontend-app)
+Landing Page: [Link Landing Page](https://startup-x-upc.github.io/landing-page/)
+<!-- Web Services: [Link Web Services](https://github.com/tu-org/backend-services)
+Frontend Web Application: [Link Frontend Web](https://github.com/tu-org/frontend-app) -->
 
 En el repositorio de Web Services se incluyen tanto el código fuente como las pruebas unitarias y de aprobación y aceptación.
 
