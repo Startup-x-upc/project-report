@@ -598,3 +598,7 @@ Durante este sprint se completó el diseño e implementación de la Landing Page
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
