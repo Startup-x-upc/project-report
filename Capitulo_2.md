@@ -263,19 +263,13 @@
   </tr>
   <tr>
     <td align='center'>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQBKFPAfIzczTo3_8oPqYhwCAUel6q27FjKYxx35O2p8ug8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=H4pljz" target="_blank">
-        <img src="Resources/entrevistas/u20241a911_Mototaxista_Jhonny.png" alt="Primera entrevista del segundo segmento" width="150">
-      </a>
+      <img src="Resources/entrevistas/u20241a911_Mototaxista_Jhonny.png" alt="Primera entrevista del segundo segmento" width="150">
     </td>
     <td align='center'>
-      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FU202418823%5FMototaxista%5FArturo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea22c3202%2Db3fd%2D4b03%2D8315%2De50cb9756816" target="_blank">
-        <img src="Resources/entrevistas/u202418823_Mototaxista_Arturo.png" alt="Segunda entrevista del segundo segmento" width="150">
-      </a>
+      <img src="Resources/entrevistas/u202418823_Mototaxista_Arturo.png" alt="Segunda entrevista del segundo segmento" width="150">
     </td>
     <td align='center'>
-      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2Fu201916755%5FMototaxi%5FCarlos%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E999c3f21%2Df161%2D4548%2D9b24%2Ddd7866993c05" target="_blank">
-        <img src="Resources/entrevistas/u201916755_Mototaxi_Carlos.png" alt="Tercera entrevista del segundo segmento" width="150">
-      </a>
+      <img src="Resources/entrevistas/u201916755_Mototaxi_Carlos.png" alt="Tercera entrevista del segundo segmento" width="150">
     </td>
   </tr>
   <tr>
@@ -310,9 +304,7 @@ El entrevistado, conductor de mototaxi con 8 años de experiencia en Villa El Sa
   </tr>
 </table>
 
-Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta&ga=1" target="_blank">Segmento 02- Conductores</a>
 
-Más informacion en Anexo A.
 
 ### 2.2.3. Análisis de entrevistas
 
