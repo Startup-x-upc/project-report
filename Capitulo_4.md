@@ -727,6 +727,74 @@ Desde el Home, el usuario accede a Perfil o Mi Perfil. Puede ver y editar sus da
 
 ### 4.4.4 Web Applications User Flow Diagrams
 
+### User Flow 1
+
+#### Relacionado al User Goal 1: Como pasajero nuevo, quiero registrarme en la plataforma para poder solicitar viajes
+
+El usuario accede al Login y selecciona "Registrarse". Elige el tipo "Pasajero", completa el formulario de datos personales y confirma. El sistema crea la cuenta y redirige al Home del pasajero.
+![alt text](Resources/UserFlow-Diagrams/flow-user-goal1.png)
+
+#### Relacionado al User Goal 2: Como conductor nuevo, quiero registrarme con mis datos personales y vehiculares para poder aceptar viajes
+
+El conductor selecciona "Registrarse" -> "Conductor". El proceso es multi-paso: datos personales, datos del vehículo, carga de documentos y confirmación de registro exitoso.
+![alt text](Resources/UserFlow-Diagrams/flow-user-goal2.png)
+
+### User Flow 2: Recuperación de acceso
+
+#### Relacionado al User Goal 3: Como usuario registrado, quiero recuperar mi contraseña cuando la olvido para poder seguir accediendo a la plataforma
+
+El usuario en Login hace clic en "¿Olvidaste tu contraseña?". Ingresa su correo en la pantalla de Recuperar cuenta. El sistema envía las instrucciones. Al completar el proceso regresa al Login con acceso restaurado.
+![alt text](Resources/UserFlow-Diagrams/flow-user-goal3.png)
+
+### User Flow 3: Solicitar y gestionar un viaje
+
+
+#### Relacionado al User Goal 4: Como pasajero, quiero solicitar un viaje ingresando mi destino para que un conductor me recoja.
+
+El pasajero desde su Home ingresa el destino y solicita el viaje. El sistema muestra el estado de Viaje Activo mientras busca conductor. Una vez asignado, el conductor aparece En Camino, luego En Curso hasta llegar al destino, mostrando finalmente la pantalla de Finalizado.
+![alt text](Resources/UserFlow-Diagrams/flow-user-goal4.png)
+
+#### Relacionado al User Goal 5: Como pasajero, quiero ser notificado si mi solicitud es rechazada para poder intentarlo nuevamente.
+
+El pasajero solicita el viaje y queda en espera en la pantalla de Viaje Activo. Si no hay conductores disponibles o la solicitud es rechazada, el sistema muestra Solicitud rechazada con el motivo. El pasajero puede volver al Home para intentarlo nuevamente.
+![alt text](Resources/UserFlow-Diagrams/flow-user-goal5.png)
+
+#### Relacionado al User Goal 6: Como pasajero, quiero calificar al conductor al finalizar el viaje para contribuir con la reputación del sistema.
+
+Al completarse el viaje, la pantalla de Finalizado muestra el resumen del trayecto. Desde allí el pasajero accede a la pantalla de Calificación del viaje donde asigna estrellas y escribe un comentario. Al enviar la calificación regresa al Home del pasajero.
+![alt text](Resources/UserFlow-Diagrams/flow-user-goal6.png)
+
+### User Flow 4: Consultar historial y gestionar wallet 
+
+#### Relacionado al User Goal 7: Como pasajero, quiero consultar el historial de mis viajes anteriores para revisar mis gastos y trayectos.
+
+El pasajero desde su Home navega a la sección Historial. La pantalla muestra todos los viajes realizados ordenados por fecha, con información de origen, destino, duración y costo de cada trayecto.
+![alt text](Resources/web-applications-wireflow/user-goal7.jpg)
+
+#### Relacionado al User Goal 8: Como pasajero, quiero consultar el historial de mis viajes anteriores para revisar mis gastos y trayectos.
+
+Desde el Home el pasajero accede a su Wallet donde ve el saldo actual y el historial de movimientos. Al seleccionar "Recargar" elige el monto y método de pago. Tras confirmar el pago, el sistema muestra la confirmación de recarga exitosa con el nuevo saldo actualizado.
+![alt text](Resources/web-applications-wireflow/user-goal8.jpg)
+
+### User Flow 5: Gestionar viajes como conductor 
+
+#### Relacionado al User Goal 9: Como conductor quiero recibir y aceptar solicitudes de viaje para trasladar pasajeros y generar ingresos.
+
+El conductor activa su disponibilidad desde el Home. Al recibir una solicitud, la pantalla de Estado muestra la alerta. El conductor revisa la Solicitud completa y decide aceptar. El sistema lo guía a través de En camino (dirigirse al pasajero), En curso (viaje en progreso) hasta Finalizado donde se registra la ganancia.
+![alt text](Resources/web-applications-wireflow/user-goal9.jpg)
+
+### Task Flow 6: Historial de carreras y perfil
+
+#### Relacionado al User Goal 10: Como conductor, quiero consultar el historial de mis carreras realizadas para controlar mis ingresos y rendimiento
+
+Desde el Home del conductor, el usuario navega a "Mis Carreras". La pantalla presenta el listado completo de viajes realizados con fecha, trayecto, duración y ganancia por carrera, permitiendo llevar un control de su productividad y ganancias acumuladas.
+![alt text](Resources/web-applications-wireflow/user-goal10.jpg)
+
+#### Relacionado al User Goal 11: Como usuario, quiero ver y editar mi perfil personal y cerrar sesión de forma segura
+
+Desde el Home, el usuario accede a Perfil o Mi Perfil. Puede ver y editar sus datos personales, foto y calificación. Desde esta misma puede iniciar el cierre de sesión, que solicita confirmación antes de redirigir al Login.
+![alt text](Resources/web-applications-wireflow/user-goal11.jpg)
+
 ## 4.5 Web Applications Prototyping
 
 ## 4.6 Domain-Driven Software Architecture
