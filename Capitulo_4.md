@@ -708,7 +708,6 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ![Prototyping - Chapa Tu Ruta](Resources/prototypingWeb.jpeg)
 
-Video de Prototyping: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FPrototyping%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4478439f%2D6b7f%2D42f0%2D9388%2De69468351534)
 
 ## 4.6 Domain-Driven Software Architecture
 
