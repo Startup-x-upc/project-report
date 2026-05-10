@@ -209,19 +209,13 @@
   </tr>
   <tr>
     <td align='center'>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQCmXEuLne2lTZsZnWYzY_9gAUFseCBoR-M_F5l_kv8R3z0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PqFbEC" target="_blank">
-        <img src="Resources/entrevistas/u20241a911_Pasajero_Antony.png" alt="Primera entrevista del primer segmento" width="150">
-      </a>
+      <img src="Resources/entrevistas/u20241a911_Pasajero_Antony.png" alt="Primera entrevista del primer segmento" width="150">
     </td>
     <td align='center'>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAJRzJWsrYgQqENPUqhEN0RAXHT1EyZJLQRC1_SWpPcmrM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aW3d7L" target="_blank">
-        <img src="Resources/entrevistas/U202322952_Pasajero_Hairo.png" alt="Segunda entrevista del primer segmento" width="150">
-      </a>
+      <img src="Resources/entrevistas/U202322952_Pasajero_Hairo.png" alt="Segunda entrevista del primer segmento" width="150">
     </td>
     <td align='center'>
-      <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FU20221F734%5FPasajero%5FArio%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8b926e8c%2D061d%2D495c%2Dac2c%2D1fe27cbfc8b2" target="_blank">
-        <img src="Resources/entrevistas/U20221F734_Pasajero_Ario.png" alt="Tercera entrevista del primer segmento" width="150">
-      </a>
+      <img src="Resources/entrevistas/U20221F734_Pasajero_Ario.png" alt="Tercera entrevista del primer segmento" width="150">
     </td>
   </tr>
   <tr>
@@ -258,7 +252,6 @@
   </tr>
 </table>
 
-Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta&ga=1" target="_blank">Segmento 01- Pasajeros</a>
 
 #### 2. Segundo Segmento Objetivo: Conductores
 
