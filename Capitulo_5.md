@@ -392,7 +392,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 <img src="./Resources/sprint_1/sprint1_trello.png">
 
-<a href="https://trello.com/b/uGr6OQCE/sprint-1">Sprint 1 Trello</a>
+Sprint 1 Trello
 
 <table>
   <thead>
