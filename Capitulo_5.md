@@ -565,7 +565,7 @@ Durante este sprint se completó el diseño e implementación de la Landing Page
 
 | Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
 | --- | --- | --- | --- | --- |
-| Landing Page | Visualización inicial | GET | [startup-x-upc.github.io/landing-page](https://startup-x-upc.github.io/landing-page/) | [Startup-x-upc/landing-page](https://github.com/Startup-x-upc/landing-page) |
+| Landing Page | Visualización inicial | GET | `https://startup-x-upc.github.io/landing-page/` | `https://github.com/Startup-x-upc/landing-page` |
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
