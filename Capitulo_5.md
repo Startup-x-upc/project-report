@@ -646,6 +646,67 @@ Durante este sprint se completó el diseño e implementación de la Landing Page
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 2. Cada aspecto se relaciona con tareas clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th> Real-Time & Geolocation Aspect (L/C)</th>
+      <th> Transaction & Payment Aspect (L/C)</th>
+      <th> Service Status & State Aspect (L/C)</th>
+      <th> Route Logic & Map Aspect (L/C)</th>
+      <th> User Experience & Flow Aspect (L/C)</th>
+    </tr>
+    <tr>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Jcdev04</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>DalilaTorres</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>TheEngineEdu</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>apillacag</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>S-aiquipa</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.2.3. Sprint Backlog 2
 
 #### 5.2.2.4. Development Evidence for Sprint Review
