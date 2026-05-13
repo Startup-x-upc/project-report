@@ -613,16 +613,410 @@ Durante este sprint se completó el diseño e implementación de la Landing Page
 
 #### 5.2.2.1. Sprint Planning 2
 
+<table>
+  <tbody>
+    <tr>
+      <td><b>Sprint #</b></td>
+      <td>Sprint 2</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>2026-05-11</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>18:50 PM (GMT-5)</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Modalidad remota mediante la plataforma Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>Castillo Vidal, Jesus Ivan / Torres Sanchez, Dalila Victoria / Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl / Delgado Perez, James Caleb / Aiquipa Poma, Sebastian Andres</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Review Summary</b></td>
+      <td>Durante el Sprint 1 se logró implementar casi en su totalidad la Landing Page del sistema ChapaTuRuta, desarrollando secciones principales como el header, hero section, features además de las reviews, el pricing y por último el footer, así como la integración inicial de estilos globales y tipografía mencionadas en el reporte.Quedó como mejora la adición del idioma ingles para la accesibilidad de las persona. El equipo cumplió con sus tareas establecidos, respetando el diseño de mockups y la guía de estilos. Se pudo identificaron oportunidades para mejorar en el siguiente sprint velocidad de desarrollo y la gestión de tiempos.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Retrospective Summary</b></td>
+      <td>Durante el Sprint 1, el equipo logró avanzar de forma efectiva en el desarrollo de la landing page. Cada integrante cumplió con las secciones asignadas, lo que permitió avanzar según lo planificado. Como mejora para el siguiente sprint, se debería implementar un control de las task que hacemos normalmente con deadlines, para asi controlar el manejo de la puntualidad asi como la coordinación al momento de expresar dificultades asignadas.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 2 Goal</b></td>
+      <td><b>Nuestro propósito es</b> diseñar y entregar una primera versión del frontend pages para nuestra plataforma de gestión de rutas, implementando datos generados por nosotros haciendo que funcione comodamente. <b>Creemos que esto aportará</b> una mejor comprensión del alcance y la funcionalidad de lo que nuestro software puede llegar a ser . <b>Esto se confirmará cuando</b> los visitantes puedan comprender como son las funcionalidades de nuestra plataforma y coomo se manejara sus servicios a traves de nuestro frontend page.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 2 Velocity</b></td>
+      <td>34 puntos</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td>34 puntos</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 2. Cada aspecto se relaciona con tareas clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th> Real-Time & Geolocation Aspect (L/C)</th>
+      <th> Transaction & Payment Aspect (L/C)</th>
+      <th> Service Status & State Aspect (L/C)</th>
+      <th> Route Logic & Map Aspect (L/C)</th>
+      <th> User Experience & Flow Aspect (L/C)</th>
+    </tr>
+    <tr>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Jcdev04</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>DalilaTorres</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>TheEngineEdu</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>apillacag</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>S-aiquipa</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.2.3. Sprint Backlog 2
 
+<img src="./Resources/sprint_2/sprint2_trello.png">
+
+<a href="https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2">Sprint 2 Trello</a>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-01</td>
+      <td>Registro de pasajero</td>
+      <td>US01-T001</td>
+      <td>US01-T001 Maquetación del formulario de registro .</td>
+      <td>Creación de la interfaz responsiva con Angular Material, incluyendo validaciones reactivas (Email,contraseña, coincidencia de campos) y manejo de estados visuales.</td>
+      <td>0.7</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US-01</td>
+      <td>Registro de pasajero</td>
+      <td>US01-T002</td>
+      <td>Conexión Servicio Autenticación</td>
+      <td>Integración de los formularios con el servicio de autenticación de Angular, manejo de tokens y configuración de interceptores para rutas protegidas.</td>
+      <td>0.4</td>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US-02</td>
+      <td>Registro de conductor</td>
+      <td>US02-T001</td>
+      <td>Formulario Registro Conductor</td>
+      <td>Desarrollo de un formulario especializado que incluya un área de carga de archivos para documentos pesados, implementando validación de extensiones.</td>
+      <td>0.9</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-02</td>
+      <td>Registro de conductor</td>
+      <td>US02-T002</td>
+      <td>Previsualización de Documentos</td>
+      <td>Implementación de una lógica de lectura de archivos en el cliente para mostrar miniaturas de los documentos cargados antes de ser enviados al servidor.</td>
+      <td>0.3</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-03</td>
+      <td>Inicio de sesión</td>
+      <td>US03-T001</td>
+      <td>Maquetación Login y Errores Visuales</td>
+      <td>Diseño de la pantalla de acceso con implementación de alertas dinámicas para credenciales incorrectas, cuenta bloqueada o errores de servidor.</td>
+      <td>0.5</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US-07</td>
+      <td>Detección automática de ubicación del pasajero</td>
+      <td>US07-T001</td>
+      <td>Maquetación HTML/CSS About the Team</td>
+      <td>Maquetar la presentación de los miembros del equipo en HTML y CSS según Figma.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-07</td>
+      <td>Detección automática de ubicación del pasajero</td>
+      <td>US07-T002</td>
+      <td>Marcador Dinámico Ubicación</td>
+      <td>Ubicación	Implementación de la Geolocation API para centrar el mapa y colocar un marcador dinámico (Pulse effect) que represente la posición del usuario en tiempo real.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-08</td>
+      <td>Selección de destino en el mapa</td>
+      <td>US08-T001</td>
+      <td>Trazado de Ruta Visual</td>
+      <td>Uso del Directions Service y Directions Renderer para dibujar la línea de ruta (Polylines) entre el pasajero y el destino seleccionado.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-09</td>
+      <td>Visualización de conductores cercanos en el mapa</td>
+      <td>US09-T001</td>
+      <td>Iconos Personalizados Vehículos</td>
+      <td>Creación y configuración de iconos SVG personalizados para representar las mototaxis, asegurando el escalado correcto según el nivel de zoom.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-09</td>
+      <td>Visualización de conductores cercanos en el mapa</td>
+      <td>US09-T002</td>
+      <td>Suscripción Eventos Real-Time</td>
+      <td>Implementación de lógica de suscripción (WebSockets) para mover los marcadores de las mototaxis de forma fluida mediante animaciones de transición de coordenadas.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-12</td>
+      <td>Recarga del wallet mediante Stripe</td>
+      <td>US12-T001</td>
+      <td>Diseño de Tarjeta Notificación</td>
+      <td>Creación de un componente modal que aparezca automáticamente en el móvil del conductor al recibir un viaje, con cronómetro de aceptación.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-27</td>
+      <td>Recarga del wallet mediante Stripe</td>
+      <td>US27-T001</td>
+      <td>Dashboard de Saldo</td>
+      <td>Maquetación de la vista de billetera con gráficos de barras simples para ingresos diarios e historial de transacciones con filtros por fecha.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-28</td>
+      <td>Visualización del saldo del wallet</td>
+      <td>US28-T001</td>
+      <td>Integración Stripe Elements</td>
+      <td>Implementación del componente seguro de Stripe en el front-end para la captura de datos de tarjeta cumpliendo con estándares PCI DSS.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-28</td>
+      <td>Visualización del saldo del wallet</td>
+      <td>US28-T002</td>
+      <td>Pantalla de Confirmación de Pago</td>
+      <td>Desarrollo de vistas animadas de "Éxito" y "Error" con resumen de la transacción y actualización reactiva del saldo disponible en el header.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| --- | --- | --- | --- | --- | --- |
+| Startup-x-upc/FrontEnd-WebApplication | main | db96bf1 | Merge pull request #3 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #3 from Startup-x-upc/develop | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | a75a260 | ci(firebase): solve dependency conflicts on github runner using legacy peer deps flag | Se realizaron cambios relacionados con: ci(firebase): solve dependency conflicts on github runner using legacy peer deps flag | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 667ece7 | Merge pull request #2 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #2 from Startup-x-upc/develop | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 8947874 | Merge branch 'develop' of https://github.com/Startup-x-upc/FrontEnd-WebApplication into develop | Se integraron los cambios de la rama: Merge branch 'develop' of https://github.com/Startup-x-upc/FrontEnd-WebApplication into develop | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 6c77e64 | feature:add IAM model account | Se implementó nueva funcionalidad: feature:add IAM model account | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 44c8505 | fix:delete images ui | Se corrigieron errores en: fix:delete images ui | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 3c397d1 | feature:add profile assembler | Se implementó nueva funcionalidad: feature:add profile assembler | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 99b0135 | feature:profile assembler to entity | Se implementó nueva funcionalidad: feature:profile assembler to entity | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | e030d28 | ci(firebase): initialize firebase hosting and harden github actions workflows | Se realizaron cambios relacionados con: ci(firebase): initialize firebase hosting and harden github actions workflows | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | eaa8f27 | feat: initialize mock database with user, ride, and fare configuration data | Se implementó nueva funcionalidad: feat: initialize mock database with user, ride, and fare configuration data | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 85c24d6 | chore: remove unused file configurations and associated references | Se realizaron cambios relacionados con: chore: remove unused file configurations and associated references | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 809cda5 | feat: initialize server mock data and add UI assets for motorizado and pasajero roles | Se implementó nueva funcionalidad: feat: initialize server mock data and add UI assets for motorizado and pasajero roles | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 7dea9df | refactor(driver-ui): redesign request detail layout and action hierarchy | Se refactorizó el código: refactor(driver-ui): redesign request detail layout and action hierarchy | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 702d046 | refactor(driver-ui): improve open request cards with passenger context | Se refactorizó el código: refactor(driver-ui): improve open request cards with passenger context | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 9bbc9dd | refactor(driver-api): enrich ride requests with passenger profiles | Se refactorizó el código: refactor(driver-api): enrich ride requests with passenger profiles | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 893ba5a | feat(driver-ui): integrate Leaflet previews and unify active ride layouts | Se implementó nueva funcionalidad: feat(driver-ui): integrate Leaflet previews and unify active ride layouts | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 94edec0 | fix(store): resolve race conditions and implement deep lookup fallback for driver active ride | Se corrigieron errores en: fix(store): resolve race conditions and implement deep lookup fallback for driver active ride | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 7776962 | feat(ui): implement competitive inDrive UI flow for passenger and driver | Se implementó nueva funcionalidad: feat(ui): implement competitive inDrive UI flow for passenger and driver | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | f5a0950 | feat(driver-management): map extended driver profile fields to fixing store access | Se implementó nueva funcionalidad: feat(driver-management): map extended driver profile fields to fixing store access | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | d4a0132 | chore(fake-api): add rideCandidates collection and update ride request flow schema | Se realizaron cambios relacionados con: chore(fake-api): add rideCandidates collection and update ride request flow schema | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | d34a164 | chore(seed): reset db.json to clean demo state | Se realizaron cambios relacionados con: chore(seed): reset db.json to clean demo state | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 5bb2675 | fix(us-11): handle expired ride request state for passenger | Se corrigieron errores en: fix(us-11): handle expired ride request state for passenger | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 50c4182 | feat(us-07): add geolocation button to trip location form | Se implementó nueva funcionalidad: feat(us-07): add geolocation button to trip location form | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 536d771 | fix(passenger-ui): guard action buttons during loading and humanize coords | Se corrigieron errores en: fix(passenger-ui): guard action buttons during loading and humanize coords | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 3d394bb | fix(driver-availability): replace fire-and-forget subscribe with switchMap | Se corrigieron errores en: fix(driver-availability): replace fire-and-forget subscribe with switchMap | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 85582a0 | feat(driver-ui): add request detail view with accept/skip from driver dashboard | Se implementó nueva funcionalidad: feat(driver-ui): add request detail view with accept/skip from driver dashboard | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 410f551 | feat(driver-ui): replace accept button with ver-detalles CTA on request card | Se implementó nueva funcionalidad: feat(driver-ui): replace accept button with ver-detalles CTA on request card | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | f3cd6fe | fix(passenger-ui): repair SEARCHING_DRIVER state and request status refresh | Se corrigieron errores en: fix(passenger-ui): repair SEARCHING_DRIVER state and request status refresh | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 64bbce8 | feat(driver-ui): implement driver dashboard page with full ride accept flow | Se implementó nueva funcionalidad: feat(driver-ui): implement driver dashboard page with full ride accept flow | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | e832e93 | feat(ride-dispatch): add pending request card for driver | Se implementó nueva funcionalidad: feat(ride-dispatch): add pending request card for driver | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 582a5ea | feat(driver-ui): add wallet balance card with insufficient balance warning | Se implementó nueva funcionalidad: feat(driver-ui): add wallet balance card with insufficient balance warning | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 851725b | feat(driver-ui): create driver layout shell with amber sidebar | Se implementó nueva funcionalidad: feat(driver-ui): create driver layout shell with amber sidebar | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 5eefd10 | fix(ride-dispatch): repair acceptRide flow ÔÇö patch rideRequest + create ride with real data | Se corrigieron errores en: fix(ride-dispatch): repair acceptRide flow ÔÇö patch rideRequest + create ride with real data | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | c7d3484 | docs(sprint-2): update wording related to driver availability if needed | Se actualizó la documentación: docs(sprint-2): update wording related to driver availability if needed | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 15e1f3d | refactor(passenger-ui): align availability messaging with referential availability | Se refactorizó el código: refactor(passenger-ui): align availability messaging with referential availability | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 6697475 | refactor(passenger-map): remove driver marker and popup from request map | Se refactorizó el código: refactor(passenger-map): remove driver marker and popup from request map | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 3b54d6e | docs(sprint-2): remove realtime proximity wording from contracts and optimize UI state | Se actualizó la documentación: docs(sprint-2): remove realtime proximity wording from contracts and optimize UI state | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 287af07 | refactor(passenger-ui): align availability messaging with manual refresh flow | Se refactorizó el código: refactor(passenger-ui): align availability messaging with manual refresh flow | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 9c4c089 | style(passenger-ui): refine sidebar and visual hierarchy | Se ajustaron los estilos en: style(passenger-ui): refine sidebar and visual hierarchy | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 3efa9a1 | refactor(passenger-ui): improve right panel state handling | Se refactorizó el código: refactor(passenger-ui): improve right panel state handling | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 02daad3 | fix(copy): correct passenger microcopy and availability messages | Se corrigieron errores en: fix(copy): correct passenger microcopy and availability messages | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 7a37280 | fix(map): clarify route and marker semantics in passenger map | Se corrigieron errores en: fix(map): clarify route and marker semantics in passenger map | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | daaf326 | fix(passenger-ui): improve trip form labels and location display | Se corrigieron errores en: fix(passenger-ui): improve trip form labels and location display | 12/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 9970e3e | fix(ride-dispatch): default map location to Casma coordinates | Se corrigieron errores en: fix(ride-dispatch): default map location to Casma coordinates | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 6bc6e54 | style(trip-map): use svg icons for map markers and remove polyline | Se ajustaron los estilos en: style(trip-map): use svg icons for map markers and remove polyline | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | ff99f44 | feat(ride-dispatch): add map click interaction to set origin and destination | Se implementó nueva funcionalidad: feat(ride-dispatch): add map click interaction to set origin and destination | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 3f3ccd0 | feat(ride-dispatch): build passenger request ride components and ui states | Se implementó nueva funcionalidad: feat(ride-dispatch): build passenger request ride components and ui states | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 2af652d | feat(navigation): replace passenger home with request flow shell | Se implementó nueva funcionalidad: feat(navigation): replace passenger home with request flow shell | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 73d2e2f | refactor(driver-management): remove legacy document fields from driver entity | Se refactorizó el código: refactor(driver-management): remove legacy document fields from driver entity | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 9ffd55c | fix(typing): resolve typescript strict typing errors across stores and assemblers | Se corrigieron errores en: fix(typing): resolve typescript strict typing errors across stores and assemblers | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 3e85e8c | chore(presentation): add missing presentation layer scaffolding | Se realizaron cambios relacionados con: chore(presentation): add missing presentation layer scaffolding | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 760b376 | refactor(trust-reputation): connect rating to fake api minimally | Se refactorizó el código: refactor(trust-reputation): connect rating to fake api minimally | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 0d00da5 | refactor(driver-management): connect driver to fake api minimally | Se refactorizó el código: refactor(driver-management): connect driver to fake api minimally | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 8a5a4d4 | refactor(monetization): connect wallet and fare config to fake api | Se refactorizó el código: refactor(monetization): connect wallet and fare config to fake api | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | b203808 | refactor(ride-dispatch): replace stub api with json-server integration | Se refactorizó el código: refactor(ride-dispatch): replace stub api with json-server integration | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 82d938d | fix(domain): standardize ID types, update entities, and add db seeds for sprint 2 | Se corrigieron errores en: fix(domain): standardize ID types, update entities, and add db seeds for sprint 2 | 11/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 1a887eb | feat(application-layer): add stores for 4 bounded contexts | Se implementó nueva funcionalidad: feat(application-layer): add stores for 4 bounded contexts | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 2cbfb14 | feat(application-layer): add stores and infrastructure demo for 4 bounded contexts | Se implementó nueva funcionalidad: feat(application-layer): add stores and infrastructure demo for 4 bounded contexts | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | a93e9bb | fix: correct merge conflict | Se corrigieron errores en: fix: correct merge conflict | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 16a2593 | chore: configure project analytics, establish architecture documentation, and define initial routing and sprint requirements. | Se realizaron cambios relacionados con: chore: configure project analytics, establish architecture documentation, and define initial routing and sprint requirements. | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 7c481eb | fix(iam): add provideAnimationsAsync required by Angular Material | Se corrigieron errores en: fix(iam): add provideAnimationsAsync required by Angular Material | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | d7f9d6d | feat(iam): integrate login flow with role-based redirection | Se implementó nueva funcionalidad: feat(iam): integrate login flow with role-based redirection | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 743eb04 | feat(iam): build login form UI and dashboard stubs | Se implementó nueva funcionalidad: feat(iam): build login form UI and dashboard stubs | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | bba2a45 | feat(iam): implement iam store with session persistence | Se implementó nueva funcionalidad: feat(iam): implement iam store with session persistence | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 6e1d6c7 | feat(iam): implement iam api service with sign in | Se implementó nueva funcionalidad: feat(iam): implement iam api service with sign in | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 018e49f | feat(iam): add account and profile assemblers | Se implementó nueva funcionalidad: feat(iam): add account and profile assemblers | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 766c0ae | feat(iam): add auth and profile DTO interfaces | Se implementó nueva funcionalidad: feat(iam): add auth and profile DTO interfaces | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | ea03aad | feat(iam): add account and profile domain entities | Se implementó nueva funcionalidad: feat(iam): add account and profile domain entities | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | ebf1602 | feat(iam): setup project infrastructure and fake api seed | Se implementó nueva funcionalidad: feat(iam): setup project infrastructure and fake api seed | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 83720d1 | docs: add documentation, configuration, and initial mock database for the project foundation | Se actualizó la documentación: docs: add documentation, configuration, and initial mock database for the project foundation | 09/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | a57e3ed | feat: implement trust-reputation domain model | Se implementó nueva funcionalidad: feat: implement trust-reputation domain model | 08/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | ee260ee | feat: implement ride-dispatch domain model | Se implementó nueva funcionalidad: feat: implement ride-dispatch domain model | 08/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 8be70ea | feat: implement monetization domain model | Se implementó nueva funcionalidad: feat: implement monetization domain model | 08/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | a352ba4 | feat: implement iam domain model | Se implementó nueva funcionalidad: feat: implement iam domain model | 08/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | bfab8c2 | feat: implement driver-magement domain model | Se implementó nueva funcionalidad: feat: implement driver-magement domain model | 08/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | af555f1 | feat: add base entity interface | Se implementó nueva funcionalidad: feat: add base entity interface | 08/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | a5606c6 | chore: update project dependencies | Se realizaron cambios relacionados con: chore: update project dependencies | 08/05/2026 |
+| Startup-x-upc/FrontEnd-WebApplication | main | 3602ccf | initial commit | Se realizaron cambios relacionados con: initial commit | 08/05/2026 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+<img src="./Resources/sprint_2/evidence1.png">
+<img src="./Resources/sprint_2/evidence2.png">
+<img src="./Resources/sprint_2/evidence3.png">
+<img src="./Resources/sprint_2/evidence4.png">
+<img src="./Resources/sprint_2/evidence5.png">
+<img src="./Resources/sprint_2/evidence6.png">
+<img src="./Resources/sprint_2/evidence7.png">
+<img src="./Resources/sprint_2/evidence8.png">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Durante este sprint se completó el diseño e implementación del frontend Page del sistema.
+
+**Descripción del Logro:**
+- Implementación del frontend page.
+- Deployment del frontend page.
+
+**Recursos del Sprint:**
+
+| Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
+| --- | --- | --- | --- | --- |
+| Frontend Page | Visualización inicial | GET | [startup-x-upc.github.io/frontendweb-page](https://chapaturuta-e7d2e.web.app/login) | [Startup-x-upc/frontendweb-page](https://github.com/Startup-x-upc/FrontEnd-WebApplication.git) |
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<img src="./Resources/sprint_2/a.jpeg">
+<img src="./Resources/sprint_2/b.jpeg">
+<img src="./Resources/sprint_2/c.jpeg">
+<img src="./Resources/sprint_2/d.jpeg">
+<img src="./Resources/sprint_2/e.png">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+
