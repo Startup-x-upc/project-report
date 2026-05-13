@@ -882,6 +882,15 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+<img src="./Resources/sprint_2/evidence1.png">
+<img src="./Resources/sprint_2/evidence2.png">
+<img src="./Resources/sprint_2/evidence3.png">
+<img src="./Resources/sprint_2/evidence4.png">
+<img src="./Resources/sprint_2/evidence5.png">
+<img src="./Resources/sprint_2/evidence6.png">
+<img src="./Resources/sprint_2/evidence7.png">
+<img src="./Resources/sprint_2/evidence8.png">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
