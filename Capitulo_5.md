@@ -424,11 +424,13 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 <a href="https://trello.com/b/uGr6OQCE/sprint-1">Sprint 1 Trello</a>
 
+# Sprint 2 User Stories & Tasks Table
+
 <table>
   <thead>
     <tr>
       <th>Sprint #</th>
-      <th colspan="7">Sprint 1</th>
+      <th colspan="7">Sprint 2</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
@@ -446,84 +448,547 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
     </tr>
   </thead>
   <tbody>
+    <!-- US-03 -->
     <tr>
-      <td>US-31</td>
-      <td>Sección Hero con CTA diferenciado</td>
-      <td>US31-T001</td>
-      <td>Maquetación HTML/CSS Sección Hero</td>
-      <td>Implementar la sección Hero utilizando HTML y CSS siguiendo fielmente los mockups de Figma.</td>
+      <td rowspan="8">US-03</td>
+      <td rowspan="8">Inicio de sesión</td>
+      <td>TASK-US03-01</td>
+      <td>Crear colección users en db.json</td>
+      <td>Crear/validar colección `users` en `db.json` con cuentas seed por rol.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US03-02</td>
+      <td>Crear colección profiles en db.json</td>
+      <td>Crear/validar colección `profiles` en `db.json` solo para lectura básica del usuario autenticado si la UI lo necesita.</td>
+      <td>0.4</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US03-03</td>
+      <td>Implementar IamApiService para Login</td>
+      <td>Implementar o validar `IamApiService` para `GET /users?email={email}&amp;password={password}`.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US03-04</td>
+      <td>Implementar IamApiService para Perfil</td>
+      <td>Implementar o validar `IamApiService` para `GET /profiles?accountId={accountId}` solo para datos mínimos de sesión.</td>
+      <td>0.5</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US03-05</td>
+      <td>Ajustar iam.store.ts</td>
+      <td>Implementar o ajustar `iam.store.ts` para autenticar usuario, guardar sesión mock y exponer rol actual.</td>
+      <td>0.8</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US03-06</td>
+      <td>Configurar redirección post-login</td>
+      <td>Ajustar redirección del pasajero a la nueva home transaccional (`/passenger/request-ride`).</td>
+      <td>0.4</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US03-07</td>
+      <td>Configurar mensajes de error en login</td>
+      <td>Ajustar mensaje de error genérico para credenciales inválidas.</td>
+      <td>0.3</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US03-08</td>
+      <td>Pruebas de integración Login</td>
+      <td>Probar flujo completo de login con json-server.</td>
+      <td>0.6</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US-06</td>
+      <td rowspan="3">Verificación de documentos del conductor</td>
+      <td>TASK-US06-01</td>
+      <td>Campos verificationStatus json</td>
+      <td>Mantener en `db.json` los campos `verificationStatus` y `operationalStatus`.</td>
+      <td>0.3</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US06-02</td>
+      <td>Soporte de datos para demo</td>
+      <td>Usar estos estados solo como soporte de datos para la demo.</td>
+      <td>0.4</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US06-03</td>
+      <td>Validar conductor de prueba</td>
+      <td>Asegurar que el conductor de prueba esté en estado válido para operar.</td>
+      <td>0.3</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="5">US-07</td>
+      <td rowspan="5">Detección automática de ubicación del pasajero</td>
+      <td>TASK-US07-01</td>
+      <td>Integrar geolocalización</td>
+      <td>Implementar integración con geolocalización del navegador.</td>
       <td>0.7</td>
       <td>Castillo Vidal, Jesus Ivan</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-32</td>
-      <td>Sección ¿Cómo funciona?</td>
-      <td>US32-T001</td>
-      <td>Maquetación HTML/CSS Sección ¿Cómo funciona?</td>
-      <td>Implementar el flujo del servicio en HTML y CSS basado en los diseños de Figma.</td>
-      <td>0.4</td>
-      <td>Torres Sanchez, Dalila Victoria</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US-33</td>
-      <td>Sección de beneficios por segmento</td>
-      <td>US33-T001</td>
-      <td>Maquetación HTML/CSS Beneficios</td>
-      <td>Maquetar la sección de beneficios por perfil utilizando HTML y CSS.</td>
-      <td>0.9</td>
-      <td>Aguirre Ramos, Eduardo Manuel</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US-34</td>
-      <td>Sección de tarifas</td>
-      <td>US34-T001</td>
-      <td>Maquetación HTML/CSS Tarifas</td>
-      <td>Desarrollar la sección informativa de tarifas en HTML y CSS.</td>
-      <td>0.3</td>
+      <td>TASK-US07-02</td>
+      <td>Lógica de fallback manual</td>
+      <td>Crear lógica de fallback manual en caso de denegación de permisos.</td>
+      <td>0.5</td>
       <td>Pillaca Gonzales, Andy Saúl</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-36</td>
-      <td>Sección About the Product</td>
-      <td>US36-T001</td>
-      <td>Maquetación HTML/CSS About the Product</td>
-      <td>Integrar video publicitario y estructurar la sección en HTML/CSS.</td>
-      <td>0.5</td>
-      <td>Aiquipa Poma, Sebastian Andres</td>
-      <td>To-do</td>
+      <td>TASK-US07-03</td>
+      <td>Conectar origen al store</td>
+      <td>Conectar el origen detectado al store de `ride-dispatch`.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td>US-37</td>
-      <td>Sección About the Team</td>
-      <td>US37-T001</td>
-      <td>Maquetación HTML/CSS About the Team</td>
-      <td>Maquetar la presentación de los miembros del equipo en HTML y CSS según Figma.</td>
+      <td>TASK-US07-04</td>
+      <td>Visualizar origen en UI</td>
+      <td>Mostrar el origen en la UI con texto legible y no solo coordenadas crudas.</td>
+      <td>0.5</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US07-05</td>
+      <td>Reflejar origen en Leaflet</td>
+      <td>Reflejar el origen también en el mapa Leaflet.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="5">US-08</td>
+      <td rowspan="5">Selección de destino</td>
+      <td>TASK-US08-01</td>
+      <td>Selector de destino UI</td>
+      <td>Implementar selector de destino en la UI.</td>
+      <td>0.8</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US08-02</td>
+      <td>Conectar destino al store</td>
+      <td>Conectar el destino al store de `ride-dispatch`.</td>
+      <td>0.4</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US08-03</td>
+      <td>Reflejar destino en mapa</td>
+      <td>Reflejar el destino en el mapa.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US08-04</td>
+      <td>Validar flujo origen-destino</td>
+      <td>Validar el flujo origen + destino antes de habilitar el siguiente paso.</td>
+      <td>0.5</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US08-05</td>
+      <td>Integrar destino con tarifas</td>
+      <td>Integrar la selección de destino con el cálculo tarifario.</td>
+      <td>0.7</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4">US-09</td>
+      <td rowspan="4">Visualización de conductores cercanos</td>
+      <td>TASK-US09-01</td>
+      <td>Mostrar conductores en mapa</td>
+      <td>Mostrar conductores disponibles de forma simple en el mapa.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US09-02</td>
+      <td>Simplificar visualización</td>
+      <td>Evitar tabla comparativa estilo marketplace.</td>
+      <td>0.3</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US09-03</td>
+      <td>Mensaje conductores en zona</td>
+      <td>Mostrar mensaje resumido tipo “Conductores disponibles en la zona”.</td>
+      <td>0.4</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US09-04</td>
+      <td>Estado vacío conductores</td>
+      <td>Preparar estado vacío cuando no haya conductores disponibles.</td>
       <td>0.5</td>
       <td>Castillo Vidal, Jesus Ivan</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-35</td>
-      <td>Sección de testimonios</td>
-      <td>US35-T001</td>
-      <td>Maquetación HTML/CSS Testimonios</td>
-      <td>Estructurar la sección de opiniones de usuarios en HTML y CSS.</td>
+      <td rowspan="3">US-10</td>
+      <td rowspan="3">Actualización manual del estado de aceptación</td>
+      <td>TASK-US10-01</td>
+      <td>Botón de refresh manual</td>
+      <td>Implementar botón o acción de refresh manual en la pantalla del pasajero.</td>
       <td>0.5</td>
-      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-38</td>
-      <td>Sección CTA final</td>
-      <td>US38-T001</td>
-      <td>Maquetación HTML/CSS CTA final</td>
-      <td>Crear el llamado a la acción al final de la landing page en HTML y CSS.</td>
+      <td>TASK-US10-02</td>
+      <td>Consultar estado actualizado</td>
+      <td>Consultar el estado actualizado de `rideRequests` / `rides`.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US10-03</td>
+      <td>Transición visual DRIVER_ASSIGNED</td>
+      <td>Mostrar transición visual hacia estado `DRIVER_ASSIGNED` cuando corresponda.</td>
+      <td>0.4</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US-11</td>
+      <td rowspan="3">Actualización manual del estado de rechazo o espera</td>
+      <td>TASK-US11-01</td>
+      <td>Definir estados visuales</td>
+      <td>Definir estados visuales: `SEARCHING_DRIVER`, `NO_DRIVERS`, `ERROR`.</td>
+      <td>0.4</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US11-02</td>
+      <td>Refrescar estado solicitud</td>
+      <td>Refrescar manualmente el estado de la solicitud.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US11-03</td>
+      <td>Validar consistencia de mensajes</td>
+      <td>Mostrar mensajes consistentes sin contradicciones.</td>
+      <td>0.3</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="5">US-13</td>
+      <td rowspan="5">Activar y desactivar disponibilidad del conductor</td>
+      <td>TASK-US13-01</td>
+      <td>Validar driverAvailability json</td>
+      <td>Crear o validar `driverAvailability` en `db.json`.</td>
+      <td>0.3</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US13-02</td>
+      <td>Toggle disponibilidad UI</td>
+      <td>Implementar toggle de disponibilidad en la UI del conductor.</td>
+      <td>0.7</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US13-03</td>
+      <td>Conectar toggle al store</td>
+      <td>Conectar el toggle con `ride-dispatch.store.ts`.</td>
+      <td>0.6</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US13-04</td>
+      <td>Validar saldo previo</td>
+      <td>Validar el saldo desde `monetization.store.ts` antes de activar.</td>
+      <td>0.5</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US13-05</td>
+      <td>Reflejar estado conectado UI</td>
+      <td>Reflejar visualmente si el conductor está conectado o desconectado.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4">US-14</td>
+      <td rowspan="4">Visualización de solicitudes para conductor</td>
+      <td>TASK-US14-01</td>
+      <td>Consumir rideRequests pending</td>
+      <td>Consumir `GET /rideRequests?status=PENDING`.</td>
+      <td>0.4</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US14-02</td>
+      <td>Lista de solicitudes UI</td>
+      <td>Crear lista/tarjetas de solicitudes para el conductor.</td>
+      <td>0.8</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US14-03</td>
+      <td>Mostrar datos de viaje</td>
+      <td>Mostrar origen, destino y tarifa estimada.</td>
+      <td>0.5</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US14-04</td>
+      <td>Acciones aceptar/rechazar</td>
+      <td>Preparar acciones de aceptar/rechazar.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="5">US-15</td>
+      <td rowspan="5">Solicitud de viaje por parte del pasajero</td>
+      <td>TASK-US15-01</td>
+      <td>Crear home transaccional</td>
+      <td>Crear flujo principal de home transaccional del pasajero.</td>
+      <td>0.9</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US15-02</td>
+      <td>Integrar flujo de datos</td>
+      <td>Integrar origen, destino y tarifa estimada en un solo flujo.</td>
+      <td>0.7</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US15-03</td>
+      <td>Implementar CTA confirmar</td>
+      <td>Implementar CTA principal: `Confirmar solicitud`.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US15-04</td>
+      <td>Registrar POST rideRequests</td>
+      <td>Crear request en fake API (`POST /rideRequests`).</td>
+      <td>0.6</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US15-05</td>
+      <td>Transición visual SEARCHING</td>
+      <td>Mostrar transición visual a estado `SEARCHING_DRIVER`.</td>
+      <td>0.4</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4">US-16</td>
+      <td rowspan="4">Postulación de conductor y selección (inDrive flow)</td>
+      <td>TASK-US16-01</td>
+      <td>Colección rideCandidates json</td>
+      <td>Implementar colección `rideCandidates` en `db.json`.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US16-02</td>
+      <td>Lista de candidatos UI</td>
+      <td>Diseñar pantalla de selección de candidatos en la UI del pasajero (`app-ride-candidates-list`).</td>
+      <td>0.8</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US16-03</td>
+      <td>Acción de postulación UI</td>
+      <td>Crear acción de postulación para el conductor en el dashboard.</td>
+      <td>0.6</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US16-04</td>
+      <td>Flujo transaccional selección</td>
+      <td>Implementar flujo transaccional de selección: confirmación de solicitud + aceptación de candidato + rechazo de competidores + creación de viaje.</td>
+      <td>0.9</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US-17</td>
+      <td rowspan="3">Progresión y finalización del viaje</td>
+      <td>TASK-US17-01</td>
+      <td>Navegación a Google Maps</td>
+      <td>Implementar botones de navegación a Google Maps para el conductor.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US17-02</td>
+      <td>Control de estados de viaje</td>
+      <td>Controlar los estados intermedios del viaje: `DRIVER_ON_THE_WAY`, `DRIVER_ARRIVED`, `STARTED`, `COMPLETED`.</td>
+      <td>0.7</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US17-03</td>
+      <td>Liberación del conductor</td>
+      <td>Asegurar la liberación del conductor (`isBusy = false`) tras la finalización.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="5">US-19</td>
+      <td rowspan="5">Cálculo de tarifa por distancia</td>
+      <td>TASK-US19-01</td>
+      <td>Consumir fareConfig</td>
+      <td>Consumir `GET /fareConfig`.</td>
+      <td>0.3</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US19-02</td>
+      <td>Cálculo tarifa en store</td>
+      <td>Implementar cálculo de tarifa en `monetization.store.ts`.</td>
+      <td>0.7</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US19-03</td>
+      <td>Mostrar tarifa en panel</td>
+      <td>Mostrar la tarifa estimada en el panel derecho o resumen del viaje.</td>
+      <td>0.5</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US19-04</td>
+      <td>Recalcular con cambios origen-destino</td>
+      <td>Integrar el cálculo con los cambios de origen/destino.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US19-05</td>
+      <td>Mostrar distancia en UI</td>
+      <td>Mostrar también distancia estimada en la UI.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US-23</td>
+      <td rowspan="3">Visualización del puntaje de reputación</td>
+      <td>TASK-US23-01</td>
+      <td>Campos ratingAverage drivers</td>
+      <td>Mantener `ratingAverage` y `ratingCount` en `drivers`.</td>
+      <td>0.4</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US23-02</td>
+      <td>Mostrar contexto reputación visual</td>
+      <td>Mostrar reputación solo si aporta contexto visual mínimo.</td>
+      <td>0.3</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US23-03</td>
+      <td>Evitar flujo interactivo reputación</td>
+      <td>No implementar flujo de calificación en este sprint.</td>
+      <td>0.3</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4">US-28</td>
+      <td rowspan="4">Visualización del saldo del wallet</td>
+      <td>TASK-US28-01</td>
+      <td>Consumir saldo wallet</td>
+      <td>Consumir `GET /wallets?driverId={driverId}`.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US28-02</td>
+      <td>Mostrar saldo en vista</td>
+      <td>Mostrar saldo en la vista del conductor.</td>
       <td>0.5</td>
       <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US28-03</td>
+      <td>Validar saldo en disponibilidad</td>
+      <td>Integrar la validación de saldo con US-13.</td>
+      <td>0.6</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US28-04</td>
+      <td>Mensaje error por saldo</td>
+      <td>Mostrar mensaje claro cuando no pueda activarse por saldo insuficiente.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
       <td>Done</td>
     </tr>
   </tbody>
@@ -1019,4 +1484,4 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-
+<img src="./Resources/sprint_2/team1.png">
