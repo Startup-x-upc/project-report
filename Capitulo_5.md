@@ -709,6 +709,175 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 #### 5.2.2.3. Sprint Backlog 2
 
+<img src="./Resources/sprint_2/sprint2_trello.png">
+
+<a href="https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2">Sprint 2 Trello</a>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-01</td>
+      <td>Registro de pasajero</td>
+      <td>US01-T001</td>
+      <td>US01-T001 Maquetación del formulario de registro .</td>
+      <td>Creación de la interfaz responsiva con Angular Material, incluyendo validaciones reactivas (Email,contraseña, coincidencia de campos) y manejo de estados visuales.</td>
+      <td>0.7</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US-01</td>
+      <td>Registro de pasajero</td>
+      <td>US01-T002</td>
+      <td>Conexión Servicio Autenticación</td>
+      <td>Integración de los formularios con el servicio de autenticación de Angular, manejo de tokens y configuración de interceptores para rutas protegidas.</td>
+      <td>0.4</td>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US-02</td>
+      <td>Registro de conductor</td>
+      <td>US02-T001</td>
+      <td>Formulario Registro Conductor</td>
+      <td>Desarrollo de un formulario especializado que incluya un área de carga de archivos para documentos pesados, implementando validación de extensiones.</td>
+      <td>0.9</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-02</td>
+      <td>Registro de conductor</td>
+      <td>US02-T002</td>
+      <td>Previsualización de Documentos</td>
+      <td>Implementación de una lógica de lectura de archivos en el cliente para mostrar miniaturas de los documentos cargados antes de ser enviados al servidor.</td>
+      <td>0.3</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-03</td>
+      <td>Inicio de sesión</td>
+      <td>US03-T001</td>
+      <td>Maquetación Login y Errores Visuales</td>
+      <td>Diseño de la pantalla de acceso con implementación de alertas dinámicas para credenciales incorrectas, cuenta bloqueada o errores de servidor.</td>
+      <td>0.5</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US-07</td>
+      <td>Detección automática de ubicación del pasajero</td>
+      <td>US07-T001</td>
+      <td>Maquetación HTML/CSS About the Team</td>
+      <td>Maquetar la presentación de los miembros del equipo en HTML y CSS según Figma.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-07</td>
+      <td>Detección automática de ubicación del pasajero</td>
+      <td>US07-T002</td>
+      <td>Marcador Dinámico Ubicación</td>
+      <td>Ubicación	Implementación de la Geolocation API para centrar el mapa y colocar un marcador dinámico (Pulse effect) que represente la posición del usuario en tiempo real.</td>
+      <td>0.5</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-08</td>
+      <td>Selección de destino en el mapa</td>
+      <td>US08-T001</td>
+      <td>Trazado de Ruta Visual</td>
+      <td>Uso del Directions Service y Directions Renderer para dibujar la línea de ruta (Polylines) entre el pasajero y el destino seleccionado.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-09</td>
+      <td>Visualización de conductores cercanos en el mapa</td>
+      <td>US09-T001</td>
+      <td>Iconos Personalizados Vehículos</td>
+      <td>Creación y configuración de iconos SVG personalizados para representar las mototaxis, asegurando el escalado correcto según el nivel de zoom.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-09</td>
+      <td>Visualización de conductores cercanos en el mapa</td>
+      <td>US09-T002</td>
+      <td>Suscripción Eventos Real-Time</td>
+      <td>Implementación de lógica de suscripción (WebSockets) para mover los marcadores de las mototaxis de forma fluida mediante animaciones de transición de coordenadas.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-12</td>
+      <td>Recarga del wallet mediante Stripe</td>
+      <td>US12-T001</td>
+      <td>Diseño de Tarjeta Notificación</td>
+      <td>Creación de un componente modal que aparezca automáticamente en el móvil del conductor al recibir un viaje, con cronómetro de aceptación.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-27</td>
+      <td>Recarga del wallet mediante Stripe</td>
+      <td>US27-T001</td>
+      <td>Dashboard de Saldo</td>
+      <td>Maquetación de la vista de billetera con gráficos de barras simples para ingresos diarios e historial de transacciones con filtros por fecha.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-28</td>
+      <td>Visualización del saldo del wallet</td>
+      <td>US28-T001</td>
+      <td>Integración Stripe Elements</td>
+      <td>Implementación del componente seguro de Stripe en el front-end para la captura de datos de tarjeta cumpliendo con estándares PCI DSS.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-28</td>
+      <td>Visualización del saldo del wallet</td>
+      <td>US28-T002</td>
+      <td>Pantalla de Confirmación de Pago</td>
+      <td>Desarrollo de vistas animadas de "Éxito" y "Error" con resumen de la transacción y actualización reactiva del saldo disponible en el header.</td>
+      <td>0.5</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
