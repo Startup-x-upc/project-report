@@ -987,4 +987,11 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<img src="./Resources/sprint_2/a.jpeg">
+<img src="./Resources/sprint_2/b.jpeg">
+<img src="./Resources/sprint_2/c.jpeg">
+<img src="./Resources/sprint_2/d.jpeg">
+<img src="./Resources/sprint_2/e.png">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
