@@ -892,6 +892,17 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 <img src="./Resources/sprint_2/evidence8.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Durante este sprint se completó el diseño e implementación del frontend Page del sistema.
+
+**Descripción del Logro:**
+- Implementación del frontend page.
+- Deployment del frontend page.
+
+**Recursos del Sprint:**
+
+| Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
+| --- | --- | --- | --- | --- |
+| Frontend Page | Visualización inicial | GET | [startup-x-upc.github.io/frontendweb-page](https://chapaturuta-e7d2e.web.app/login) | [Startup-x-upc/frontendweb-page](https://github.com/Startup-x-upc/FrontEnd-WebApplication.git) |
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
