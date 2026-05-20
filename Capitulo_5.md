@@ -1430,16 +1430,71 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 
 #### 5.2.3.1. Sprint Planning 3
 
+<table>
+  <tbody>
+    <tr>
+      <td><b>Sprint #</b></td>
+      <td>Sprint 3</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>2026-06-20</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>18:50 PM (GMT-5)</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Modalidad remota mediante la plataforma Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>Castillo Vidal, Jesus Ivan / Torres Sanchez, Dalila Victoria / Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl / Delgado Perez, James Caleb / Aiquipa Poma, Sebastian Andres</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 2 Review Summary</b></td>
+      <td>Durante el Sprint 1 se logró implementar casi en su totalidad la Landing Page del sistema ChapaTuRuta, desarrollando secciones principales como el header, hero section, features además de las reviews, el pricing y por último el footer, así como la integración inicial de estilos globales y tipografía mencionadas en el reporte.Quedó como mejora la adición del idioma ingles para la accesibilidad de las persona. El equipo cumplió con sus tareas establecidos, respetando el diseño de mockups y la guía de estilos. Se pudo identificaron oportunidades para mejorar en el siguiente sprint velocidad de desarrollo y la gestión de tiempos.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 2 Retrospective Summary</b></td>
+      <td>Durante el Sprint 1, el equipo logró avanzar de forma efectiva en el desarrollo de la landing page. Cada integrante cumplió con las secciones asignadas, lo que permitió avanzar según lo planificado. Como mejora para el siguiente sprint, se debería implementar un control de las task que hacemos normalmente con deadlines, para asi controlar el manejo de la puntualidad asi como la coordinación al momento de expresar dificultades asignadas.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Goal</b></td>
+      <td><b>Nuestro propósito es</b> diseñar y entregar una primera versión del frontend pages para nuestra plataforma de gestión de rutas, implementando datos generados por nosotros haciendo que funcione comodamente. <b>Creemos que esto aportará</b> una mejor comprensión del alcance y la funcionalidad de lo que nuestro software puede llegar a ser . <b>Esto se confirmará cuando</b> los visitantes puedan comprender como son las funcionalidades de nuestra plataforma y coomo se manejara sus servicios a traves de nuestro frontend page.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Velocity</b></td>
+      <td> puntos</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td> puntos</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
 #### 5.2.3.3. Sprint Backlog 3
 
-#### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.3.4. Development Evidence for Sprint Review
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
