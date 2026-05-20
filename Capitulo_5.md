@@ -1425,3 +1425,21 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <img src="./Resources/sprint_2/team1.png">
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
