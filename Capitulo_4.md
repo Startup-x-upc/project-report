@@ -797,9 +797,64 @@ Desde el Home, el usuario accede a Perfil o Mi Perfil. Puede ver y editar sus da
 
 ## 4.5 Web Applications Prototyping
 
+![Prototyping - Chapa Tu Ruta](Resources/prototypingWeb.jpeg)
+
+Video de Prototyping: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FPrototyping%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4478439f%2D6b7f%2D42f0%2D9388%2De69468351534)
+
 ## 4.6 Domain-Driven Software Architecture
 
 ### 4.6.1 Design-Level EventStorming
+
+#### IAM
+
+##### Brainstorming
+
+![](./Resources/design%20level%20event%20storming/1%20_%20IAM%201.jpg)
+
+#### Flows
+
+![](./Resources/design%20level%20event%20storming/1%20_%20IAM%202.jpg)
+
+#### DRIVER MANAGEMENT
+
+##### Brainstorming
+
+![](./Resources/design%20level%20event%20storming/2%20_%20DRIVER%20MANAGEMENT%201.jpg)
+
+#### Flows
+
+![](./Resources/design%20level%20event%20storming/2%20_%20DRIVER%20MANAGEMENT%202.jpg)
+
+#### RIDE DISPATCH
+
+##### Brainstorming
+
+![](./Resources/design%20level%20event%20storming/3%20_%20Ride%20Dispatch%201.jpg)
+
+#### Flows
+
+![](./Resources/design%20level%20event%20storming/3%20_%20Ride%20Dispatch%202.jpg)
+
+#### TRUST AND REPUTATION
+
+##### Brainstorming
+
+![](./Resources/design%20level%20event%20storming/4%20_%20TRUST%20AND%20REPUTATION%201.jpg)
+
+#### Flows
+
+![](./Resources/design%20level%20event%20storming/4%20_%20TRUST%20AND%20REPUTATION%202.jpg)
+
+#### MONETIZATION
+
+##### Brainstorming
+
+![](./Resources/design%20level%20event%20storming/5%20_%20MONETIZATION%201.jpg)
+
+#### Flows
+
+![](./Resources/design%20level%20event%20storming/5%20_%20MONETIZATION%202.jpg)
+
 
 ### 4.6.2 Software Architecture Context Diagram
 
