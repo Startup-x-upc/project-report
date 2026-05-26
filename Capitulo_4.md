@@ -606,6 +606,30 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.4.1 Web Applications Wireframes
 
+**Login usuario**
+
+![Login - Chapa Tu Ruta](Resources/ux_ui/wireframes/Login.png)
+
+**Registro usuario**
+
+![Registro - Chapa Tu Ruta](Resources/ux_ui/wireframes/Registro.png)
+
+**Panel pasajero**
+
+![Pasajero - Chapa Tu Ruta](Resources/ux_ui/wireframes/Home%20pasajero.png)
+
+**Solicitud de viaje**
+
+![Solicitar viaje - Chapa Tu Ruta](Resources/ux_ui/wireframes/Solicitar%20viaje.png)
+
+**Viaje de usuario**
+
+![Viaje - Chapa Tu Ruta](Resources/ux_ui/wireframes/Viaje%20activo.png)
+
+**Clasificacion de usuario**
+
+![Clasificacion - Chapa Tu Ruta](Resources/ux_ui/wireframes/Calificación%20viaje%20-%20pasajero.png)
+
 ### 4.4.2 Web Applications Wireflow Diagrams
 En esta sección se presenta la propuesta de Wireflows, elaborada a partir de los User Goals y los User Persona definidos para las aplicaciones incluidas en el alcance del proyecto ChapaTuRuta.
 
