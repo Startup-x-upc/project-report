@@ -1474,7 +1474,7 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 | --- | --- | --- | --- | --- |
 | Frontend Page | Visualización inicial | GET | [startup-x-upc.github.io/frontendweb-page](https://chapaturuta-e7d2e.web.app/login) | [Startup-x-upc/frontendweb-page](https://github.com/Startup-x-upc/FrontEnd-WebApplication.git) |
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 <img src="./Resources/sprint_2/a.jpeg">
 <img src="./Resources/sprint_2/b.jpeg">
@@ -1482,6 +1482,6 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 <img src="./Resources/sprint_2/d.jpeg">
 <img src="./Resources/sprint_2/e.png">
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 <img src="./Resources/sprint_2/team1.png">
