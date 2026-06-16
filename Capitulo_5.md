@@ -1425,3 +1425,100 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 <img src="./Resources/sprint_2/team1.png">
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+**Objetivo**
+
+Validar la usabilidad, utilidad percibida y aceptación de la aplicación Chapa Tu Ruta por parte de los segmentos objetivo, mediante la interacción directa con la versión funcional desplegada, identificando problemas de usabilidad, funcionalidades faltantes y oportunidades de mejora.
+
+**Público Objetivo**
+
+Se entrevistarán los mismos dos segmentos de las entrevistas de needfinding:
+
+- Pasajeros frecuentes de mototaxis en provincias
+- Conductores de motos lineales y mototaxis
+
+**Características:**
+
+- Edad: 18 a 60 años
+- Uso frecuente de transporte informal
+- Acceso a un smartphone
+- Haber participado en las entrevistas iniciales de needfinding
+
+**Tipo de entrevistas:**
+
+Se utilizarán entrevistas de validación estructuradas, combinando la observación directa del usuario interactuando con la aplicación y preguntas posteriores orientadas a recoger su percepción sobre la experiencia.
+
+**Metodología:**
+
+- Modalidad: Virtual
+- Duración: 15 a 20 min por entrevista
+- Herramienta: Se compartirá la URL pública de la aplicación desplegada para que el usuario la explore desde su propio dispositivo
+- Registro: Video de la sesión subido a Microsoft Stream, con notas escritas en el informe
+
+**Dinámica de la sesión:**
+
+Cada sesión se divide en dos partes. En la primera, se le pide al entrevistado que realice una serie de tareas dentro de la aplicación sin intervención del equipo, mientras se observa su comportamiento. En la segunda, se realizan las preguntas de validación basadas en lo observado y en la experiencia del usuario.
+
+**User flows a evaluar durante la sesión**
+
+*Para pasajeros:*
+
+1. Registrarse e iniciar sesión en la aplicación
+2. Solicitar un viaje ingresando origen y destino
+3. Revisar la tarifa estimada antes de confirmar el viaje
+4. Confirmar el viaje y monitorear su estado en tiempo real
+5. Calificar al conductor al finalizar el viaje
+
+*Para conductores:*
+
+1. Registrarse e iniciar sesión como conductor
+2. Visualizar y aceptar una solicitud de viaje entrante
+3. Consultar el historial de viajes y ganancias
+4. Revisar calificaciones y comentarios recibidos de pasajeros
+
+**Preguntas para pasajeros:**
+
+1. Al ver la pantalla de inicio, ¿qué fue lo primero que entendiste que podías hacer con la aplicación?
+2. Al solicitar tu viaje, ¿la tarifa estimada que te mostró la app te pareció justa o razonable? ¿Por qué?
+3. ¿Hubo algún paso durante la solicitud del viaje en que no supiste qué hacer o te confundiste?
+4. Comparando con cómo acordabas el precio antes, ¿sientes que esta forma es mejor, igual o peor? ¿Por qué?
+5. ¿La información que ves del conductor (nombre, calificación, entre otros) te genera más confianza que tomar una moto en la calle? ¿Qué le agregarías o quitarías?
+6. ¿Qué tan fácil o difícil fue calificar al conductor al finalizar el viaje? ¿Lo harías en la vida real?
+7. ¿Hay alguna función que esperabas encontrar y no encontraste?
+8. ¿Usarías esta aplicación en lugar de buscar mototaxis de la manera en que lo haces ahora? ¿Qué te lo impediría?
+
+**Preguntas para conductores:**
+
+1. Al registrarte como conductor, ¿el proceso te pareció claro? ¿Qué fue lo más complicado?
+2. Cuando te llegó una solicitud de viaje, ¿la información que te mostraba (destino, tarifa, distancia) fue suficiente para decidir si aceptarla?
+3. ¿Sientes que la tarifa que calcula la app es justa para ti como conductor? ¿Cambiarías algo?
+4. ¿El historial de viajes y ganancias te muestra lo que necesitas para saber cómo te está yendo?
+5. ¿Ver tus calificaciones y comentarios te motivaría a mejorar tu servicio? ¿O no le darías importancia?
+6. ¿Hubo alguna pantalla o función que no entendiste a la primera?
+7. ¿Qué tan probable es que recomiendes esta aplicación a otros conductores de tu zona? ¿Qué mejorarías primero?
+
+**Pregunta de cierre (ambos segmentos):**
+
+- En una sola frase, ¿cómo describirías esta aplicación a alguien de tu ciudad que aún no la conoce?
+
+**Consideraciones éticas:**
+
+- Se solicitará al entrevistado el consentimiento para la grabación de la sesión y el uso de su información
+- Se garantizará la confidencialidad de la información proporcionada
+- Los datos obtenidos serán utilizados únicamente con fines académicos
+
+---
+
+### 5.3.2. Registro de Entrevistas
+
+*Pendiente. Esta sección será completada una vez realizadas las sesiones de validación con los usuarios de cada segmento objetivo.*
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas
+
+*Pendiente. Esta sección será completada tras el análisis de las sesiones de validación, aplicando el formato de evaluación de heurísticas de usabilidad, arquitectura de información y diseño inclusivo indicado en el Anexo D.*
