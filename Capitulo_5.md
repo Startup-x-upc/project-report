@@ -1461,18 +1461,18 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
     </tr>
     <tr>
       <td><b>Sprint 2 Review Summary</b></td>
-      <td>Durante el Sprint 1 se logró implementar casi en su totalidad la Landing Page del sistema ChapaTuRuta, desarrollando secciones principales como el header, hero section, features además de las reviews, el pricing y por último el footer, así como la integración inicial de estilos globales y tipografía mencionadas en el reporte.Quedó como mejora la adición del idioma ingles para la accesibilidad de las persona. El equipo cumplió con sus tareas establecidos, respetando el diseño de mockups y la guía de estilos. Se pudo identificaron oportunidades para mejorar en el siguiente sprint velocidad de desarrollo y la gestión de tiempos.</td>
+      <td>Durante el Sprint 2 se logró implementar la mayoria de las funcionalidades del sistema ChapaTuRuta, desarrollando las secciones en la parte del frontend sobre el login, el viaje que realiza el conductor y opciones acerca .Quedó como mejora la implementacion del apartado de edición del perfil del usuario, la puntuación a la persona y el registro de nuevos conductores y pasajeros. El equipo cumplió con sus tareas establecidas, respetando el diseño de mockups y la guía de estilos, además de la  correcta implementación de la arquitectura DDD con respecto el nombre de las carpetas mencionadas en clase.</td>
     </tr>
     <tr>
       <td><b>Sprint 2 Retrospective Summary</b></td>
-      <td>Durante el Sprint 1, el equipo logró avanzar de forma efectiva en el desarrollo de la landing page. Cada integrante cumplió con las secciones asignadas, lo que permitió avanzar según lo planificado. Como mejora para el siguiente sprint, se debería implementar un control de las task que hacemos normalmente con deadlines, para asi controlar el manejo de la puntualidad asi como la coordinación al momento de expresar dificultades asignadas.</td>
+      <td>Durante el Sprint 2, el equipo logró avanzar de forma efectiva en el desarrollo de el frontend del negocio. Cada integrante ha cumplido con los resultados esperados para las secciones correspondientes, lo que permitió avanzar según lo planificado. Como mejora para el siguiente sprint, se debe implementar un metodo para supervisar cada task realizado por los integrantes, para asi manejar la eficiencia en el proyectoo y futuros trabajos colaborativos.</td>
     </tr>
     <tr>
       <td colspan="2"><b>Sprint Goal & User Stories</b></td>
     </tr>
     <tr>
       <td><b>Sprint 3 Goal</b></td>
-      <td><b>Nuestro propósito es</b> diseñar y entregar una primera versión del frontend pages para nuestra plataforma de gestión de rutas, implementando datos generados por nosotros haciendo que funcione comodamente. <b>Creemos que esto aportará</b> una mejor comprensión del alcance y la funcionalidad de lo que nuestro software puede llegar a ser . <b>Esto se confirmará cuando</b> los visitantes puedan comprender como son las funcionalidades de nuestra plataforma y coomo se manejara sus servicios a traves de nuestro frontend page.</td>
+      <td><b>Nuestro propósito es</b> tener el frontend del negocio hecha en su totalidad además de incluir el backend para que asi pueda procesar datos, manejarlos y almacenarlos en una base de datos. <b>Creemos que esto aportará</b> una mejor comprensión del alcance y la funcionalidad de lo que nuestro software puede llegar a ser . <b>Esto se confirmará cuando</b> entrevistemos nuevamente a personas y puedan ver nuestra pagina genere un impacto positivo opinando y reseñando comodamente con la pagina completa en su totalidad.</td>
     </tr>
     <tr>
       <td><b>Sprint 3 Velocity</b></td>
@@ -1486,8 +1486,72 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 3. Cada aspecto se relaciona con tareas clave del sprint, asignando un líder (L) responsable principal y colaboradores (C) que apoyan en su ejecución.
+<table>
+  <tbody>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th> Real-Time & Geolocation Aspect (L/C)</th>
+      <th> Transaction & Payment Aspect (L/C)</th>
+      <th> Service Status & State Aspect (L/C)</th>
+      <th> Route Logic & Map Aspect (L/C)</th>
+      <th> User Experience & Flow Aspect (L/C)</th>
+    </tr>
+    <tr>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Jcdev04</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>DalilaTorres</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>TheEngineEdu</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>apillacag</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>S-aiquipa</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.3.3. Sprint Backlog 3
+
+Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **ChapaTuRuta**, enfocado en la completitud de la aplicación frontend. La estrategia de desarrollo se apoya en un backend simulado mediante **Fake API (json-server)** y **refresh manual / polling ligero** para la sincronización de estados.
+
+---
+
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
