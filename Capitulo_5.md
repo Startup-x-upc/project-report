@@ -2308,8 +2308,17 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Durante este sprint se completó el diseño e implementación completa del frontend además de agregar el backend y poder conectarlo .
 
+**Descripción del Logro:**
+- Completar en su totalidad el frontend page.
+- Deployar el backend.
+
+**Recursos del Sprint:**
+
+| Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
+| --- | --- | --- | --- | --- |
+| Backend Page | Visualización inicial | GET | [startup-x-upc.github.io/frontendweb-page](https://chapaturuta-e7d2e.web.app/login) | [Startup-x-upc/frontendweb-page](https://github.com/Startup-x-upc/FrontEnd-WebApplication.git) |
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
-a
