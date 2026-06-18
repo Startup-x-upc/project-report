@@ -2262,42 +2262,6 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>--</td>
   <td>To-do</td>
 </tr>
-
-<!-- US-10/11 -->
-<tr>
-  <td rowspan="4">US-10/11</td>
-  <td rowspan="4">Polling ligero para aceptación/rechazo (Opcional)</td>
-  <td>TASK-POLL-01</td>
-  <td>Configurar bucle de consulta automática</td>
-  <td>Configurar bucle de consulta automática en `passenger-request-page` cuando el estado sea `WAITING_CANDIDATES`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
-</tr>
-<tr>
-  <td>TASK-POLL-02</td>
-  <td>Detener el bucle según el estado</td>
-  <td>Detener el bucle en cuanto cambie el estado de viaje a una etapa definitiva o error.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
-</tr>
-<tr>
-  <td>TASK-POLL-03</td>
-  <td>Usar operador interval(5000) de RxJS</td>
-  <td>Usar operador `interval(5000)` de RxJS para evitar fugas de memoria y garantizar la reactividad Angular.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
-</tr>
-<tr>
-  <td>TASK-POLL-04</td>
-  <td>Diseñar y mostrar un loader</td>
-  <td>Diseñar und mostrar un loader discreto tipo "Actualizando estado..." en la pantalla de espera.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
-</tr>
     </tbody>
 </table>
 
