@@ -39,7 +39,11 @@
 9. Integración y despliegue del Frontend con la API Backend:
    El desarrollo técnico culminó en la transición exitosa de una arquitectura inicial basada en Fake API hacia un sistema completamente conectado y funcional. Se integró la aplicación web frontend en Angular con los servicios del backend desarrollados en Spring Boot, logrando una comunicación fluida a través de peticiones HTTP REST y el mapeo estructurado de datos. El despliegue final en producción (tanto de la interfaz web como de la API documentada con Swagger) demuestra la interoperabilidad del sistema y la viabilidad técnica para soportar flujos en tiempo real y persistencia real en base de datos.
 
+10. Validación y optimización de la experiencia de usuario (UX):
+    Las entrevistas de validación con los usuarios finales (conductores y pasajeros) y la evaluación heurística detallada permitieron contrastar la usabilidad de la plataforma frente a necesidades reales y estándares de diseño. Se identificaron oportunidades clave de mejora en la visibilidad del estado del sistema, consistencia de la navegación y prevención de errores en los flujos de registro y solicitud de viajes. La retroalimentación cualitativa obtenida valida la propuesta de valor del producto, demostrando que Chapa Tu Ruta es percibida como una solución segura e intuitiva, a la vez que orienta el roadmap de optimización continua del software.
+
 ## Video About-the-Team
+
 
 Esta sección contiene el video de presentación del equipo ("About-the-Team"), el cual resume nuestro proceso de trabajo colaborativo, la metodología aplicada y las contribuciones individuales durante el desarrollo del proyecto "Chapa Tu Ruta".
 
