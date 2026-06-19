@@ -2636,3 +2636,12 @@ Recomendación: Incentivar o solicitar un comentario breve obligatorio cuando la
 
 
 ## 5.4 About-the-Product
+<p align="justify">
+En esta sección se presenta el video promocional About the Product, cuyo objetivo es mostrar de manera general la propuesta de valor del proyecto, destacando su modelo de negocio, principales funcionalidades y beneficios para los usuarios. Asimismo, el video incluye demostraciones de interacción con el producto y testimonios obtenidos de los segmentos objetivo, que permiten evidenciar la utilidad y aceptación de la solución desarrollada. Como parte de las actividades de difusión y validación, el material audiovisual fue publicado en Microsoft Stream y YouTube, además de ser integrado en la Landing Page del proyecto para facilitar su acceso y visualización.
+</p>
+
+<img width="1949" height="894" alt="Image" src="Resources/video-about-product/about-the-product-microsoft.png"/> 
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418823_upc_edu_pe/IQCO1kWxNJvXTIEGb549DweIAafZ09jFJtPep1_Gi_WR7SQ?e=fj2mXZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">About the product - microsoft</a><br><br>
+
+<img width="1949" height="894" alt="Image" src="Resources/video-about-product/video-about-the-product-youtube.png"/> 
+<a href="https://www.youtube.com/watch?v=VIuDAmngaiI" target="_blank">About the product - youtube</a><br><br>
