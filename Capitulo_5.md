@@ -2515,9 +2515,124 @@ Cada sesión se divide en dos partes. En la primera, se le pide al entrevistado 
 
 ---
 
-### 5.3.3. Evaluaciones según heurísticas
+## 5.3.3. Evaluaciones según heurísticas.
 
-*Pendiente. Esta sección será completada tras el análisis de las sesiones de validación, aplicando el formato de evaluación de heurísticas de usabilidad, arquitectura de información y diseño inclusivo indicado en el Anexo D.*
+**UX Heuristics & Principles Evaluation**
+*Usability – Inclusive Design – Information Architecture*
+
+**SITE o APP A EVALUAR:**
+Chapa Tu Ruta – Aplicación web de mototaxi booking (vistas de pasajero y conductor).
+
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+*Segmento Pasajero:*
+1. Registrarse e iniciar sesión en la aplicación
+2. Solicitar un viaje ingresando origen y destino
+3. Revisar la tarifa estimada antes de confirmar el viaje
+4. Confirmar el viaje y monitorear su estado en tiempo real
+5. Calificar al conductor al finalizar el viaje
+
+*Segmento Conductor:*
+6. Registrarse e iniciar sesión como conductor
+7. Visualizar y aceptar una solicitud de viaje entrante
+8. Consultar el historial de viajes y ganancias
+9. Revisar calificaciones y comentarios recibidos de pasajeros
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Comunicación directa (chat) entre conductor y pasajero
+2. Gestión de métodos de pago digitales
+3. Reportes históricos de ganancias por mes o año
+4. Configuración de zonas de trabajo preferidas
+5. Edición avanzada de perfil de pasajero
+6. Programa de fidelización o puntos
+
+**ESCALA DE SEVERIDAD:**
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara al siguiente release. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+| # | Problema | Segmento | Escala de severidad | Heurística/Principio violada(o) |
+|---|---|---|---|---|
+| 1 | No se ofrecen diferentes medios de pago, solo la opción actual disponible | Pasajero | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 2 | No se permite ingresar la dirección de forma escrita; solo se puede marcar un punto en el mapa | Pasajero | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 3 | El diseño visual de la aplicación es percibido como simple, sin elementos llamativos | Pasajero | 1 | Usability: Estética y diseño visual |
+| 4 | No se indica claramente cuáles campos del perfil de conductor son obligatorios | Conductor | 2 | Usability: Prevención de errores |
+| 5 | Dificultad para ubicar y adjuntar el documento del brevete durante el registro | Conductor | 2 | Usability: Ayuda y documentación |
+| 6 | No se muestra información de seguridad de la zona de destino al recibir una solicitud de viaje | Conductor | 3 | Information Architecture: Is it useful? |
+| 7 | La tarifa calculada es fija, sin posibilidad de ajuste en zonas de difícil acceso | Conductor | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 8 | El historial de ganancias no permite comparar periodos (semana actual vs. anterior) | Conductor | 1 | Information Architecture: Is it useful? |
+| 9 | Las calificaciones muestran solo el puntaje, sin el motivo o comentario del pasajero | Conductor | 2 | Usability: Visibilidad del estado del sistema |
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1: No se ofrecen diferentes medios de pago**
+Severidad: 2
+Heurística violada: Usability – Flexibilidad y eficiencia de uso
+Problema: La pasajera indicó que la aplicación solo permite un único método de pago, sin alternativas como tarjeta, billetera digital o efectivo configurable. Esto limita la flexibilidad para distintos perfiles de usuario y puede ser una barrera de adopción para quienes prefieren otro medio.
+*(Incluir captura de pantalla de la sección de pago)*
+Recomendación: Incorporar al menos una segunda opción de pago (ej. efectivo y billetera digital), permitiendo al usuario elegir su preferencia antes de confirmar el viaje.
+
+**PROBLEMA #2: No se permite ingresar la dirección de forma escrita**
+Severidad: 2
+Heurística violada: Usability – Flexibilidad y eficiencia de uso
+Problema: Actualmente, la selección de origen y destino se realiza únicamente marcando un punto en el mapa. La pasajera mencionó que preferiría poder escribir la dirección exacta, ya que en algunos casos resulta más rápido o preciso que ubicar el punto manualmente, especialmente en zonas con poca referencia visual en el mapa.
+*(Incluir captura de pantalla de la pantalla de selección de origen/destino)*
+Recomendación: Agregar un campo de búsqueda de direcciones (autocompletado) como alternativa al marcado manual en el mapa, manteniendo ambas opciones disponibles.
+
+**PROBLEMA #3: Diseño visual percibido como simple**
+Severidad: 1
+Heurística violada: Usability – Estética y diseño visual
+Problema: La pasajera comentó que el diseño actual de la aplicación le pareció simple y que esperaría una interfaz más llamativa visualmente. Si bien esto no afecta la funcionalidad ni la comprensión de las tareas, impacta en la percepción general y el atractivo de la app frente a otras alternativas del mercado.
+Recomendación: Revisar la paleta de colores, tipografía e iconografía para reforzar la identidad visual de la marca, sin comprometer la claridad ni la usabilidad existente.
+
+**PROBLEMA #4: No se indica claramente cuáles campos del perfil de conductor son obligatorios**
+Severidad: 2
+Heurística violada: Usability – Prevención de errores
+Problema: Al completar la pantalla de perfil completo, el conductor no logró identificar a la primera cuáles campos eran obligatorios y cuáles opcionales, ya que no había ningún indicador visual (como un asterisco) que lo señalara. Esto generó incertidumbre sobre si podía continuar sin llenarlos todos.
+*(Incluir captura de pantalla de la sección de perfil del conductor)*
+Recomendación: Marcar los campos obligatorios con un asterisco (*) junto al label, y mostrar un mensaje de validación inline antes de permitir avanzar.
+
+**PROBLEMA #5: Dificultad para ubicar y adjuntar el documento del brevete durante el registro**
+Severidad: 2
+Heurística violada: Usability – Ayuda y documentación
+Problema: Durante el registro, al solicitar la foto del brevete, el conductor tardó entre dos y tres minutos en encontrar el archivo en su celular, ya que no tenía claro en qué formato o desde dónde debía adjuntarlo. El flujo no ofrece ninguna guía adicional (ej. "puedes tomar una foto ahora" o "selecciona desde galería").
+*(Incluir captura de pantalla del paso de carga de documentos)*
+Recomendación: Agregar un texto de ayuda breve junto al campo de carga (ej. "Toma una foto clara de tu brevete o selecciona una imagen existente") y ofrecer la opción de cámara directa además de la galería.
+
+**PROBLEMA #6: No se muestra información de seguridad de la zona de destino al recibir una solicitud de viaje**
+Severidad: 3
+Heurística violada: Information Architecture – Is it useful?
+Problema: En la pantalla de solicitud entrante, el conductor cuenta con destino, tarifa y distancia, pero no con ninguna referencia sobre el nivel de seguridad de la zona. El entrevistado señaló explícitamente que esto es relevante para su decisión, especialmente en viajes nocturnos, lo cual afecta directamente su disposición a aceptar ciertos viajes.
+*(Incluir captura de pantalla de la solicitud de viaje entrante)*
+Recomendación: Incorporar un indicador visual de la zona (por ejemplo, basado en reportes previos de incidentes o en zonas validadas por la comunidad de conductores) dentro de la tarjeta de solicitud.
+
+**PROBLEMA #7: La tarifa calculada es fija, sin posibilidad de ajuste en zonas de difícil acceso**
+Severidad: 2
+Heurística violada: Usability – Flexibilidad y eficiencia de uso
+Problema: El conductor indicó que la tarifa automática le parece razonable para viajes estándar, pero que en su experiencia actual (fuera de la app) tiene margen de negociación para zonas de difícil acceso, algo que la aplicación no contempla. Esto reduce su percepción de control sobre sus ingresos en casos específicos.
+Recomendación: Evaluar un mecanismo de recargo opcional y transparente para zonas o condiciones específicas, visible también para el pasajero antes de confirmar.
+
+**PROBLEMA #8: El historial de ganancias no permite comparar periodos**
+Severidad: 1
+Heurística violada: Information Architecture – Is it useful?
+Problema: El historial muestra el número de viajes y las ganancias del día, pero no ofrece una comparación con periodos anteriores (semana actual vs. semana pasada), lo cual el conductor consideró útil para evaluar su desempeño a lo largo del tiempo.
+*(Incluir captura de pantalla del historial de ganancias)*
+Recomendación: Añadir una vista resumen semanal/mensual con comparación porcentual respecto al periodo anterior.
+
+**PROBLEMA #9: Las calificaciones muestran solo el puntaje, sin el motivo o comentario del pasajero**
+Severidad: 2
+Heurística violada: Usability – Visibilidad del estado del sistema
+Problema: El conductor mencionó que, ante una calificación baja, le gustaría entender el motivo específico para poder mejorar, pero la app únicamente muestra la cantidad de estrellas sin contexto adicional cuando el pasajero no deja comentario.
+Recomendación: Incentivar o solicitar un comentario breve obligatorio cuando la calificación sea baja (1-2 estrellas), y mostrarlo en el historial del conductor.
 
 
 ## 5.4 About-the-Product
