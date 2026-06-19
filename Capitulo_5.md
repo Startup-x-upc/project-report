@@ -2561,7 +2561,34 @@ Carlos no identificó ninguna pantalla o función que le generara confusión dur
 **Evidencia:** <br><br>
 ![Entrevista Conductor](Resources/validacion-entrevistas/validacion-carlos-conductor.png)
 
+#### Entrevista 8: Conductor de Mototaxi
+* Nombre: Yoni Jesús Ramos Sandoval
+* Edad: No especificada
+* Residencia: No especificada
+* Ocupación: Conductor de Mototaxi
+* Fecha: 18 de junio de 2026
+* Inicio: 00:12
+* Duración: 22:27
 
+Link: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202322952_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322952%5Fupc%5Fedu%5Fpe%2FDocuments%2FChapa%20Tu%20Ruta%2FU20241A911%5FValidacion%5FMototaxista%5FJhonny%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E44a65b99%2D58a6%2D4b4a%2Db454%2D4e213e79deee)
+Ver video
+
+Resumen:
+
+Respecto al proceso de registro, indicó que la experiencia fue clara y comprensible. Sin embargo, señaló que podría resultar necesario tener a la mano información relevante como el número de licencia de conducir y los datos del SOAT para completar el registro de manera eficiente. Asimismo, mencionó que algunos usuarios podrían experimentar dificultades técnicas menores relacionadas con el ingreso de información en determinados dispositivos.
+
+Durante la simulación de solicitud de viajes, destacó que la información proporcionada por la plataforma, especialmente la distancia, el destino y la tarifa estimada, resulta suficiente para que un conductor pueda evaluar y decidir si acepta una carrera. Además, consideró que el cálculo de tarifas es adecuado siempre que refleje correctamente el recorrido y el tiempo estimado del servicio.
+
+El entrevistado valoró positivamente el módulo de historial de viajes y ganancias, ya que le permite conocer los recorridos realizados, los pagos obtenidos y llevar un mejor control de sus actividades diarias. Consideró que esta información contribuye a una gestión más organizada de sus ingresos y facilita el seguimiento de su desempeño como conductor.
+
+Respecto al sistema de reputación, señaló que las calificaciones representan un elemento importante de motivación para brindar un mejor servicio. Asimismo, sugirió incorporar comentarios escritos junto con las valoraciones por estrellas, permitiendo que los pasajeros expliquen los motivos de sus evaluaciones y proporcionando una retroalimentación más útil para los conductores.
+
+Como observación de mejora, indicó que la funcionalidad denominada "Wallet" no fue completamente intuitiva debido al uso de terminología poco familiar para algunos usuarios. Por ello, recomendó emplear nombres más descriptivos o adaptados al contexto local para facilitar la comprensión de la interfaz.
+
+Finalmente, manifestó que recomendaría la aplicación a otros conductores de mototaxi debido a que facilita la identificación de pasajeros disponibles, reduce el tiempo invertido en la búsqueda de clientes y contribuye a optimizar el uso de combustible. En una sola frase, describió la solución como una herramienta que genera beneficios económicos tanto para conductores como para pasajeros, permitiendo una conexión más eficiente, organizada y accesible entre ambos segmentos.
+
+Evidencia:
+![Entrevista Conductor](Resources/validacion-entrevistas/validacion-yonni-conductor.png)
 ---
 
 ## 5.3.3. Evaluaciones según heurísticas.
