@@ -763,9 +763,9 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
   <tbody>
     <!-- US-03 -->
     <tr>
-      <td rowspan="8">US-03</td>
-      <td rowspan="8">Inicio de sesión</td>
-      <td>TASK-US03-01</td>
+      <td rowspan="8">US-01</td>
+      <td rowspan="8">Registro de pasajero</td>
+      <td>TASK-US01-01</td>
       <td>Crear colección users en db.json</td>
       <td>Crear/validar colección `users` en `db.json` con cuentas seed por rol.</td>
       <td>0.5</td>
@@ -1425,3 +1425,1096 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 <img src="./Resources/sprint_2/team1.png">
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Sprint #</b></td>
+      <td>Sprint 3</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>2026-06-20</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>18:50 PM (GMT-5)</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Modalidad remota mediante la plataforma Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>Castillo Vidal, Jesus Ivan / Torres Sanchez, Dalila Victoria / Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl / Delgado Perez, James Caleb / Aiquipa Poma, Sebastian Andres</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 2 Review Summary</b></td>
+      <td>Durante el Sprint 2 se logró implementar la mayoria de las funcionalidades del sistema ChapaTuRuta, desarrollando las secciones en la parte del frontend sobre el login, el viaje que realiza el conductor y opciones acerca .Quedó como mejora la implementacion del apartado de edición del perfil del usuario, la puntuación a la persona y el registro de nuevos conductores y pasajeros. El equipo cumplió con sus tareas establecidas, respetando el diseño de mockups y la guía de estilos, además de la  correcta implementación de la arquitectura DDD con respecto el nombre de las carpetas mencionadas en clase.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 2 Retrospective Summary</b></td>
+      <td>Durante el Sprint 2, el equipo logró avanzar de forma efectiva en el desarrollo de el frontend del negocio. Cada integrante ha cumplido con los resultados esperados para las secciones correspondientes, lo que permitió avanzar según lo planificado. Como mejora para el siguiente sprint, se debe implementar un metodo para supervisar cada task realizado por los integrantes, para asi manejar la eficiencia en el proyectoo y futuros trabajos colaborativos.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Goal</b></td>
+      <td><b>Nuestro propósito es</b> tener el frontend del negocio hecho en su totalidad además de incluir el backend para que asi pueda procesar datos, manejarlos y almacenarlos en una base de datos. <b>Creemos que esto aportará</b> una mejor comprensión del alcance y la funcionalidad de lo que nuestro software puede llegar a ser. <b>Esto se confirmará cuando</b> entrevistemos nuevamente a personas y puedan probar nuestra pagina y a partir de ello genere un impacto positivo opinando y reseñando cómodamente con la pagina completa en su totalidad.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Velocity</b></td>
+      <td> puntos</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td> puntos</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 3. Cada aspecto se relaciona con tareas clave del sprint, asignando un líder (L) responsable principal y colaboradores (C) que apoyan en su ejecución.
+<table>
+  <tbody>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th> Real-Time & Geolocation Aspect (L/C)</th>
+      <th> Transaction & Payment Aspect (L/C)</th>
+      <th> Service Status & State Aspect (L/C)</th>
+      <th> Route Logic & Map Aspect (L/C)</th>
+      <th> User Experience & Flow Aspect (L/C)</th>
+    </tr>
+    <tr>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Jcdev04</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>DalilaTorres</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>TheEngineEdu</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>apillacag</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>S-aiquipa</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.3. Sprint Backlog 3
+
+<img src="./Resources/sprint_3/trello3.png">
+
+
+##### 1. Resumen del Sprint Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- US-01 -->
+<tr>
+  <td rowspan="6">US-01</td>
+  <td rowspan="6">Registro de pasajero</td>
+  <td>TASK-US01-01</td>
+  <td>Validar existencia de colección users</td>
+  <td>Validar existencia de colección `users` en `db.json`.</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US01-02</td>
+  <td>Diseñar componente register-passenger-form</td>
+  <td>Diseñar componente `register-passenger-form` con validaciones de formulario.</td>
+  <td>0.8</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US01-03</td>
+  <td>Implementar endpoint POST /users</td>
+  <td>Implementar endpoint `POST /users` en el servicio `IamApiService`.</td>
+  <td>0.6</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US01-04</td>
+  <td>Crear validación de email duplicado</td>
+  <td>Crear validación de email duplicado vía `GET /users?email={email}` previa al registro.</td>
+  <td>0.5</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US01-05</td>
+  <td>Validar coincidencia de contraseña</td>
+  <td>Validar coincidencia de contraseña y confirmación.</td>
+  <td>0.4</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US01-06</td>
+  <td>Redirigir al login</td>
+  <td>Redirigir al login mostrando mensaje de éxito.</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-02 -->
+<tr>
+  <td rowspan="5">US-02</td>
+  <td rowspan="5">Registro de conductor (con brevete y SOAT)</td>
+  <td>TASK-US02-01</td>
+  <td>Diseñar formulario register-driver-form</td>
+  <td>Diseñar formulario `register-driver-form` agregando inputs para brevete y SOAT.</td>
+  <td>0.9</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US02-02</td>
+  <td>Ajustar IamApiService</td>
+  <td>Ajustar `IamApiService` para enviar payload de conductor con estado inicial pendiente.</td>
+  <td>0.7</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US02-03</td>
+  <td>Configurar campos de estado</td>
+  <td>Configurar campos `verificationStatus` y `operationalStatus` en el esquema de conductores de `db.json`.</td>
+  <td>0.4</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US02-04</td>
+  <td>Validar campos obligatorios</td>
+  <td>Validar campos obligatorios antes del envío.</td>
+  <td>0.5</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US02-05</td>
+  <td>Redirigir al login con aviso</td>
+  <td>Redirigir al login con mensaje explicativo sobre el estado de verificación.</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-04 -->
+<tr>
+  <td rowspan="6">US-04</td>
+  <td rowspan="6">Gestión de perfil (editar nombre y foto)</td>
+  <td>TASK-US04-01</td>
+  <td>Crear componente profile-page</td>
+  <td>Crear componente `profile-page` accesible para pasajero y conductor.</td>
+  <td>0.7</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US04-02</td>
+  <td>Diseñar formulario profile-edit-form</td>
+  <td>Diseñar formulario `profile-edit-form` (nombre completo y foto).</td>
+  <td>0.6</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US04-03</td>
+  <td>Implementar PUT /profiles/{id}</td>
+  <td>Implementar `PUT /profiles/{id}` en `IamApiService`.</td>
+  <td>0.5</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US04-04</td>
+  <td>Configurar rutas hijas</td>
+  <td>Configurar rutas hijas en los layouts de pasajero y conductor.</td>
+  <td>0.4</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US04-05</td>
+  <td>Integrar acción updateProfile</td>
+  <td>Integrar acción `updateProfile()` en `IamStore`.</td>
+  <td>0.5</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US04-06</td>
+  <td>Reflejar cambios en tiempo real</td>
+  <td>Reflejar cambios en tiempo real en los sidebars o cabeceras de navegación.</td>
+  <td>0.3</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-05 -->
+<tr>
+  <td rowspan="3">US-05</td>
+  <td rowspan="3">Cierre de sesión (Sign-Out)</td>
+  <td>TASK-US05-01</td>
+  <td>Verificar botón de cerrar sesión</td>
+  <td>Verificar botón de cerrar sesión en los headers/sidebars de ambos roles.</td>
+  <td>0.2</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US05-02</td>
+  <td>Confirmar purga de datos</td>
+  <td>Confirmar que el store e historial de local storage quedan purgados tras el logout.</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US05-03</td>
+  <td>Validar redirección</td>
+  <td>Validar redirección a `/login`.</td>
+  <td>0.2</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-18 -->
+<tr>
+  <td rowspan="6">US-18</td>
+  <td rowspan="6">Cancelación de viaje (pasajero/conductor)</td>
+  <td>TASK-US18-01</td>
+  <td>Crear acción cancelRide</td>
+  <td>Crear acción `cancelRide(rideId, cancelledBy)` en `RideDispatchStore`.</td>
+  <td>0.6</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-02</td>
+  <td>Configurar petición PATCH /rides/{id}</td>
+  <td>Configurar petición `PATCH /rides/{id}` para actualizar el estado del viaje.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-03</td>
+  <td>Agregar botón Cancelar en Pasajero</td>
+  <td>Agregar botón "Cancelar viaje" en la UI del pasajero al tener conductor asignado.</td>
+  <td>0.4</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-04</td>
+  <td>Agregar botón Cancelar en Conductor</td>
+  <td>Agregar botón "Cancelar viaje" en el dashboard del conductor durante la etapa de asignación.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-05</td>
+  <td>Implementar diálogo de confirmación</td>
+  <td>Implementar diálogo de confirmación emergente.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-06</td>
+  <td>Actualizar las vistas reactivamente</td>
+  <td>Actualizar las vistas correspondientes reactivamente al cancelar.</td>
+  <td>0.4</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-21 -->
+<tr>
+  <td rowspan="5">US-21</td>
+  <td rowspan="5">Calificación post-viaje al conductor</td>
+  <td>TASK-US21-01</td>
+  <td>Configurar colección ratings</td>
+  <td>Configurar la colección `ratings` en `db.json`.</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US21-02</td>
+  <td>Diseñar componente rating-form</td>
+  <td>Diseñar componente interactivo `rating-form` (estrellas seleccionables).</td>
+  <td>0.8</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US21-03</td>
+  <td>Crear TrustReputationApiService</td>
+  <td>Crear `TrustReputationApiService` con endpoint `POST /ratings`.</td>
+  <td>0.6</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US21-04</td>
+  <td>Integrar modal de calificación</td>
+  <td>Integrar el modal de calificación al entrar en estado `RIDE_COMPLETED` del pasajero.</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US21-05</td>
+  <td>Implementar recálculo del promedio</td>
+  <td>Implementar recálculo del promedio (`ratingAverage`) en el perfil del conductor.</td>
+  <td>0.6</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>To-do</td>
+</tr>
+
+<!-- US-22 -->
+<tr>
+  <td rowspan="4">US-22</td>
+  <td rowspan="4">Calificación post-viaje al pasajero</td>
+  <td>TASK-US22-01</td>
+  <td>Integrar rating-form en Conductor</td>
+  <td>Integrar `rating-form` en la vista final del conductor.</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US22-02</td>
+  <td>Agregar campo de comentarios condicional</td>
+  <td>Agregar campo de comentarios condicionado a bajas calificaciones (≤ 2★).</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US22-03</td>
+  <td>Registrar calificación en db.json</td>
+  <td>Registrar calificación en `db.json` vía endpoint común de ratings.</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US22-04</td>
+  <td>Recalcular reputación del pasajero</td>
+  <td>Recalcular reputación del pasajero en su respectivo perfil.</td>
+  <td>0.6</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-23 -->
+<tr>
+  <td rowspan="4">US-23</td>
+  <td rowspan="4">Visualización del puntaje de reputación en perfil</td>
+  <td>TASK-US23-01</td>
+  <td>Agregar sección visual de reputación</td>
+  <td>Agregar sección de reputación visual en `profile-page`.</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US23-02</td>
+  <td>Consumir endpoint GET /ratings</td>
+  <td>Consumir endpoint `GET /ratings?ratedUserId={id}` para computar los valores.</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US23-03</td>
+  <td>Mostrar estrellas de forma gráfica</td>
+  <td>Mostrar estrellas de forma gráfica (ej. `★ ★ ★ ☆ ☆`).</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US23-04</td>
+  <td>Configurar mensaje para nuevos usuarios</td>
+  <td>Configurar mensaje de estado para usuarios nuevos sin calificaciones.</td>
+  <td>0.2</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-24 -->
+<tr>
+  <td rowspan="5">US-24</td>
+  <td rowspan="5">Historial de viajes del pasajero</td>
+  <td>TASK-US24-01</td>
+  <td>Crear componente trip-history-page</td>
+  <td>Crear componente `trip-history-page` para pasajero.</td>
+  <td>0.7</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US24-02</td>
+  <td>Consumir GET /rides de pasajero</td>
+  <td>Consumir `GET /rides?passengerId={id}&amp;_sort=fecha&amp;_order=desc` en `RideDispatchApiService`.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US24-03</td>
+  <td>Configurar ruta en sidebar</td>
+  <td>Configurar la ruta `/passenger/trips` en la navegación del sidebar.</td>
+  <td>0.3</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US24-04</td>
+  <td>Crear tarjetas de viaje responsivas</td>
+  <td>Crear tarjetas de viaje responsivas para listar el historial.</td>
+  <td>0.6</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US24-05</td>
+  <td>Implementar vista de historial vacío</td>
+  <td>Implementar vista de historial vacío con botón para iniciar nueva solicitud.</td>
+  <td>0.3</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+
+<!-- US-25 -->
+<tr>
+  <td rowspan="5">US-25</td>
+  <td rowspan="5">Historial de viajes del conductor (con comisión)</td>
+  <td>TASK-US25-01</td>
+  <td>Crear componente trip-history-page</td>
+  <td>Crear componente `trip-history-page` para conductor.</td>
+  <td>0.7</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US25-02</td>
+  <td>Consumir GET /rides de conductor</td>
+  <td>Consumir `GET /rides?driverId={id}&amp;_sort=fecha&amp;_order=desc`.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US25-03-Configurar ruta para conductor</td>
+  <td>Configurar ruta para conductor</td>
+  <td>Configurar ruta `/driver/trips`.</td>
+  <td>0.2</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US25-04-Agregar enlace Historial</td>
+  <td>Agregar enlace Historial</td>
+  <td>Agregar enlace "Historial" en el panel lateral del conductor.</td>
+  <td>0.3</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US25-05-Diseñar desglose de ganancias y comisión</td>
+  <td>Diseñar desglose de ganancias y comisión</td>
+  <td>Diseñar tarjetas mostrando el desglose: Tarifa Cobrada, Comisión (5%) y Ganancia Neta.</td>
+  <td>0.6</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>To-do</td>
+</tr>
+
+<tr>
+  <td rowspan="5">US-06</td>
+  <td rowspan="5">Verificación de documentos del conductor</td>
+  <td>TASK-US06-01-Crear vista admin-drivers-page</td>
+  <td>Crear vista admin-drivers-page</td>
+  <td>Crear vista `admin-drivers-page` con tabla de conductores pendientes.</td>
+  <td>0.8</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US06-02-Aplicar filtro de búsqueda PENDING_VERIFICATION</td>
+  <td>Aplicar filtro de búsqueda PENDING_VERIFICATION</td>
+  <td>Aplicar filtro de búsqueda de conductores con `verificationStatus: PENDING_VERIFICATION`.</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US06-03-Agregar acciones de aprobación/rechazo</td>
+  <td>Agregar acciones de aprobación/rechazo</td>
+  <td>Agregar acciones visuales `approveDriver(id)` y `rejectDriver(id, reason)`.</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US06-04-Implementar PATCH /drivers/{id}</td>
+  <td>Implementar PATCH /drivers/{id}</td>
+  <td>Implementar petición `PATCH /drivers/{id}` para actualizar estado de verificación.</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US06-05-Añadir ruta al dashboard de admin</td>
+  <td>Añadir ruta al dashboard de admin</td>
+  <td>Añadir ruta `/admin/drivers` al dashboard de administrador.</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+
+<tr>
+  <td rowspan="5">US-20</td>
+  <td rowspan="5">Configuración de tarifas por el administrador</td>
+  <td>TASK-US20-01-Diseñar componente admin-fare-config-page</td>
+  <td>Diseñar componente admin-fare-config-page</td>
+  <td>Diseñar componente `admin-fare-config-page` con formularios reactivos de Angular.</td>
+  <td>0.7</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US20-02-Consumir y actualizar configuraciones</td>
+  <td>Consumir y actualizar configuraciones</td>
+  <td>Consumir y actualizar configuraciones vía `PUT /fareConfig/{id}` en `MonetizationApiService`.</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US20-03-Agregar validadores de números</td>
+  <td>Agregar validadores de números</td>
+  <td>Agregar validadores para impedir números negativos o nulos.</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US20-04-Configurar la ruta de tarifas</td>
+  <td>Configurar la ruta de tarifas</td>
+  <td>Configurar la ruta `/admin/fare-config`.</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US20-05-Mostrar confirmation de guardado</td>
+  <td>Mostrar confirmación de guardado</td>
+  <td>Mostrar confirmación emergente de guardado exitoso.</td>
+  <td>0.2</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+
+<tr>
+  <td rowspan="4">US-26</td>
+  <td rowspan="4">Panel de administración de conductores</td>
+  <td>TASK-US26-01-Extender admin-drivers-page</td>
+  <td>Extender admin-drivers-page</td>
+  <td>Extender `admin-drivers-page` para permitir visualizar a todos los conductores.</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US26-02-Implementar el control toggle isEnabled</td>
+  <td>Implementar el control toggle isEnabled</td>
+  <td>Implementar el control toggle `isEnabled` en la grilla de datos.</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US26-03-Configurar petición PATCH al cambiar toggle</td>
+  <td>Configurar petición PATCH al cambiar toggle</td>
+  <td>Configurar petición `PATCH /drivers/{id}` al cambiar el estado de habilitación.</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US26-04-Diseñar tags visuales de color</td>
+  <td>Diseñar tags visuales de color</td>
+  <td>Diseñar tags visuales de color (Verde: Activo, Amarillo: Pendiente, Rojo: Suspendido).</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+
+<tr>
+  <td rowspan="6">US-30</td>
+  <td rowspan="6">Historial de transacciones del wallet</td>
+  <td>TASK-US30-01-Declarar esquema walletTransactions</td>
+  <td>Declarar esquema walletTransactions</td>
+  <td>Declarar esquema `walletTransactions` en `db.json`.</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US30-02-Consumir endpoint GET /walletTransactions</td>
+  <td>Consumir endpoint GET /walletTransactions</td>
+  <td>Consumir endpoint `GET /walletTransactions?walletId={id}` en `MonetizationApiService`.</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US30-03-Crear componente transaction-history</td>
+  <td>Crear componente transaction-history</td>
+  <td>Crear componente de lista `transaction-history`.</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US30-04-Reemplazar mock visual por datos del store</td>
+  <td>Reemplazar mock visual por datos del store</td>
+  <td>Reemplazar mock visual por datos reales del store en la página de Wallet.</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US30-05-Añadir filtros interactivos por tipo</td>
+  <td>Añadir filtros interactivos por tipo</td>
+  <td>Añadir filtros interactivos por tipo de transacción (`TOP_UP`, `COMMISSION`).</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US30-06-Diseñar el estado de historial vacío</td>
+  <td>Diseñar el estado de historial vacío</td>
+  <td>Diseñar el estado de historial vacío.</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+
+<tr>
+  <td rowspan="4">US-27</td>
+  <td rowspan="4">Recarga del wallet (Mock con simulación de saldo)</td>
+  <td>TASK-US27-01-Crear componente recharge-form</td>
+  <td>Crear componente recharge-form</td>
+  <td>Crear componente `recharge-form` con validación de montos (mínimo S/ 5.00).</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US27-02-Implementar lógica mock de incremento</td>
+  <td>Implementar lógica mock de incremento</td>
+  <td>Lógica mock: ejecutar `POST /walletTransactions` y `PATCH /wallets/{id}` para actualizar el saldo del conductor.</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US27-03-Renderizar el formulario en un modal</td>
+  <td>Renderizar el formulario en un modal</td>
+  <td>Renderizar el formulario en un modal dentro de la sección de billetera.</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US27-04-Notificar la recarga correcta</td>
+  <td>Notificar la recarga correcta</td>
+  <td>Notificar la recarga correcta actualizando el saldo visible inmediatamente.</td>
+  <td>0.2</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+
+<tr>
+  <td rowspan="5">US-29</td>
+  <td rowspan="5">Descuento automático de comisión (simulación 5%)</td>
+  <td>TASK-US29-01-Interceptar la confirmación del viaje</td>
+  <td>Interceptar la confirmación del viaje</td>
+  <td>Interceptar la confirmación del viaje completado en `RideDispatchStore.onCompleteRide()`.</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US29-02-Disparar petición PATCH /wallets</td>
+  <td>Disparar petición PATCH /wallets</td>
+  <td>Disparar petición `PATCH /wallets/{driverId}` aplicando el descuento matemático.</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US29-03-Registrar el movimiento en el historial</td>
+  <td>Registrar el movimiento en el historial</td>
+  <td>Registrar el movimiento en el historial vía `POST /walletTransactions` con categoría `COMMISSION`.</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US29-04-Forzar sincronización de MonetizationStore</td>
+  <td>Forzar sincronización de MonetizationStore</td>
+  <td>Forzar sincronización de datos de `MonetizationStore` tras el cobro.</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>TASK-US29-05-Mostrar mensaje emergente de cobro</td>
+  <td>Mostrar mensaje emergente de cobro</td>
+  <td>Mostrar mensaje emergente informando el descuento de comisión cobrado.</td>
+  <td>0.2</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
+  <td>To-do</td>
+</tr>
+    </tbody>
+</table>
+
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Author | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------ | ------------------ |
+| Startup-x-upc/Backend-WebApplication | develop | 90efdc4 | hotfix:Change the userQueryService | Se actualizó el repositorio: hotfix:Change the userQueryService | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 972ab56 | feat:Added UserCommandService | Se implementó la funcionalidad: feat:Added UserCommandService | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 344969b | feat:Added IAMContextFacade | Se implementó la funcionalidad: feat:Added IAMContextFacade | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 3b30889 | feat:Added domainAggregate | Se implementó la funcionalidad: feat:Added domainAggregate | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 4176e1b | feat: add resolvemessagedeafult in globalexceptionhandler | Se implementó la funcionalidad: feat: add resolvemessagedeafult in globalexceptionhandler | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 69160f3 | fix: correct a thing in GlobalExceptionHandler | Se corrigió el error: fix: correct a thing in GlobalExceptionHandler | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 58a32a5 | feat: add validationError. Important | Se implementó la funcionalidad: feat: add validationError. Important | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | eab31f0 | fix: fix fatal error in shared | Se corrigió el error: fix: fix fatal error in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 12edec2 | feat: add unexpected in shared | Se implementó la funcionalidad: feat: add unexpected in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | cc7ab56 | fix: eliminate a method in shared | Se corrigió el error: fix: eliminate a method in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | ffd2c14 | feat: implement conflict error in shared | Se implementó la funcionalidad: feat: implement conflict error in shared | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | b52f273 | fix: improve ApplicationError | Se corrigió el error: fix: improve ApplicationError | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 9f4458c | feat: add getfullnamebyuserid | Se implementó la funcionalidad: feat: add getfullnamebyuserid | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | eb30618 | fix: erase a litle problem in IAM | Se corrigió el error: fix: erase a litle problem in IAM | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | a0c0f82 | feat: add more funtionalities to IAM | Se implementó la funcionalidad: feat: add more funtionalities to IAM | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 1433ef1 | fix: correct fatal error in iam | Se corrigió el error: fix: correct fatal error in iam | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f6410eb | feat: add Dockerfile and externalized database configuration properties for backend service | Se implementó la funcionalidad: feat: add Dockerfile and externalized database configuration properties for backend service | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 20b0762 | refactor(drivermanagement): remove currentLocation and simplify availability toggle response | Se refactorizó el código: refactor(drivermanagement): remove currentLocation and simplify availability toggle response | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 3ad5339 | feat(shared): map new drivermanagement error codes to corresponding HTTP statuses | Se implementó la funcionalidad: feat(shared): map new drivermanagement error codes to corresponding HTTP statuses | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 2b9b330 | feat(drivermanagement): implement drivermanagement bounded context and availability checks | Se implementó la funcionalidad: feat(drivermanagement): implement drivermanagement bounded context and availability checks | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f70fc19 | refactor(monetization): cleanup block/unblock endpoints, move event generation to domain | Se refactorizó el código: refactor(monetization): cleanup block/unblock endpoints, move event generation to domain | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | dc4e5de | fix(monetization): query wallet by walletId instead of driverId in transaction history query | Se corrigió el error: fix(monetization): query wallet by walletId instead of driverId in transaction history query | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 54dcd3c | refactor(iam): prefix auth and profile REST endpoints with /api/v1 and update security path matchers | Se refactorizó el código: refactor(iam): prefix auth and profile REST endpoints with /api/v1 and update security path matchers | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 2229d89 | fix(monetization): retrieve existing entity ID before saving to prevent duplicate key constraint on update | Se corrigió el error: fix(monetization): retrieve existing entity ID before saving to prevent duplicate key constraint on update | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | d9f4c4a | refactor(monetization): make persistence assemblers null-safe for legacy database records | Se refactorizó el código: refactor(monetization): make persistence assemblers null-safe for legacy database records | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 9541998 | refactor(monetization): split application services into interfaces and internal implementations | Se refactorizó el código: refactor(monetization): split application services into interfaces and internal implementations | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 7461ff0 | refactor(monetization): move JPA repository implementations to adapters package | Se refactorizó el código: refactor(monetization): move JPA repository implementations to adapters package | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f06cf56 | refactor(monetization): rename and move REST response assemblers to transform package | Se refactorizó el código: refactor(monetization): rename and move REST response assemblers to transform package | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 42ad1e6 | feat(monetization): update controller endpoints to align with frontend resource models and estimated fare check | Se implementó la funcionalidad: feat(monetization): update controller endpoints to align with frontend resource models and estimated fare check | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 6590eed | feat(monetization): implement ACL integration for driver registration | Se implementó la funcionalidad: feat(monetization): implement ACL integration for driver registration | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f00b0a7 | feat: implement monetization domain services, entities, and persistence layer for fare policies and wallet transactions | Se implementó la funcionalidad: feat: implement monetization domain services, entities, and persistence layer for fare policies and wallet transactions | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | c8ef2c6 | refactor: Updating monetization's name | Se refactorizó el código: refactor: Updating monetization's name | JesÃºs Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 86b178a | fix(iam): migrate UUID columns to VARCHAR(36), fix UPDATE vs INSERT, and polish Swagger docs   Persistence:   - Change all UUID columns to VARCHAR(36) across IAM and Monetization     entities to prevent BINARY(16) padding issues in MySQL   - Update JPA repositories, assemblers, and adapters with String conversion   - Fix save() in UserRepositoryImpl and ProfileRepositoryImpl to preserve     the internal Long id from existing entities so JPA issues UPDATE     instead of INSERT on subsequent saves   - Publish domain events explicitly via ApplicationEventPublisher in     UserRepositoryImpl and WalletRepositoryImpl | Se corrigió el error: fix(iam): migrate UUID columns to VARCHAR(36), fix UPDATE vs INSERT, and polish Swagger docs   Persistence:   - Change all UUID columns to VARCHAR(36) across IAM and Monetization     entities to prevent BINARY(16) padding issues in MySQL   - Update JPA repositories, assemblers, and adapters with String conversion   - Fix save() in UserRepositoryImpl and ProfileRepositoryImpl to preserve     the internal Long id from existing entities so JPA issues UPDATE     instead of INSERT on subsequent saves   - Publish domain events explicitly via ApplicationEventPublisher in     UserRepositoryImpl and WalletRepositoryImpl | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | e996159 | fix(iam): resolving inconsistency with UUID from JPA to MYSQL | Se corrigió el error: fix(iam): resolving inconsistency with UUID from JPA to MYSQL | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 32b46ab | fix(iam): add Swagger JWT auth scheme and remove redundant check-email endpoint | Se corrigió el error: fix(iam): add Swagger JWT auth scheme and remove redundant check-email endpoint | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 67a930e | feat(iam): implement Anti-Corruption Layer facade for IAM bounded context access | Se implementó la funcionalidad: feat(iam): implement Anti-Corruption Layer facade for IAM bounded context access | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | e705806 | feat: implement JPA repository adapters for Wallet and User aggregates with explicit domain event publishing | Se implementó la funcionalidad: feat: implement JPA repository adapters for Wallet and User aggregates with explicit domain event publishing | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | cdc1326 | feat(iam): The user wants me to suggest a good commit message for all the work done so far. Let me summarize what was accomplished: 1. Deleted all existing IAM code   - ProfilesController: GET /users/me/profile, PUT /profiles/{profileId}   - Immutable record resources with Jakarta Validation + OpenAPI @Schema | Se implementó la funcionalidad: feat(iam): The user wants me to suggest a good commit message for all the work done so far. Let me summarize what was accomplished: 1. Deleted all existing IAM code   - ProfilesController: GET /users/me/profile, PUT /profiles/{profileId}   - Immutable record resources with Jakarta Validation + OpenAPI @Schema | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f07327c | feat: implement Identity and Access Management (IAM) bounded context with domain models, repositories, and persistence infrastructure. | Se implementó la funcionalidad: feat: implement Identity and Access Management (IAM) bounded context with domain models, repositories, and persistence infrastructure. | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | a15065a | docs: add architecture analysis guide and update project dependencies in pom.xml | Se actualizó la documentación: docs: add architecture analysis guide and update project dependencies in pom.xml | JesÃºs Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 9d31a68 | feat: update monetization bounded context with commissionRate and API spec alignment | Se implementó la funcionalidad: feat: update monetization bounded context with commissionRate and API spec alignment | S-aiquipa | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 0eb7fc2 | refactor(monetization): map walletId field in WalletPersistenceAssembler | Se refactorizó el código: refactor(monetization): map walletId field in WalletPersistenceAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 04ef111 | feat(monetization): add walletId field to WalletPersistenceEntity with unique constraint | Se implementó la funcionalidad: feat(monetization): add walletId field to WalletPersistenceEntity with unique constraint | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | a3aeec2 | refactor(monetization): remove unused driverId field from ApplyCommissionResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from ApplyCommissionResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 1a00eeb | refactor(monetization): remove unused driverId field from TopUpFailureResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from TopUpFailureResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 25243dc | refactor(monetization): remove unused driverId field from TopUpWalletResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from TopUpWalletResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 1d9809e | feat(monetization): add findByWalletId method to WalletRepositoryImpl | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletRepositoryImpl | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 24537bf | feat(monetization): add findByWalletId method to WalletJpaRepository | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletJpaRepository | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 4381afe | feat(monetization): add findByWalletId method to WalletRepository | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletRepository | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 9061233 | refactor(monetization): improve wallet balance calculations, enforce rounding policies, and add @Transactional to wallet operations | Se refactorizó el código: refactor(monetization): improve wallet balance calculations, enforce rounding policies, and add @Transactional to wallet operations | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 74cd0a7 | refactor(monetization): rename driverId to walletId in ApplyRideCommissionCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in ApplyRideCommissionCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 96a1c02 | refactor(monetization): rename driverId to walletId in RegisterTopUpFailureCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in RegisterTopUpFailureCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 8219beb | refactor(monetization): rename driverId to walletId in TopUpWalletCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in TopUpWalletCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | d4deddf | refactor(monetization): update API endpoints for Fare Config and Wallet management | Se refactorizó el código: refactor(monetization): update API endpoints for Fare Config and Wallet management | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 40cf696 | feat(monetization): pass commissionRate to ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat(monetization): pass commissionRate to ConfigureFarePolicyCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | b28c52e | feat(monetization): update FarePolicy configuration to handle commissionRate | Se implementó la funcionalidad: feat(monetization): update FarePolicy configuration to handle commissionRate | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 2077cd6 | feat(monetization): add commissionRate field to ConfigureFarePolicyResource | Se implementó la funcionalidad: feat(monetization): add commissionRate field to ConfigureFarePolicyResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 89b9eb2 | feat(monetization): add commissionRate field to ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat(monetization): add commissionRate field to ConfigureFarePolicyCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | bb503cd | feat(monetization): map commissionRate in FarePolicyResponseAssembler | Se implementó la funcionalidad: feat(monetization): map commissionRate in FarePolicyResponseAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 300542d | feat(monetization): add commissionRate field to FarePolicyResponse | Se implementó la funcionalidad: feat(monetization): add commissionRate field to FarePolicyResponse | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 31bdc0a | feat(monetization): map commissionRate in FarePolicyPersistenceAssembler | Se implementó la funcionalidad: feat(monetization): map commissionRate in FarePolicyPersistenceAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 7df410a | feat(monetization): add commissionRate field to FarePolicyPersistenceEntity with setter method | Se implementó la funcionalidad: feat(monetization): add commissionRate field to FarePolicyPersistenceEntity with setter method | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | d917131 | feat(monetization): add commission rate to FarePolicy and calculateCommission method | Se implementó la funcionalidad: feat(monetization): add commission rate to FarePolicy and calculateCommission method | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f4c621b | Merge pull request #2 from Startup-x-upc/feat/monetization | Se integraron los cambios de la rama: Merge pull request #2 from Startup-x-upc/feat/monetization | S-aiquipa | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 04552e0 | feat(monetization): add package declaration to Wallet aggregate | Se implementó la funcionalidad: feat(monetization): add package declaration to Wallet aggregate | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | ca97f2e | feat(monetization): extend WalletTransactionPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend WalletTransactionPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 25f2d1d | feat(monetization): extend WalletPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend WalletPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | ef222f4 | feat(monetization): extend FarePolicyPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend FarePolicyPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 9320667 | Merge remote-tracking branch 'origin/develop' into feat/monetization | Se integraron los cambios de la rama: Merge remote-tracking branch 'origin/develop' into feat/monetization | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | ae41218 | feat(monetization): extend FarePolicy from AbstractDomainAggregateRoot | Se implementó la funcionalidad: feat(monetization): extend FarePolicy from AbstractDomainAggregateRoot | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | cd9b58b | feat(monetization): add MonetizationController to expose REST endpoints for fare policy and wallet operations | Se implementó la funcionalidad: feat(monetization): add MonetizationController to expose REST endpoints for fare policy and wallet operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 703771a | feat(monetization): add WalletTransactionResponseAssembler for assembling wallet transaction responses | Se implementó la funcionalidad: feat(monetization): add WalletTransactionResponseAssembler for assembling wallet transaction responses | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 9a96443 | feat(monetization): add WalletResponseAssembler for assembling wallet response data | Se implementó la funcionalidad: feat(monetization): add WalletResponseAssembler for assembling wallet response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 4452a63 | feat(monetization): add FarePolicyResponseAssembler for assembling fare policy and quote responses | Se implementó la funcionalidad: feat(monetization): add FarePolicyResponseAssembler for assembling fare policy and quote responses | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | c5cdc73 | feat(monetization): add CanOperateResponse for representing driver's operation eligibility | Se implementó la funcionalidad: feat(monetization): add CanOperateResponse for representing driver's operation eligibility | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 4dd603b | feat(monetization): add WalletTransactionResponse for representing wallet transaction data | Se implementó la funcionalidad: feat(monetization): add WalletTransactionResponse for representing wallet transaction data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | ee4553a | feat(monetization): add WalletResponse for representing wallet response data | Se implementó la funcionalidad: feat(monetization): add WalletResponse for representing wallet response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 27e0262 | feat(monetization): add FareQuoteResponse for representing fare quote response data | Se implementó la funcionalidad: feat(monetization): add FareQuoteResponse for representing fare quote response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f7061a1 | feat(monetization): add FarePolicyResponse for representing fare policy response data | Se implementó la funcionalidad: feat(monetization): add FarePolicyResponse for representing fare policy response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | affa3c5 | feat(monetization): add ApplyCommissionResource for handling commission application data | Se implementó la funcionalidad: feat(monetization): add ApplyCommissionResource for handling commission application data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 2c3d7a1 | feat(monetization): add TopUpFailureResource for handling top-up failure data | Se implementó la funcionalidad: feat(monetization): add TopUpFailureResource for handling top-up failure data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 1605fbe | feat(monetization): add TopUpWalletResource for wallet top-up data | Se implementó la funcionalidad: feat(monetization): add TopUpWalletResource for wallet top-up data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 107a452 | feat(monetization): add EstimatedFareResource for fare estimation data | Se implementó la funcionalidad: feat(monetization): add EstimatedFareResource for fare estimation data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 31f5e7c | feat(monetization): add ConfigureFarePolicyResource for fare policy configuration data | Se implementó la funcionalidad: feat(monetization): add ConfigureFarePolicyResource for fare policy configuration data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 0786159 | feat(monetization): implement WalletTransactionRepositoryImpl for transaction persistence operations | Se implementó la funcionalidad: feat(monetization): implement WalletTransactionRepositoryImpl for transaction persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 13a1c7d | feat(monetization): implement WalletRepositoryImpl for wallet persistence operations | Se implementó la funcionalidad: feat(monetization): implement WalletRepositoryImpl for wallet persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 6db8293 | feat(monetization): implement FarePolicyRepositoryImpl for fare policy persistence operations | Se implementó la funcionalidad: feat(monetization): implement FarePolicyRepositoryImpl for fare policy persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 706be45 | feat(monetization): implement MonetizationQueryServiceImpl for handling monetization queries | Se implementó la funcionalidad: feat(monetization): implement MonetizationQueryServiceImpl for handling monetization queries | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 19c9789 | feat(monetization): implement MonetizationCommandServiceImpl for handling monetization commands | Se implementó la funcionalidad: feat(monetization): implement MonetizationCommandServiceImpl for handling monetization commands | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | d5ee94c | feat(monetization): add WalletTransactionPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add WalletTransactionPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 48098f8 | feat(monetization): add WalletPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add WalletPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 7849be8 | feat(monetization): add FarePolicyPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add FarePolicyPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 3730c96 | feat(monetization): add WalletTransactionJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add WalletTransactionJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 367272c | feat(monetization): add WalletJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add WalletJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 5e92027 | feat(monetization): add FarePolicyJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add FarePolicyJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | e83595c | feat(monetization): add WalletTransactionPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add WalletTransactionPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 1427c6e | feat(monetization): add WalletPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add WalletPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 6f81346 | feat(monetization): add FarePolicyPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add FarePolicyPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 4881220 | feat(monetization): add TransactionTypeConverter for TransactionType persistence | Se implementó la funcionalidad: feat(monetization): add TransactionTypeConverter for TransactionType persistence | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 73f4bd3 | feat: add WalletStatusConverter to handle WalletStatus persistence | Se implementó la funcionalidad: feat: add WalletStatusConverter to handle WalletStatus persistence | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | a730644 | feat: add Wallet and FarePolicy domain aggregate models for monetization module | Se implementó la funcionalidad: feat: add Wallet and FarePolicy domain aggregate models for monetization module | JesÃºs Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | bee66f3 | docs: add backend architectural analysis and DDD pattern documentation | Se actualizó la documentación: docs: add backend architectural analysis and DDD pattern documentation | JesÃºs Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 7250227 | Merge branch 'develop' into feat/monetization | Se integraron los cambios de la rama: Merge branch 'develop' into feat/monetization | JesÃºs Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 38000ac | Merge pull request #1 from Startup-x-upc/feature/shared | Se integraron los cambios de la rama: Merge pull request #1 from Startup-x-upc/feature/shared | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 732c074 | feat: add iam to the project | Se implementó la funcionalidad: feat: add iam to the project | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 816c3b4 | feat: add shared to the project | Se implementó la funcionalidad: feat: add shared to the project | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 4e64d3f | docs:Instructions to create the project | Se actualizó la documentación: docs:Instructions to create the project | TheEngineEdu | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f6c4a77 | feat: add WalletTransactionRepository interface | Se implementó la funcionalidad: feat: add WalletTransactionRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 2d06301 | feat: add WalletRepository interface | Se implementó la funcionalidad: feat: add WalletRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f3b1526 | feat: add FarePolicyRepository interface | Se implementó la funcionalidad: feat: add FarePolicyRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 36ed239 | feat: add WalletTransaction entity | Se implementó la funcionalidad: feat: add WalletTransaction entity | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 93bdfae | feat: add Wallet aggregate | Se implementó la funcionalidad: feat: add Wallet aggregate | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | ab33b45 | feat: add FarePolicy aggregate | Se implementó la funcionalidad: feat: add FarePolicy aggregate | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | e0a6e60 | feat: add CanDriverOperateQuery | Se implementó la funcionalidad: feat: add CanDriverOperateQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | e7531a3 | feat: add GetWalletTransactionHistoryQuery | Se implementó la funcionalidad: feat: add GetWalletTransactionHistoryQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | f63a38f | feat: add GetWalletByDriverIdQuery | Se implementó la funcionalidad: feat: add GetWalletByDriverIdQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | c733fcf | feat: add GetEstimatedFareQuery | Se implementó la funcionalidad: feat: add GetEstimatedFareQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | a00dac6 | feat: add GetCurrentFarePolicyQuery | Se implementó la funcionalidad: feat: add GetCurrentFarePolicyQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | a627f5d | feat: add UnblockDriverWalletCommand | Se implementó la funcionalidad: feat: add UnblockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | d71620c | feat: add BlockDriverWalletCommand | Se implementó la funcionalidad: feat: add BlockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | d55d5e3 | feat: add ApplyRideCommissionCommand | Se implementó la funcionalidad: feat: add ApplyRideCommissionCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 06e1ebd | feat: add RegisterTopUpFailureCommand | Se implementó la funcionalidad: feat: add RegisterTopUpFailureCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 5dc11b3 | feat: add TopUpWalletCommand | Se implementó la funcionalidad: feat: add TopUpWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 21072f1 | feat: add ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat: add ConfigureFarePolicyCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | d08f882 | feat: add TransactionType value object | Se implementó la funcionalidad: feat: add TransactionType value object | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 3fef3a3 | feat: add WalletStatus value object | Se implementó la funcionalidad: feat: add WalletStatus value object | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 6abd5ce | fix:added dependencies | Se corrigió el error: fix:added dependencies | Eduardo | 08/06/2026 |
+| Startup-x-upc/Backend-WebApplication | develop | 1f42603 | feature:Template for the backend | Se actualizó el repositorio: feature:Template for the backend | Eduardo | 08/06/2026 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+<img src="./Resources/sprint_3/execute2.jpeg">
+<img src="./Resources/sprint_3/execute.jpeg">
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Durante este sprint se completó el diseño e implementación completa del frontend además de agregar el backend y poder conectarlo .
+
+**Descripción del Logro:**
+- Completar en su totalidad el frontend page.
+- Deployar el backend.
+
+**Recursos del Sprint:**
+
+| Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
+| --- | --- | --- | --- | --- |
+| Backend Page | Visualización inicial | GET | [startup-x-upc.github.io/backendweb-page](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [Startup-x-upc/Backendweb-page](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+<img src="./Resources/sprint_3/inicio.jpeg">
+<img src="./Resources/sprint_3/binicio.jpeg">
+<img src="./Resources/sprint_3/cfinal.jpeg">
+<img src="./Resources/sprint_3/bfinal.jpeg">
+<img src="./Resources/sprint_3/final.jpeg">
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<img src="./Resources/sprint_3/collabo.jpeg">
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+**Objetivo**
+
+Validar la usabilidad, utilidad percibida y aceptación de la aplicación Chapa Tu Ruta por parte de los segmentos objetivo, mediante la interacción directa con la versión funcional desplegada, identificando problemas de usabilidad, funcionalidades faltantes y oportunidades de mejora.
+
+**Público Objetivo**
+
+Se entrevistarán los mismos dos segmentos de las entrevistas de needfinding:
+
+- Pasajeros frecuentes de mototaxis en provincias
+- Conductores de motos lineales y mototaxis
+
+**Características:**
+
+- Edad: 18 a 60 años
+- Uso frecuente de transporte informal
+- Acceso a un smartphone
+- Haber participado en las entrevistas iniciales de needfinding
+
+**Tipo de entrevistas:**
+
+Se utilizarán entrevistas de validación estructuradas, combinando la observación directa del usuario interactuando con la aplicación y preguntas posteriores orientadas a recoger su percepción sobre la experiencia.
+
+**Metodología:**
+
+- Modalidad: Virtual
+- Duración: 15 a 20 min por entrevista
+- Herramienta: Se compartirá la URL pública de la aplicación desplegada para que el usuario la explore desde su propio dispositivo
+- Registro: Video de la sesión subido a Microsoft Stream, con notas escritas en el informe
+
+**Dinámica de la sesión:**
+
+Cada sesión se divide en dos partes. En la primera, se le pide al entrevistado que realice una serie de tareas dentro de la aplicación sin intervención del equipo, mientras se observa su comportamiento. En la segunda, se realizan las preguntas de validación basadas en lo observado y en la experiencia del usuario.
+
+**User flows a evaluar durante la sesión**
+
+*Para pasajeros:*
+
+1. Registrarse e iniciar sesión en la aplicación
+2. Solicitar un viaje ingresando origen y destino
+3. Revisar la tarifa estimada antes de confirmar el viaje
+4. Confirmar el viaje y monitorear su estado en tiempo real
+5. Calificar al conductor al finalizar el viaje
+
+*Para conductores:*
+
+1. Registrarse e iniciar sesión como conductor
+2. Visualizar y aceptar una solicitud de viaje entrante
+3. Consultar el historial de viajes y ganancias
+4. Revisar calificaciones y comentarios recibidos de pasajeros
+
+**Preguntas para pasajeros:**
+
+1. Al ver la pantalla de inicio, ¿qué fue lo primero que entendiste que podías hacer con la aplicación?
+2. Al solicitar tu viaje, ¿la tarifa estimada que te mostró la app te pareció justa o razonable? ¿Por qué?
+3. ¿Hubo algún paso durante la solicitud del viaje en que no supiste qué hacer o te confundiste?
+4. Comparando con cómo acordabas el precio antes, ¿sientes que esta forma es mejor, igual o peor? ¿Por qué?
+5. ¿La información que ves del conductor (nombre, calificación, entre otros) te genera más confianza que tomar una moto en la calle? ¿Qué le agregarías o quitarías?
+6. ¿Qué tan fácil o difícil fue calificar al conductor al finalizar el viaje? ¿Lo harías en la vida real?
+7. ¿Hay alguna función que esperabas encontrar y no encontraste?
+8. ¿Usarías esta aplicación en lugar de buscar mototaxis de la manera en que lo haces ahora? ¿Qué te lo impediría?
+
+**Preguntas para conductores:**
+
+1. Al registrarte como conductor, ¿el proceso te pareció claro? ¿Qué fue lo más complicado?
+2. Cuando te llegó una solicitud de viaje, ¿la información que te mostraba (destino, tarifa, distancia) fue suficiente para decidir si aceptarla?
+3. ¿Sientes que la tarifa que calcula la app es justa para ti como conductor? ¿Cambiarías algo?
+4. ¿El historial de viajes y ganancias te muestra lo que necesitas para saber cómo te está yendo?
+5. ¿Ver tus calificaciones y comentarios te motivaría a mejorar tu servicio? ¿O no le darías importancia?
+6. ¿Hubo alguna pantalla o función que no entendiste a la primera?
+7. ¿Qué tan probable es que recomiendes esta aplicación a otros conductores de tu zona? ¿Qué mejorarías primero?
+
+**Pregunta de cierre (ambos segmentos):**
+
+- En una sola frase, ¿cómo describirías esta aplicación a alguien de tu ciudad que aún no la conoce?
+
+**Consideraciones éticas:**
+
+- Se solicitará al entrevistado el consentimiento para la grabación de la sesión y el uso de su información
+- Se garantizará la confidencialidad de la información proporcionada
+- Los datos obtenidos serán utilizados únicamente con fines académicos
+
+---
+
+### 5.3.2. Registro de Entrevistas
+
+*Pendiente. Esta sección será completada una vez realizadas las sesiones de validación con los usuarios de cada segmento objetivo.*
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas
+
+*Pendiente. Esta sección será completada tras el análisis de las sesiones de validación, aplicando el formato de evaluación de heurísticas de usabilidad, arquitectura de información y diseño inclusivo indicado en el Anexo D.*
