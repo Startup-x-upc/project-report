@@ -2518,3 +2518,6 @@ Cada sesión se divide en dos partes. En la primera, se le pide al entrevistado 
 ### 5.3.3. Evaluaciones según heurísticas
 
 *Pendiente. Esta sección será completada tras el análisis de las sesiones de validación, aplicando el formato de evaluación de heurísticas de usabilidad, arquitectura de información y diseño inclusivo indicado en el Anexo D.*
+
+
+## 5.4 About-the-Product
