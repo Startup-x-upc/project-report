@@ -2538,6 +2538,30 @@ El entrevistado señaló que la interfaz es intuitiva y que logró comprender el
 **Evidencia:** <br><br>
 ![Entrevista Conductor](Resources/validacion-entrevistas/validacion-fabio-conductor.png)
 
+
+#### Entrevista 2: Conductor
+
+* Nombre y Apellido: Carlos Sánchez
+* Edad: 48 años
+* Distrito de Residencia: Villa El Salvador, Lima
+* Ocupación: Conductor de mototaxi
+* Fecha: [18 de junio de 2026]
+* Inicio de la Entrevista: [1:00]
+* Duración: [08:15]
+  URL del Video (Microsoft Stream): [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAfyi2sAmeKR4tqBiDg1zelAcAcYnYbiWdTAaaqoSeF7nY?e=UhtVrf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Durante la sesión de validación, Carlos interactuó con la versión funcional de Chapa Tu Ruta a través de la URL pública desplegada, completando sin dificultad el registro como conductor y comprendiendo de forma clara cada paso del flujo solicitado. Indicó que el proceso de registro fue intuitivo y no presentó ninguna confusión al completarlo.
+
+Al recibir una solicitud de viaje, señaló que la información mostrada —destino, tarifa y distancia— le resultó suficiente para decidir si aceptarla, sin necesidad de datos adicionales. Sobre el sistema de tarifas, manifestó que el monto calculado por la aplicación le pareció justo y adecuado para su trabajo como conductor.
+
+Respecto al historial de viajes y ganancias, valoró positivamente que la información mostrada le permite saber cómo le está yendo en su jornada de trabajo. En cuanto al sistema de calificaciones, indicó que ver sus propias calificaciones y comentarios sí lo motivaría a mejorar su servicio.
+
+Carlos no identificó ninguna pantalla o función que le generara confusión durante la navegación, calificando la interfaz como fácil de usar en su totalidad. Finalmente, expresó que recomendaría la aplicación a otros conductores de su zona sin reservas, y describió Chapa Tu Ruta como una herramienta que le permite conseguir pasajeros de forma más rápida y organizada que su método actual.
+
+**Evidencia:** <br><br>
+![Entrevista Conductor](Resources/validacion-entrevistas/validacion-carlos-conductor.png)
+
+
 ---
 
 ## 5.3.3. Evaluaciones según heurísticas.
