@@ -1548,7 +1548,7 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
 
 #### 5.2.3.3. Sprint Backlog 3
 
-Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **ChapaTuRuta**, enfocado en la completitud de la aplicación frontend. La estrategia de desarrollo se apoya en un backend simulado mediante **Fake API (json-server)** y **refresh manual / polling ligero** para la sincronización de estados.
+<img src="./Resources/sprint_3/trello3.png">
 
 
 ##### 1. Resumen del Sprint Backlog
@@ -2395,6 +2395,9 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+<img src="./Resources/sprint_3/execute2.jpeg">
+<img src="./Resources/sprint_3/execute.jpeg">
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 Durante este sprint se completó el diseño e implementación completa del frontend además de agregar el backend y poder conectarlo .
 
@@ -2406,7 +2409,7 @@ Durante este sprint se completó el diseño e implementación completa del front
 
 | Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
 | --- | --- | --- | --- | --- |
-| Backend Page | Visualización inicial | GET | [startup-x-upc.github.io/frontendweb-page](https://chapaturuta-e7d2e.web.app/login) | [Startup-x-upc/frontendweb-page](https://github.com/Startup-x-upc/FrontEnd-WebApplication.git) |
+| Backend Page | Visualización inicial | GET | [startup-x-upc.github.io/backendweb-page](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [Startup-x-upc/Backendweb-page](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 <img src="./Resources/sprint_3/inicio.jpeg">
@@ -2416,3 +2419,5 @@ Durante este sprint se completó el diseño e implementación completa del front
 <img src="./Resources/sprint_3/final.jpeg">
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<img src="./Resources/sprint_3/collabo.jpeg">
