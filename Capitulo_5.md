@@ -1582,49 +1582,49 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US01-01</td>
   <td>Validar existencia de colección users</td>
   <td>Validar existencia de colección `users` en `db.json`.</td>
-  <td>0.4</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US01-02</td>
   <td>Diseñar componente register-passenger-form</td>
   <td>Diseñar componente `register-passenger-form` con validaciones de formulario.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.8</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US01-03</td>
   <td>Implementar endpoint POST /users</td>
   <td>Implementar endpoint `POST /users` en el servicio `IamApiService`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.6</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US01-04</td>
   <td>Crear validación de email duplicado</td>
   <td>Crear validación de email duplicado vía `GET /users?email={email}` previa al registro.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US01-05</td>
   <td>Validar coincidencia de contraseña</td>
   <td>Validar coincidencia de contraseña y confirmación.</td>
   <td>0.4</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US01-06</td>
   <td>Redirigir al login</td>
   <td>Redirigir al login mostrando mensaje de éxito.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-02 -->
@@ -1634,41 +1634,41 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US02-01</td>
   <td>Diseñar formulario register-driver-form</td>
   <td>Diseñar formulario `register-driver-form` agregando inputs para brevete y SOAT.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.9</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US02-02</td>
   <td>Ajustar IamApiService</td>
   <td>Ajustar `IamApiService` para enviar payload de conductor con estado inicial pendiente.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.7</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US02-03</td>
   <td>Configurar campos de estado</td>
   <td>Configurar campos `verificationStatus` y `operationalStatus` en el esquema de conductores de `db.json`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US02-04</td>
   <td>Validar campos obligatorios</td>
   <td>Validar campos obligatorios antes del envío.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US02-05</td>
   <td>Redirigir al login con aviso</td>
   <td>Redirigir al login con mensaje explicativo sobre el estado de verificación.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-04 -->
@@ -1678,49 +1678,49 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US04-01</td>
   <td>Crear componente profile-page</td>
   <td>Crear componente `profile-page` accesible para pasajero y conductor.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.7</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US04-02</td>
   <td>Diseñar formulario profile-edit-form</td>
   <td>Diseñar formulario `profile-edit-form` (nombre completo y foto).</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.6</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US04-03</td>
   <td>Implementar PUT /profiles/{id}</td>
   <td>Implementar `PUT /profiles/{id}` en `IamApiService`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US04-04</td>
   <td>Configurar rutas hijas</td>
   <td>Configurar rutas hijas en los layouts de pasajero y conductor.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US04-05</td>
   <td>Integrar acción updateProfile</td>
   <td>Integrar acción `updateProfile()` en `IamStore`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US04-06</td>
   <td>Reflejar cambios en tiempo real</td>
   <td>Reflejar cambios en tiempo real en los sidebars o cabeceras de navegación.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.3</td>
+  <td>Torres Sanchez, Dalila Victoria</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-05 -->
@@ -1730,25 +1730,25 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US05-01</td>
   <td>Verificar botón de cerrar sesión</td>
   <td>Verificar botón de cerrar sesión en los headers/sidebars de ambos roles.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.2</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US05-02</td>
   <td>Confirmar purga de datos</td>
   <td>Confirmar que el store e historial de local storage quedan purgados tras el logout.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.3</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US05-03</td>
   <td>Validar redirección</td>
   <td>Validar redirección a `/login`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.2</td>
+  <td>Aguirre Ramos, Eduardo Manuel</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-18 -->
@@ -1758,49 +1758,49 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US18-01</td>
   <td>Crear acción cancelRide</td>
   <td>Crear acción `cancelRide(rideId, cancelledBy)` en `RideDispatchStore`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.6</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US18-02</td>
   <td>Configurar petición PATCH /rides/{id}</td>
   <td>Configurar petición `PATCH /rides/{id}` para actualizar el estado del viaje.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US18-03</td>
   <td>Agregar botón Cancelar en Pasajero</td>
   <td>Agregar botón "Cancelar viaje" en la UI del pasajero al tener conductor asignado.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US18-04</td>
   <td>Agregar botón Cancelar en Conductor</td>
   <td>Agregar botón "Cancelar viaje" en el dashboard del conductor durante la etapa de asignación.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US18-05</td>
   <td>Implementar diálogo de confirmación</td>
   <td>Implementar diálogo de confirmación emergente.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US18-06</td>
   <td>Actualizar las vistas reactivamente</td>
   <td>Actualizar las vistas correspondientes reactivamente al cancelar.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-21 -->
@@ -1810,40 +1810,40 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US21-01</td>
   <td>Configurar colección ratings</td>
   <td>Configurar la colección `ratings` en `db.json`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US21-02</td>
   <td>Diseñar componente rating-form</td>
   <td>Diseñar componente interactivo `rating-form` (estrellas seleccionables).</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.8</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US21-03</td>
   <td>Crear TrustReputationApiService</td>
   <td>Crear `TrustReputationApiService` con endpoint `POST /ratings`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.6</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US21-04</td>
   <td>Integrar modal de calificación</td>
   <td>Integrar el modal de calificación al entrar en estado `RIDE_COMPLETED` del pasajero.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US21-05</td>
   <td>Implementar recálculo del promedio</td>
   <td>Implementar recálculo del promedio (`ratingAverage`) en el perfil del conductor.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.6</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
   <td>To-do</td>
 </tr>
 
@@ -1854,33 +1854,33 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US22-01</td>
   <td>Integrar rating-form en Conductor</td>
   <td>Integrar `rating-form` en la vista final del conductor.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US22-02</td>
   <td>Agregar campo de comentarios condicional</td>
   <td>Agregar campo de comentarios condicionado a bajas calificaciones (≤ 2★).</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US22-03</td>
   <td>Registrar calificación en db.json</td>
   <td>Registrar calificación en `db.json` vía endpoint común de ratings.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US22-04</td>
   <td>Recalcular reputación del pasajero</td>
   <td>Recalcular reputación del pasajero en su respectivo perfil.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.6</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-23 -->
@@ -1890,33 +1890,33 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US23-01</td>
   <td>Agregar sección visual de reputación</td>
   <td>Agregar sección de reputación visual en `profile-page`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US23-02</td>
   <td>Consumir endpoint GET /ratings</td>
   <td>Consumir endpoint `GET /ratings?ratedUserId={id}` para computar los valores.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US23-03</td>
   <td>Mostrar estrellas de forma gráfica</td>
   <td>Mostrar estrellas de forma gráfica (ej. `★ ★ ★ ☆ ☆`).</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.4</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US23-04</td>
   <td>Configurar mensaje para nuevos usuarios</td>
   <td>Configurar mensaje de estado para usuarios nuevos sin calificaciones.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.2</td>
+  <td>Aiquipa Poma, Sebastian Andres</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-24 -->
@@ -1926,41 +1926,41 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US24-01</td>
   <td>Crear componente trip-history-page</td>
   <td>Crear componente `trip-history-page` para pasajero.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.7</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US24-02</td>
   <td>Consumir GET /rides de pasajero</td>
   <td>Consumir `GET /rides?passengerId={id}&amp;_sort=fecha&amp;_order=desc` en `RideDispatchApiService`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US24-03</td>
   <td>Configurar ruta en sidebar</td>
   <td>Configurar la ruta `/passenger/trips` en la navegación del sidebar.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.3</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US24-04</td>
   <td>Crear tarjetas de viaje responsivas</td>
   <td>Crear tarjetas de viaje responsivas para listar el historial.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.6</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US24-05</td>
   <td>Implementar vista de historial vacío</td>
   <td>Implementar vista de historial vacío con botón para iniciar nueva solicitud.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.3</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 
 <!-- US-25 -->
@@ -1970,296 +1970,290 @@ Este documento sintetiza el **Sprint Backlog para el Sprint 3** del proyecto **C
   <td>TASK-US25-01</td>
   <td>Crear componente trip-history-page</td>
   <td>Crear componente `trip-history-page` para conductor.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.7</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>TASK-US25-02</td>
   <td>Consumir GET /rides de conductor</td>
   <td>Consumir `GET /rides?driverId={id}&amp;_sort=fecha&amp;_order=desc`.</td>
-  <td>--</td>
-  <td>--</td>
-  <td>To-do</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
 </tr>
 <tr>
-  <td>TASK-US25-03</td>
+  <td>TASK-US25-03-Configurar ruta para conductor</td>
   <td>Configurar ruta para conductor</td>
   <td>Configurar ruta `/driver/trips`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.2</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US25-04</td>
+  <td>TASK-US25-04-Agregar enlace Historial</td>
   <td>Agregar enlace Historial</td>
   <td>Agregar enlace "Historial" en el panel lateral del conductor.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.3</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US25-05</td>
+  <td>TASK-US25-05-Diseñar desglose de ganancias y comisión</td>
   <td>Diseñar desglose de ganancias y comisión</td>
   <td>Diseñar tarjetas mostrando el desglose: Tarifa Cobrada, Comisión (5%) y Ganancia Neta.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.6</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
   <td>To-do</td>
 </tr>
 
-<!-- US-06 -->
 <tr>
   <td rowspan="5">US-06</td>
   <td rowspan="5">Verificación de documentos del conductor</td>
-  <td>TASK-US06-01</td>
+  <td>TASK-US06-01-Crear vista admin-drivers-page</td>
   <td>Crear vista admin-drivers-page</td>
   <td>Crear vista `admin-drivers-page` con tabla de conductores pendientes.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.8</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US06-02</td>
+  <td>TASK-US06-02-Aplicar filtro de búsqueda PENDING_VERIFICATION</td>
   <td>Aplicar filtro de búsqueda PENDING_VERIFICATION</td>
   <td>Aplicar filtro de búsqueda de conductores con `verificationStatus: PENDING_VERIFICATION`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US06-03</td>
+  <td>TASK-US06-03-Agregar acciones de aprobación/rechazo</td>
   <td>Agregar acciones de aprobación/rechazo</td>
   <td>Agregar acciones visuales `approveDriver(id)` y `rejectDriver(id, reason)`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US06-04</td>
+  <td>TASK-US06-04-Implementar PATCH /drivers/{id}</td>
   <td>Implementar PATCH /drivers/{id}</td>
   <td>Implementar petición `PATCH /drivers/{id}` para actualizar estado de verificación.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US06-05</td>
+  <td>TASK-US06-05-Añadir ruta al dashboard de admin</td>
   <td>Añadir ruta al dashboard de admin</td>
   <td>Añadir ruta `/admin/drivers` al dashboard de administrador.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 
-<!-- US-20 -->
 <tr>
   <td rowspan="5">US-20</td>
   <td rowspan="5">Configuración de tarifas por el administrador</td>
-  <td>TASK-US20-01</td>
+  <td>TASK-US20-01-Diseñar componente admin-fare-config-page</td>
   <td>Diseñar componente admin-fare-config-page</td>
   <td>Diseñar componente `admin-fare-config-page` con formularios reactivos de Angular.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.7</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US20-02</td>
+  <td>TASK-US20-02-Consumir y actualizar configuraciones</td>
   <td>Consumir y actualizar configuraciones</td>
   <td>Consumir y actualizar configuraciones vía `PUT /fareConfig/{id}` en `MonetizationApiService`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US20-03</td>
+  <td>TASK-US20-03-Agregar validadores de números</td>
   <td>Agregar validadores de números</td>
   <td>Agregar validadores para impedir números negativos o nulos.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US20-04</td>
+  <td>TASK-US20-04-Configurar la ruta de tarifas</td>
   <td>Configurar la ruta de tarifas</td>
   <td>Configurar la ruta `/admin/fare-config`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US20-05</td>
+  <td>TASK-US20-05-Mostrar confirmation de guardado</td>
   <td>Mostrar confirmación de guardado</td>
   <td>Mostrar confirmación emergente de guardado exitoso.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.2</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 
-<!-- US-26 -->
 <tr>
   <td rowspan="4">US-26</td>
   <td rowspan="4">Panel de administración de conductores</td>
-  <td>TASK-US26-01</td>
+  <td>TASK-US26-01-Extender admin-drivers-page</td>
   <td>Extender admin-drivers-page</td>
   <td>Extender `admin-drivers-page` para permitir visualizar a todos los conductores.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US26-02</td>
+  <td>TASK-US26-02-Implementar el control toggle isEnabled</td>
   <td>Implementar el control toggle isEnabled</td>
   <td>Implementar el control toggle `isEnabled` en la grilla de datos.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US26-03</td>
+  <td>TASK-US26-03-Configurar petición PATCH al cambiar toggle</td>
   <td>Configurar petición PATCH al cambiar toggle</td>
   <td>Configurar petición `PATCH /drivers/{id}` al cambiar el estado de habilitación.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US26-04</td>
+  <td>TASK-US26-04-Diseñar tags visuales de color</td>
   <td>Diseñar tags visuales de color</td>
   <td>Diseñar tags visuales de color (Verde: Activo, Amarillo: Pendiente, Rojo: Suspendido).</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 
-<!-- US-30 -->
 <tr>
   <td rowspan="6">US-30</td>
   <td rowspan="6">Historial de transacciones del wallet</td>
-  <td>TASK-US30-01</td>
+  <td>TASK-US30-01-Declarar esquema walletTransactions</td>
   <td>Declarar esquema walletTransactions</td>
   <td>Declarar esquema `walletTransactions` en `db.json`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US30-02</td>
+  <td>TASK-US30-02-Consumir endpoint GET /walletTransactions</td>
   <td>Consumir endpoint GET /walletTransactions</td>
   <td>Consumir endpoint `GET /walletTransactions?walletId={id}` en `MonetizationApiService`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US30-03</td>
+  <td>TASK-US30-03-Crear componente transaction-history</td>
   <td>Crear componente transaction-history</td>
   <td>Crear componente de lista `transaction-history`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US30-04</td>
+  <td>TASK-US30-04-Reemplazar mock visual por datos del store</td>
   <td>Reemplazar mock visual por datos del store</td>
   <td>Reemplazar mock visual por datos reales del store en la página de Wallet.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US30-05</td>
+  <td>TASK-US30-05-Añadir filtros interactivos por tipo</td>
   <td>Añadir filtros interactivos por tipo</td>
   <td>Añadir filtros interactivos por tipo de transacción (`TOP_UP`, `COMMISSION`).</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US30-06</td>
+  <td>TASK-US30-06-Diseñar el estado de historial vacío</td>
   <td>Diseñar el estado de historial vacío</td>
   <td>Diseñar el estado de historial vacío.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 
-<!-- US-27 -->
 <tr>
   <td rowspan="4">US-27</td>
   <td rowspan="4">Recarga del wallet (Mock con simulación de saldo)</td>
-  <td>TASK-US27-01</td>
+  <td>TASK-US27-01-Crear componente recharge-form</td>
   <td>Crear componente recharge-form</td>
   <td>Crear componente `recharge-form` con validación de montos (mínimo S/ 5.00).</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.6</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US27-02</td>
+  <td>TASK-US27-02-Implementar lógica mock de incremento</td>
   <td>Implementar lógica mock de incremento</td>
   <td>Lógica mock: ejecutar `POST /walletTransactions` y `PATCH /wallets/{id}` para actualizar el saldo del conductor.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US27-03</td>
+  <td>TASK-US27-03-Renderizar el formulario en un modal</td>
   <td>Renderizar el formulario en un modal</td>
   <td>Renderizar el formulario en un modal dentro de la sección de billetera.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US27-04</td>
+  <td>TASK-US27-04-Notificar la recarga correcta</td>
   <td>Notificar la recarga correcta</td>
   <td>Notificar la recarga correcta actualizando el saldo visible inmediatamente.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.2</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 
-<!-- US-29 -->
 <tr>
   <td rowspan="5">US-29</td>
   <td rowspan="5">Descuento automático de comisión (simulación 5%)</td>
-  <td>TASK-US29-01</td>
+  <td>TASK-US29-01-Interceptar la confirmación del viaje</td>
   <td>Interceptar la confirmación del viaje</td>
   <td>Interceptar la confirmación del viaje completado en `RideDispatchStore.onCompleteRide()`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US29-02</td>
+  <td>TASK-US29-02-Disparar petición PATCH /wallets</td>
   <td>Disparar petición PATCH /wallets</td>
   <td>Disparar petición `PATCH /wallets/{driverId}` aplicando el descuento matemático.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.5</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US29-03</td>
+  <td>TASK-US29-03-Registrar el movimiento en el historial</td>
   <td>Registrar el movimiento en el historial</td>
   <td>Registrar el movimiento en el historial vía `POST /walletTransactions` con categoría `COMMISSION`.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.4</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US29-04</td>
+  <td>TASK-US29-04-Forzar sincronización de MonetizationStore</td>
   <td>Forzar sincronización de MonetizationStore</td>
   <td>Forzar sincronización de datos de `MonetizationStore` tras el cobro.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.3</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
 <tr>
-  <td>TASK-US29-05</td>
+  <td>TASK-US29-05-Mostrar mensaje emergente de cobro</td>
   <td>Mostrar mensaje emergente de cobro</td>
   <td>Mostrar mensaje emergente informando el descuento de comisión cobrado.</td>
-  <td>--</td>
-  <td>--</td>
+  <td>0.2</td>
+  <td>Pillaca Gonzales, Andy Saúl</td>
   <td>To-do</td>
 </tr>
     </tbody>
