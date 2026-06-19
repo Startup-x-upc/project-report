@@ -1476,11 +1476,11 @@ Durante este sprint se completó el diseño e implementación del frontend Page 
     </tr>
     <tr>
       <td><b>Sprint 3 Velocity</b></td>
-      <td> puntos</td>
+      <td> 35 puntos</td>
     </tr>
     <tr>
       <td><b>Sum of Story Points</b></td>
-      <td> puntos</td>
+      <td> 35 puntos</td>
     </tr>
   </tbody>
 </table>
