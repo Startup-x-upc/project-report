@@ -2511,7 +2511,32 @@ Cada sesión se divide en dos partes. En la primera, se le pide al entrevistado 
 
 ### 5.3.2. Registro de Entrevistas
 
-*Pendiente. Esta sección será completada una vez realizadas las sesiones de validación con los usuarios de cada segmento objetivo.*
+#### Entrevista 1: Conductor
+
+- **Nombre y Apellido:** Fabio Vallejo
+- **Edad:** 25 años
+- **Distrito de Residencia:** Chincha, Ica
+- **Ocupación:** Conductor de mototaxi
+- **Fecha:** 18 de junio de 2026
+- **Inicio de la Entrevista:** 00:04
+- **Duración:** 11:49
+
+**URL del Video (Microsoft Stream):** 
+[Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQDu9ivbUyt2Q6sr6kdyYCmqAT1TSRhacx8Ytc7hfTxvbPc?e=zAZ7ig&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+<p style="text-align: justify;">
+Durante la demostración, comprendió adecuadamente el funcionamiento de la billetera virtual (Wallet), la activación de disponibilidad para recibir solicitudes y el flujo completo de un viaje, desde la postulación a una solicitud hasta la finalización y calificación del servicio. Asimismo, identificó que la información mostrada en las solicitudes, especialmente el destino y la tarifa, es suficiente para decidir si aceptar o no un viaje.
+
+Respecto al sistema de tarifas, manifestó que el monto calculado le parece adecuado siempre que el algoritmo considere correctamente factores como la distancia y el tiempo estimado del recorrido. Además, valoró positivamente la visualización del historial de viajes, ya que le permite llevar un control de las carreras realizadas, las comisiones cobradas por la plataforma y las ganancias obtenidas.
+
+En relación con el sistema de calificaciones, indicó que las valoraciones de los pasajeros pueden contribuir a mejorar la calidad del servicio brindado. Como sugerencia, recomendó complementar las calificaciones por estrellas con comentarios escritos que permitan recibir retroalimentación más detallada por parte de los usuarios.
+
+El entrevistado señaló que la interfaz es intuitiva y que logró comprender el funcionamiento general de la plataforma sin dificultades. Finalmente, manifestó que recomendaría la aplicación a otros conductores de su zona debido a que facilita la captación de clientes y la organización de ingresos, destacando como principal mejora la necesidad de mantener un sistema de cálculo de tarifas preciso y justo tanto para conductores como para pasajeros. Asimismo, describió la solución como una plataforma que conecta pasajeros y conductores de mototaxi de manera más segura, organizada y eficiente.
+</p>
+
+**Evidencia:** <br><br>
+![Entrevista Conductor](Resources/validacion-entrevistas/validacion-fabio-conductor.png)
 
 ---
 
