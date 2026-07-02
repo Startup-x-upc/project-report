@@ -67,7 +67,43 @@ Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la
 
 <img src="./Resources/caratula/collaboration_insights.png">
 
+Figura 1: Gráfico de contribuciones del repositorio del informe del proyecto para AV1, mostrando la actividad de colaboración de todos los miembros del equipo durante la elaboración del informe inicial.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **161 commits** para el informe del proyecto en esta etapa. El desglose de los aportes por cada integrante del equipo es el siguiente:
+
+- **Andy Pillaca Gonzales:** 54 commits
+- **Jesús Castillo Vidal:** 30 commits
+- **Dalila Torres Sanchez:** 25 commits
+- **Eduardo Aguirre Ramos:** 24 commits
+- **Sebastian Aiquipa Poma:** 22 commits
+- **James Delgado Perez:** 6 commits
+
+## TB1
+
+Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos, marco teórico y todas las secciones correspondientes al primer entregable.
+
+<img src="./Resources/caratula/collaboration_insights1.jpeg">
+
 Figura 1: Gráfico de contribuciones del repositorio del informe del proyecto para TB1, mostrando la actividad de colaboración de todos los miembros del equipo durante la elaboración del informe inicial.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **161 commits** para el informe del proyecto en esta etapa. El desglose de los aportes por cada integrante del equipo es el siguiente:
+
+- **Andy Pillaca Gonzales:** 54 commits
+- **Jesús Castillo Vidal:** 30 commits
+- **Dalila Torres Sanchez:** 25 commits
+- **Eduardo Aguirre Ramos:** 24 commits
+- **Sebastian Aiquipa Poma:** 22 commits
+- **James Delgado Perez:** 6 commits
+
+## AV2
+
+Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos, marco teórico y todas las secciones correspondientes al primer entregable.
+
+<img src="./Resources/caratula/collaboration_insights2.jpeg">
+
+Figura 3: Gráfico de contribuciones del repositorio del informe del proyecto para AV2, mostrando la actividad de colaboración de todos los miembros del equipo durante la elaboración del informe dentro de esa etapa.
 
 **Resumen de Contribuciones:**
 En base al historial del repositorio y la gráfica mostrada, se registran un total de **161 commits** para el informe del proyecto en esta etapa. El desglose de los aportes por cada integrante del equipo es el siguiente:
