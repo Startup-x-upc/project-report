@@ -37,21 +37,45 @@
 
 ## **Registro de versiones del Informe**
 
-| Version | Fecha      | Autor                                                       | Descripción de modificación                                            |
-| ------- | ---------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1.0     | 01/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 1.1 Startup Profile y perfiles del equipo               |
-| 1.1     | 03/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 1.2 Antecedentes y Problemática (5W's y 2H's)           |
-| 1.2     | 05/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 1.3 Lean UX Process (Hypothesis Statements y Canvas)    |
-| 1.3     | 07/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 2.1 Competidores y análisis competitivo                 |
-| 1.4     | 09/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 2.2 Registro de entrevistas por segmento objetivo       |
-| 1.5     | 11/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 2.3 Needfinding: User Personas y User Journey Maps      |
-| 1.6     | 14/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 3.1 To-Be Scenario Map e Impact Map                     |
-| 1.7     | 16/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 3.2 User Stories y Product Backlog                      |
-| 1.8     | 18/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 4.1 Style Guidelines (General y Web)                    |
-| 1.9     | 20/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 4.2 Information Architecture y Navigation Systems       |
-| 1.10    | 21/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 4.6 Domain-Driven Software Architecture (C4 Model)      |
-| 1.11    | 22/04/2026 | Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl | Agregó sección 4.4 Wireframes de aplicación móvil                      |
-| 1.12    | 23/04/2026 | Castillo Vidal, Jesus Ivan / Aguirre Ramos, Eduardo Manuel  | Agregó sección 5.1 Software Configuration Management y Student Outcome |
+| Version | Fecha      | Autor                                                       | Descripción de modificación                                                                      |
+| ------- | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1.0     | 01/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 1.1 Startup Profile y perfiles del equipo                                         |
+| 1.1     | 03/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 1.2 Antecedentes y Problemática (5W's y 2H's)                                    |
+| 1.2     | 05/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 1.3 Lean UX Process (Hypothesis Statements y Canvas)                              |
+| 1.3     | 07/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 2.1 Competidores y análisis competitivo                                           |
+| 1.4     | 09/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 2.2 Registro de entrevistas por segmento objetivo                                 |
+| 1.5     | 11/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 2.3 Needfinding: User Personas y User Journey Maps                                |
+| 1.6     | 14/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 3.1 To-Be Scenario Map e Impact Map                                               |
+| 1.7     | 16/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 3.2 User Stories y Product Backlog                                                |
+| 1.8     | 18/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 4.1 Style Guidelines (General y Web)                                              |
+| 1.9     | 20/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 4.2 Information Architecture y Navigation Systems                                 |
+| 1.10    | 21/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 4.6 Domain-Driven Software Architecture (C4 Model)                                |
+| 1.11    | 22/04/2026 | Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl | Agregó sección 4.4 Wireframes de aplicación móvil                                                |
+| 1.12    | 23/04/2026 | Castillo Vidal, Jesus Ivan / Aguirre Ramos, Eduardo Manuel  | Agregó sección 5.1 Software Configuration Management y Student Outcome                           |
+| 1.13    | 23/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó wireframes de aplicación web y registro de versiones a Capítulo 4                         |
+| 1.14    | 23/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó conclusiones parciales del proyecto                                                       |
+| 1.15    | 23/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó evidencia de desarrollo, mockups y assets del Sprint 1 a Capítulo 5                       |
+| 1.16    | 05/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección Sprint 2 y sus características a Capítulo 5                                       |
+| 1.17    | 06/05/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó Wireflow Diagrams y sección Mobile Web Browser a Capítulo 4                               |
+| 1.18    | 07/05/2026 | Aiquipa Poma, Sebastian Andres                              | Refactorizó User Stories con criterios de aceptación en Gherkin en Capítulo 3                    |
+| 1.19    | 09/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Application User Flow Diagrams a Capítulo 4                                               |
+| 1.20    | 12/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Sprint Planning 2, Sprint Backlog 2 y evidencias de ejecución a Capítulo 5                |
+| 1.21    | 12/05/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó Student Outcome TB1 y configuración de IDE y MySQL en sección 5.1.1                       |
+| 1.22    | 12/05/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó descripción de participación en TB1 al README                                             |
+| 1.23    | 20/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó títulos y plantilla de Sprint Planning 3 a Capítulo 5                                     |
+| 1.24    | 24/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Student Outcome de Eduardo Aguirre al README                                              |
+| 1.25    | 25/05/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó sección de conclusiones del informe                                                    |
+| 1.26    | 27/05/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó diagramas de clases y mockups de UI de la aplicación web a Capítulo 4                     |
+| 1.27    | 27/05/2026 | Torres Sanchez, Dalila Victoria                             | Agregó Student Outcome TB1 al README                                                             |
+| 1.28    | 15/06/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 5.3 Validation Interviews a Capítulo 5                                            |
+| 1.29    | 16/06/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Sprint Planning 3 a Capítulo 5                                                            |
+| 1.30    | 17/06/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó README para entrega AV2                                                                |
+| 1.31    | 17/06/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Sprint Backlog 3 y documentación de servicios del Sprint 3 a Capítulo 5                   |
+| 1.32    | 19/06/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección "About the Product" y registro de entrevista de validación conductor              |
+| 1.33    | 19/06/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó evaluación heurística (5.3.3) y segunda entrevista de validación a Capítulo 5             |
+| 1.34    | 19/06/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó evidencia de desarrollo, despliegue y team collaboration del Sprint 3 a Capítulo 5        |
+| 1.35    | 19/06/2026 | Castillo Vidal, Jesus Ivan                                  | Actualizó conclusiones, estructura del README y tabla de contenidos para entrega AV2             |
+| 1.36    | 04/07/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó Student Outcome versión final en README                                                |
 
 <div style="page-break-after: always;"></div>
 
