@@ -1,38 +1,48 @@
-![alt text](Resources/caratula/Banner-UPC.png)
+<div align="center">
 
-<div align= "center">
+![Banner UPC](Resources/caratula/logo-upc.png)
 
-<h1 style="text-align: center;">Universidad Peruana de Ciencias Aplicada</h1><br>
+# Universidad Peruana de Ciencias Aplicadas
 
-<h3 style="text-align: center; font-weight: normal; font-size: 22px; margin-top: 0;">
-  Ingeniería de Software – 202610
-</h3><br><br>
+## Carrera de Ingeniería de Software
 
-<p align="center"><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
+**1ASI0729**
 
- <p align="center"><strong>NRC:</strong> 10155</p>
+**Desarrollo de Aplicaciones Open Source**
 
- <p align="center"><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
+NRC
 
-  <p align="center"><strong>StartUp:</strong> CTR Technologies</p>
+**10155**
 
-  <p align="center"><strong>Producto:</strong> Chapa Tu Ruta</p><br><br>
+**Informe del Trabajo Final**
 
-<h2 style="text-align: center; font-size: 24px; margin-top: 30px;">
-  <strong>Informe de Trabajo Final</strong>
-</h2>
+Docente
 
-| Código | Integrantes |
+**Mori Paiva, Hugo Allan**
+
+Equipo
+
+**CTR Technologies**
+
+Proyecto
+
+**Chapa Tu Ruta**
+
+**Integrantes**
+
+| **Código** | **Apellidos y Nombres** |
 | --- | --- |
-| U202322952 | Castillo Vidal, Jesus Ivan |
+| U202322952 | Castillo Vidal, Jesús Ivan |
 | U20221F734 | Torres Sanchez, Dalila Victoria |
 | U20241A911 | Aguirre Ramos, Eduardo Manuel |
 | U202418823 | Pillaca Gonzales, Andy Saúl |
-| u201916755 | Aiquipa Poma, Sebastian Andres |
-<br><br>
-<div align="center"> Abril 2026 </div>
-</div>
+| U201916755 | Aiquipa Poma, Sebastian Andres |
 
+**Período 202610**
+
+**Julio 2026**
+
+</div>
 <div style="page-break-after: always;"></div>
 
 ## **Registro de versiones del Informe**
@@ -104,6 +114,47 @@ En base al historial del repositorio y la gráfica mostrada, se registran un tot
 - **James Delgado Perez:** 6 commits
 
 Esta distribución evidencia un esfuerzo colaborativo y la participación activa de todos los integrantes en la elaboración y redacción de la documentación del proyecto.
+
+## TB1
+Durante esta fase, el equipo incorporó los avances correspondientes al primer entregable parcial,
+incluyendo diagramas, wireflows, sprint 2 y mejoras al informe base.
+<img src="./Resources/caratula/collaboration_insights_tb1.png">
+Figura 2: Gráfico de contribuciones del repositorio del informe del proyecto para TB1, mostrando
+la actividad de colaboración de todos los miembros del equipo durante el periodo 24/04/2026 al 27/05/2026.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **30 commits**
+para el informe del proyecto en esta etapa. El desglose de los aportes por cada integrante del equipo es el siguiente:
+
+- **Eduardo Aguirre Ramos:** 18 commits
+- **Andy Pillaca Gonzales:** 5 commits
+- **Sebastian Aiquipa Poma:** 3 commits
+- **Jesús Castillo Vidal:** 3 commits
+- **Dalila Torres Sanchez:** 1 commit
+
+Esta distribución evidencia la participación activa de todos los integrantes en la elaboración
+y redacción de la documentación del proyecto durante esta etapa.
+
+---
+
+## AV2
+Durante esta fase, el equipo consolidó la segunda entrega académica, incorporando el Sprint 3,
+las entrevistas de validación, la evaluación heurística y la actualización del Student Outcome.
+<img src="./Resources/caratula/collaboration_insights_av2.png">
+Figura 3: Gráfico de contribuciones del repositorio del informe del proyecto para AV2, mostrando
+la actividad de colaboración de todos los miembros del equipo durante el periodo 28/05/2026 al 19/06/2026.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **24 commits**
+para el informe del proyecto en esta etapa. El desguste de los aportes por cada integrante del equipo es el siguiente:
+
+- **Eduardo Aguirre Ramos:** 11 commits
+- **Jesús Castillo Vidal:** 5 commits
+- **Sebastian Aiquipa Poma:** 4 commits
+- **Andy Pillaca Gonzales:** 4 commits
+
+Esta distribución evidencia el esfuerzo colaborativo del equipo en la elaboración de la documentación
+correspondiente a la validación del producto y cierre de la segunda entrega académica.
 
 <div style="page-break-after: always;"></div>
 
