@@ -81,7 +81,7 @@
 
 Para la gestión del código fuente del proyecto, el equipo utiliza la plataforma GitHub como sistema de control de versiones. A continuación, se detallan los repositorios correspondientes a cada componente del sistema:
 
-Landing Page: [Link Landing Page](https://startup-x-upc.github.io/landing-page/)
+Landing Page: [https://startup-x-upc.github.io/landing-page/](https://startup-x-upc.github.io/landing-page/)
 
 <!-- Web Services: [Link Web Services](https://github.com/tu-org/backend-services)
 Frontend Web Application: [Link Frontend Web](https://github.com/tu-org/frontend-app) -->
@@ -252,7 +252,7 @@ La Landing Page se implementa empleando HTML, CSS y JavaScript. El proyecto se a
 **Publicación**
 GitHub genera automáticamente una URL pública:
 
-`https://<usuario>.github.io/<repositorio>/`
+`https://startup-x-upc.github.io/landing-page/`
 
 **Actualizaciones**  
 Cada commit en la rama `main` se despliega automáticamente.
@@ -270,9 +270,13 @@ Esto genera archivos optimizados en la carpeta `/dist`.
 
 **Despliegue**
 
-- Se utiliza una plataforma como **Netlify** o **Vercel**.
+- Se utiliza una plataforma como **Netlify** , **Vercel** o **Firebase**.
 - Se sube la carpeta /dist.
 - Se configura soporte para SPA (Single Page Application).
+
+**Publicación:**
+Mediante Firebase se hizo público el despliegue:
+`https://chapaturuta-e7d2e.web.app/login`
 
 ---
 
@@ -291,6 +295,10 @@ El backend se empaqueta en un archivo .jar:
 `java -jar app.jar`
 
 - Se configuran variables de entorno (puerto, base de datos, API keys).
+
+**Publicación:**
+Mediante Railway se hizo público el despliegue:
+`https://startup-x-upc.github.io/landing-page/`
 
 ---
 
@@ -422,7 +430,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 <img src="./Resources/sprint_1/sprint1_trello.png">
 
-<a href="https://trello.com/b/uGr6OQCE/sprint-1">Sprint 1 Trello</a>
+Sprint 1 Trello: [https://trello.com/b/uGr6OQCE/sprint-1](https://trello.com/b/uGr6OQCE/sprint-1)
 
 <table>
   <thead>
@@ -735,7 +743,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 <img src="./Resources/sprint_2/sprint2_trello.png">
 
-<a href="https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2">Sprint 2 Trello</a>
+Sprint 2 Trello:[https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2](https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2)
 
 # Sprint 2 User Stories & Tasks Table
 
@@ -1553,6 +1561,8 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
 #### 5.2.3.3. Sprint Backlog 3
 
 <img src="./Resources/sprint_3/trello3.png">
+
+Sprint 3 Trello: [`https://trello.com/invite/b/6a1394868b238f4d46b9bbaa/ATTI9b87a0125c0203efb3aa3b62dd69e404FD2DF64E/sprint-3`](https://trello.com/invite/b/6a1394868b238f4d46b9bbaa/ATTI9b87a0125c0203efb3aa3b62dd69e404FD2DF64E/sprint-3)
 
 ##### 1. Resumen del Sprint Backlog
 
