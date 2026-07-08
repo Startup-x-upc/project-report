@@ -371,7 +371,7 @@ Mediante Railway se hizo público el despliegue:
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 1. Cada aspecto se relaciona con tareas clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 4. Cada aspecto se relaciona con tareas clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
 
 <table>
   <tbody>
@@ -426,7 +426,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
   </tbody>
 </table>
 
-#### 5.2.1.3. Sprint Backlog 1
+#### 5.2.1.3. Sprint Backlog 4
 
 <img src="./Resources/sprint_1/sprint1_trello.png">
 
@@ -2436,6 +2436,146 @@ Durante este sprint se completó el diseño e implementación completa del front
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <img src="./Resources/sprint_3/collabo.jpeg">
+
+### 5.2.4. Sprint 4 
+### 5.2.4.1. Sprint Planning 4
+<table>
+  <tbody>
+    <tr>
+      <td><b>Sprint #</b></td>
+      <td>Sprint 4</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>2026-07-07</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>19:37 PM (GMT-5)</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Modalidad remota mediante la plataforma Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>Castillo Vidal, Jesus Ivan / Torres Sanchez, Dalila Victoria / Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl / Delgado Perez, James Caleb / Aiquipa Poma, Sebastian Andres</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Review Summary</b></td>
+      <td>Durante el Sprint 3 se logró implementar la mayoria de las funcionalidades del sistema ChapaTuRuta, desarrollando las secciones faltantes con respecto al avance anterior, corrigiendo videos, agregando más detalle a las historias de usuarios faltantes. El equipo cumplió con todas las tareas establecidas siguiendo los patrones DDD y hexagonal.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Retrospective Summary</b></td>
+      <td>Durante el Sprint 3, el equipo logró avanzar de forma efectiva en el desarrollo del backend. Hubo contratiempos al momento de la entrega pero fue manejable. Como mejora para el siguiente sprint, se identifico correcciones al documento propio sobre links y ademas de agregar ciertas partes del desactualizadas del documento.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 4 Goal</b></td>
+      <td><b>Nuestro propósito es</b> tener la conexión forntend con backend al 100% y su correcto despligue para su posible presentación al público. <b>Creemos que esto aportará</b> un gran cambio a las personas que utilizan el producto satisfaciendo las necesidades del público objetivo. <b>Esto se confirmará cuando</b> obtengamos un mejor alcance y podamos identificar su alto uso.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 4 Velocity</b></td>
+      <td> 35 puntos</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td> 35 puntos</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 4. Cada aspecto se relaciona con tareas clave del sprint, asignando un líder (L) responsable principal y colaboradores (C) que apoyan en su ejecución.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th> Real-Time & Geolocation Aspect (L/C)</th>
+      <th> Transaction & Payment Aspect (L/C)</th>
+      <th> Service Status & State Aspect (L/C)</th>
+      <th> Route Logic & Map Aspect (L/C)</th>
+      <th> User Experience & Flow Aspect (L/C)</th>
+    </tr>
+    <tr>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Jcdev04</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>DalilaTorres</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>TheEngineEdu</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>apillacag</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>S-aiquipa</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.3. Sprint Backlog 4
+La gestión de tareas, asignación de user stories y control de incidencias del Sprint 4 se administró de manera digital.
+
+* **Tablero de Gestión del Proyecto:** [GitHub Projects - ChapaTuRuta Sprint 4](https://github.com/orgs/TheEngineEdu/projects/4)
+* **URL en crudo:** `https://github.com/orgs/TheEngineEdu/projects/4`
+
+### 5.2.4.4. Development Evidence for Sprint Review
+*Capturas de pantalla de los Pull Requests (PRs) aprobados y mergeados en la rama `main` o `develop`, evidenciando el uso de Conventional Commits.*
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+*Screenshots o secuencia del flujo del sistema corriendo en producción (registro, login, funcionalidad principal de la ruta).*
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+*Capturas del contrato de servicios de la API (Swagger UI / Postman Documenter) completamente funcional en el entorno de despliegue.*
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+*Pruebas visuales del panel de control del hosting (Vercel, Render, AWS u Oracle Cloud) que demuestren que los despliegues automáticos (CI/CD) están activos y en "Healthy/Success".*
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+Métricas finales que resumen la dinámica, commits, participación y distribución de carga de trabajo del equipo a lo largo del Sprint 4.
 
 ## 5.3. Validation Interviews
 
