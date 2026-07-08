@@ -2559,6 +2559,8 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
 #### 5.2.4.3. Sprint Backlog 4
 <img src="./Resources/sprint_4/sprint_back.png">
 
+[`https://trello.com/invite/b/6a4d6842122750d954f1f02d/ATTIc16bff5708ecd22e091f5e8d715f49848F26E59F/sprint-4`](https://trello.com/invite/b/6a4d6842122750d954f1f02d/ATTIc16bff5708ecd22e091f5e8d715f49848F26E59F/sprint-4)
+
 <table>
   <thead>
     <tr>
