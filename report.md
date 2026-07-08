@@ -1,57 +1,91 @@
-﻿![alt text](Resources/caratula/Banner-UPC.png)
+﻿<div align="center">
 
-<div align= "center">
+![Banner UPC](Resources/caratula/logo-upc.png)
 
-<h1 style="text-align: center;">Universidad Peruana de Ciencias Aplicada</h1><br>
+# Universidad Peruana de Ciencias Aplicadas
 
-<h3 style="text-align: center; font-weight: normal; font-size: 22px; margin-top: 0;">
-  Ingeniería de Software – 202610
-</h3><br><br>
+## Carrera de Ingeniería de Software
 
-<p align="center"><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
+**1ASI0729**
 
- <p align="center"><strong>NRC:</strong> 10155</p>
+**Desarrollo de Aplicaciones Open Source**
 
- <p align="center"><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
+NRC
 
-  <p align="center"><strong>StartUp:</strong> CTR Technologies</p>
+**10155**
 
-  <p align="center"><strong>Producto:</strong> Chapa Tu Ruta</p><br><br>
+**Informe del Trabajo Final**
 
-<h2 style="text-align: center; font-size: 24px; margin-top: 30px;">
-  <strong>Informe de Trabajo Final</strong>
-</h2>
+Docente
 
-| Código | Integrantes |
+**Mori Paiva, Hugo Allan**
+
+Equipo
+
+**CTR Technologies**
+
+Proyecto
+
+**Chapa Tu Ruta**
+
+**Integrantes**
+
+| **Código** | **Apellidos y Nombres** |
 | --- | --- |
-| U202322952 | Castillo Vidal, Jesus Ivan |
+| U202322952 | Castillo Vidal, Jesús Ivan |
 | U20221F734 | Torres Sanchez, Dalila Victoria |
 | U20241A911 | Aguirre Ramos, Eduardo Manuel |
 | U202418823 | Pillaca Gonzales, Andy Saúl |
-| u201916755 | Aiquipa Poma, Sebastian Andres |
-<br><br>
-<div align="center"> Junio 2026 </div>
-</div>
+| U201916755 | Aiquipa Poma, Sebastian Andres |
 
+**Período 202610**
+
+**Julio 2026**
+
+</div>
 <div style="page-break-after: always;"></div>
 
 ## **Registro de versiones del Informe**
 
-| Version | Fecha      | Autor                                                       | Descripción de modificación                                            |
-| ------- | ---------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1.0     | 01/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 1.1 Startup Profile y perfiles del equipo               |
-| 1.1     | 03/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 1.2 Antecedentes y Problemática (5W's y 2H's)           |
-| 1.2     | 05/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 1.3 Lean UX Process (Hypothesis Statements y Canvas)    |
-| 1.3     | 07/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 2.1 Competidores y análisis competitivo                 |
-| 1.4     | 09/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 2.2 Registro de entrevistas por segmento objetivo       |
-| 1.5     | 11/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 2.3 Needfinding: User Personas y User Journey Maps      |
-| 1.6     | 14/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 3.1 To-Be Scenario Map e Impact Map                     |
-| 1.7     | 16/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 3.2 User Stories y Product Backlog                      |
-| 1.8     | 18/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 4.1 Style Guidelines (General y Web)                    |
-| 1.9     | 20/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 4.2 Information Architecture y Navigation Systems       |
-| 1.10    | 21/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 4.6 Domain-Driven Software Architecture (C4 Model)      |
-| 1.11    | 22/04/2026 | Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl | Agregó sección 4.4 Wireframes de aplicación móvil                      |
-| 1.12    | 23/04/2026 | Castillo Vidal, Jesus Ivan / Aguirre Ramos, Eduardo Manuel  | Agregó sección 5.1 Software Configuration Management y Student Outcome |
+| Version | Fecha      | Autor                                                       | Descripción de modificación                                                                      |
+| ------- | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1.0     | 01/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 1.1 Startup Profile y perfiles del equipo                                         |
+| 1.1     | 03/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 1.2 Antecedentes y Problemática (5W's y 2H's)                                    |
+| 1.2     | 05/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 1.3 Lean UX Process (Hypothesis Statements y Canvas)                              |
+| 1.3     | 07/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 2.1 Competidores y análisis competitivo                                           |
+| 1.4     | 09/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 2.2 Registro de entrevistas por segmento objetivo                                 |
+| 1.5     | 11/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 2.3 Needfinding: User Personas y User Journey Maps                                |
+| 1.6     | 14/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó sección 3.1 To-Be Scenario Map e Impact Map                                               |
+| 1.7     | 16/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 3.2 User Stories y Product Backlog                                                |
+| 1.8     | 18/04/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección 4.1 Style Guidelines (General y Web)                                              |
+| 1.9     | 20/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó sección 4.2 Information Architecture y Navigation Systems                                 |
+| 1.10    | 21/04/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección 4.6 Domain-Driven Software Architecture (C4 Model)                                |
+| 1.11    | 22/04/2026 | Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl | Agregó sección 4.4 Wireframes de aplicación móvil                                                |
+| 1.12    | 23/04/2026 | Castillo Vidal, Jesus Ivan / Aguirre Ramos, Eduardo Manuel  | Agregó sección 5.1 Software Configuration Management y Student Outcome                           |
+| 1.13    | 23/04/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó wireframes de aplicación web y registro de versiones a Capítulo 4                         |
+| 1.14    | 23/04/2026 | Torres Sanchez, Dalila Victoria                             | Agregó conclusiones parciales del proyecto                                                       |
+| 1.15    | 23/04/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó evidencia de desarrollo, mockups y assets del Sprint 1 a Capítulo 5                       |
+| 1.16    | 05/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó sección Sprint 2 y sus características a Capítulo 5                                       |
+| 1.17    | 06/05/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó Wireflow Diagrams y sección Mobile Web Browser a Capítulo 4                               |
+| 1.18    | 07/05/2026 | Aiquipa Poma, Sebastian Andres                              | Refactorizó User Stories con criterios de aceptación en Gherkin en Capítulo 3                    |
+| 1.19    | 09/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Application User Flow Diagrams a Capítulo 4                                               |
+| 1.20    | 12/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Sprint Planning 2, Sprint Backlog 2 y evidencias de ejecución a Capítulo 5                |
+| 1.21    | 12/05/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó Student Outcome TB1 y configuración de IDE y MySQL en sección 5.1.1                       |
+| 1.22    | 12/05/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó descripción de participación en TB1 al README                                             |
+| 1.23    | 20/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó títulos y plantilla de Sprint Planning 3 a Capítulo 5                                     |
+| 1.24    | 24/05/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Student Outcome de Eduardo Aguirre al README                                              |
+| 1.25    | 25/05/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó sección de conclusiones del informe                                                    |
+| 1.26    | 27/05/2026 | Castillo Vidal, Jesus Ivan                                  | Agregó diagramas de clases y mockups de UI de la aplicación web a Capítulo 4                     |
+| 1.27    | 27/05/2026 | Torres Sanchez, Dalila Victoria                             | Agregó Student Outcome TB1 al README                                                             |
+| 1.28    | 15/06/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó sección 5.3 Validation Interviews a Capítulo 5                                            |
+| 1.29    | 16/06/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Sprint Planning 3 a Capítulo 5                                                            |
+| 1.30    | 17/06/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó README para entrega AV2                                                                |
+| 1.31    | 17/06/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó Sprint Backlog 3 y documentación de servicios del Sprint 3 a Capítulo 5                   |
+| 1.32    | 19/06/2026 | Pillaca Gonzales, Andy Saúl                                 | Agregó sección "About the Product" y registro de entrevista de validación conductor              |
+| 1.33    | 19/06/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó evaluación heurística (5.3.3) y segunda entrevista de validación a Capítulo 5             |
+| 1.34    | 19/06/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó evidencia de desarrollo, despliegue y team collaboration del Sprint 3 a Capítulo 5        |
+| 1.35    | 19/06/2026 | Castillo Vidal, Jesus Ivan                                  | Actualizó conclusiones, estructura del README y tabla de contenidos para entrega AV2             |
+| 1.36    | 04/07/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó Student Outcome versión final en README                                                |
 
 <div style="page-break-after: always;"></div>
 
@@ -80,6 +114,47 @@ En base al historial del repositorio y la gráfica mostrada, se registran un tot
 - **James Delgado Perez:** 6 commits
 
 Esta distribución evidencia un esfuerzo colaborativo y la participación activa de todos los integrantes en la elaboración y redacción de la documentación del proyecto.
+
+## TB1
+Durante esta fase, el equipo incorporó los avances correspondientes al primer entregable parcial,
+incluyendo diagramas, wireflows, sprint 2 y mejoras al informe base.
+<img src="./Resources/caratula/collaboration_insights_tb1.png">
+Figura 2: Gráfico de contribuciones del repositorio del informe del proyecto para TB1, mostrando
+la actividad de colaboración de todos los miembros del equipo durante el periodo 24/04/2026 al 27/05/2026.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **30 commits**
+para el informe del proyecto en esta etapa. El desglose de los aportes por cada integrante del equipo es el siguiente:
+
+- **Eduardo Aguirre Ramos:** 18 commits
+- **Andy Pillaca Gonzales:** 5 commits
+- **Sebastian Aiquipa Poma:** 3 commits
+- **Jesús Castillo Vidal:** 3 commits
+- **Dalila Torres Sanchez:** 1 commit
+
+Esta distribución evidencia la participación activa de todos los integrantes en la elaboración
+y redacción de la documentación del proyecto durante esta etapa.
+
+---
+
+## AV2
+Durante esta fase, el equipo consolidó la segunda entrega académica, incorporando el Sprint 3,
+las entrevistas de validación, la evaluación heurística y la actualización del Student Outcome.
+<img src="./Resources/caratula/collaboration_insights_av2.png">
+Figura 3: Gráfico de contribuciones del repositorio del informe del proyecto para AV2, mostrando
+la actividad de colaboración de todos los miembros del equipo durante el periodo 28/05/2026 al 19/06/2026.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **24 commits**
+para el informe del proyecto en esta etapa. El desguste de los aportes por cada integrante del equipo es el siguiente:
+
+- **Eduardo Aguirre Ramos:** 11 commits
+- **Jesús Castillo Vidal:** 5 commits
+- **Sebastian Aiquipa Poma:** 4 commits
+- **Andy Pillaca Gonzales:** 4 commits
+
+Esta distribución evidencia el esfuerzo colaborativo del equipo en la elaboración de la documentación
+correspondiente a la validación del producto y cierre de la segunda entrega académica.
 
 <div style="page-break-after: always;"></div>
 
@@ -212,9 +287,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3
 
 | Criterio Específico | Acciones realizadas | Conclusiones |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Aguirre Ramos, Eduardo Manuel**<br> **AV1:** Tome el papel de lider del grupo. Realize los Lean Ux Problem Statements y Analisis Competitivo. Desarrolle los web applications wireframes and prototyping. Ademas de colaborar en las user stories.Mediante el video de la elaboración del AV1 se pudo apreciar el primer avance del proyecto implementando todas las tecnologías y el landing page hecho hasta ese momento<br>**TB1:** En la sustentación oral del TB1, comuniqué con precisión el progreso técnico del proyecto explicando las competencias, tecnologias y los problemas que tuvo nuestro proyecto hasta esta entrega. Mantuve una tono fluido y profesional de acuerdo al proyecto presentado, utilizando la terminología exacta de la arquitectura orientada a servicios, asegurando que la complejidad técnica del sistema fuera comprensible tanto para usted como para mis compañeros.<br>**AV2:** Sustenté la planificación del Sprint 3 y la demo técnica de la integración de las interfaces de registro para pasajeros y conductores, explicando detalladamente los mecanismos de validación de formularios y la persistencia de estados de sesión ante el docente y compañeros.<br>**Pillaca Gonzales, Andy Saúl**<br> **AV1:** Definio las estrategias y tacticas frente a competidores. Definio los User persona. Desarrollo los web applications mock-ups <br> **TB1:** Encargado de desarrollar el Domain y las Entities correspondientes a los cinco Bounded Contexts definidos en la arquitectura basada en Domain-Driven Design. Asimismo, elaboró los Wireflows del sistema en formato Markdown, representando la navegación y flujo de interacción entre las principales funcionalidades de la aplicación. <br>**AV2:** Participé en la actualización de las conclusiones del informe considerando la retroalimentación brindada por el docente durante la evaluación del TB1, sustentando las mejoras realizadas y la justificación de los cambios efectuados. Asimismo, apoyé en el desarrollo y explicación de los bounded contexts IAM (Identity and Access Management) y Shared, comunicando la estructura y responsabilidades de cada contexto dentro de la arquitectura basada en Domain-Driven Design. Adicionalmente, colaboré en el proceso de internacionalización de la Landing Page y en la elaboración del video "About the Product", contribuyendo a la presentación clara de las funcionalidades y propuesta de valor del sistema para diferentes audiencias.<br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** Desarrollo los user stories, impact mapping, product mapping y product backlog. Definio y elaboro el design-level event storming. Finalmente el software object-oriented design<br>**TB1:** Sustenté oralmente la implementación del frontend de la aplicación web y su integración y conexión con la Fake API (json-server), explicando con claridad el flujo de datos y cómo se mapeaban los endpoints de la API con los servicios del frontend, asegurando que la demo interactiva fuera comprensible.<br>**AV2:** Coordiné con el equipo para designar las tareas del desarrollo de frontend y backend, y sustenté oralmente la planificación y el estado del proyecto en este aspecto.<br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** Investigo los antecedentes y problematica. Definio el user journey mapping. Modelo el landing page wireframe y web applications wireframes <br>**TB1:** Se enfocó en realizar las correcciones de los links en el project report y el avance de la capa presentación. y se aseguró de que su explicación oral fuera clara y comprensible<br>**AV2:** Sustenté la demo técnica del diseño e integración de la interfaz de edición de perfil de usuario y la configuración de rutas hijas correspondientes a los layouts de pasajero y conductor ante el docente y compañeros.<br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:** Analisis de entrevistas, style guidelines el Domain-Driven software Arquitecture y el Database Design<br>**TB1:** Explico la estructura de la arquitectura basada en Domain-Driven Design aplicada al proyecto, presentando la organizacion de la capa Application en los cinco Bounded Contexts. Ademas, sustento las correcciones realizadas en las User Stories y Technical Stories.<br>**AV2:** Sustentó el bounded context de Monetización desarrollado completamente bajo arquitectura Domain-Driven Design, explicando las decisiones técnicas tomadas en cada capa (domain, application, infrastructure e interfaces) ante el docente y compañeros. Asimismo, expuso el diseño de las entrevistas de validación definidas para la sección 5.3.1 del informe, comunicando de forma clara la metodología, los user flows y las preguntas estructuradas para cada segmento objetivo. | **AV1** Durante la entrega AV1, el equipo expuso el perfil del startup y la problemática identificada en zonas periféricas de Lima ante el docente y compañeros de clase, adaptando el discurso a una audiencia técnica universitaria.<br><br>La presentación de los resultados del proceso Lean UX permitió al equipo ejercitar la comunicación oral de ideas abstractas de diseño de forma estructurada y comprensible.<br><br>El equipo demostró capacidad para comunicar oralmente los hallazgos de entrevistas con usuarios (mototaxistas y pasajeros), sintetizando información cualitativa ante una audiencia no familiarizada con el dominio del problema. <br> **TB1** Durante la entrega TB1, el equipo presentó el inicio del desarrollo frontend del proyecto y la planificación técnica correspondiente al Sprint 2 ante el docente y compañeros de clase, explicando la organización de bounded contexts y las User Stories priorizadas para la iteración. La exposición de la arquitectura basada en Domain-Driven Design permitió al equipo comunicar de forma estructurada la relación entre requerimientos funcionales, componentes del sistema y responsabilidades técnicas dentro del proyecto. Asimismo, la sustentación de las decisiones de diseño y organización del backlog permitió transmitir conceptos técnicos de desarrollo de software de manera clara y comprensible <br><br>**AV2** Durante la entrega final (AV2), el equipo presentó la integración completa del frontend y backend, sustentando la persistencia de datos, el flujo de solicitud de viajes en tiempo real y la gestión de perfiles ante el docente y la clase. La exposición demostró la capacidad del equipo para explicar la arquitectura de software basada en DDD y resolver dudas técnicas de manera elocuente y estructurada. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Aguirre Ramos, Eduardo Manuel**<br>**AV1:** Actue como lider del grupo para este proyecto. Realize y redacte explicitamente las herramientas de Lean Ux Problem Statements y Analisis Competitivo.Ademas de contribuir en la creación de los web applications wireframes and prototyping.<br>**TB1:** Aseguré una comunicación escrita efectiva en el informe del TB1 mediante la documentación detallada del proceso de ingeniería seguido para el desarrollo de esta etapa desarrollando el Sprint Planning 2 y Sprint Backlog 2. Asimismo, redacté un análisis retrospectivo basado en los resultados del AV1, especificando las acciones correctivas aplicadas para subsanar errores previos y detallando las propuestas de mejora continua implementadas tanto en la estructura del informe técnico como en el funcionamiento y arquitectura de la aplicación web.<br>**AV2:** Redacté la documentación correspondiente al Sprint Planning 3 y la actualización de los diagramas de componentes (C4 Model) del sistema. Además, documenté detalladamente la implementación técnica de los formularios de registro (pasajero y conductor) y la lógica de cierre de sesión, especificando las validaciones y el manejo de almacenamiento local.<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:** Definio las estrategias y tacticas frente a competidores. Definio los User persona. Desarrollo los web applications mock-ups <br>**TB1:** Documentó la estructura del Domain y las Entities dentro de la arquitectura del sistema aplicando principios de Domain-Driven Design. Asimismo, elaboró los Wireflows en formato Markdown, permitiendo representar de manera clara y organizada la navegación e interacción de los usuarios con las funcionalidades principales de la aplicación. <br>**AV2:** Actualizó las conclusiones del informe incorporando las observaciones y recomendaciones realizadas por el docente en la retroalimentación del TB1, mejorando la coherencia y calidad del documento. Asimismo, documentó aspectos relacionados con los bounded contexts IAM y Shared dentro de la arquitectura Domain-Driven Design, describiendo sus componentes y responsabilidades. También participó en la internacionalización de la Landing Page, adaptando los contenidos para distintos idiomas, y colaboró en la elaboración del guion y contenido del video "About the Product", asegurando una comunicación escrita clara y orientada tanto a audiencias técnicas como no técnicas.<br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** Desarrollo los user stories, impact mapping, product mapping y product backlog. Definio y elaboro el design-level event storming. Finalmente el software object-oriented design <br>**TB1:** Documenté la integración y conexión del frontend de la aplicación web con la Fake API (json-server), detallando la configuración de los servicios mock, los endpoints consumidos y la simulación del almacenamiento de datos para las pruebas del sistema.<br>**AV2:** Documenté la planificación, asignación y coordinación de tareas con el equipo para iniciar y realizar mejoras en el frontend y backend del producto.<br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** Investigo los antecedentes y problematica. Definio el user journey mapping. Modelo el landing page wireframe y web applications wireframes<br>**TB1:** En la corrección de la entrega anterior, orientó el reporte escrito a corregir los links para que quedara bien estructurado y comprensible.<br>**AV2:** Redacté la documentación correspondiente al Sprint 3 y la sección de gestión de perfiles (US-04), detallando la creación de los componentes y formularios de edición de perfil, así como la integración de los servicios REST correspondientes.<br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:** Analisis de entrevistas, style guidelines el Domain-Driven software Arquitecture y el Database Design<br>**TB1:** Se Corrigio la nomenclatura y estructura de las User Stories y Technical Stories del Product Backlog, alineandolas con el formato Gherkin y asegurando consistencia en criterios de aceptacion e identificadores. Asimismo, Se documento la capa Application de los cinco Bounded Contexts aplicando Domain-Driven Design, definiendo casos de uso, comandos, queries y servicios de aplicacion dentro de la arquitectura del sistema.<br>**AV2:** Implementó y documentó el bounded context de Monetización en su totalidad, abarcando las cuatro capas de la arquitectura Domain-Driven Design: domain (agregados, entidades, comandos, queries y repositorios), application (command y query handlers), infrastructure (persistencia JPA y repositorios) e interfaces (REST controllers y recursos). Asimismo, redactó la sección 5.3.1 Diseño de Entrevistas de Validación en el informe del proyecto, definiendo objetivo, metodología, user flows y preguntas estructuradas para los segmentos de pasajeros y conductores. | **AV1** En la entrega AV1, el equipo redactó el Capítulo 1 del informe, documentando antecedentes, problemática y el proceso Lean UX con un lenguaje técnico apropiado para lectores con formación en ingeniería de software.<br><br>La elaboración de User Personas, User Journey Maps y el Impact Map implicó comunicar por escrito necesidades y comportamientos de usuarios reales, dirigiéndose simultáneamente a una audiencia técnica y a partes interesadas no técnicas.<br><br>El uso de GitHub con commits convencionales y pull requests estructurados evidencia la capacidad del equipo de comunicar cambios y decisiones de desarrollo de forma escrita, clara y trazable. <br> **TB1** En la entrega TB1, el equipo documentó el inicio del desarrollo frontend, la definición de bounded contexts y la planificación de User Stories y Technical Stories correspondientes al Sprint 2, utilizando una estructura alineada con prácticas ágiles y Domain-Driven Design. La estandarización de User Stories bajo el formato Connextra y de criterios de aceptación mediante sintaxis Gherkin permitió mejorar la claridad y trazabilidad de los requerimientos funcionales del sistema. Asimismo, la documentación de la arquitectura y de los componentes de aplicación permitió comunicar de manera organizada las decisiones técnicas del proyecto hacia una audiencia académica y de ingeniería de software. <br><br>**AV2** En la entrega final (AV2), el equipo consolidó el informe final integrando los reportes de desarrollo de los tres Sprints de manera coherente y estructurada. La documentación técnica incluyó guías de despliegue, mapeo de APIs, y justificación de decisiones arquitectónicas, dirigiéndose con efectividad tanto a una audiencia académica y técnica como a desarrolladores de software que continúen el proyecto. |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Aguirre Ramos, Eduardo Manuel**<br> **AV1:** Tome el papel de lider del grupo. Realize los Lean Ux Problem Statements y Analisis Competitivo. Desarrolle los web applications wireframes and prototyping. Ademas de colaborar en las user stories.Mediante el video de la elaboración del AV1 se pudo apreciar el primer avance del proyecto implementando todas las tecnologías y el landing page hecho hasta ese momento<br>**TB1:** En la sustentación oral del TB1, comuniqué con precisión el progreso técnico del proyecto explicando las competencias, tecnologias y los problemas que tuvo nuestro proyecto hasta esta entrega. Mantuve una tono fluido y profesional de acuerdo al proyecto presentado, utilizando la terminología exacta de la arquitectura orientada a servicios, asegurando que la complejidad técnica del sistema fuera comprensible tanto para usted como para mis compañeros.<br>**AV2:** Sustenté la planificación del Sprint 3 y la demo técnica de la integración de las interfaces de registro para pasajeros y conductores, explicando detalladamente los mecanismos de validación de formularios y la persistencia de estados de sesión ante el docente y compañeros.<br>**Pillaca Gonzales, Andy Saúl**<br> **AV1:** Definio las estrategias y tacticas frente a competidores. Definio los User persona. Desarrollo los web applications mock-ups <br> **TB1:** Encargado de desarrollar el Domain y las Entities correspondientes a los cinco Bounded Contexts definidos en la arquitectura basada en Domain-Driven Design. Asimismo, elaboró los Wireflows del sistema en formato Markdown, representando la navegación y flujo de interacción entre las principales funcionalidades de la aplicación. <br>**AV2:** Participé en la actualización de las conclusiones del informe considerando la retroalimentación brindada por el docente durante la evaluación del TB1, sustentando las mejoras realizadas y la justificación de los cambios efectuados. Asimismo, apoyé en el desarrollo y explicación de los bounded contexts IAM (Identity and Access Management) y Shared, comunicando la estructura y responsabilidades de cada contexto dentro de la arquitectura basada en Domain-Driven Design. Adicionalmente, colaboré en el proceso de internacionalización de la Landing Page y en la elaboración del video "About the Product", contribuyendo a la presentación clara de las funcionalidades y propuesta de valor del sistema para diferentes audiencias.<br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** Desarrollo los user stories, impact mapping, product mapping y product backlog. Definio y elaboro el design-level event storming. Finalmente el software object-oriented design<br>**TB1:** Sustenté oralmente la implementación del frontend de la aplicación web y su integración y conexión con la Fake API (json-server), explicando con claridad el flujo de datos y cómo se mapeaban los endpoints de la API con los servicios del frontend, asegurando que la demo interactiva fuera comprensible.<br>**AV2:** Coordiné con el equipo para designar las tareas del desarrollo de frontend y backend, y sustenté oralmente la planificación y el estado del proyecto en este aspecto.<br>**TB2:** Sustenté la demo final de la aplicación web, detallando la implementación y funcionamiento de los flujos de cancelación de viaje en tiempo real y la consulta del historial de viajes para pasajeros y conductores ante el docente y compañeros de clase.<br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** Investigo los antecedentes y problematica. Definio el user journey mapping. Modelo el landing page wireframe y web applications wireframes <br>**TB1:** Se enfocó en realizar las correcciones de los links en el project report y el avance de la capa presentación. y se aseguró de que su explicación oral fuera clara y comprensible<br>**AV2:** Participé en la planificación del sprint 3, donde tuve la oportunidad de exponer mis ideas y propuestas frente a mis compañeros.<br>**TB2:** Llevé a cabo una entrevista de validación de la aplicación final con un usuario real, con el objetivo de evaluar su experiencia, identificar posibles puntos de mejora y confirmar que el producto cumplía con sus expectativas. Al mismo tiempo, fui receptiva a sus comentarios, planteando preguntas abiertas para profundizar en sus impresiones y registrando sus sugerencias con precisión. Posteriormente, transmití estos hallazgos al equipo de desarrollo en una reunión interna, resumiendo los puntos clave y traduciendo las necesidades del usuario en acciones concretas para el cierre del proyecto.<br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:** Analisis de entrevistas, style guidelines el Domain-Driven software Arquitecture y el Database Design<br>**TB1:** Explico la estructura de la arquitectura basada en Domain-Driven Design aplicada al proyecto, presentando la organizacion de la capa Application en los cinco Bounded Contexts. Ademas, sustento las correcciones realizadas en las User Stories y Technical Stories.<br>**AV2:** Sustentó el bounded context de Monetización desarrollado completamente bajo arquitectura Domain-Driven Design, explicando las decisiones técnicas tomadas en cada capa (domain, application, infrastructure e interfaces) ante el docente y compañeros. Asimismo, expuso el diseño de las entrevistas de validación definidas para la sección 5.3.1 del informe, comunicando de forma clara la metodología, los user flows y las preguntas estructuradas para cada segmento objetivo. |   **AV1** Durante la entrega AV1, el equipo expuso el perfil del startup y la problemática identificada en zonas periféricas de Lima ante el docente y compañeros de clase, adaptando el discurso a una audiencia técnica universitaria.<br>La presentación de los resultados del proceso Lean UX permitió al equipo ejercitar la comunicación oral de ideas abstractas de diseño de forma estructurada y comprensible.<br>El equipo demostró capacidad para comunicar oralmente los hallazgos de entrevistas con usuarios (mototaxistas y pasajeros), sintetizando información cualitativa ante una audiencia no familiarizada con el dominio del problema. <br><br>**TB1** Durante la entrega TB1, el equipo presentó el inicio del desarrollo frontend del proyecto y la planificación técnica correspondiente al Sprint 2 ante el docente y compañeros de clase, explaining la organización de bounded contexts y las User Stories priorizadas para la iteración. La exposición de la arquitectura basada en Domain-Driven Design permitió al equipo comunicar de forma estructurada la relación entre requerimientos funcionales, componentes del sistema y responsabilidades técnicas dentro del proyecto. Asimismo, la sustentación de las decisiones de diseño y organización del backlog permitió transmitir conceptos técnicos de desarrollo de software de manera clara y comprensible<br><br>**AV2** El equipo consolidó una comunicación oral efectiva al presentar de manera estructurada las demostraciones de integración del sistema y explicar las decisiones técnicas implementadas en el backend con Spring Boot. Además, adaptó sus exposiciones a audiencias con distintos niveles de conocimiento técnico, evidenciando dominio del proyecto y claridad durante las revisiones de cada sprint.<br><br>**TB2** El equipo comunicó el desarrollo y los resultados alcanzados de forma organizada y coherente, justificando las decisiones técnicas adoptadas y presentando el funcionamiento del sistema de manera comprensible tanto para una audiencia técnica como para personas sin conocimientos especializados. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Aguirre Ramos, Eduardo Manuel**<br>**AV1:** Actue como lider del grupo para este proyecto. Realize y redacte explicitamente las herramientas de Lean Ux Problem Statements y Analisis Competitivo.Ademas de contribuir en la creación de los web applications wireframes and prototyping.<br>**TB1:** Aseguré una comunicación escrita efectiva en el informe del TB1 mediante la documentación detallada del proceso de ingeniería seguido para el desarrollo de esta etapa desarrollando el Sprint Planning 2 y Sprint Backlog 2. Asimismo, redacté un análisis retrospectivo basado en los resultados del AV1, especificando las acciones correctivas aplicadas para subsanar errores previos y detallando las propuestas de mejora continua implementadas tanto en la estructura del informe técnico como en el funcionamiento y arquitectura de la aplicación web.<br>**AV2:** Redacté la documentación correspondiente al Sprint Planning 3 y la actualización de los diagramas de componentes (C4 Model) del sistema. Además, documenté detalladamente la implementación técnica de los formularios de registro (pasajero y conductor) y la lógica de cierre de sesión, especificando las validaciones y el manejo de almacenamiento local.<br>**Pillaca Gonzales, Andy Saúl**<br>**AV1:** Definio las estrategias y tacticas frente a competidores. Definio los User persona. Desarrollo los web applications mock-ups <br>**TB1:** Documentó la estructura del Domain y las Entities dentro de la arquitectura del sistema aplicando principios de Domain-Driven Design. Asimismo, elaboró los Wireflows en formato Markdown, permitiendo representar de manera clara y organizada la navegación e interacción de los usuarios con las funcionalidades principales de la aplicación. <br>**AV2:** Actualizó las conclusiones del informe incorporando las observaciones y recomendaciones realizadas por el docente en la retroalimentación del TB1, mejorando la coherencia y calidad del documento. Asimismo, documentó aspectos relacionados con los bounded contexts IAM y Shared dentro de la arquitectura Domain-Driven Design, describiendo sus componentes y responsabilidades. También participó en la internacionalización de la Landing Page, adaptando los contenidos para distintos idiomas, y colaboró en la elaboración del guion y contenido del video "About the Product", asegurando una comunicación escrita clara y orientada tanto a audiencias técnicas como no técnicas.<br>**TB2** Contribuí al cumplimiento de los objetivos del proyecto mediante la implementación e integración de los videos About the Team y About the Product en la Landing Page, dando solución a observaciones identificadas durante la revisión del proyecto y asegurando el cumplimiento de los requisitos establecidos para la entrega final. Asimismo, apoyé en la actualización de la documentación del informe, manteniendo la coherencia entre la implementación desarrollada y las evidencias presentadas. De igual manera, colaboré con el equipo de backend en actividades de integración y validación de funcionalidades, manteniendo una comunicación constante con los demás integrantes para resolver dependencias técnicas y garantizar una entrega organizada y de calidad.<br>**Castillo Vidal, Jesus Ivan**<br>**AV1:** Desarrollo los user stories, impact mapping, product mapping y product backlog. Definio y elaboro el design-level event storming. Finalmente el software object-oriented design <br>**TB1:** Documenté la integración y conexión del frontend de la aplicación web con la Fake API (json-server), detallando la configuración de los servicios mock, los endpoints consumidos y la simulación del almacenamiento de datos para las pruebas del sistema.<br>**AV2:** Documenté la planificación, asignación y coordinación de tareas con el equipo para iniciar y realizar mejoras en el frontend y backend del producto.<br>**TB2:** Documenté la implementación del frontend para las historias de usuario de cancelación de viajes (US-18) e historial de viajes (US-24, US-25). Asimismo, apoyé en la actualización de las conclusiones del informe final, la tabla de contenidos y el README.md para asegurar una entrega de calidad.<br>**Torres Sanchez, Dalila Victoria** <br>**AV1:** Investigo los antecedentes y problematica. Definio el user journey mapping. Modelo el landing page wireframe y web applications wireframes<br>**TB1:** En la corrección de la entrega anterior, orientó el reporte escrito a corregir los links para que quedara bien estructurado y comprensible.<br>**AV2:** Revisé y actualicé la documentación del proyecto, asegurándome de que estuviera clara, completa y accesible.<br>**TB2:** Participé en las tareas de desarrollo del backend, también me aseguré de documentar de manera clara y ordenada los avances realizados.<br>**Aiquipa Poma, Sebastian Andres**<br>**AV1:** Analisis de entrevistas, style guidelines el Domain-Driven software Arquitecture y el Database Design<br>**TB1:** Se Corrigio la nomenclatura y estructura de las User Stories y Technical Stories del Product Backlog, alineandolas con el formato Gherkin y asegurando consistencia en criterios de aceptacion e identificadores. Asimismo, Se documento la capa Application de los cinco Bounded Contexts aplicando Domain-Driven Design, definiendo casos de uso, comandos, queries y servicios de aplicacion dentro de la arquitectura del sistema.<br>**AV2:** Implementó y documentó el bounded context de Monetización en su totalidad, abarcando las cuatro capas de la arquitectura Domain-Driven Design: domain (agregados, entidades, comandos, queries y repositorios), application (command y query handlers), infrastructure (persistencia JPA y repositorios) e interfaces (REST controllers y recursos). Asimismo, redactó la sección 5.3.1 Diseño de Entrevistas de Validación en el informe del proyecto, definiendo objetivo, metodología, user flows y preguntas estructuradas para los segmentos de pasajeros y conductores. | **AV1** En la entrega AV1, el equipo redactó el Capítulo 1 del informe, documentando antecedentes, problemática y el proceso Lean UX con un lenguaje técnico apropiado para lectores con formación en ingeniería de software.<br>La elaboración de User Personas, User Journey Maps y el Impact Map implicó comunicar por escrito necesidades y comportamientos de usuarios reales, dirigiéndose simultáneamente a una audiencia técnica y a partes interesadas no técnicas.<br>El uso de GitHub con commits convencionales y pull requests estructurados evidencia la capacidad del equipo de comunicar cambios y decisiones de desarrollo de forma escrita, clara y trazable. <br><br> **TB1** En la entrega TB1, el equipo documentó el inicio del desarrollo frontend, la definición de bounded contexts y la planificación de User Stories y Technical Stories correspondientes al Sprint 2, utilizando una estructura alineada con prácticas ágiles y Domain-Driven Design. La estandarización de User Stories bajo el formato Connextra y de criterios de aceptación mediante sintaxis Gherkin permitió mejorar la claridad y trazabilidad de los requerimientos funcionales del sistema. Asimismo, la documentación de la arquitectura y de los componentes de aplicación permitió comunicar de manera organizada las decisiones técnicas del proyecto hacia una audiencia académica y de ingeniería de software. <br><br>**AV2** El equipo elabroó un informe técnico claro y bien estructurado, documentando de manera detallada los contratos de la API mediante Swagger y describiendo la configuración del despliegue en la nube. Esta documentación facilitó la comprensión del flujo de información y de la arquitectura distribuida del sistema para usuarios con perfiles tanto técnicos como de negocio.<br><br>**TB2** El equipo preparó una documentación organizada y completa del proyecto, registrando el desarrollo realizado, las decisiones de carácter técnico y los resultados alcanzados. De esta manera, la información quedó presentada de forma comprensible para diferentes tipos de audiencia. |escribiendo la configuración del despliegue en la nube. Esta documentación facilitó la comprensión del flujo de información y de la arquitectura distribuida del sistema para usuarios con perfiles tanto técnicos como de negocio.<br><br>**TB2** El equipo preparó una documentación organizada y completa del proyecto, registrando el desarrollo realizado, las decisiones de carácter técnico y los resultados alcanzados. De esta manera, la información quedó presentada de forma comprensible para diferentes tipos de audiencia. |
+>>>>>>> 698702c507138daba808a23faf4c5b4e4129bd0f
 </div>
 
 
@@ -2278,7 +2353,7 @@ Este bounded context registra los eventos del ciclo de vida de cada viaje y prov
 
 Para la gestión del código fuente del proyecto, el equipo utiliza la plataforma GitHub como sistema de control de versiones. A continuación, se detallan los repositorios correspondientes a cada componente del sistema:
 
-Landing Page: [Link Landing Page](https://startup-x-upc.github.io/landing-page/)
+Landing Page: [https://startup-x-upc.github.io/landing-page/](https://startup-x-upc.github.io/landing-page/)
 
 <!-- Web Services: [Link Web Services](https://github.com/tu-org/backend-services)
 Frontend Web Application: [Link Frontend Web](https://github.com/tu-org/frontend-app) -->
@@ -2449,7 +2524,7 @@ La Landing Page se implementa empleando HTML, CSS y JavaScript. El proyecto se a
 **Publicación**
 GitHub genera automáticamente una URL pública:
 
-`https://<usuario>.github.io/<repositorio>/`
+`https://startup-x-upc.github.io/landing-page/`
 
 **Actualizaciones**  
 Cada commit en la rama `main` se despliega automáticamente.
@@ -2467,9 +2542,13 @@ Esto genera archivos optimizados en la carpeta `/dist`.
 
 **Despliegue**
 
-- Se utiliza una plataforma como **Netlify** o **Vercel**.
+- Se utiliza una plataforma como **Netlify** , **Vercel** o **Firebase**.
 - Se sube la carpeta /dist.
 - Se configura soporte para SPA (Single Page Application).
+
+**Publicación:**
+Mediante Firebase se hizo público el despliegue:
+`https://chapaturuta-e7d2e.web.app/login`
 
 ---
 
@@ -2488,6 +2567,10 @@ El backend se empaqueta en un archivo .jar:
 `java -jar app.jar`
 
 - Se configuran variables de entorno (puerto, base de datos, API keys).
+
+**Publicación:**
+Mediante Railway se hizo público el despliegue:
+`https://startup-x-upc.github.io/landing-page/`
 
 ---
 
@@ -2615,11 +2698,11 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
   </tbody>
 </table>
 
-#### 5.2.1.3. Sprint Backlog 1
+#### 5.2.1.3. Sprint Backlog 4
 
 <img src="./Resources/sprint_1/sprint1_trello.png">
 
-<a href="https://trello.com/b/uGr6OQCE/sprint-1">Sprint 1 Trello</a>
+Sprint 1 Trello: [https://trello.com/b/uGr6OQCE/sprint-1](https://trello.com/b/uGr6OQCE/sprint-1)
 
 <table>
   <thead>
@@ -2932,9 +3015,8 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 <img src="./Resources/sprint_2/sprint2_trello.png">
 
-<a href="https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2">Sprint 2 Trello</a>
+Sprint 2 Trello:[https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2](https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2)
 
-# Sprint 2 User Stories & Tasks Table
 
 <table>
   <thead>
@@ -3750,6 +3832,8 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
 #### 5.2.3.3. Sprint Backlog 3
 
 <img src="./Resources/sprint_3/trello3.png">
+
+Sprint 3 Trello: [`https://trello.com/invite/b/6a1394868b238f4d46b9bbaa/ATTI9b87a0125c0203efb3aa3b62dd69e404FD2DF64E/sprint-3`](https://trello.com/invite/b/6a1394868b238f4d46b9bbaa/ATTI9b87a0125c0203efb3aa3b62dd69e404FD2DF64E/sprint-3)
 
 ##### 1. Resumen del Sprint Backlog
 
@@ -4610,7 +4694,7 @@ Durante este sprint se completó el diseño e implementación completa del front
 
 | Recurso      | Acción implementada   | Método HTTP | URL / Endpoint                                                                                                            | Link de repositorio                                                                          |
 | ------------ | --------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Backend Page | Visualización inicial | GET         | [startup-x-upc.github.io/backendweb-page](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [Startup-x-upc/Backendweb-page](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
+| Backend Page | Visualización inicial | GET         | [https://backend-webapplication-production.up.railway.app/swagger-ui/index.html](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [https://github.com/Startup-x-upc/Backend-WebApplication.git](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -4623,6 +4707,356 @@ Durante este sprint se completó el diseño e implementación completa del front
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <img src="./Resources/sprint_3/collabo.jpeg">
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+<table>
+  <tbody>
+    <tr>
+      <td><b>Sprint #</b></td>
+      <td>Sprint 4</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>2026-07-07</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>19:37 PM (GMT-5)</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Modalidad remota mediante la plataforma Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>Castillo Vidal, Jesus Ivan / Torres Sanchez, Dalila Victoria / Aguirre Ramos, Eduardo Manuel / Pillaca Gonzales, Andy Saúl / Delgado Perez, James Caleb / Aiquipa Poma, Sebastian Andres</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Review Summary</b></td>
+      <td>Durante el Sprint 3 se logró implementar la mayoria de las funcionalidades del sistema ChapaTuRuta, desarrollando las secciones faltantes con respecto al avance anterior, corrigiendo videos, agregando más detalle a las historias de usuarios faltantes. El equipo cumplió con todas las tareas establecidas siguiendo los patrones DDD y hexagonal.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 3 Retrospective Summary</b></td>
+      <td>Durante el Sprint 3, el equipo logró avanzar de forma efectiva en el desarrollo del backend. Hubo contratiempos al momento de la entrega pero fue manejable. Como mejora para el siguiente sprint, se identifico correcciones al documento propio sobre links y ademas de agregar ciertas partes del desactualizadas del documento.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 4 Goal</b></td>
+      <td><b>Nuestro propósito es</b> tener la conexión forntend con backend al 100% y su correcto despligue para su posible presentación al público. <b>Creemos que esto aportará</b> un gran cambio a las personas que utilizan el producto satisfaciendo las necesidades del público objetivo. <b>Esto se confirmará cuando</b> obtengamos un mejor alcance y podamos identificar su eficiencia en nuestra audiencia.</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 4 Velocity</b></td>
+      <td> 35 puntos</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td> 35 puntos</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 4. Cada aspecto se relaciona con tareas clave del sprint, asignando un líder (L) responsable principal y colaboradores (C) que apoyan en su ejecución.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th> Real-Time & Geolocation Aspect (L/C)</th>
+      <th> Transaction & Payment Aspect (L/C)</th>
+      <th> Service Status & State Aspect (L/C)</th>
+      <th> Route Logic & Map Aspect (L/C)</th>
+      <th> User Experience & Flow Aspect (L/C)</th>
+    </tr>
+    <tr>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Jcdev04</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Torres Sanchez, Dalila Victoria</td>
+      <td>DalilaTorres</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>TheEngineEdu</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>apillacag</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>S-aiquipa</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4
+
+| Epic / Bounded Context | User Story ID | User Story Title | Est. (Story Points) | Commit ID Involucrados | Status |
+| :--- | :--- | :--- | :---: | :--- | :--- |
+| **Ride Dispatch Context** | HU-TRN-01 | Solicitud y Asignación de Viajes en Tiempo Real | 8 | `3ccd55f`, `71db601`, `63bba7d` | Completado |
+| **Ride Dispatch Context** | TS-OPS-03 | Difusión de Eventos de Dominio vía Ably WebSockets | 5 | `e9f1e72`, `cd50b6a` | Completado |
+| **IAM & Security Context** | TS-SEC-04 | Configuración de Filtros de Seguridad y Refresh Tokens con JWT | 5 | `6a69f59`, `ba0c8b7`, `44597f9`, `9b68f84` | Completado |
+| **Shared Context** | TS-QA-02 | Intercepción Global de Excepciones y Formateo RFC 7807 | 3 | `3321948`, `20b0f9f`, `e6398c5` | Completado |
+| **Monetization Context** | TS-QA-05 | Documentación Estricta de Clases de Dominio y Javadoc Completo | 2 | `a2ef9a0`, `0d8d59f`, `cb26e22` | Completado |
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Author | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------ | ------------------ |
+| Startup-x-upc/Backend-WebApplication | master | 234d414 | docs: update COMMITS.md and fix script encoding for special characters | Se actualizó la documentación: docs: update COMMITS.md and fix script encoding for special characters | Jesús Castillo Vidal | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | fcae21f | merge: merge develop into master | Se integraron los cambios de la rama: merge: merge develop into master | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ff917d1 | docs: document parameterized constructor in wallet | Se actualizó la documentación: docs: document parameterized constructor in wallet | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cb26e22 | docs: document default constructor in wallet | Se actualizó la documentación: docs: document default constructor in wallet | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4ec8165 | docs: add class-level javadoc to wallet aggregate | Se actualizó la documentación: docs: add class-level javadoc to wallet aggregate | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3a2c46e | docs: document calculatecommission method in farepolicy | Se actualizó la documentación: docs: document calculatecommission method in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 55441f8 | docs: document calculate method in farepolicy | Se actualizó la documentación: docs: document calculate method in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f92919a | docs: document configure method in farepolicy | Se actualizó la documentación: docs: document configure method in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b3bc3f8 | docs: document parameterized constructor in farepolicy | Se actualizó la documentación: docs: document parameterized constructor in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0d8d59f | docs: add javadoc comments to farepolicy constructor and methods | Se actualizó la documentación: docs: add javadoc comments to farepolicy constructor and methods | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a2ef9a0 | docs: add javadoc comments to farepolicy aggregate root | Se actualizó la documentación: docs: add javadoc comments to farepolicy aggregate root | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0340f7f | docs: add javadoc comments to monetizationcontextfacadeimpl | Se actualizó la documentación: docs: add javadoc comments to monetizationcontextfacadeimpl | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2e6bbf9 | fix:Solving Applications Errors | Se corrigió el error: fix:Solving Applications Errors | TheEngineEdu | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b4adc0b | fix:Solving problem with cancelled ride | Se corrigió el error: fix:Solving problem with cancelled ride | TheEngineEdu | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6a69f59 | feat:Added SecurityConfig | Se implementó la funcionalidad: feat:Added SecurityConfig | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 44597f9 | feat:Added refreshTokenRepository | Se implementó la funcionalidad: feat:Added refreshTokenRepository | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5c2c8c7 | feat:Added refreshToken | Se implementó la funcionalidad: feat:Added refreshToken | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9b68f84 | fix: Find and resolve issues in JwtService | Se corrigió el error: fix: Find and resolve issues in JwtService | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ba0c8b7 | feat:Added JwtAthentication | Se implementó la funcionalidad: feat:Added JwtAthentication | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 20b0f9f | modify and improve handleIllegalArgumentException | Se actualizó el repositorio: modify and improve handleIllegalArgumentException | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3321948 | fix problems in GlobalExceptionHandler | Se actualizó el repositorio: fix problems in GlobalExceptionHandler | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5dbdef0 | add comments for documentation | Se actualizó el repositorio: add comments for documentation | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ab7f574 | fix module in GlobalExceptionHandler | Se actualizó el repositorio: fix module in GlobalExceptionHandler | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 402c665 | add resolveMessageorDefault | Se actualizó el repositorio: add resolveMessageorDefault | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b5e173c | remove and ignore innecesary module | Se actualizó el repositorio: remove and ignore innecesary module | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e6398c5 | add toLocalizedMessageWithFallback in ErrorResponseAssembler | Se actualizó el repositorio: add toLocalizedMessageWithFallback in ErrorResponseAssembler | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7a8032d | remove an innecesary module | Se actualizó el repositorio: remove an innecesary module | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0d796b0 | add new comments | Se actualizó el repositorio: add new comments | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1f2ab13 | remove unnecessary comments | Se actualizó el repositorio: remove unnecessary comments | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b16d541 | Merge branch 'master' of https://github.com/Startup-x-upc/Backend-WebApplication | Se integraron los cambios de la rama: Merge branch 'master' of https://github.com/Startup-x-upc/Backend-WebApplication | Jesús Castillo Vidal | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d80596f | feat: audit driver restrictions, add real-time disabled notification, and update OpenAPI server URL | Se implementó la funcionalidad: feat: audit driver restrictions, add real-time disabled notification, and update OpenAPI server URL | Jesús Castillo Vidal | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e649379 | Merge pull request #7 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #7 from Startup-x-upc/develop | Jesus Ivan Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5d2686f | Merge branch 'feature/ride-dispatch' into develop | Se integraron los cambios de la rama: Merge branch 'feature/ride-dispatch' into develop | Jesús Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cd50b6a | feat: broadcast request lifecycle and reputation events via Ably | Se implementó la funcionalidad: feat: broadcast request lifecycle and reputation events via Ably | Jesús Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 71db601 | feat: implement ride dispatch core functionality including ride request creation, candidate application, and selection services | Se implementó la funcionalidad: feat: implement ride dispatch core functionality including ride request creation, candidate application, and selection services | Jesús Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 76ff202 | feat: implement JWT authentication filter and REST controllers for ride management and documentation | Se implementó la funcionalidad: feat: implement JWT authentication filter and REST controllers for ride management and documentation | Jesús Castillo Vidal | 05/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 44474f8 | fix: add role guards to MonetizationController and map FORBIDDEN/UNAUTHORIZED to correct HTTP status | Se corrigió el error: fix: add role guards to MonetizationController and map FORBIDDEN/UNAUTHORIZED to correct HTTP status | Jesús Castillo Vidal | 04/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3ccd55f | feat: implement Ride and RideRequest aggregates and integrate Ably for real-time event publishing | Se implementó la funcionalidad: feat: implement Ride and RideRequest aggregates and integrate Ably for real-time event publishing | Jesús Castillo Vidal | 04/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e9f1e72 | feat: implement Ably integration for real-time event broadcasting using domain events | Se implementó la funcionalidad: feat: implement Ably integration for real-time event broadcasting using domain events | Jesús Castillo Vidal | 04/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9ab962d | feat: implement trust and reputation module with rating management, query services, and domain event handling | Se implementó la funcionalidad: feat: implement trust and reputation module with rating management, query services, and domain event handling | Jesús Castillo Vidal | 26/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f36c872 | fix: implement MonetizationQueryServiceImpl to handle fare calculations, wallet retrieval, and operational checks | Se corrigió el error: fix: implement MonetizationQueryServiceImpl to handle fare calculations, wallet retrieval, and operational checks | Jesús Castillo Vidal | 26/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 543566a | Merge pull request #6 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #6 from Startup-x-upc/develop | Jesus Ivan Castillo Vidal | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f1f267d | feat: include author information in generated commit tables | Se implementó la funcionalidad: feat: include author information in generated commit tables | Jesús Castillo Vidal | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 486b219 | chore: add automated commit history tracking and generation script | Se realizó una tarea de mantenimiento: chore: add automated commit history tracking and generation script | Jesús Castillo Vidal | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 90efdc4 | hotfix:Change the userQueryService | Se actualizó el repositorio: hotfix:Change the userQueryService | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 972ab56 | feat:Added UserCommandService | Se implementó la funcionalidad: feat:Added UserCommandService | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 344969b | feat:Added IAMContextFacade | Se implementó la funcionalidad: feat:Added IAMContextFacade | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3b30889 | feat:Added domainAggregate | Se implementó la funcionalidad: feat:Added domainAggregate | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4176e1b | feat: add resolvemessagedeafult in globalexceptionhandler | Se implementó la funcionalidad: feat: add resolvemessagedeafult in globalexceptionhandler | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 69160f3 | fix: correct a thing in GlobalExceptionHandler | Se corrigió el error: fix: correct a thing in GlobalExceptionHandler | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 58a32a5 | feat: add validationError. Important | Se implementó la funcionalidad: feat: add validationError. Important | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | eab31f0 | fix: fix fatal error in shared | Se corrigió el error: fix: fix fatal error in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 12edec2 | feat: add unexpected in shared | Se implementó la funcionalidad: feat: add unexpected in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cc7ab56 | fix: eliminate a method in shared | Se corrigió el error: fix: eliminate a method in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ffd2c14 | feat: implement conflict error in shared | Se implementó la funcionalidad: feat: implement conflict error in shared | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b52f273 | fix: improve ApplicationError | Se corrigió el error: fix: improve ApplicationError | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9f4458c | feat: add getfullnamebyuserid | Se implementó la funcionalidad: feat: add getfullnamebyuserid | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | eb30618 | fix: erase a litle problem in IAM | Se corrigió el error: fix: erase a litle problem in IAM | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a0c0f82 | feat: add more funtionalities to IAM | Se implementó la funcionalidad: feat: add more funtionalities to IAM | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1433ef1 | fix: correct fatal error in iam | Se corrigió el error: fix: correct fatal error in iam | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3ea0e63 | Merge pull request #5 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #5 from Startup-x-upc/develop | tindivo | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f6410eb | feat: add Dockerfile and externalized database configuration properties for backend service | Se implementó la funcionalidad: feat: add Dockerfile and externalized database configuration properties for backend service | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 83507f2 | Merge pull request #4 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #4 from Startup-x-upc/develop | Jesus Ivan Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 63bba7d | fix(ridedispatch): fix SelectCandidateCommand parameter order | Se corrigió el error: fix(ridedispatch): fix SelectCandidateCommand parameter order | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c532e77 | test(ridedispatch): add RideCommandServiceImplTest unit tests | Se agregaron/modificaron pruebas: test(ridedispatch): add RideCommandServiceImplTest unit tests | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d23c672 | feat(ridedispatch): add DriverAvailabilityChangedEventListener to synchronize driver availability status | Se implementó la funcionalidad: feat(ridedispatch): add DriverAvailabilityChangedEventListener to synchronize driver availability status | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4095156 | feat(ridedispatch): implement REST controller, resource DTOs, and resource assembler | Se implementó la funcionalidad: feat(ridedispatch): implement REST controller, resource DTOs, and resource assembler | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c1f7f70 | feat(iam): expose getPhotoUrlByUserId via facade | Se implementó la funcionalidad: feat(iam): expose getPhotoUrlByUserId via facade | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a11bbd3 | feat(ridedispatch): add domain aggregates, command/query services, and integration listeners | Se implementó la funcionalidad: feat(ridedispatch): add domain aggregates, command/query services, and integration listeners | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e415954 | feat(drivermanagement): expose getDriverIdByUserId via facade | Se implementó la funcionalidad: feat(drivermanagement): expose getDriverIdByUserId via facade | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1864890 | feat(ridedispatch): implement repository adapters | Se implementó la funcionalidad: feat(ridedispatch): implement repository adapters | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e517441 | feat(ridedispatch): add Spring Data JPA repositories | Se implementó la funcionalidad: feat(ridedispatch): add Spring Data JPA repositories | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 8fb1e20 | feat(ridedispatch): implement JPA entities and persistence assemblers | Se implementó la funcionalidad: feat(ridedispatch): implement JPA entities and persistence assemblers | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 20b0762 | refactor(drivermanagement): remove currentLocation and simplify availability toggle response | Se refactorizó el código: refactor(drivermanagement): remove currentLocation and simplify availability toggle response | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3ad5339 | feat(shared): map new drivermanagement error codes to corresponding HTTP statuses | Se implementó la funcionalidad: feat(shared): map new drivermanagement error codes to corresponding HTTP statuses | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2b9b330 | feat(drivermanagement): implement drivermanagement bounded context and availability checks | Se implementó la funcionalidad: feat(drivermanagement): implement drivermanagement bounded context and availability checks | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f70fc19 | refactor(monetization): cleanup block/unblock endpoints, move event generation to domain | Se refactorizó el código: refactor(monetization): cleanup block/unblock endpoints, move event generation to domain | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | dc4e5de | fix(monetization): query wallet by walletId instead of driverId in transaction history query | Se corrigió el error: fix(monetization): query wallet by walletId instead of driverId in transaction history query | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 54dcd3c | refactor(iam): prefix auth and profile REST endpoints with /api/v1 and update security path matchers | Se refactorizó el código: refactor(iam): prefix auth and profile REST endpoints with /api/v1 and update security path matchers | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2229d89 | fix(monetization): retrieve existing entity ID before saving to prevent duplicate key constraint on update | Se corrigió el error: fix(monetization): retrieve existing entity ID before saving to prevent duplicate key constraint on update | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d9f4c4a | refactor(monetization): make persistence assemblers null-safe for legacy database records | Se refactorizó el código: refactor(monetization): make persistence assemblers null-safe for legacy database records | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9541998 | refactor(monetization): split application services into interfaces and internal implementations | Se refactorizó el código: refactor(monetization): split application services into interfaces and internal implementations | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7461ff0 | refactor(monetization): move JPA repository implementations to adapters package | Se refactorizó el código: refactor(monetization): move JPA repository implementations to adapters package | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f06cf56 | refactor(monetization): rename and move REST response assemblers to transform package | Se refactorizó el código: refactor(monetization): rename and move REST response assemblers to transform package | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 42ad1e6 | feat(monetization): update controller endpoints to align with frontend resource models and estimated fare check | Se implementó la funcionalidad: feat(monetization): update controller endpoints to align with frontend resource models and estimated fare check | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6590eed | feat(monetization): implement ACL integration for driver registration | Se implementó la funcionalidad: feat(monetization): implement ACL integration for driver registration | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f00b0a7 | feat: implement monetization domain services, entities, and persistence layer for fare policies and wallet transactions | Se implementó la funcionalidad: feat: implement monetization domain services, entities, and persistence layer for fare policies and wallet transactions | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c8ef2c6 | refactor: Updating monetization's name | Se refactorizó el código: refactor: Updating monetization's name | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 86b178a | fix(iam): migrate UUID columns to VARCHAR(36), fix UPDATE vs INSERT, and polish Swagger docs   Persistence:   - Change all UUID columns to VARCHAR(36) across IAM and Monetization     entities to prevent BINARY(16) padding issues in MySQL   - Update JPA repositories, assemblers, and adapters with String conversion   - Fix save() in UserRepositoryImpl and ProfileRepositoryImpl to preserve     the internal Long id from existing entities so JPA issues UPDATE     instead of INSERT on subsequent saves   - Publish domain events explicitly via ApplicationEventPublisher in     UserRepositoryImpl and WalletRepositoryImpl | Se corrigió el error: fix(iam): migrate UUID columns to VARCHAR(36), fix UPDATE vs INSERT, and polish Swagger docs   Persistence:   - Change all UUID columns to VARCHAR(36) across IAM and Monetization     entities to prevent BINARY(16) padding issues in MySQL   - Update JPA repositories, assemblers, and adapters with String conversion   - Fix save() in UserRepositoryImpl and ProfileRepositoryImpl to preserve     the internal Long id from existing entities so JPA issues UPDATE     instead of INSERT on subsequent saves   - Publish domain events explicitly via ApplicationEventPublisher in     UserRepositoryImpl and WalletRepositoryImpl | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e996159 | fix(iam): resolving inconsistency with UUID from JPA to MYSQL | Se corrigió el error: fix(iam): resolving inconsistency with UUID from JPA to MYSQL | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 32b46ab | fix(iam): add Swagger JWT auth scheme and remove redundant check-email endpoint | Se corrigió el error: fix(iam): add Swagger JWT auth scheme and remove redundant check-email endpoint | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 67a930e | feat(iam): implement Anti-Corruption Layer facade for IAM bounded context access | Se implementó la funcionalidad: feat(iam): implement Anti-Corruption Layer facade for IAM bounded context access | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e705806 | feat: implement JPA repository adapters for Wallet and User aggregates with explicit domain event publishing | Se implementó la funcionalidad: feat: implement JPA repository adapters for Wallet and User aggregates with explicit domain event publishing | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cdc1326 | feat(iam): The user wants me to suggest a good commit message for all the work done so far. Let me summarize what was accomplished: 1. Deleted all existing IAM code   - ProfilesController: GET /users/me/profile, PUT /profiles/{profileId}   - Immutable record resources with Jakarta Validation + OpenAPI @Schema | Se implementó la funcionalidad: feat(iam): The user wants me to suggest a good commit message for all the work done so far. Let me summarize what was accomplished: 1. Deleted all existing IAM code   - ProfilesController: GET /users/me/profile, PUT /profiles/{profileId}   - Immutable record resources with Jakarta Validation + OpenAPI @Schema | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f07327c | feat: implement Identity and Access Management (IAM) bounded context with domain models, repositories, and persistence infrastructure. | Se implementó la funcionalidad: feat: implement Identity and Access Management (IAM) bounded context with domain models, repositories, and persistence infrastructure. | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a15065a | docs: add architecture analysis guide and update project dependencies in pom.xml | Se actualizó la documentación: docs: add architecture analysis guide and update project dependencies in pom.xml | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9d31a68 | feat: update monetization bounded context with commissionRate and API spec alignment | Se implementó la funcionalidad: feat: update monetization bounded context with commissionRate and API spec alignment | S-aiquipa | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0eb7fc2 | refactor(monetization): map walletId field in WalletPersistenceAssembler | Se refactorizó el código: refactor(monetization): map walletId field in WalletPersistenceAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 04ef111 | feat(monetization): add walletId field to WalletPersistenceEntity with unique constraint | Se implementó la funcionalidad: feat(monetization): add walletId field to WalletPersistenceEntity with unique constraint | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a3aeec2 | refactor(monetization): remove unused driverId field from ApplyCommissionResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from ApplyCommissionResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1a00eeb | refactor(monetization): remove unused driverId field from TopUpFailureResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from TopUpFailureResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 25243dc | refactor(monetization): remove unused driverId field from TopUpWalletResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from TopUpWalletResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1d9809e | feat(monetization): add findByWalletId method to WalletRepositoryImpl | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletRepositoryImpl | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 24537bf | feat(monetization): add findByWalletId method to WalletJpaRepository | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletJpaRepository | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4381afe | feat(monetization): add findByWalletId method to WalletRepository | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletRepository | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9061233 | refactor(monetization): improve wallet balance calculations, enforce rounding policies, and add @Transactional to wallet operations | Se refactorizó el código: refactor(monetization): improve wallet balance calculations, enforce rounding policies, and add @Transactional to wallet operations | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 74cd0a7 | refactor(monetization): rename driverId to walletId in ApplyRideCommissionCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in ApplyRideCommissionCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 96a1c02 | refactor(monetization): rename driverId to walletId in RegisterTopUpFailureCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in RegisterTopUpFailureCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 8219beb | refactor(monetization): rename driverId to walletId in TopUpWalletCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in TopUpWalletCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d4deddf | refactor(monetization): update API endpoints for Fare Config and Wallet management | Se refactorizó el código: refactor(monetization): update API endpoints for Fare Config and Wallet management | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 40cf696 | feat(monetization): pass commissionRate to ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat(monetization): pass commissionRate to ConfigureFarePolicyCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b28c52e | feat(monetization): update FarePolicy configuration to handle commissionRate | Se implementó la funcionalidad: feat(monetization): update FarePolicy configuration to handle commissionRate | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2077cd6 | feat(monetization): add commissionRate field to ConfigureFarePolicyResource | Se implementó la funcionalidad: feat(monetization): add commissionRate field to ConfigureFarePolicyResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 89b9eb2 | feat(monetization): add commissionRate field to ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat(monetization): add commissionRate field to ConfigureFarePolicyCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | bb503cd | feat(monetization): map commissionRate in FarePolicyResponseAssembler | Se implementó la funcionalidad: feat(monetization): map commissionRate in FarePolicyResponseAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 300542d | feat(monetization): add commissionRate field to FarePolicyResponse | Se implementó la funcionalidad: feat(monetization): add commissionRate field to FarePolicyResponse | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 31bdc0a | feat(monetization): map commissionRate in FarePolicyPersistenceAssembler | Se implementó la funcionalidad: feat(monetization): map commissionRate in FarePolicyPersistenceAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7df410a | feat(monetization): add commissionRate field to FarePolicyPersistenceEntity with setter method | Se implementó la funcionalidad: feat(monetization): add commissionRate field to FarePolicyPersistenceEntity with setter method | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d917131 | feat(monetization): add commission rate to FarePolicy and calculateCommission method | Se implementó la funcionalidad: feat(monetization): add commission rate to FarePolicy and calculateCommission method | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f4c621b | Merge pull request #2 from Startup-x-upc/feat/monetization | Se integraron los cambios de la rama: Merge pull request #2 from Startup-x-upc/feat/monetization | S-aiquipa | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 04552e0 | feat(monetization): add package declaration to Wallet aggregate | Se implementó la funcionalidad: feat(monetization): add package declaration to Wallet aggregate | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ca97f2e | feat(monetization): extend WalletTransactionPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend WalletTransactionPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 25f2d1d | feat(monetization): extend WalletPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend WalletPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ef222f4 | feat(monetization): extend FarePolicyPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend FarePolicyPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9320667 | Merge remote-tracking branch 'origin/develop' into feat/monetization | Se integraron los cambios de la rama: Merge remote-tracking branch 'origin/develop' into feat/monetization | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ae41218 | feat(monetization): extend FarePolicy from AbstractDomainAggregateRoot | Se implementó la funcionalidad: feat(monetization): extend FarePolicy from AbstractDomainAggregateRoot | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cd9b58b | feat(monetization): add MonetizationController to expose REST endpoints for fare policy and wallet operations | Se implementó la funcionalidad: feat(monetization): add MonetizationController to expose REST endpoints for fare policy and wallet operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 703771a | feat(monetization): add WalletTransactionResponseAssembler for assembling wallet transaction responses | Se implementó la funcionalidad: feat(monetization): add WalletTransactionResponseAssembler for assembling wallet transaction responses | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9a96443 | feat(monetization): add WalletResponseAssembler for assembling wallet response data | Se implementó la funcionalidad: feat(monetization): add WalletResponseAssembler for assembling wallet response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4452a63 | feat(monetization): add FarePolicyResponseAssembler for assembling fare policy and quote responses | Se implementó la funcionalidad: feat(monetization): add FarePolicyResponseAssembler for assembling fare policy and quote responses | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c5cdc73 | feat(monetization): add CanOperateResponse for representing driver's operation eligibility | Se implementó la funcionalidad: feat(monetization): add CanOperateResponse for representing driver's operation eligibility | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4dd603b | feat(monetization): add WalletTransactionResponse for representing wallet transaction data | Se implementó la funcionalidad: feat(monetization): add WalletTransactionResponse for representing wallet transaction data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ee4553a | feat(monetization): add WalletResponse for representing wallet response data | Se implementó la funcionalidad: feat(monetization): add WalletResponse for representing wallet response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 27e0262 | feat(monetization): add FareQuoteResponse for representing fare quote response data | Se implementó la funcionalidad: feat(monetization): add FareQuoteResponse for representing fare quote response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f7061a1 | feat(monetization): add FarePolicyResponse for representing fare policy response data | Se implementó la funcionalidad: feat(monetization): add FarePolicyResponse for representing fare policy response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | affa3c5 | feat(monetization): add ApplyCommissionResource for handling commission application data | Se implementó la funcionalidad: feat(monetization): add ApplyCommissionResource for handling commission application data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2c3d7a1 | feat(monetization): add TopUpFailureResource for handling top-up failure data | Se implementó la funcionalidad: feat(monetization): add TopUpFailureResource for handling top-up failure data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1605fbe | feat(monetization): add TopUpWalletResource for wallet top-up data | Se implementó la funcionalidad: feat(monetization): add TopUpWalletResource for wallet top-up data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 107a452 | feat(monetization): add EstimatedFareResource for fare estimation data | Se implementó la funcionalidad: feat(monetization): add EstimatedFareResource for fare estimation data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 31f5e7c | feat(monetization): add ConfigureFarePolicyResource for fare policy configuration data | Se implementó la funcionalidad: feat(monetization): add ConfigureFarePolicyResource for fare policy configuration data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0786159 | feat(monetization): implement WalletTransactionRepositoryImpl for transaction persistence operations | Se implementó la funcionalidad: feat(monetization): implement WalletTransactionRepositoryImpl for transaction persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 13a1c7d | feat(monetization): implement WalletRepositoryImpl for wallet persistence operations | Se implementó la funcionalidad: feat(monetization): implement WalletRepositoryImpl for wallet persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6db8293 | feat(monetization): implement FarePolicyRepositoryImpl for fare policy persistence operations | Se implementó la funcionalidad: feat(monetization): implement FarePolicyRepositoryImpl for fare policy persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 706be45 | feat(monetization): implement MonetizationQueryServiceImpl for handling monetization queries | Se implementó la funcionalidad: feat(monetization): implement MonetizationQueryServiceImpl for handling monetization queries | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 19c9789 | feat(monetization): implement MonetizationCommandServiceImpl for handling monetization commands | Se implementó la funcionalidad: feat(monetization): implement MonetizationCommandServiceImpl for handling monetization commands | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d5ee94c | feat(monetization): add WalletTransactionPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add WalletTransactionPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 48098f8 | feat(monetization): add WalletPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add WalletPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7849be8 | feat(monetization): add FarePolicyPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add FarePolicyPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3730c96 | feat(monetization): add WalletTransactionJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add WalletTransactionJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 367272c | feat(monetization): add WalletJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add WalletJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5e92027 | feat(monetization): add FarePolicyJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add FarePolicyJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e83595c | feat(monetization): add WalletTransactionPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add WalletTransactionPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1427c6e | feat(monetization): add WalletPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add WalletPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6f81346 | feat(monetization): add FarePolicyPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add FarePolicyPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4881220 | feat(monetization): add TransactionTypeConverter for TransactionType persistence | Se implementó la funcionalidad: feat(monetization): add TransactionTypeConverter for TransactionType persistence | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 73f4bd3 | feat: add WalletStatusConverter to handle WalletStatus persistence | Se implementó la funcionalidad: feat: add WalletStatusConverter to handle WalletStatus persistence | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a730644 | feat: add Wallet and FarePolicy domain aggregate models for monetization module | Se implementó la funcionalidad: feat: add Wallet and FarePolicy domain aggregate models for monetization module | Jesús Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | bee66f3 | docs: add backend architectural analysis and DDD pattern documentation | Se actualizó la documentación: docs: add backend architectural analysis and DDD pattern documentation | Jesús Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7250227 | Merge branch 'develop' into feat/monetization | Se integraron los cambios de la rama: Merge branch 'develop' into feat/monetization | Jesús Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 38000ac | Merge pull request #1 from Startup-x-upc/feature/shared | Se integraron los cambios de la rama: Merge pull request #1 from Startup-x-upc/feature/shared | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 732c074 | feat: add iam to the project | Se implementó la funcionalidad: feat: add iam to the project | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 816c3b4 | feat: add shared to the project | Se implementó la funcionalidad: feat: add shared to the project | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4e64d3f | docs:Instructions to create the project | Se actualizó la documentación: docs:Instructions to create the project | TheEngineEdu | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f6c4a77 | feat: add WalletTransactionRepository interface | Se implementó la funcionalidad: feat: add WalletTransactionRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2d06301 | feat: add WalletRepository interface | Se implementó la funcionalidad: feat: add WalletRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f3b1526 | feat: add FarePolicyRepository interface | Se implementó la funcionalidad: feat: add FarePolicyRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 36ed239 | feat: add WalletTransaction entity | Se implementó la funcionalidad: feat: add WalletTransaction entity | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 93bdfae | feat: add Wallet aggregate | Se implementó la funcionalidad: feat: add Wallet aggregate | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ab33b45 | feat: add FarePolicy aggregate | Se implementó la funcionalidad: feat: add FarePolicy aggregate | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e0a6e60 | feat: add CanDriverOperateQuery | Se implementó la funcionalidad: feat: add CanDriverOperateQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e7531a3 | feat: add GetWalletTransactionHistoryQuery | Se implementó la funcionalidad: feat: add GetWalletTransactionHistoryQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f63a38f | feat: add GetWalletByDriverIdQuery | Se implementó la funcionalidad: feat: add GetWalletByDriverIdQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c733fcf | feat: add GetEstimatedFareQuery | Se implementó la funcionalidad: feat: add GetEstimatedFareQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a00dac6 | feat: add GetCurrentFarePolicyQuery | Se implementó la funcionalidad: feat: add GetCurrentFarePolicyQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a627f5d | feat: add UnblockDriverWalletCommand | Se implementó la funcionalidad: feat: add UnblockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a627f5d | feat: add UnblockDriverWalletCommand | Se implementó la funcionalidad: feat: add UnblockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d71620c | feat: add BlockDriverWalletCommand | Se implementó la funcionalidad: feat: add BlockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d55d5e3 | feat: add ApplyRideCommissionCommand | Se implementó la funcionalidad: feat: add ApplyRideCommissionCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 06e1ebd | feat: add RegisterTopUpFailureCommand | Se implementó la funcionalidad: feat: add RegisterTopUpFailureCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5dc11b3 | feat: add TopUpWalletCommand | Se implementó la funcionalidad: feat: add TopUpWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 21072f1 | feat: add ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat: add ConfigureFarePolicyCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d08f882 | feat: add TransactionType value object | Se implementó la funcionalidad: feat: add TransactionType value object | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3fef3a3 | feat: add WalletStatus value object | Se implementó la funcionalidad: feat: add WalletStatus value object | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6abd5ce | fix:added dependencies | Se corrigió el error: fix:added dependencies | Eduardo | 08/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1f42603 | feature:Template for the backend | Se actualizó el repositorio: feature:Template for the backend | Eduardo | 08/06/2026 |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+<img src="./Resources/sprint_3/execute2.jpeg">
+<img src="./Resources/sprint_3/execute.jpeg">
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Durante este sprint se completó en su totalidad las historias de usuarios establecidos para la aplicación .
+
+**Descripción del Logro:**
+
+- Completar en su totalidad el frontend y backend page.
+
+**Recursos del Sprint:**
+
+| Recurso      | Acción implementada   | Método HTTP | URL / Endpoint                                                                                                            | Link de repositorio                                                                          |
+| ------------ | --------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Backend Page | Visualización inicial | GET         | [https://backend-webapplication-production.up.railway.app/swagger-ui/index.html](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [https://github.com/Startup-x-upc/Backend-WebApplication.git](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
+| Frontend Page | Visualización inicial | GET         | [https://chapaturuta-e7d2e.web.app/login](https://chapaturuta-e7d2e.web.app/login) | [https://github.com/Startup-x-upc/FrontEnd-WebApplication.git](https://github.com/Startup-x-upc/FrontEnd-WebApplication.git) |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<img src="./Resources/sprint_3/inicio.jpeg">
+<img src="./Resources/sprint_3/binicio.jpeg">
+<img src="./Resources/sprint_3/cfinal.jpeg">
+<img src="./Resources/sprint_3/bfinal.jpeg">
+<img src="./Resources/sprint_3/final.jpeg">
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<img src="./Resources/sprint_4/team.jpeg">
 
 ## 5.3. Validation Interviews
 
@@ -4819,6 +5253,29 @@ Finalmente, concluyó que la aplicación es de gran utilidad práctica para su v
 Evidencia:
 ![Entrevista Pasajera](Resources/validacion-entrevistas/validacion-karen-pasajera.png)
 
+
+#### Entrevista 5: Pasajero
+
+- Nombre: Eddo Su Caletti
+- Edad: 21 años
+- Residencia: No especificada
+- Ocupación: Estudiante de Ingeniería de Sistemas
+- Fecha: 07 de julio de 2026
+- Inicio de la Entrevista: 00:01
+- Duración: 22:27
+
+Link: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAsm2DxIV3UQLuC4tSSsPlgAcmlgNzP1D7VU6ue7kxotEs?e=pHESsO)
+<br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAsm2DxIV3UQLuC4tSSsPlgAcmlgNzP1D7VU6ue7kxotEs?e=pHESsO
+
+Resumen:
+
+El usuario comentó que la aplicación le pareció fácil de usar y con un diseño atractivo. Sobre la solicitud de viajes, le resultó intuitiva y valoró poder ver los mototaxistas disponibles con sus tarifas. Destacó como muy útil el seguimiento del conductor en el mapa en tiempo real. También mencionó que calificar al final del viaje fue sencillo. En general, el usuario se mostró muy satisfecho, mencionando que recomendaría la aplicación y que la volvería a usar sin dudarlo.
+
+Evidencia:
+![Entrevista Pasajera](Resources/validacion-entrevistas/validacion-eddo-pasajero.png)
+
+
+
 ---
 
 ## 5.3.3. Evaluaciones según heurísticas.
@@ -5008,7 +5465,7 @@ Durante los entregables finales (AV2), nos enfocamos en el desarrollo técnico, 
 
 ### Enlaces del Video
 
-- **Video en YouTube:** [Enlace al Video en YouTube](https://www.youtube.com/) _(Colocar aquí la URL del video subido a YouTube)_
+- **Video en YouTube:** [https://youtu.be/HDYLQ8mfSgA](https://youtu.be/HDYLQ8mfSgA)
 - **Video en Microsoft Stream:** [Enlace al Video en Microsoft Stream](https://stream.microsoft.com/) _(Colocar aquí la URL del video subido a Microsoft Stream)_
 
 ### Código de Inserción para el Landing Page
@@ -5062,9 +5519,9 @@ Para integrar el video en la sección "Nosotros" o "About Us" del Landing Page d
 
 En esta sección se presentan los enlaces a los recursos de diseño, presentaciones de equipo y entornos desplegados para el proyecto "Chapa Tu Ruta":
 
-- **Diseño del Prototipo en Figma:** [Figma Link](https://www.figma.com/design/XB9QCFVfSKHug7qbvAIjFw/Open-Source?node-id=151-2853&t=ji2FxuuNBFc7GAFY-1)
-- **Presentación "About the Team":** [About the Team](https://youtu.be/akpD8VS5-1w)
-- **Presentación "About the product":** [About the product](https://www.youtube.com/watch?v=VIuDAmngaiI)
-- **Presentación de la Exposición:** [Exposición](https://canva.link/8784xk57e4h00eh)
-- **Despliegue de la Aplicación Frontend:** [Web App Link - Frontend](https://chapaturuta-e7d2e--pr4-develop-qoacrgnd.web.app/login)
-- **Despliegue de la API Backend (Swagger UI):** [Swagger API Link - Backend](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html)
+- **Diseño del Prototipo en Figma:** [https://www.figma.com/design/XB9QCFVfSKHug7qbvAIjFw/Open-Source?node-id=151-2853&t=ji2FxuuNBFc7GAFY-1](https://www.figma.com/design/XB9QCFVfSKHug7qbvAIjFw/Open-Source?node-id=151-2853&t=ji2FxuuNBFc7GAFY-1)
+- **Presentación "About the Team":** [https://youtu.be/HDYLQ8mfSgA](https://youtu.be/HDYLQ8mfSgA)
+- **Presentación "About the product":** [https://www.youtube.com/watch?v=VIuDAmngaiI](https://www.youtube.com/watch?v=VIuDAmngaiI)
+- **Presentación de la Exposición:** [https://canva.link/8784xk57e4h00eh](https://canva.link/8784xk57e4h00eh)
+- **Despliegue de la Aplicación Frontend:** [https://chapaturuta-e7d2e.web.app/login](https://chapaturuta-e7d2e.web.app/login)
+- **Despliegue de la API Backend (Swagger UI):** [https://backend-webapplication-production.up.railway.app/swagger-ui/index.html](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html)
