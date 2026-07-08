@@ -85,7 +85,8 @@ Proyecto
 | 1.33    | 19/06/2026 | Aiquipa Poma, Sebastian Andres                              | Agregó evaluación heurística (5.3.3) y segunda entrevista de validación a Capítulo 5      |
 | 1.34    | 19/06/2026 | Aguirre Ramos, Eduardo Manuel                               | Agregó evidencia de desarrollo, despliegue y team collaboration del Sprint 3 a Capítulo 5 |
 | 1.35    | 19/06/2026 | Castillo Vidal, Jesus Ivan                                  | Actualizó conclusiones, estructura del README y tabla de contenidos para entrega AV2      |
-| 1.36    | 04/07/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó Student Outcome versión final en README                                         |
+| 1.36    | 04/07/2026 | Pillaca Gonzales, Andy Saúl                                 | Actualizó Student Outcome versión final en README       
+| 1.37    | 07/07/2026 | Aguirre Ramos, Eduardo Aguirre                                 | Se completo el sprint 4 en su totalidad                                   |
 
 <div style="page-break-after: always;"></div>
 
