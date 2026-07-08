@@ -2632,6 +2632,29 @@ Finalmente, concluyó que la aplicación es de gran utilidad práctica para su v
 Evidencia:
 ![Entrevista Pasajera](Resources/validacion-entrevistas/validacion-karen-pasajera.png)
 
+
+#### Entrevista 5: Pasajero
+
+- Nombre: Eddo Su Caletti
+- Edad: 21 años
+- Residencia: No especificada
+- Ocupación: Estudiante de Ingeniería de Sistemas
+- Fecha: 07 de julio de 2026
+- Inicio de la Entrevista: 00:01
+- Duración: 22:27
+
+Link: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAsm2DxIV3UQLuC4tSSsPlgAcmlgNzP1D7VU6ue7kxotEs?e=pHESsO)
+<br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322952_upc_edu_pe/IQAsm2DxIV3UQLuC4tSSsPlgAcmlgNzP1D7VU6ue7kxotEs?e=pHESsO
+
+Resumen:
+
+El usuario comentó que la aplicación le pareció fácil de usar y con un diseño atractivo. Sobre la solicitud de viajes, le resultó intuitiva y valoró poder ver los mototaxistas disponibles con sus tarifas. Destacó como muy útil el seguimiento del conductor en el mapa en tiempo real. También mencionó que calificar al final del viaje fue sencillo. En general, el usuario se mostró muy satisfecho, mencionando que recomendaría la aplicación y que la volvería a usar sin dudarlo.
+
+Evidencia:
+![Entrevista Pasajera](Resources/validacion-entrevistas/validacion-eddo-pasajero.png)
+
+
+
 ---
 
 ## 5.3.3. Evaluaciones según heurísticas.
