@@ -144,7 +144,7 @@ Durante esta fase, el equipo consolidó la segunda entrega académica, incorpora
 las entrevistas de validación, la evaluación heurística y la actualización del Student Outcome.
 <img src="./Resources/caratula/collaboration_insights_av2.png">
 Figura 3: Gráfico de contribuciones del repositorio del informe del proyecto para AV2, mostrando
-la actividad de colaboración de todos los miembros del equipo durante el periodo 28/05/2026 al 19/06/2026.
+la actividad de colaboración de todos los miembros del equipo durante el periodo 18/06/2026 al 4/07/2026.
 
 **Resumen de Contribuciones:**
 En base al historial del repositorio y la gráfica mostrada, se registran un total de **24 commits**
@@ -154,6 +154,27 @@ para el informe del proyecto en esta etapa. El desguste de los aportes por cada 
 - **Jesús Castillo Vidal:** 5 commits
 - **Sebastian Aiquipa Poma:** 4 commits
 - **Andy Pillaca Gonzales:** 4 commits
+
+Esta distribución evidencia el esfuerzo colaborativo del equipo en la elaboración de la documentación
+correspondiente a la validación del producto y cierre de la segunda entrega académica.
+
+## TB2
+
+Durante esta fase, el equipo consolidó la entrega final del trabajo cumpliendo lo solicitado y la actualización del Student Outcome.
+<img src="./Resources/caratula/insight_n.jpeg">
+Figura 3: Gráfico de contribuciones del repositorio del informe del proyecto para AV2, mostrando
+la actividad de colaboración de todos los miembros del equipo durante el periodo 28/05/2026 al 19/06/2026.
+
+**Resumen de Contribuciones:**
+En base al historial del repositorio y la gráfica mostrada, se registran un total de **38 commits**
+para el informe del proyecto en esta etapa. El desguste de los aportes por cada integrante del equipo es el siguiente:
+
+
+- **Jesús Castillo Vidal:** 8 commits
+- **Eduardo Aguirre Ramos:** 6 commits
+- **Andy Pillaca Gonzales:** 4 commits
+- **Sebastian Aiquipa Poma:** 2 commits
+- **Dalila Torres Sanchez:** 2 commit
 
 Esta distribución evidencia el esfuerzo colaborativo del equipo en la elaboración de la documentación
 correspondiente a la validación del producto y cierre de la segunda entrega académica.
