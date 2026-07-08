@@ -745,7 +745,6 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 Sprint 2 Trello:[https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2](https://trello.com/invite/b/6a0279a4004abd9ca6e2f408/ATTI27127fd4bb859b71b8af6f3fe99f12fe562430EC/sprint-2)
 
-# Sprint 2 User Stories & Tasks Table
 
 <table>
   <thead>
@@ -2423,7 +2422,7 @@ Durante este sprint se completó el diseño e implementación completa del front
 
 | Recurso      | Acción implementada   | Método HTTP | URL / Endpoint                                                                                                            | Link de repositorio                                                                          |
 | ------------ | --------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Backend Page | Visualización inicial | GET         | [startup-x-upc.github.io/backendweb-page](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [Startup-x-upc/Backendweb-page](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
+| Backend Page | Visualización inicial | GET         | [https://backend-webapplication-production.up.railway.app/swagger-ui/index.html](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [https://github.com/Startup-x-upc/Backend-WebApplication.git](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2437,8 +2436,9 @@ Durante este sprint se completó el diseño e implementación completa del front
 
 <img src="./Resources/sprint_3/collabo.jpeg">
 
-### 5.2.4. Sprint 4 
-### 5.2.4.1. Sprint Planning 4
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
 <table>
   <tbody>
     <tr>
@@ -2481,7 +2481,7 @@ Durante este sprint se completó el diseño e implementación completa del front
     </tr>
     <tr>
       <td><b>Sprint 4 Goal</b></td>
-      <td><b>Nuestro propósito es</b> tener la conexión forntend con backend al 100% y su correcto despligue para su posible presentación al público. <b>Creemos que esto aportará</b> un gran cambio a las personas que utilizan el producto satisfaciendo las necesidades del público objetivo. <b>Esto se confirmará cuando</b> obtengamos un mejor alcance y podamos identificar su alto uso.</td>
+      <td><b>Nuestro propósito es</b> tener la conexión forntend con backend al 100% y su correcto despligue para su posible presentación al público. <b>Creemos que esto aportará</b> un gran cambio a las personas que utilizan el producto satisfaciendo las necesidades del público objetivo. <b>Esto se confirmará cuando</b> obtengamos un mejor alcance y podamos identificar su eficiencia en nuestra audiencia.</td>
     </tr>
     <tr>
       <td><b>Sprint 4 Velocity</b></td>
@@ -2494,7 +2494,7 @@ Durante este sprint se completó el diseño e implementación completa del front
   </tbody>
 </table>
 
-### 5.2.4.2. Aspect Leaders and Collaborators
+#### 5.2.4.2. Aspect Leaders and Collaborators
 En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 4. Cada aspecto se relaciona con tareas clave del sprint, asignando un líder (L) responsable principal y colaboradores (C) que apoyan en su ejecución.
 
 <table>
@@ -2539,7 +2539,7 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
       <td>Pillaca Gonzales, Andy Saúl</td>
       <td>apillacag</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>L</td>
       <td>C</td>
@@ -2547,7 +2547,7 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
     <tr>
       <td>Aiquipa Poma, Sebastian Andres</td>
       <td>S-aiquipa</td>
-      <td>C</td>
+      <td>L</td>
       <td>L</td>
       <td>C</td>
       <td>C</td>
@@ -2556,26 +2556,235 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
   </tbody>
 </table>
 
-### 5.2.4.3. Sprint Backlog 4
-La gestión de tareas, asignación de user stories y control de incidencias del Sprint 4 se administró de manera digital.
+#### 5.2.4.3. Sprint Backlog 4
 
-* **Tablero de Gestión del Proyecto:** [GitHub Projects - ChapaTuRuta Sprint 4](https://github.com/orgs/TheEngineEdu/projects/4)
-* **URL en crudo:** `https://github.com/orgs/TheEngineEdu/projects/4`
+| Epic / Bounded Context | User Story ID | User Story Title | Est. (Story Points) | Commit ID Involucrados | Status |
+| :--- | :--- | :--- | :---: | :--- | :--- |
+| **Ride Dispatch Context** | HU-TRN-01 | Solicitud y Asignación de Viajes en Tiempo Real | 8 | `3ccd55f`, `71db601`, `63bba7d` | Completado |
+| **Ride Dispatch Context** | TS-OPS-03 | Difusión de Eventos de Dominio vía Ably WebSockets | 5 | `e9f1e72`, `cd50b6a` | Completado |
+| **IAM & Security Context** | TS-SEC-04 | Configuración de Filtros de Seguridad y Refresh Tokens con JWT | 5 | `6a69f59`, `ba0c8b7`, `44597f9`, `9b68f84` | Completado |
+| **Shared Context** | TS-QA-02 | Intercepción Global de Excepciones y Formateo RFC 7807 | 3 | `3321948`, `20b0f9f`, `e6398c5` | Completado |
+| **Monetization Context** | TS-QA-05 | Documentación Estricta de Clases de Dominio y Javadoc Completo | 2 | `a2ef9a0`, `0d8d59f`, `cb26e22` | Completado |
 
-### 5.2.4.4. Development Evidence for Sprint Review
-*Capturas de pantalla de los Pull Requests (PRs) aprobados y mergeados en la rama `main` o `develop`, evidenciando el uso de Conventional Commits.*
 
-### 5.2.4.5. Execution Evidence for Sprint Review
-*Screenshots o secuencia del flujo del sistema corriendo en producción (registro, login, funcionalidad principal de la ruta).*
+#### 5.2.4.4. Development Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Author | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------ | ------------------ |
+| Startup-x-upc/Backend-WebApplication | master | 234d414 | docs: update COMMITS.md and fix script encoding for special characters | Se actualizó la documentación: docs: update COMMITS.md and fix script encoding for special characters | Jesús Castillo Vidal | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | fcae21f | merge: merge develop into master | Se integraron los cambios de la rama: merge: merge develop into master | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ff917d1 | docs: document parameterized constructor in wallet | Se actualizó la documentación: docs: document parameterized constructor in wallet | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cb26e22 | docs: document default constructor in wallet | Se actualizó la documentación: docs: document default constructor in wallet | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4ec8165 | docs: add class-level javadoc to wallet aggregate | Se actualizó la documentación: docs: add class-level javadoc to wallet aggregate | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3a2c46e | docs: document calculatecommission method in farepolicy | Se actualizó la documentación: docs: document calculatecommission method in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 55441f8 | docs: document calculate method in farepolicy | Se actualizó la documentación: docs: document calculate method in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f92919a | docs: document configure method in farepolicy | Se actualizó la documentación: docs: document configure method in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b3bc3f8 | docs: document parameterized constructor in farepolicy | Se actualizó la documentación: docs: document parameterized constructor in farepolicy | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0d8d59f | docs: add javadoc comments to farepolicy constructor and methods | Se actualizó la documentación: docs: add javadoc comments to farepolicy constructor and methods | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a2ef9a0 | docs: add javadoc comments to farepolicy aggregate root | Se actualizó la documentación: docs: add javadoc comments to farepolicy aggregate root | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0340f7f | docs: add javadoc comments to monetizationcontextfacadeimpl | Se actualizó la documentación: docs: add javadoc comments to monetizationcontextfacadeimpl | DalilaTorres | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2e6bbf9 | fix:Solving Applications Errors | Se corrigió el error: fix:Solving Applications Errors | TheEngineEdu | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b4adc0b | fix:Solving problem with cancelled ride | Se corrigió el error: fix:Solving problem with cancelled ride | TheEngineEdu | 08/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6a69f59 | feat:Added SecurityConfig | Se implementó la funcionalidad: feat:Added SecurityConfig | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 44597f9 | feat:Added refreshTokenRepository | Se implementó la funcionalidad: feat:Added refreshTokenRepository | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5c2c8c7 | feat:Added refreshToken | Se implementó la funcionalidad: feat:Added refreshToken | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9b68f84 | fix: Find and resolve issues in JwtService | Se corrigió el error: fix: Find and resolve issues in JwtService | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ba0c8b7 | feat:Added JwtAthentication | Se implementó la funcionalidad: feat:Added JwtAthentication | TheEngineEdu | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 20b0f9f | modify and improve handleIllegalArgumentException | Se actualizó el repositorio: modify and improve handleIllegalArgumentException | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3321948 | fix problems in GlobalExceptionHandler | Se actualizó el repositorio: fix problems in GlobalExceptionHandler | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5dbdef0 | add comments for documentation | Se actualizó el repositorio: add comments for documentation | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ab7f574 | fix module in GlobalExceptionHandler | Se actualizó el repositorio: fix module in GlobalExceptionHandler | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 402c665 | add resolveMessageorDefault | Se actualizó el repositorio: add resolveMessageorDefault | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b5e173c | remove and ignore innecesary module | Se actualizó el repositorio: remove and ignore innecesary module | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e6398c5 | add toLocalizedMessageWithFallback in ErrorResponseAssembler | Se actualizó el repositorio: add toLocalizedMessageWithFallback in ErrorResponseAssembler | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7a8032d | remove an innecesary module | Se actualizó el repositorio: remove an innecesary module | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0d796b0 | add new comments | Se actualizó el repositorio: add new comments | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1f2ab13 | remove unnecessary comments | Se actualizó el repositorio: remove unnecessary comments | apillacag | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b16d541 | Merge branch 'master' of https://github.com/Startup-x-upc/Backend-WebApplication | Se integraron los cambios de la rama: Merge branch 'master' of https://github.com/Startup-x-upc/Backend-WebApplication | Jesús Castillo Vidal | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d80596f | feat: audit driver restrictions, add real-time disabled notification, and update OpenAPI server URL | Se implementó la funcionalidad: feat: audit driver restrictions, add real-time disabled notification, and update OpenAPI server URL | Jesús Castillo Vidal | 07/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e649379 | Merge pull request #7 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #7 from Startup-x-upc/develop | Jesus Ivan Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5d2686f | Merge branch 'feature/ride-dispatch' into develop | Se integraron los cambios de la rama: Merge branch 'feature/ride-dispatch' into develop | Jesús Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cd50b6a | feat: broadcast request lifecycle and reputation events via Ably | Se implementó la funcionalidad: feat: broadcast request lifecycle and reputation events via Ably | Jesús Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 71db601 | feat: implement ride dispatch core functionality including ride request creation, candidate application, and selection services | Se implementó la funcionalidad: feat: implement ride dispatch core functionality including ride request creation, candidate application, and selection services | Jesús Castillo Vidal | 06/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 76ff202 | feat: implement JWT authentication filter and REST controllers for ride management and documentation | Se implementó la funcionalidad: feat: implement JWT authentication filter and REST controllers for ride management and documentation | Jesús Castillo Vidal | 05/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 44474f8 | fix: add role guards to MonetizationController and map FORBIDDEN/UNAUTHORIZED to correct HTTP status | Se corrigió el error: fix: add role guards to MonetizationController and map FORBIDDEN/UNAUTHORIZED to correct HTTP status | Jesús Castillo Vidal | 04/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3ccd55f | feat: implement Ride and RideRequest aggregates and integrate Ably for real-time event publishing | Se implementó la funcionalidad: feat: implement Ride and RideRequest aggregates and integrate Ably for real-time event publishing | Jesús Castillo Vidal | 04/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e9f1e72 | feat: implement Ably integration for real-time event broadcasting using domain events | Se implementó la funcionalidad: feat: implement Ably integration for real-time event broadcasting using domain events | Jesús Castillo Vidal | 04/07/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9ab962d | feat: implement trust and reputation module with rating management, query services, and domain event handling | Se implementó la funcionalidad: feat: implement trust and reputation module with rating management, query services, and domain event handling | Jesús Castillo Vidal | 26/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f36c872 | fix: implement MonetizationQueryServiceImpl to handle fare calculations, wallet retrieval, and operational checks | Se corrigió el error: fix: implement MonetizationQueryServiceImpl to handle fare calculations, wallet retrieval, and operational checks | Jesús Castillo Vidal | 26/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 543566a | Merge pull request #6 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #6 from Startup-x-upc/develop | Jesus Ivan Castillo Vidal | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f1f267d | feat: include author information in generated commit tables | Se implementó la funcionalidad: feat: include author information in generated commit tables | Jesús Castillo Vidal | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 486b219 | chore: add automated commit history tracking and generation script | Se realizó una tarea de mantenimiento: chore: add automated commit history tracking and generation script | Jesús Castillo Vidal | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 90efdc4 | hotfix:Change the userQueryService | Se actualizó el repositorio: hotfix:Change the userQueryService | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 972ab56 | feat:Added UserCommandService | Se implementó la funcionalidad: feat:Added UserCommandService | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 344969b | feat:Added IAMContextFacade | Se implementó la funcionalidad: feat:Added IAMContextFacade | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3b30889 | feat:Added domainAggregate | Se implementó la funcionalidad: feat:Added domainAggregate | TheEngineEdu | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4176e1b | feat: add resolvemessagedeafult in globalexceptionhandler | Se implementó la funcionalidad: feat: add resolvemessagedeafult in globalexceptionhandler | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 69160f3 | fix: correct a thing in GlobalExceptionHandler | Se corrigió el error: fix: correct a thing in GlobalExceptionHandler | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 58a32a5 | feat: add validationError. Important | Se implementó la funcionalidad: feat: add validationError. Important | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | eab31f0 | fix: fix fatal error in shared | Se corrigió el error: fix: fix fatal error in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 12edec2 | feat: add unexpected in shared | Se implementó la funcionalidad: feat: add unexpected in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cc7ab56 | fix: eliminate a method in shared | Se corrigió el error: fix: eliminate a method in shared | apillacag | 19/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ffd2c14 | feat: implement conflict error in shared | Se implementó la funcionalidad: feat: implement conflict error in shared | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b52f273 | fix: improve ApplicationError | Se corrigió el error: fix: improve ApplicationError | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9f4458c | feat: add getfullnamebyuserid | Se implementó la funcionalidad: feat: add getfullnamebyuserid | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | eb30618 | fix: erase a litle problem in IAM | Se corrigió el error: fix: erase a litle problem in IAM | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a0c0f82 | feat: add more funtionalities to IAM | Se implementó la funcionalidad: feat: add more funtionalities to IAM | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1433ef1 | fix: correct fatal error in iam | Se corrigió el error: fix: correct fatal error in iam | apillacag | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3ea0e63 | Merge pull request #5 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #5 from Startup-x-upc/develop | tindivo | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f6410eb | feat: add Dockerfile and externalized database configuration properties for backend service | Se implementó la funcionalidad: feat: add Dockerfile and externalized database configuration properties for backend service | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 83507f2 | Merge pull request #4 from Startup-x-upc/develop | Se integraron los cambios de la rama: Merge pull request #4 from Startup-x-upc/develop | Jesus Ivan Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 63bba7d | fix(ridedispatch): fix SelectCandidateCommand parameter order | Se corrigió el error: fix(ridedispatch): fix SelectCandidateCommand parameter order | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c532e77 | test(ridedispatch): add RideCommandServiceImplTest unit tests | Se agregaron/modificaron pruebas: test(ridedispatch): add RideCommandServiceImplTest unit tests | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d23c672 | feat(ridedispatch): add DriverAvailabilityChangedEventListener to synchronize driver availability status | Se implementó la funcionalidad: feat(ridedispatch): add DriverAvailabilityChangedEventListener to synchronize driver availability status | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4095156 | feat(ridedispatch): implement REST controller, resource DTOs, and resource assembler | Se implementó la funcionalidad: feat(ridedispatch): implement REST controller, resource DTOs, and resource assembler | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c1f7f70 | feat(iam): expose getPhotoUrlByUserId via facade | Se implementó la funcionalidad: feat(iam): expose getPhotoUrlByUserId via facade | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a11bbd3 | feat(ridedispatch): add domain aggregates, command/query services, and integration listeners | Se implementó la funcionalidad: feat(ridedispatch): add domain aggregates, command/query services, and integration listeners | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e415954 | feat(drivermanagement): expose getDriverIdByUserId via facade | Se implementó la funcionalidad: feat(drivermanagement): expose getDriverIdByUserId via facade | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1864890 | feat(ridedispatch): implement repository adapters | Se implementó la funcionalidad: feat(ridedispatch): implement repository adapters | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e517441 | feat(ridedispatch): add Spring Data JPA repositories | Se implementó la funcionalidad: feat(ridedispatch): add Spring Data JPA repositories | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 8fb1e20 | feat(ridedispatch): implement JPA entities and persistence assemblers | Se implementó la funcionalidad: feat(ridedispatch): implement JPA entities and persistence assemblers | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 20b0762 | refactor(drivermanagement): remove currentLocation and simplify availability toggle response | Se refactorizó el código: refactor(drivermanagement): remove currentLocation and simplify availability toggle response | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3ad5339 | feat(shared): map new drivermanagement error codes to corresponding HTTP statuses | Se implementó la funcionalidad: feat(shared): map new drivermanagement error codes to corresponding HTTP statuses | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2b9b330 | feat(drivermanagement): implement drivermanagement bounded context and availability checks | Se implementó la funcionalidad: feat(drivermanagement): implement drivermanagement bounded context and availability checks | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f70fc19 | refactor(monetization): cleanup block/unblock endpoints, move event generation to domain | Se refactorizó el código: refactor(monetization): cleanup block/unblock endpoints, move event generation to domain | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | dc4e5de | fix(monetization): query wallet by walletId instead of driverId in transaction history query | Se corrigió el error: fix(monetization): query wallet by walletId instead of driverId in transaction history query | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 54dcd3c | refactor(iam): prefix auth and profile REST endpoints with /api/v1 and update security path matchers | Se refactorizó el código: refactor(iam): prefix auth and profile REST endpoints with /api/v1 and update security path matchers | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2229d89 | fix(monetization): retrieve existing entity ID before saving to prevent duplicate key constraint on update | Se corrigió el error: fix(monetization): retrieve existing entity ID before saving to prevent duplicate key constraint on update | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d9f4c4a | refactor(monetization): make persistence assemblers null-safe for legacy database records | Se refactorizó el código: refactor(monetization): make persistence assemblers null-safe for legacy database records | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9541998 | refactor(monetization): split application services into interfaces and internal implementations | Se refactorizó el código: refactor(monetization): split application services into interfaces and internal implementations | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7461ff0 | refactor(monetization): move JPA repository implementations to adapters package | Se refactorizó el código: refactor(monetization): move JPA repository implementations to adapters package | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f06cf56 | refactor(monetization): rename and move REST response assemblers to transform package | Se refactorizó el código: refactor(monetization): rename and move REST response assemblers to transform package | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 42ad1e6 | feat(monetization): update controller endpoints to align with frontend resource models and estimated fare check | Se implementó la funcionalidad: feat(monetization): update controller endpoints to align with frontend resource models and estimated fare check | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6590eed | feat(monetization): implement ACL integration for driver registration | Se implementó la funcionalidad: feat(monetization): implement ACL integration for driver registration | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f00b0a7 | feat: implement monetization domain services, entities, and persistence layer for fare policies and wallet transactions | Se implementó la funcionalidad: feat: implement monetization domain services, entities, and persistence layer for fare policies and wallet transactions | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c8ef2c6 | refactor: Updating monetization's name | Se refactorizó el código: refactor: Updating monetization's name | Jesús Castillo Vidal | 18/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 86b178a | fix(iam): migrate UUID columns to VARCHAR(36), fix UPDATE vs INSERT, and polish Swagger docs   Persistence:   - Change all UUID columns to VARCHAR(36) across IAM and Monetization     entities to prevent BINARY(16) padding issues in MySQL   - Update JPA repositories, assemblers, and adapters with String conversion   - Fix save() in UserRepositoryImpl and ProfileRepositoryImpl to preserve     the internal Long id from existing entities so JPA issues UPDATE     instead of INSERT on subsequent saves   - Publish domain events explicitly via ApplicationEventPublisher in     UserRepositoryImpl and WalletRepositoryImpl | Se corrigió el error: fix(iam): migrate UUID columns to VARCHAR(36), fix UPDATE vs INSERT, and polish Swagger docs   Persistence:   - Change all UUID columns to VARCHAR(36) across IAM and Monetization     entities to prevent BINARY(16) padding issues in MySQL   - Update JPA repositories, assemblers, and adapters with String conversion   - Fix save() in UserRepositoryImpl and ProfileRepositoryImpl to preserve     the internal Long id from existing entities so JPA issues UPDATE     instead of INSERT on subsequent saves   - Publish domain events explicitly via ApplicationEventPublisher in     UserRepositoryImpl and WalletRepositoryImpl | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e996159 | fix(iam): resolving inconsistency with UUID from JPA to MYSQL | Se corrigió el error: fix(iam): resolving inconsistency with UUID from JPA to MYSQL | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 32b46ab | fix(iam): add Swagger JWT auth scheme and remove redundant check-email endpoint | Se corrigió el error: fix(iam): add Swagger JWT auth scheme and remove redundant check-email endpoint | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 67a930e | feat(iam): implement Anti-Corruption Layer facade for IAM bounded context access | Se implementó la funcionalidad: feat(iam): implement Anti-Corruption Layer facade for IAM bounded context access | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e705806 | feat: implement JPA repository adapters for Wallet and User aggregates with explicit domain event publishing | Se implementó la funcionalidad: feat: implement JPA repository adapters for Wallet and User aggregates with explicit domain event publishing | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cdc1326 | feat(iam): The user wants me to suggest a good commit message for all the work done so far. Let me summarize what was accomplished: 1. Deleted all existing IAM code   - ProfilesController: GET /users/me/profile, PUT /profiles/{profileId}   - Immutable record resources with Jakarta Validation + OpenAPI @Schema | Se implementó la funcionalidad: feat(iam): The user wants me to suggest a good commit message for all the work done so far. Let me summarize what was accomplished: 1. Deleted all existing IAM code   - ProfilesController: GET /users/me/profile, PUT /profiles/{profileId}   - Immutable record resources with Jakarta Validation + OpenAPI @Schema | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f07327c | feat: implement Identity and Access Management (IAM) bounded context with domain models, repositories, and persistence infrastructure. | Se implementó la funcionalidad: feat: implement Identity and Access Management (IAM) bounded context with domain models, repositories, and persistence infrastructure. | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a15065a | docs: add architecture analysis guide and update project dependencies in pom.xml | Se actualizó la documentación: docs: add architecture analysis guide and update project dependencies in pom.xml | Jesús Castillo Vidal | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9d31a68 | feat: update monetization bounded context with commissionRate and API spec alignment | Se implementó la funcionalidad: feat: update monetization bounded context with commissionRate and API spec alignment | S-aiquipa | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0eb7fc2 | refactor(monetization): map walletId field in WalletPersistenceAssembler | Se refactorizó el código: refactor(monetization): map walletId field in WalletPersistenceAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 04ef111 | feat(monetization): add walletId field to WalletPersistenceEntity with unique constraint | Se implementó la funcionalidad: feat(monetization): add walletId field to WalletPersistenceEntity with unique constraint | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a3aeec2 | refactor(monetization): remove unused driverId field from ApplyCommissionResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from ApplyCommissionResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1a00eeb | refactor(monetization): remove unused driverId field from TopUpFailureResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from TopUpFailureResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 25243dc | refactor(monetization): remove unused driverId field from TopUpWalletResource | Se refactorizó el código: refactor(monetization): remove unused driverId field from TopUpWalletResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1d9809e | feat(monetization): add findByWalletId method to WalletRepositoryImpl | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletRepositoryImpl | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 24537bf | feat(monetization): add findByWalletId method to WalletJpaRepository | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletJpaRepository | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4381afe | feat(monetization): add findByWalletId method to WalletRepository | Se implementó la funcionalidad: feat(monetization): add findByWalletId method to WalletRepository | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9061233 | refactor(monetization): improve wallet balance calculations, enforce rounding policies, and add @Transactional to wallet operations | Se refactorizó el código: refactor(monetization): improve wallet balance calculations, enforce rounding policies, and add @Transactional to wallet operations | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 74cd0a7 | refactor(monetization): rename driverId to walletId in ApplyRideCommissionCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in ApplyRideCommissionCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 96a1c02 | refactor(monetization): rename driverId to walletId in RegisterTopUpFailureCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in RegisterTopUpFailureCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 8219beb | refactor(monetization): rename driverId to walletId in TopUpWalletCommand | Se refactorizó el código: refactor(monetization): rename driverId to walletId in TopUpWalletCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d4deddf | refactor(monetization): update API endpoints for Fare Config and Wallet management | Se refactorizó el código: refactor(monetization): update API endpoints for Fare Config and Wallet management | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 40cf696 | feat(monetization): pass commissionRate to ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat(monetization): pass commissionRate to ConfigureFarePolicyCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | b28c52e | feat(monetization): update FarePolicy configuration to handle commissionRate | Se implementó la funcionalidad: feat(monetization): update FarePolicy configuration to handle commissionRate | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2077cd6 | feat(monetization): add commissionRate field to ConfigureFarePolicyResource | Se implementó la funcionalidad: feat(monetization): add commissionRate field to ConfigureFarePolicyResource | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 89b9eb2 | feat(monetization): add commissionRate field to ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat(monetization): add commissionRate field to ConfigureFarePolicyCommand | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | bb503cd | feat(monetization): map commissionRate in FarePolicyResponseAssembler | Se implementó la funcionalidad: feat(monetization): map commissionRate in FarePolicyResponseAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 300542d | feat(monetization): add commissionRate field to FarePolicyResponse | Se implementó la funcionalidad: feat(monetization): add commissionRate field to FarePolicyResponse | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 31bdc0a | feat(monetization): map commissionRate in FarePolicyPersistenceAssembler | Se implementó la funcionalidad: feat(monetization): map commissionRate in FarePolicyPersistenceAssembler | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7df410a | feat(monetization): add commissionRate field to FarePolicyPersistenceEntity with setter method | Se implementó la funcionalidad: feat(monetization): add commissionRate field to FarePolicyPersistenceEntity with setter method | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d917131 | feat(monetization): add commission rate to FarePolicy and calculateCommission method | Se implementó la funcionalidad: feat(monetization): add commission rate to FarePolicy and calculateCommission method | sebastian | 16/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f4c621b | Merge pull request #2 from Startup-x-upc/feat/monetization | Se integraron los cambios de la rama: Merge pull request #2 from Startup-x-upc/feat/monetization | S-aiquipa | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 04552e0 | feat(monetization): add package declaration to Wallet aggregate | Se implementó la funcionalidad: feat(monetization): add package declaration to Wallet aggregate | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ca97f2e | feat(monetization): extend WalletTransactionPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend WalletTransactionPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 25f2d1d | feat(monetization): extend WalletPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend WalletPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ef222f4 | feat(monetization): extend FarePolicyPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | Se implementó la funcionalidad: feat(monetization): extend FarePolicyPersistenceEntity from AuditableAbstractPersistenceEntity and add Lombok @Getter | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9320667 | Merge remote-tracking branch 'origin/develop' into feat/monetization | Se integraron los cambios de la rama: Merge remote-tracking branch 'origin/develop' into feat/monetization | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ae41218 | feat(monetization): extend FarePolicy from AbstractDomainAggregateRoot | Se implementó la funcionalidad: feat(monetization): extend FarePolicy from AbstractDomainAggregateRoot | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | cd9b58b | feat(monetization): add MonetizationController to expose REST endpoints for fare policy and wallet operations | Se implementó la funcionalidad: feat(monetization): add MonetizationController to expose REST endpoints for fare policy and wallet operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 703771a | feat(monetization): add WalletTransactionResponseAssembler for assembling wallet transaction responses | Se implementó la funcionalidad: feat(monetization): add WalletTransactionResponseAssembler for assembling wallet transaction responses | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 9a96443 | feat(monetization): add WalletResponseAssembler for assembling wallet response data | Se implementó la funcionalidad: feat(monetization): add WalletResponseAssembler for assembling wallet response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4452a63 | feat(monetization): add FarePolicyResponseAssembler for assembling fare policy and quote responses | Se implementó la funcionalidad: feat(monetization): add FarePolicyResponseAssembler for assembling fare policy and quote responses | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c5cdc73 | feat(monetization): add CanOperateResponse for representing driver's operation eligibility | Se implementó la funcionalidad: feat(monetization): add CanOperateResponse for representing driver's operation eligibility | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4dd603b | feat(monetization): add WalletTransactionResponse for representing wallet transaction data | Se implementó la funcionalidad: feat(monetization): add WalletTransactionResponse for representing wallet transaction data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ee4553a | feat(monetization): add WalletResponse for representing wallet response data | Se implementó la funcionalidad: feat(monetization): add WalletResponse for representing wallet response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 27e0262 | feat(monetization): add FareQuoteResponse for representing fare quote response data | Se implementó la funcionalidad: feat(monetization): add FareQuoteResponse for representing fare quote response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f7061a1 | feat(monetization): add FarePolicyResponse for representing fare policy response data | Se implementó la funcionalidad: feat(monetization): add FarePolicyResponse for representing fare policy response data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | affa3c5 | feat(monetization): add ApplyCommissionResource for handling commission application data | Se implementó la funcionalidad: feat(monetization): add ApplyCommissionResource for handling commission application data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2c3d7a1 | feat(monetization): add TopUpFailureResource for handling top-up failure data | Se implementó la funcionalidad: feat(monetization): add TopUpFailureResource for handling top-up failure data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1605fbe | feat(monetization): add TopUpWalletResource for wallet top-up data | Se implementó la funcionalidad: feat(monetization): add TopUpWalletResource for wallet top-up data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 107a452 | feat(monetization): add EstimatedFareResource for fare estimation data | Se implementó la funcionalidad: feat(monetization): add EstimatedFareResource for fare estimation data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 31f5e7c | feat(monetization): add ConfigureFarePolicyResource for fare policy configuration data | Se implementó la funcionalidad: feat(monetization): add ConfigureFarePolicyResource for fare policy configuration data | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 0786159 | feat(monetization): implement WalletTransactionRepositoryImpl for transaction persistence operations | Se implementó la funcionalidad: feat(monetization): implement WalletTransactionRepositoryImpl for transaction persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 13a1c7d | feat(monetization): implement WalletRepositoryImpl for wallet persistence operations | Se implementó la funcionalidad: feat(monetization): implement WalletRepositoryImpl for wallet persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6db8293 | feat(monetization): implement FarePolicyRepositoryImpl for fare policy persistence operations | Se implementó la funcionalidad: feat(monetization): implement FarePolicyRepositoryImpl for fare policy persistence operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 706be45 | feat(monetization): implement MonetizationQueryServiceImpl for handling monetization queries | Se implementó la funcionalidad: feat(monetization): implement MonetizationQueryServiceImpl for handling monetization queries | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 19c9789 | feat(monetization): implement MonetizationCommandServiceImpl for handling monetization commands | Se implementó la funcionalidad: feat(monetization): implement MonetizationCommandServiceImpl for handling monetization commands | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d5ee94c | feat(monetization): add WalletTransactionPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add WalletTransactionPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 48098f8 | feat(monetization): add WalletPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add WalletPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7849be8 | feat(monetization): add FarePolicyPersistenceAssembler for entity-domain mapping | Se implementó la funcionalidad: feat(monetization): add FarePolicyPersistenceAssembler for entity-domain mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3730c96 | feat(monetization): add WalletTransactionJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add WalletTransactionJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 367272c | feat(monetization): add WalletJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add WalletJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5e92027 | feat(monetization): add FarePolicyJpaRepository for JPA operations | Se implementó la funcionalidad: feat(monetization): add FarePolicyJpaRepository for JPA operations | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e83595c | feat(monetization): add WalletTransactionPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add WalletTransactionPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1427c6e | feat(monetization): add WalletPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add WalletPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6f81346 | feat(monetization): add FarePolicyPersistenceEntity for JPA mapping | Se implementó la funcionalidad: feat(monetization): add FarePolicyPersistenceEntity for JPA mapping | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4881220 | feat(monetization): add TransactionTypeConverter for TransactionType persistence | Se implementó la funcionalidad: feat(monetization): add TransactionTypeConverter for TransactionType persistence | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 73f4bd3 | feat: add WalletStatusConverter to handle WalletStatus persistence | Se implementó la funcionalidad: feat: add WalletStatusConverter to handle WalletStatus persistence | sebastian | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a730644 | feat: add Wallet and FarePolicy domain aggregate models for monetization module | Se implementó la funcionalidad: feat: add Wallet and FarePolicy domain aggregate models for monetization module | Jesús Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | bee66f3 | docs: add backend architectural analysis and DDD pattern documentation | Se actualizó la documentación: docs: add backend architectural analysis and DDD pattern documentation | Jesús Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 7250227 | Merge branch 'develop' into feat/monetization | Se integraron los cambios de la rama: Merge branch 'develop' into feat/monetization | Jesús Castillo Vidal | 13/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 38000ac | Merge pull request #1 from Startup-x-upc/feature/shared | Se integraron los cambios de la rama: Merge pull request #1 from Startup-x-upc/feature/shared | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 732c074 | feat: add iam to the project | Se implementó la funcionalidad: feat: add iam to the project | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 816c3b4 | feat: add shared to the project | Se implementó la funcionalidad: feat: add shared to the project | apillacag | 10/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 4e64d3f | docs:Instructions to create the project | Se actualizó la documentación: docs:Instructions to create the project | TheEngineEdu | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f6c4a77 | feat: add WalletTransactionRepository interface | Se implementó la funcionalidad: feat: add WalletTransactionRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 2d06301 | feat: add WalletRepository interface | Se implementó la funcionalidad: feat: add WalletRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f3b1526 | feat: add FarePolicyRepository interface | Se implementó la funcionalidad: feat: add FarePolicyRepository interface | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 36ed239 | feat: add WalletTransaction entity | Se implementó la funcionalidad: feat: add WalletTransaction entity | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 93bdfae | feat: add Wallet aggregate | Se implementó la funcionalidad: feat: add Wallet aggregate | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | ab33b45 | feat: add FarePolicy aggregate | Se implementó la funcionalidad: feat: add FarePolicy aggregate | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e0a6e60 | feat: add CanDriverOperateQuery | Se implementó la funcionalidad: feat: add CanDriverOperateQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | e7531a3 | feat: add GetWalletTransactionHistoryQuery | Se implementó la funcionalidad: feat: add GetWalletTransactionHistoryQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | f63a38f | feat: add GetWalletByDriverIdQuery | Se implementó la funcionalidad: feat: add GetWalletByDriverIdQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | c733fcf | feat: add GetEstimatedFareQuery | Se implementó la funcionalidad: feat: add GetEstimatedFareQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a00dac6 | feat: add GetCurrentFarePolicyQuery | Se implementó la funcionalidad: feat: add GetCurrentFarePolicyQuery | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a627f5d | feat: add UnblockDriverWalletCommand | Se implementó la funcionalidad: feat: add UnblockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | a627f5d | feat: add UnblockDriverWalletCommand | Se implementó la funcionalidad: feat: add UnblockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d71620c | feat: add BlockDriverWalletCommand | Se implementó la funcionalidad: feat: add BlockDriverWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d55d5e3 | feat: add ApplyRideCommissionCommand | Se implementó la funcionalidad: feat: add ApplyRideCommissionCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 06e1ebd | feat: add RegisterTopUpFailureCommand | Se implementó la funcionalidad: feat: add RegisterTopUpFailureCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 5dc11b3 | feat: add TopUpWalletCommand | Se implementó la funcionalidad: feat: add TopUpWalletCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 21072f1 | feat: add ConfigureFarePolicyCommand | Se implementó la funcionalidad: feat: add ConfigureFarePolicyCommand | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | d08f882 | feat: add TransactionType value object | Se implementó la funcionalidad: feat: add TransactionType value object | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 3fef3a3 | feat: add WalletStatus value object | Se implementó la funcionalidad: feat: add WalletStatus value object | sebastian | 09/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 6abd5ce | fix:added dependencies | Se corrigió el error: fix:added dependencies | Eduardo | 08/06/2026 |
+| Startup-x-upc/Backend-WebApplication | master | 1f42603 | feature:Template for the backend | Se actualizó el repositorio: feature:Template for the backend | Eduardo | 08/06/2026 |
 
-### 5.2.4.6. Services Documentation Evidence for Sprint Review
-*Capturas del contrato de servicios de la API (Swagger UI / Postman Documenter) completamente funcional en el entorno de despliegue.*
+#### 5.2.4.5. Execution Evidence for Sprint Review
 
-### 5.2.4.7. Software Deployment Evidence for Sprint Review
-*Pruebas visuales del panel de control del hosting (Vercel, Render, AWS u Oracle Cloud) que demuestren que los despliegues automáticos (CI/CD) están activos y en "Healthy/Success".*
+<img src="./Resources/sprint_3/execute2.jpeg">
+<img src="./Resources/sprint_3/execute.jpeg">
 
-### 5.2.4.8. Team Collaboration Insights during Sprint
-Métricas finales que resumen la dinámica, commits, participación y distribución de carga de trabajo del equipo a lo largo del Sprint 4.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Durante este sprint se completó en su totalidad las historias de usuarios establecidos para la aplicación .
+
+**Descripción del Logro:**
+
+- Completar en su totalidad el frontend y backend page.
+
+**Recursos del Sprint:**
+
+| Recurso      | Acción implementada   | Método HTTP | URL / Endpoint                                                                                                            | Link de repositorio                                                                          |
+| ------------ | --------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Backend Page | Visualización inicial | GET         | [https://backend-webapplication-production.up.railway.app/swagger-ui/index.html](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html) | [https://github.com/Startup-x-upc/Backend-WebApplication.git](https://github.com/Startup-x-upc/Backend-WebApplication.git) |
+| Frontend Page | Visualización inicial | GET         | [https://chapaturuta-e7d2e.web.app/login](https://chapaturuta-e7d2e.web.app/login) | [https://github.com/Startup-x-upc/FrontEnd-WebApplication.git](https://github.com/Startup-x-upc/FrontEnd-WebApplication.git) |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<img src="./Resources/sprint_3/inicio.jpeg">
+<img src="./Resources/sprint_3/binicio.jpeg">
+<img src="./Resources/sprint_3/cfinal.jpeg">
+<img src="./Resources/sprint_3/bfinal.jpeg">
+<img src="./Resources/sprint_3/final.jpeg">
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<img src="./Resources/sprint_4/team.jpeg">
 
 ## 5.3. Validation Interviews
 
