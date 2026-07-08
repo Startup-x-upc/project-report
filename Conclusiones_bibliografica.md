@@ -55,7 +55,7 @@ Durante los entregables finales (AV2), nos enfocamos en el desarrollo técnico, 
 
 ### Enlaces del Video
 
-- **Video en YouTube:** [Enlace al Video en YouTube](https://www.youtube.com/) _(Colocar aquí la URL del video subido a YouTube)_
+- **Video en YouTube:** [https://youtu.be/HDYLQ8mfSgA](https://youtu.be/HDYLQ8mfSgA)
 - **Video en Microsoft Stream:** [Enlace al Video en Microsoft Stream](https://stream.microsoft.com/) _(Colocar aquí la URL del video subido a Microsoft Stream)_
 
 ### Código de Inserción para el Landing Page
@@ -109,9 +109,9 @@ Para integrar el video en la sección "Nosotros" o "About Us" del Landing Page d
 
 En esta sección se presentan los enlaces a los recursos de diseño, presentaciones de equipo y entornos desplegados para el proyecto "Chapa Tu Ruta":
 
-- **Diseño del Prototipo en Figma:** [Figma Link](https://www.figma.com/design/XB9QCFVfSKHug7qbvAIjFw/Open-Source?node-id=151-2853&t=ji2FxuuNBFc7GAFY-1)
-- **Presentación "About the Team":** [About the Team](https://youtu.be/akpD8VS5-1w)
-- **Presentación "About the product":** [About the product](https://www.youtube.com/watch?v=VIuDAmngaiI)
-- **Presentación de la Exposición:** [Exposición](https://canva.link/8784xk57e4h00eh)
-- **Despliegue de la Aplicación Frontend:** [Web App Link - Frontend](https://chapaturuta-e7d2e--pr4-develop-qoacrgnd.web.app/login)
-- **Despliegue de la API Backend (Swagger UI):** [Swagger API Link - Backend](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html)
+- **Diseño del Prototipo en Figma:** [https://www.figma.com/design/XB9QCFVfSKHug7qbvAIjFw/Open-Source?node-id=151-2853&t=ji2FxuuNBFc7GAFY-1](https://www.figma.com/design/XB9QCFVfSKHug7qbvAIjFw/Open-Source?node-id=151-2853&t=ji2FxuuNBFc7GAFY-1)
+- **Presentación "About the Team":** [https://youtu.be/HDYLQ8mfSgA](https://youtu.be/HDYLQ8mfSgA)
+- **Presentación "About the product":** [https://www.youtube.com/watch?v=VIuDAmngaiI](https://www.youtube.com/watch?v=VIuDAmngaiI)
+- **Presentación de la Exposición:** [https://canva.link/8784xk57e4h00eh](https://canva.link/8784xk57e4h00eh)
+- **Despliegue de la Aplicación Frontend:** [https://chapaturuta-e7d2e.web.app/login](https://chapaturuta-e7d2e.web.app/login)
+- **Despliegue de la API Backend (Swagger UI):** [https://backend-webapplication-production.up.railway.app/swagger-ui/index.html](https://backend-webapplication-production.up.railway.app/swagger-ui/index.html)
