@@ -2557,14 +2557,148 @@ En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) corre
 </table>
 
 #### 5.2.4.3. Sprint Backlog 4
+<img src="./Resources/sprint_4/sprint_back.png">
 
-| Epic / Bounded Context | User Story ID | User Story Title | Est. (Story Points) | Commit ID Involucrados | Status |
-| :--- | :--- | :--- | :---: | :--- | :--- |
-| **Ride Dispatch Context** | HU-TRN-01 | Solicitud y Asignación de Viajes en Tiempo Real | 8 | `3ccd55f`, `71db601`, `63bba7d` | Completado |
-| **Ride Dispatch Context** | TS-OPS-03 | Difusión de Eventos de Dominio vía Ably WebSockets | 5 | `e9f1e72`, `cd50b6a` | Completado |
-| **IAM & Security Context** | TS-SEC-04 | Configuración de Filtros de Seguridad y Refresh Tokens con JWT | 5 | `6a69f59`, `ba0c8b7`, `44597f9`, `9b68f84` | Completado |
-| **Shared Context** | TS-QA-02 | Intercepción Global de Excepciones y Formateo RFC 7807 | 3 | `3321948`, `20b0f9f`, `e6398c5` | Completado |
-| **Monetization Context** | TS-QA-05 | Documentación Estricta de Clases de Dominio y Javadoc Completo | 2 | `a2ef9a0`, `0d8d59f`, `cb26e22` | Completado |
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+<tr>
+      <td rowspan="4">US-16</td>
+      <td rowspan="4">Postulación de conductor y selección (inDrive flow)</td>
+      <td>TASK-US16-01</td>
+      <td>Colección rideCandidates json</td>
+      <td>Implementar colección `rideCandidates` en `db.json`.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US16-02</td>
+      <td>Lista de candidatos UI</td>
+      <td>Diseñar pantalla de selección de candidatos en la UI del pasajero (`app-ride-candidates-list`).</td>
+      <td>0.8</td>
+      <td>Aguirre Ramos, Eduardo Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US16-03</td>
+      <td>Acción de postulación UI</td>
+      <td>Crear acción de postulación para el conductor en el dashboard.</td>
+      <td>0.6</td>
+      <td>Pillaca Gonzales, Andy Saúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US16-04</td>
+      <td>Flujo transaccional selección</td>
+      <td>Implementar flujo transaccional de selección: confirmación de solicitud + aceptación de candidato + rechazo de competidores + creación de viaje.</td>
+      <td>0.9</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+
+
+
+  <tr>
+      <td rowspan="3">US-17</td>
+      <td rowspan="3">Progresión y finalización del viaje</td>
+      <td>TASK-US17-01</td>
+      <td>Navegación a Google Maps</td>
+      <td>Implementar botones de navegación a Google Maps para el conductor.</td>
+      <td>0.6</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US17-02</td>
+      <td>Control de estados de viaje</td>
+      <td>Controlar los estados intermedios del viaje: `DRIVER_ON_THE_WAY`, `DRIVER_ARRIVED`, `STARTED`, `COMPLETED`.</td>
+      <td>0.7</td>
+      <td>Aiquipa Poma, Sebastian Andres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TASK-US17-03</td>
+      <td>Liberación del conductor</td>
+      <td>Asegurar la liberación del conductor (`isBusy = false`) tras la finalización.</td>
+      <td>0.4</td>
+      <td>Castillo Vidal, Jesus Ivan</td>
+      <td>Done</td>
+    </tr>
+
+
+<tr>
+  <td rowspan="6">US-18</td>
+  <td rowspan="6">Cancelación de viaje (pasajero/conductor)</td>
+  <td>TASK-US18-01</td>
+  <td>Crear acción cancelRide</td>
+  <td>Crear acción `cancelRide(rideId, cancelledBy)` en `RideDispatchStore`.</td>
+  <td>0.6</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-02</td>
+  <td>Configurar petición PATCH /rides/{id}</td>
+  <td>Configurar petición `PATCH /rides/{id}` para actualizar el estado del viaje.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-03</td>
+  <td>Agregar botón Cancelar en Pasajero</td>
+  <td>Agregar botón "Cancelar viaje" en la UI del pasajero al tener conductor asignado.</td>
+  <td>0.4</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-04</td>
+  <td>Agregar botón Cancelar en Conductor</td>
+  <td>Agregar botón "Cancelar viaje" en el dashboard del conductor durante la etapa de asignación.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-05</td>
+  <td>Implementar diálogo de confirmación</td>
+  <td>Implementar diálogo de confirmación emergente.</td>
+  <td>0.5</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TASK-US18-06</td>
+  <td>Actualizar las vistas reactivamente</td>
+  <td>Actualizar las vistas correspondientes reactivamente al cancelar.</td>
+  <td>0.4</td>
+  <td>Castillo Vidal, Jesus Ivan</td>
+  <td>Done</td>
+</tr>
+    </tbody>
+</table>
 
 
 #### 5.2.4.4. Development Evidence for Sprint Review
