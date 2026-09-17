@@ -452,6 +452,51 @@ Para usuarios que acceden desde computadora de escritorio, la navegación migra 
 
 ### 4.6.2 Software Architecture Context Diagram
 
+El diagrama de contexto de la arquitectura de software representa la interacción entre la plataforma web de alquiler de bicicletas y los actores o servicios externos que participan en su funcionamiento.
+
+El sistema central corresponde a la **Plataforma Web de Alquiler de Bicicletas**, la cual permite a los usuarios registrarse, consultar bicicletas disponibles, seleccionar zonas de recogida y devolución, iniciar y finalizar viajes y consultar su historial.
+
+Los principales elementos externos que interactúan con la plataforma son:
+
+- **Usuario:** utiliza la plataforma para registrarse, consultar bicicletas disponibles, realizar viajes y revisar el historial de sus recorridos.
+- **Usuario Premium:** además de las funcionalidades habituales, cuenta con una suscripción Premium que le permite utilizar el servicio sin pagar la tarifa correspondiente al kilometraje durante la vigencia de su suscripción.
+- **Administrador:** gestiona los usuarios, bicicletas, zonas habilitadas y suscripciones dentro de la plataforma.
+- **Servicio de Geolocalización:** proporciona información de ubicación y permite determinar la distancia recorrida durante un viaje.
+- **Pasarela de Pagos:** procesa los pagos correspondientes al servicio y las suscripciones Premium.
+
+### Diagrama de Contexto
+
+```plantuml
+@startuml
+title Software Architecture Context Diagram - Servicio de Bicicletas
+
+left to right direction
+
+actor "Usuario" as Usuario
+actor "Usuario Premium" as Premium
+actor "Administrador" as Admin
+
+rectangle "Plataforma Web de\nAlquiler de Bicicletas" as Sistema
+
+rectangle "Servicio de\nGeolocalización" as Geo
+rectangle "Pasarela de Pagos" as Pago
+
+Usuario --> Sistema : Registro, consultas,\nalquiler y viajes
+
+Premium --> Sistema : Gestión de viajes\ny beneficios Premium
+
+Admin --> Sistema : Gestión de usuarios,\nbicicletas, zonas y suscripciones
+
+Sistema --> Geo : Solicitar ubicación\ny registrar distancia
+
+Geo --> Sistema : Ubicación y distancia\nrecorrida
+
+Sistema --> Pago : Solicitar procesamiento\nde pagos
+
+Pago --> Sistema : Resultado de la operación
+
+@enduml
+
 <img src="./Resources/domain-drivenSoftware/ContextDiagram.png">
 
 ### 4.6.3 Software Architecture Container Diagrams
